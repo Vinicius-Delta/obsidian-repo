@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "576aea21e57bc844",
+        "id": "7d5eefcc54f70a01",
         "type": "leaf",
         "active": true,
         "state": {
@@ -115,15 +115,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "TCC/meta/Untitled.md",
-    "TCC/referências/Saini (2017) – Inferior.md",
-    "TCC/referências/Csikszentmihalyi (2008) – Flow.md",
-    "templates/Template - Referência.md",
-    "templates/Template - Conceito.md",
-    "templates/Entrega.md",
-    "templates/Referência.md",
-    "templates/Conceito.md",
-    "templates/Entregas.md",
-    "templates/Untitled.md"
+    "META/Hashtags.md",
+    "TCC/scratch/2020-05-24.md",
+    "TCC/scratch/2020-05-25.md",
+    "TCC/entregas/Project C/Project C.md",
+    "TCC/entregas/Project C/Another concept.md",
+    "TCC/entregas/Project C/Main concept.md",
+    "TCC/entregas/Project A.md",
+    "TCC/entregas/Project B.md",
+    "TCC/metaprojeto/TIL.md",
+    "TCC/metaprojeto/Conquistas.md"
   ]
 }

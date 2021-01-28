@@ -1,6 +1,8 @@
 # Título ABNT curto
 ABNT Completo
 
+Mídia:
+
 ---
 
 ## Conceitos relacionados: 

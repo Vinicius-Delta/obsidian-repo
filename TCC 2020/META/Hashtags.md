@@ -1,3 +1,14 @@
 # Lista das hashtags a serem utilizadas
+
+## Status
+#to-do
 #idea 
-#todo
+#precisa-desenvolver-mais
+#precisa-revisar
+#evergreen
+
+## Mídia
+#podcast
+#livro
+#artigo
+#site
