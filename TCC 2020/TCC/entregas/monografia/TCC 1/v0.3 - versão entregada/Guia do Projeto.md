@@ -56,6 +56,8 @@
     
     Trocar tempo verbal para a o pretérito
     
+	
+	
     [Referência: Justificativa](https://www.notion.so/Refer-ncia-Justificativa-9b69b890e6d34213802025492602104b)
     
     [Justificativa Rescunho](https://www.notion.so/Justificativa-Rescunho-7ee95edc646b408b8fd3520d53054ec7)
