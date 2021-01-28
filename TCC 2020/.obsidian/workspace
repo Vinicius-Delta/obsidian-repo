@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/orientações/Orientação 2020.03.20.md",
+            "file": "daily/2021-01-28.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#promissor",
+                "query": "tag:#to-do",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/orientações/Orientação 2020.03.20.md",
+                "file": "daily/2021-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/orientações/Orientação 2020.03.20.md"
+                "file": "daily/2021-01-28.md"
               }
             }
           }
@@ -116,15 +116,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "daily/2021-01-28.md",
+    "TCC/intenções/Untitled.md",
+    "TCC/metaprojeto/Estratégia.md",
     "TCC/orientações/Orientação 2020.03.20.md",
     "meta obisidian/Hashtags.md",
     "TCC/orientações/Untitled.md",
     "TCC/entregas/monografia/TCC 1/v0.3 - versão entregada/Untitled.md",
     "TCC/entregas/TCC 1/v0.3 - versão entregada/Untitled.md",
-    "daily/2021-01-28.md",
     "TCC/entregas/TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
-    "TCC/entregas/TCC 1/v0.2 - Escrita preliminar/# PARTE 2 Desenvolvimento - Nível Conceitual.md",
-    "TCC/entregas/TCC 1/v0.2 - Escrita preliminar/Untitled.md",
-    "TCC/entregas/TCC 1/v0.1 - definição do tema/Untitled.md"
+    "TCC/entregas/TCC 1/v0.2 - Escrita preliminar/# PARTE 2 Desenvolvimento - Nível Conceitual.md"
   ]
 }

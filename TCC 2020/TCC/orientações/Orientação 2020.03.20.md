@@ -1,3 +1,5 @@
+> Status: #precisa-linkar #deadline #prioridade 
+
 ## Questões geais
 
 **Meta 60 páginas**
@@ -53,71 +55,51 @@ Refazer
 * Hashtag parem de nos matar
 * Realizar levantamento estatístico da violência policia
 
----
+**Analise do google**
 
-Metodologia
-
----
-
-Listar as ferramentas e os objetivos atingidos em cada uma
-
----
-
-Justificativa
-
----
-
-Incorporar na problematização
-
----
-
-Descreva os atributos do produto após os objetivos
-
----
-
-Justificar o projeto sobre os atributos, pela a importância de cumprir os objetivos
-
----
-
-Trocar tempo verbal para a o pretérito
-
----
-
+**Fazer nos pontos nas localizações de maior frequencia de violência**
 Sugestão de survey (ainda para ser aprovada por Djalma
-
+```
 Nome
-
 Idade
-
 Gênero
-
 Raça
-
 Já foi abordado
-
 O que faria?
-
 Onde e como você denunciaria?
-
 Já presenciou
-
 Com que frequência?
-
 O que te faz evitar?
+```
 
 ---
 
-**Analise do google
-**
+**Elaborar gráficos cruzando informações**
 
-Fazer nos pontos nas localizações de maior frequencia de violência
-
----
-
-**Elaborar gráficos cruzando informações
-**
+```
 -   Google Words
 -   Raspagem do twitter (ver slack)
 -   Numero de casos
 -   Noticias
 -   Principais casos
+````
+
+
+---
+
+## Metodologia
+Refazer
+Listar as ferramentas e os objetivos atingidos em cada uma
+
+---
+
+## Justificativa
+Refazer
+* Incorporar texto atual na problematização
+* Descreva os atributos do produto após os objetivos
+* Justificar o projeto sobre os atributos, pela a importância de cumprir os objetivos
+* Trocar tempo verbal para a o pretérito
+
+---
+
+
