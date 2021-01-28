@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/entregas/TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
+            "file": "TCC/entregas/TCC 1/v0.2 - Escrita preliminar/# PARTE 2 Desenvolvimento - Nível Conceitual.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/entregas/TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
+                "file": "TCC/entregas/TCC 1/v0.2 - Escrita preliminar/# PARTE 2 Desenvolvimento - Nível Conceitual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/entregas/TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md"
+                "file": "TCC/entregas/TCC 1/v0.2 - Escrita preliminar/# PARTE 2 Desenvolvimento - Nível Conceitual.md"
               }
             }
           }
@@ -115,6 +115,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "TCC/entregas/TCC 1/v0.2 - Escrita preliminar/Untitled.md",
+    "TCC/entregas/TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
     "TCC/entregas/TCC 1/v0.1 - definição do tema/Untitled.md",
     "templates/Template - Entrega.md",
     "templates/Template - Intenções.md",
@@ -122,8 +124,6 @@
     "meta obisidian/Hashtags.md",
     "meta obisidian/O processo.md",
     "daily/2021-01-28.md",
-    "templates/Untitled.md",
-    "TCC/metaprojeto/Estratégia.md",
-    "templates/Template - Milestones 1.md"
+    "templates/Untitled.md"
   ]
 }
