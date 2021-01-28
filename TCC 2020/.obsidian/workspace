@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/conceitos/A concept.md",
+            "file": "templates/Conceitos.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/conceitos/A concept.md",
+                "file": "templates/Conceitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/conceitos/A concept.md"
+                "file": "templates/Conceitos.md"
               }
             }
           }
@@ -115,7 +115,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "templates/Conceitos.md",
     "TCC/conceitos/A concept.md",
+    "templates/Untitled.md",
     "TCC/meta/Strategy.md",
     "TCC/pessoas/Collaborator B.md",
     "TCC/pessoas/Untitled.md",
