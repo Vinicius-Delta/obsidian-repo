@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "META/Hashtags.md",
+            "file": "Sidequests/Briefing com cliente.md",
             "mode": "source"
           }
         }
@@ -41,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "META/Hashtags.md",
+                "file": "Sidequests/Briefing com cliente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "META/Hashtags.md"
+                "file": "Sidequests/Briefing com cliente.md"
               }
             }
           }
@@ -115,15 +115,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Sidequests/Briefing.md",
+    "templates/Template - Conceito.md",
+    "Apresentação.md",
+    "meta obisidian/Hashtags.md",
+    "TCC/scratch/2020-05-26.md",
+    "TCC/tools/The first tool.md",
+    "TCC/scratch/2020-05-25.md",
     "META/Hashtags.md",
     "TCC/scratch/2020-05-24.md",
-    "TCC/scratch/2020-05-25.md",
-    "TCC/entregas/Project C/Project C.md",
-    "TCC/entregas/Project C/Another concept.md",
-    "TCC/entregas/Project C/Main concept.md",
-    "TCC/entregas/Project A.md",
-    "TCC/entregas/Project B.md",
-    "TCC/metaprojeto/TIL.md",
-    "TCC/metaprojeto/Conquistas.md"
+    "TCC/entregas/Project C/Project C.md"
   ]
 }
