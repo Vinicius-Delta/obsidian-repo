@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "777218558eb3a2d0",
+        "id": "f3771cb90bb246d4",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Conceitos.md",
+            "file": "TCC/meta/Conquistas.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "997d79be31f7f0e2"
+      },
+      {
+        "id": "508f06cca29a9d43",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "TCC/meta/Conquistas.md"
+          }
+        },
+        "group": "997d79be31f7f0e2"
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Conceitos.md",
+                "file": "TCC/meta/Conquistas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Conceitos.md"
+                "file": "TCC/meta/Conquistas.md"
               }
             }
           }
@@ -111,19 +123,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "templates/Conceitos.md",
-    "TCC/conceitos/A concept.md",
-    "templates/Untitled.md",
+    "TCC/meta/Conquistas.md",
+    "TCC/meta/TIL.md",
     "TCC/meta/Strategy.md",
+    "TCC/meta/Wins.md",
+    "TCC/conceitos/A concept.md",
+    "templates/Conceitos.md",
+    "templates/Untitled.md",
     "TCC/pessoas/Collaborator B.md",
     "TCC/pessoas/Untitled.md",
-    "TCC/people/Collaborator B.md",
-    "TCC/people/Collaborator A.md",
-    "assets/researcher.png",
-    "daily/2021-01-28.md"
+    "TCC/people/Collaborator B.md"
   ]
 }

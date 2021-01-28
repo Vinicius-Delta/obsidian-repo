@@ -1,4 +1,5 @@
-## Today I learnt
-Backlinks to surprising ideas or new takes on existing ideas.
+## Hoje eu aprendi
+
+Utilize backlinks para destacar ideias incríveis ou novas sacadas com as ideias antigas.
 
 > Look at backlinks to find the content.
