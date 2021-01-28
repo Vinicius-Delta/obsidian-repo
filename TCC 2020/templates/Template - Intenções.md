@@ -1,5 +1,7 @@
 # Intenções
-Descrição longa
+**Status**:
+
+```Descrição```
 
 **Links**: 
 

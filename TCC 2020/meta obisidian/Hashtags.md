@@ -5,6 +5,7 @@
 #prioridade - algo que preciso porque é importante, prerequisito de outras etapas
 #deadline - algo que preciso fazer porque estou sendo cobrado
 
+#done - incorporei ao Digital Garden
 #abandonado - algo que deixei pra lá. insira a jusitficativa
 #backlog -algo que pode ser útil nesse no projeto, mas ainda preciso pensar sobre
 #side - uma ideia que não faz parte do projeto, mas pode ser útil pra algo
