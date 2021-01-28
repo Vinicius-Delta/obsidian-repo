@@ -1,3 +1,5 @@
+# Processo Evergreen
+
 1. Caixa de leitura (Reading Inbox): Lista de referências para ler. Gerenciado pelo Zotero
 2. Anotações temporárias (Fleeting Notes): Criadas dentro dos PDF ou no caderno. Importadas nas anotações diárias.
 3. Seeds: Anotações iniciais, ainda não linkadas.
