@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d349c1363c4b36a9",
+        "id": "777218558eb3a2d0",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TCC/conceitos/A concept.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TCC/conceitos/A concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TCC/conceitos/A concept.md"
+              }
             }
           }
         ]
@@ -108,5 +114,14 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "TCC/conceitos/A concept.md",
+    "TCC/meta/Strategy.md",
+    "TCC/pessoas/Collaborator B.md",
+    "TCC/pessoas/Untitled.md",
+    "TCC/people/Collaborator B.md",
+    "TCC/people/Collaborator A.md",
+    "assets/researcher.png",
+    "daily/2021-01-28.md"
+  ]
 }
