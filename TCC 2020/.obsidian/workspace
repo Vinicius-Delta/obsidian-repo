@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7d5eefcc54f70a01",
+        "id": "43ffd3912244717f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "meta obisidian/Hashtags.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#side",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +54,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meta obisidian/Hashtags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "meta obisidian/Hashtags.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -116,15 +109,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "! INBOX/Untitled.md",
+    "Untitled.md",
+    "TCC/tools/The first tool.md",
     "meta obisidian/Hashtags.md",
     "TCC/scratch/2020-05-26.md",
     "TCC/scratch/2020-05-25.md",
     "TCC/scratch/2020-05-24.md",
+    "meta obisidian/O processo.md",
     "Sidequests/Briefing.md",
-    "templates/Template - Conceito.md",
-    "Apresentação.md",
-    "TCC/tools/The first tool.md",
-    "META/Hashtags.md",
-    "TCC/entregas/Project C/Project C.md"
+    "templates/Template - Conceito.md"
   ]
 }
