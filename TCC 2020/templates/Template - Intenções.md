@@ -11,5 +11,5 @@ Descrição longa
 ## Anotações
 
 ## Subtasks
-[x] Etapa 1
-[ ] Etapa 2
+- [ ] Etapa 1
+- [ ] Etapa 2

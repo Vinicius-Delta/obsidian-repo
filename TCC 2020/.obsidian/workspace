@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Template - Intenções.md",
+            "file": "TCC/metaprojeto/Estratégia.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Template - Intenções.md",
+                "file": "TCC/metaprojeto/Estratégia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Template - Intenções.md"
+                "file": "TCC/metaprojeto/Estratégia.md"
               }
             }
           }
@@ -115,6 +115,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "TCC/metaprojeto/Estratégia.md",
     "templates/Template - Intenções.md",
     "meta obisidian/O processo.md",
     "templates/Template - Milestones 1.md",
@@ -123,7 +124,6 @@
     "templates/Untitled.md",
     "TCC/metaprojeto/Obejtivos.md",
     "meta obisidian/Markdown.md",
-    "meta obisidian/Hashtags.md",
-    "! INBOX/Accepted file formats.md"
+    "meta obisidian/Hashtags.md"
   ]
 }
