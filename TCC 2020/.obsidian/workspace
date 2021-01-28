@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/meta/Estratégia.md",
+            "file": "TCC/referências/Saini (2017) – Inferior.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "TCC/meta/Estratégia.md"
+            "file": "TCC/referências/Saini (2017) – Inferior.md"
           }
         },
         "group": "997d79be31f7f0e2"
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/meta/Estratégia.md",
+                "file": "TCC/referências/Saini (2017) – Inferior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/meta/Estratégia.md"
+                "file": "TCC/referências/Saini (2017) – Inferior.md"
               }
             }
           }
@@ -126,15 +126,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "TCC/meta/Estratégia.md",
+    "TCC/referências/Saini (2017) – Inferior.md",
+    "TCC/referências/Csikszentmihalyi (2008) – Flow.md",
+    "templates/Untitled.md",
+    "META/O processo.md",
+    "TCC/entregas/Project B.md",
     "TCC/meta/TIL.md",
     "TCC/meta/Conquistas.md",
-    "TCC/meta/Strategy.md",
-    "TCC/meta/Wins.md",
-    "TCC/conceitos/A concept.md",
-    "templates/Conceitos.md",
-    "templates/Untitled.md",
-    "TCC/pessoas/Collaborator B.md",
-    "TCC/pessoas/Untitled.md"
+    "TCC/meta/Estratégia.md",
+    "TCC/entregas/Project A.md",
+    "TCC/meta/Strategy.md"
   ]
 }
