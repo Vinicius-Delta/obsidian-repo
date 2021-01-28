@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "43ffd3912244717f",
+        "id": "6235afc21661082c",
         "type": "leaf",
         "active": true,
         "state": {
@@ -108,22 +108,22 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
+    "TCC/metaprojeto/Obejtivos.md",
+    "meta obisidian/Markdown.md",
+    "meta obisidian/Hashtags.md",
+    "! INBOX/Accepted file formats.md",
+    "meta obisidian/Untitled.md",
     "TCC/metaprojeto/Untitled.md",
     "meta obisidian/O processo.md",
     "! INBOX/Untitled.md",
     "Untitled.md",
-    "TCC/tools/The first tool.md",
-    "meta obisidian/Hashtags.md",
-    "TCC/scratch/2020-05-26.md",
-    "TCC/scratch/2020-05-25.md",
-    "TCC/scratch/2020-05-24.md",
-    "Sidequests/Briefing.md"
+    "TCC/tools/The first tool.md"
   ]
 }
