@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sidequests/Briefing com cliente.md",
+            "file": "meta obisidian/Hashtags.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#side",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sidequests/Briefing com cliente.md",
+                "file": "meta obisidian/Hashtags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sidequests/Briefing com cliente.md"
+                "file": "meta obisidian/Hashtags.md"
               }
             }
           }
@@ -115,15 +116,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "meta obisidian/Hashtags.md",
+    "TCC/scratch/2020-05-26.md",
+    "TCC/scratch/2020-05-25.md",
+    "TCC/scratch/2020-05-24.md",
     "Sidequests/Briefing.md",
     "templates/Template - Conceito.md",
     "Apresentação.md",
-    "meta obisidian/Hashtags.md",
-    "TCC/scratch/2020-05-26.md",
     "TCC/tools/The first tool.md",
-    "TCC/scratch/2020-05-25.md",
     "META/Hashtags.md",
-    "TCC/scratch/2020-05-24.md",
     "TCC/entregas/Project C/Project C.md"
   ]
 }
