@@ -1,58 +1,57 @@
+## Questões geais
+
 **Meta 60 páginas**
 
 15 - introdução e contexto
 
-15 - analises
+15 - análises
 
 15 - processo
 
 15 - produto final
 
 ---
+## Problema
 
 Definir melhor
 
-Problema
+	Problema informacional, de não conhecer seus direitos
 
-Problema informacional, de não conhecer seus direitos
+	Provar que o numero de casos é subnotificado
 
-Provar que o numero de casos é subnotificado
+	Provar que as pessoas sentem desconforto em denunciar
 
-Provar que as pessoas sentem desconforto em denunciar
-
-E parte do problema é a ferramenta
+	E parte do problema é a ferramenta
 
 Forma é conteúdo
 
-"Como o design porde intervir no \[problema informacional\]"
+"Como o design porde intervir no _problema informacional_ " #promissor 
+---
+
+## Objetivo geral
+
+**O objetivo deve ser uma resposta direta ao problema. Na dúvida pergunte "com que objetivo"**
+
+Ex :
+	Que permita a troca de informações
+
+	De como evitar
+
+	Como lidar
+
+	O que fazer depois
 
 ---
 
-Objetivo geral
-
-O objetivo deve ser uma resposta direta ao problema. Na dúvida pergunte "com que objetivo"
-
-Que permita a troca de informações
-
-De como evitar
-
-Como lidar
-
-O que fazer depois
-
----
-
-Objetivos específicos
+## Objetivos específicos
 
 Refazer
 
 ---
+## Análises
 
-Hashtag parem de nos matar
-
----
-
-Realizar levantamento estatístico da violência policia
+* Hashtag parem de nos matar
+* Realizar levantamento estatístico da violência policia
 
 ---
 

@@ -11,6 +11,7 @@
 #side - uma ideia que não faz parte do projeto, mas pode ser útil pra algo
 
 ## Digital garden - diagnóstico
+#promissor
 #precisa-desenvolver-mais - preciso escrever mais
 #precisa-revisar - preciso verificar as referências de um conteúdo
 #precisa-linkar - preciso adicionar mais links para tornar a página verde

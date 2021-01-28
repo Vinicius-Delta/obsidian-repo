@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#promissor",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,6 +116,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "TCC/orientações/Orientação 2020.03.20.md",
+    "meta obisidian/Hashtags.md",
     "TCC/orientações/Untitled.md",
     "TCC/entregas/monografia/TCC 1/v0.3 - versão entregada/Untitled.md",
     "TCC/entregas/TCC 1/v0.3 - versão entregada/Untitled.md",
@@ -122,8 +125,6 @@
     "TCC/entregas/TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
     "TCC/entregas/TCC 1/v0.2 - Escrita preliminar/# PARTE 2 Desenvolvimento - Nível Conceitual.md",
     "TCC/entregas/TCC 1/v0.2 - Escrita preliminar/Untitled.md",
-    "TCC/entregas/TCC 1/v0.1 - definição do tema/Untitled.md",
-    "templates/Template - Entrega.md",
-    "templates/Template - Intenções.md"
+    "TCC/entregas/TCC 1/v0.1 - definição do tema/Untitled.md"
   ]
 }
