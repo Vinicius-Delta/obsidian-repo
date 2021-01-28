@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-01-28.md",
+            "file": "templates/Template - Intenções.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-01-28.md",
+                "file": "templates/Template - Intenções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-01-28.md"
+                "file": "templates/Template - Intenções.md"
               }
             }
           }
@@ -115,11 +115,11 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "daily/2021-01-28.md",
-    "templates/Untitled.md",
-    "meta obisidian/Hashtags.md",
-    "TCC/metaprojeto/Estratégia.md",
     "templates/Template - Intenções.md",
+    "daily/2021-01-28.md",
+    "meta obisidian/Hashtags.md",
+    "templates/Untitled.md",
+    "TCC/metaprojeto/Estratégia.md",
     "meta obisidian/O processo.md",
     "templates/Template - Milestones 1.md",
     "templates/Template - Milestones.md",
