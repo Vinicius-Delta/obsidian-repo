@@ -1,21 +1,11 @@
-PROJECT: Foco 5: TCC  
+#to-read #site - Checar a plataforma fogo cruzado  
   
-Web Design como resistência à violência policial  
+#to-do Atualizar a contextualização inicial  
   
+#to-read #livro Ler "Bala Perdida"  
   
-NEXT  
-  
-#- Checar a plataforma fogo cruzado  
-  
-  
-LATER  
-  
-\- Contagem ACC para formar  
-  
-\- Atualizar a contextualização inicial  
-  
-\- Ler "Bala Perdida"  
-  
+#to-do Escrever problematização:
+  ````
 \- Problema do projeto A: sobre familiares  
   
 \- Problema do projeto B: sobre os instrumentos de denuncias e sua importância  
@@ -25,11 +15,15 @@ LATER
 \- Problema do projeto D: número de casos é subreportado  
   
 \- Problema do projeto E: impunidade e como reverter  
+````
+
+#to-do Escrever objetivos
   
-\- Escrever problema + objetivo  
-  
-\- Corrigir metodologia  
-  
+#to-do Corrigir metodologia  
+
+#to-do Fazer novas análises
+```
+
 \- Fazer análise de novas pesquisas Google  
   
 \- Grafico com raspagem do twitter  
@@ -40,4 +34,4 @@ LATER
   
 \- Grafico das Noticias  
   
-\- Ferramenta estrutura ABNT
+````

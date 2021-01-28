@@ -2,6 +2,8 @@
 
 ## Status de pendência
 #to-do - algo que preciso fazer em geral
+#to-read - alguma referência que preciso ler/assisitr/ouvir/participar
+
 #prioridade - algo que preciso porque é importante, prerequisito de outras etapas
 #deadline - algo que preciso fazer porque estou sendo cobrado
 

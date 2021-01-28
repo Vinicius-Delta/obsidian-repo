@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "meta obisidian/Hashtags.md",
+            "file": "daily/2021-01-28.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#to-do",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meta obisidian/Hashtags.md",
+                "file": "daily/2021-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meta obisidian/Hashtags.md"
+                "file": "daily/2021-01-28.md"
               }
             }
           }
@@ -115,10 +116,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "meta obisidian/Hashtags.md",
-    "TCC/intenções/Lista do Nirvana 2020.md",
-    "templates/Template - Intenções.md",
     "daily/2021-01-28.md",
+    "TCC/intenções/Lista do Nirvana 2020.md",
+    "meta obisidian/Hashtags.md",
+    "templates/Template - Intenções.md",
     "TCC/intenções/Untitled.md",
     "TCC/metaprojeto/Estratégia.md",
     "TCC/orientações/Orientação 2020.03.20.md",
