@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Template - Entrega.md",
-            "mode": "preview"
+            "file": "TCC/entregas/TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Template - Entrega.md",
+                "file": "TCC/entregas/TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Template - Entrega.md"
+                "file": "TCC/entregas/TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md"
               }
             }
           }
@@ -115,6 +115,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "TCC/entregas/TCC 1/v0.1 - definição do tema/Untitled.md",
     "templates/Template - Entrega.md",
     "templates/Template - Intenções.md",
     "templates/Template - Conceito.md",
@@ -123,7 +124,6 @@
     "daily/2021-01-28.md",
     "templates/Untitled.md",
     "TCC/metaprojeto/Estratégia.md",
-    "templates/Template - Milestones 1.md",
-    "templates/Template - Milestones.md"
+    "templates/Template - Milestones 1.md"
   ]
 }
