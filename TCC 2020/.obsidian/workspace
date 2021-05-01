@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6235afc21661082c",
+        "id": "39b1bfc40c6d2082",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TCC/referências/GARRETT, 2010.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/GARRETT, 2010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TCC/referências/GARRETT, 2010.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -115,11 +109,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6235afc21661082c",
+  "active": "39b1bfc40c6d2082",
   "lastOpenFiles": [
+    "TCC/referências/Untitled.md",
     "TCC/referências/GARRETT, 2010.md",
     "TCC/referências/KUCINSKI, Bernardo et al, 2015.md",
-    "TCC/referências/Untitled.md",
     "TCC/referências/Untitled 1.md",
     "daily/2021-05-01.md",
     "daily/2021-01-28.md",
