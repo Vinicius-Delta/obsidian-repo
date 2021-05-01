@@ -1,18 +1,25 @@
-> KUCINSKI, Bernardo et al. Bala perdida: a violência policial no Brasil e os desafios para sua superação. Boitempo Editorial, 2015.
+`` KUCINSKI, Bernardo et al. Bala perdida: a violência policial no Brasil e os desafios para sua superação. Boitempo Editorial, 2015.``
 
-O principal desafio para os defensores dos direitos humanos e para quem sonha com políticas de segurança pública baseadas na promoção da cidadania é superar a oposição entre polícia e direitos humanos. Bernardo Kucinski \[et al.\], Bala perdida, loc. 127-128
+> O principal desafio para os defensores dos direitos humanos e para quem sonha com políticas de segurança pública baseadas na promoção da cidadania é superar a oposição entre polícia e direitos humanos. 
+\- Bernardo Kucinski \[et al.\], Bala perdida, loc. 127-128
 
-A tragédia carioca e brasileira é ver homens de preto, quase todos pretos, matando homens pretos. Bernardo Kucinski \[et al.\], Bala perdida, loc. 129-130
+> A tragédia carioca e brasileira é ver homens de preto, quase todos pretos, matando homens pretos. 
+\- Bernardo Kucinski \[et al.\], Bala perdida, loc. 129-130
 
-Queremos uma polícia exclusivamente civil, voltada para a preservação da vida, e não preparada para a guerra e a eliminação do inimigo, que é o cidadão a quem deveria proteger. Bernardo Kucinski \[et al.\], Bala perdida, loc. 132-133
+> Queremos uma polícia exclusivamente civil, voltada para a preservação da vida, e não preparada para a guerra e a eliminação do inimigo, que é o cidadão a quem deveria proteger. 
+\- Bernardo Kucinski \[et al.\], Bala perdida, loc. 132-133
 
-Quando as forças policiais matam um indivíduo de classe média ou uma criança, direita e esquerda se unem para descer a lenha. Bernardo Kucinski \[et al.\], Bala perdida, loc. 150-151
+> Quando as forças policiais matam um indivíduo de classe média ou uma criança, direita e esquerda se unem para descer a lenha. 
+\- Bernardo Kucinski \[et al.\], Bala perdida, loc. 150-151
 
-**os policiais agem de acordo com regras próprias, por vezes infringindo o espírito das leis. Bernardo Kucinski \[et al.\], Bala perdida, loc. 153-154
+> os policiais agem de acordo com regras próprias, por vezes infringindo o espírito das leis. 
+\- Bernardo Kucinski \[et al.\], Bala perdida, loc. 153-154
 
-**ilegais ou ilegítimas ocorrem, mesclando três tipos de abordagem: o relato de casos emblemáticos; a análise das vítimas preferenciais da violência policial; e a contagem de corpos, ou seja, quantos morreram pelas mãos da polícia Bernardo Kucinski \[et al.\], Bala perdida, loc. 166-168
+>**ilegais ou ilegítimas ocorrem, mesclando três tipos de abordagem: o relato de casos emblemáticos; a análise das vítimas preferenciais da violência policial; e a contagem de corpos, ou seja, quantos morreram pelas mãos da polícia**
+\- Bernardo Kucinski \[et al.\], Bala perdida, loc. 166-168
 
-**Núcleo de Estudos da Violência da Universidade de São Paulo (NEV-USP), o primeiro centro acadêmico a se dedicar especificamente a estudar crime e polícia em nosso país. Bernardo Kucinski \[et al.\], Bala perdida, loc. 178-179
+> **Núcleo de Estudos da Violência da Universidade de São Paulo (NEV-USP), o primeiro centro acadêmico a se dedicar especificamente a estudar crime e polícia em nosso país. 
+\- Bernardo Kucinski \[et al.\], Bala perdida, loc. 178-179
 
 Movimento Independente Mães de Maio, um coletivo formado após maio de 2006 em São Paulo, ou seja, depois do que se convencionou chamar de guerra contra o PCC (Primeiro Comando da Capital). Bernardo Kucinski \[et al.\], Bala perdida, loc. 181-182
 
@@ -42,3 +49,4 @@ A morte de uma pessoa, como sua vida, não é permutável por outra, e nisso res
 
 **A função da PM é garantir os direitos dos cidadãos, prevenindo e reprimindo violações, recorrendo ao uso comedido e proporcional da força quando indispensável. Bernardo Kucinski \[et al.\], Bala perdida, loc. 476-477
 
+O que costumo denominar genocídio de jovens negros nas favelas e nas periferias, conduzido pelas forças policiais, não só militares, é a face mais tangível de um processo perverso que se estende até o sistema penitenciário, onde a destruição de seres humanos tem ensejado as mais violentas reações, alimentando o ciclo vicioso conhecido e a temida espiral de dor e medo. Bernardo Kucinski \[et al.\], Bala perdida, loc. 499-502
