@@ -138,3 +138,19 @@ muito clara do problema a ser resolvido.
 ---
 
    9. **Cronograma**: O cronograma revela a capacidade de planejamento e organização do pesquisador (estudante). Assim, se os objetivos estiverem  claros, os procedimentos bem detalhados e definidos, é possível determinar a carga de trabalho. Contudo, mostra-se necessário avaliar com clareza  e realismo o tempo necessário para a realização de todas as tarefas e processos. O pesquisador deve indicar no seu projeto as várias etapas, distribuindo-as no tempo disponível para as atividades previstas pela pesquisa,  incluindo a redação final. Não confundir os passos cronológicos com as etapas de investigação. O cronograma detalhado, em justificado com os  objetivos específicos, dá indícios da disciplina e capacidade de organização do pesquisador (aluno) e evita dissabores com prazos posteriormente.
+
+>    Obs.: Indicar, em semanas, meses, bimestres, trimestres ou semestres, as  etapas previstas para o desenvolvimento da pesquisa, justificando a exequibilidade do trabalho dentro do tempo regulamentar previsto para o período  abrangido (cronograma). ==O Cronograma está presente apenas no projeto de  pesquisa==, pois é sabido que num Trabalho Científico ou TCC (para alunos  concluintes da graduação) todas as etapas já foram, caso contrário deve ser  justificado no trabalho final o motivo de não ter conseguido atingir o cronograma proposto.
+
+---
+
+   10. **Bibliografia**: As referências seguem os padrões já supracitados. Entretanto, vale ressaltar que as referências em um projeto são mais pontuais,  focadas e estritamente associadas às definições de termos e conceitos, aos  dados de outros autores e técnicas a serem empregadas. Assim, deve-se ser sempre de acordo com as normas técnicas pertinentes, os títulos básicos a serem utilizados no desenvolvimento da pesquisa, discriminando e, se for o caso, as fontes, os textos de referência teórica, os documentos legais, etc.  Ter bem claro que esta bibliografia poderá se ampliar ao final da pesquisa, já que novos documentos poderão ser identificados em decorrência e no desenvolvimento do processo de investigação.
+
+---
+
+   Os itens citados podem ser reduzidos, ampliados ou estruturados em outra  
+ordem, de acordo com a natureza da pesquisa a ser desenvolvida. A estruturação  
+é flexível e seus elementos devem ser distribuídos em conformidade com as exigências lógicas da própria pesquisa (consultar orientador).
+
+Contudo, apesar de um bom direcionamento e todo o cuidado metodológico  
+e teórico dentro do projeto de pesquisa, muitas vezes ficamos fadados a situações 
+delicadas que podem obrigar-nos a fazer modificações dentro dos nossos projetos. Desta forma, muitas vezes o projeto ou a pesquisa, em seus vários pontos  e momentos temporais, pode ser alterado no decorrer da pesquisa. Porém, esta  situação, além de ser normal é até positiva, pois revela eventuais descobertas de  dados novos e aprofundamento das ideias do autor (SEVERINO, 2017).
