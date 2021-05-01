@@ -121,7 +121,10 @@ muito clara do problema a ser resolvido.
 
 ---
 
-7. Fontes, procedimentos e etapas: Este item também poderá ser denominado de “Materiais e Métodos”. Neste momento são descritos os materiais,  
-organismos, reagentes e suas concentrações e quantidades, equipamentos,  
-bem como os procedimentos, protocolos e como será planejado o experimento. Deve-se deixar claro ao leitor como será feito o trabalho para que  
-ele possa avaliar adequadamente a viabilidade, possíveis resultados e, se
+7. **Fontes, procedimentos e etapas**: Este item também poderá ser denominado de “Materiais e Métodos”. Neste momento são descritos os materiais,  organismos, reagentes e suas concentrações e quantidades, equipamentos,  bem como os procedimentos, protocolos e como será planejado o experimento. ==Deve-se deixar claro ao leitor como será feito o trabalho para que ele possa avaliar adequadamente a viabilidade, possíveis resultados e, se desejar, poder sugerir modificações. Nesta etapa, devem ser anunciadas  as fontes (empíricas, documentais, laboratoriais, bibliográficas) com que o  pesquisador conta para a realização da pesquisa e os procedimentos metodológicos e técnicos que usará, deixando bem claro como é que vai proceder.== À vista dos objetivos perseguidos, da natureza do objeto pesquisado e dos procedimentos possíveis, necessita-se indicar as etapas de seu processo de investigação, tendo bem presente que os resultados de cada uma  destas etapas é que constituirão as partes do relatório final do trabalho, ou  seja, os seus capítulos. Considerações importantes:
+	
+	~~a) O trabalho proposto pode também ser uma análise de outros trabalhos publicados sobre um determinado assunto e, se assim for, a metodologia é a  Pesquisa Bibliográfica.  ~~
+	
+	b) Trata-se de item de fundamental importância quando se pretende submeter  um projeto a uma agência de fomento e, neste caso, devem-se incluir os dados sobre os custos estimados para a consecução do trabalho.
+
+  >  Obs.: Indicar o tipo de pesquisa (teórica, empírica, aplicada, histórica, ou, se for o caso, a combinação de tipos); detalhar todo o material que se pretende empregar, bem como os procedimentos a serem adotados na condução da pesquisa, relatando as razões para a escolha dos métodos e técnicas adotadas. Lembrando que todos os métodos científicos e laboratoriais, quando não são inéditos, devem ser referenciados como trabalhos relevantes na área. #

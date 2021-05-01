@@ -1,6 +1,7 @@
 # Lista das hashtags a serem utilizadas
 
 ## Status de pendência
+#nao-entendi - destaque para um texto de referência do qual eu não compreendi completamente
 #to-do - algo que preciso fazer em geral
 #to-read - alguma referência que preciso ler/assisitr/ouvir/participar
 
