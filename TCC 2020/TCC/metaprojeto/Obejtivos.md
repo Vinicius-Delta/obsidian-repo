@@ -7,6 +7,4 @@ Template
 	* Milestones associadas
 ```
 	
-	
-
 aaaa
