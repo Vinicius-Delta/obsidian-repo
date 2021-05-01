@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/intenções/Lista do Nirvana 2020.md",
+            "file": "TCC/metaprojeto/Obejtivos.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/intenções/Lista do Nirvana 2020.md",
+                "file": "TCC/metaprojeto/Obejtivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/intenções/Lista do Nirvana 2020.md"
+                "file": "TCC/metaprojeto/Obejtivos.md"
               }
             }
           }
@@ -115,11 +115,11 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "TCC/metaprojeto/Obejtivos.md",
+    "TCC/metaprojeto/Estratégia.md",
     "TCC/intenções/Lista do Nirvana 2020.md",
     "TCC/orientações/Orientação 2020.03.20.md",
     "TCC/metaprojeto/TIL.md",
-    "TCC/metaprojeto/Obejtivos.md",
-    "TCC/metaprojeto/Estratégia.md",
     "TCC/metaprojeto/Conquistas.md",
     "meta obisidian/O processo.md",
     "meta obisidian/Hashtags.md",
