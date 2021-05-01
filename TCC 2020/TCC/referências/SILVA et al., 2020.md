@@ -127,4 +127,14 @@ muito clara do problema a ser resolvido.
 	
 	b) Trata-se de item de fundamental importância quando se pretende submeter  um projeto a uma agência de fomento e, neste caso, devem-se incluir os dados sobre os custos estimados para a consecução do trabalho.
 
-  >  Obs.: Indicar o tipo de pesquisa (teórica, empírica, aplicada, histórica, ou, se for o caso, a combinação de tipos); detalhar todo o material que se pretende empregar, bem como os procedimentos a serem adotados na condução da pesquisa, relatando as razões para a escolha dos métodos e técnicas adotadas. Lembrando que todos os métodos científicos e laboratoriais, quando não são inéditos, devem ser referenciados como trabalhos relevantes na área. #
+  >  Obs.: Indicar o tipo de pesquisa (teórica, empírica, aplicada, histórica, ou, se for o caso, a combinação de tipos); detalhar todo o material que se pretende empregar, bem como os procedimentos a serem adotados na condução da pesquisa, relatando as razões para a escolha dos métodos e técnicas adotadas. Lembrando que todos os métodos científicos e laboratoriais, quando não são inéditos, devem ser referenciados como trabalhos relevantes na área. #nao-entendi 
+  
+---
+
+  8. **Hipóteses ou Resultados Esperados**: No projeto deve-se explicitar a(s) hipótese(s) avançadas(s) para a solução do problema. Lembre-se de que todo trabalho científico constitui um raciocínio demonstrativo de alguma hipótese, pois é essa demonstração que soluciona o problema pesquisado.  
+  
+  > Obs.: Sinalizar os resultados e conclusões que, espera-se, poderão ser obtidos com a realização da pesquisa. ==As Hipóteses ou Resultados Esperados estão presentes apenas no projeto de pesquisa, pois é sabido que um Trabalho  Científico ou TCC (para alunos concluintes da graduação) os resultados já  foram alcançados e as hipóteses mantidas ou refutadas.==
+
+---
+
+   9. **Cronograma**: O cronograma revela a capacidade de planejamento e organização do pesquisador (estudante). Assim, se os objetivos estiverem  claros, os procedimentos bem detalhados e definidos, é possível determinar a carga de trabalho. Contudo, mostra-se necessário avaliar com clareza  e realismo o tempo necessário para a realização de todas as tarefas e processos. O pesquisador deve indicar no seu projeto as várias etapas, distribuindo-as no tempo disponível para as atividades previstas pela pesquisa,  incluindo a redação final. Não confundir os passos cronológicos com as etapas de investigação. O cronograma detalhado, em justificado com os  objetivos específicos, dá indícios da disciplina e capacidade de organização do pesquisador (aluno) e evita dissabores com prazos posteriormente.
