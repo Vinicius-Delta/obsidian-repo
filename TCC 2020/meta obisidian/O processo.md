@@ -4,8 +4,7 @@
 2. Anotações temporárias (Fleeting Notes): Criadas dentro dos PDF ou no caderno. Importadas nas anotações diárias.
 3. Seeds: Anotações iniciais, ainda não linkadas.
 4. Buds: Ideias para serem utilizadas.
-5. Evergree Notes
-	* Precisam ser atômicas
+5. Evergreen Notes: Precisam ser atômicas
 
 
 
