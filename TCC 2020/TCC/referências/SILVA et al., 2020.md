@@ -15,6 +15,8 @@
 5. Redação do texto/relatório
 6. Produção
 
+---
+
 ## Método Científico
 \- p22-23
 
@@ -27,6 +29,8 @@ O método científico é o conjunto de procedimentos, específicos de cada
 refutar a hipótese; 
 * Conclusões: Propor uma resposta, uma tese, ou mesmo uma teoria científica.
 
+---
+
 
 ##   A estrutura do projeto enquanto texto
 \- p.24
@@ -37,12 +41,14 @@ final que relatará os resultados da pesquisa. O título deve expressar, o mais
 fielmente possível, o conteúdo temático do trabalho. ==derá, eventualmente, ser metafórico, mas, nesses casos, dever-se-á acrescentar um subtítulo  
 tematicamente expressivo. ==
 
+---
 
 2. **Resumo**: O resumo deve apresentar informações essenciais para que o  
 leitor possa entender os aspectos mais importantes da proposta de pesquisa  
 e contemplar de forma resumida os itens: ==trodução e justificativa, problema de pesquisa, objetivos, metodologia, forma de análise dos resultados.  ==
 Palavras-chaves: no mínimo 3 (http://decs.bvs.br/).  
 
+---
 
 3. **Introdução**: A introdução é a apresentação do projeto e nela o autor deverá definir e caracterizar seu objeto de estudo. A introdução ainda delimita o escopo do trabalho. ==nela que se retira o assunto específico de um todo mais amplo no qual ele está inserido. Esta parte do Projeto tem-se uma apresentação em que se exporá sinteticamente como se chegou ao tema de investigação, quais foram as gêneses do problema, as circunstâncias que interferiram nesse processo, por que se fez tal opção, se houve antecedentes.== Esta é a parte mais pessoal da exposição do projeto, único momento em que o pesquisador pode referir-se a motivos de ordem pessoal. A introdução deve conter:
 
@@ -53,6 +59,7 @@ Palavras-chaves: no mínimo 3 (http://decs.bvs.br/).
    
    >    Obs.: Apresentação do tema, explicitando as razões (acadêmicas, científicas, sociais, etc.) da escolha do mesmo de forma sumária; deve situar o  leitor com objetividade desde a primeira linha sobre a relevância do tema e  explicitar a pertinência do projeto à área e à linha de pesquisa. E todos os  trabalhos de terceiros devem ser devidamente referenciados, caso contrário estará cometendo plágio.
 
+---
 
  4. **Fundamentação Teórica ou Revisão da Literatura**: Neste tópico do  
 Projeto precisa mostrar qual a importância do trabalho a ser feito e por  
@@ -86,11 +93,35 @@ determinado assunto são levantados e, somente com o levantamento bibliográfico
 final. ==A Revisão da Literatura como Trabalho Científico ou TCC será melhor  
 descrito posteriormente.
 
+---
+
  5. **Justificativa ou motivação**: Delimitar as questões ou problemas que se  
-pretende abordar e, se for o caso, as hipóteses a serem estudadas, relacionando os motivos de ordem prática e teórica que tornam importante a  
-realização dessa pesquisa.
+pretende abordar e, se for o caso, as hipóteses a serem estudadas, relacionando ==os motivos de ordem prática e teórica que tornam importante a  
+realização dessa pesquisa.==
 
 >    Obs.: ==A Justificativa ou motivação pode estar inserida diretamente na  
 Introdução ou na Fundamentação Teórica==, tudo dependendo da organização  
 do projeto e/ou TCC (projeto já realizado e com dados científicos, discutido  
 posteriormente).
+
+---
+
+6. **Objetivos (Para quê?)**: Os objetivos mostram onde se espera chegar com  
+o trabalho. Podem ser divididos em objetivos gerais e específicos. **Os objetivos gerais revelam a grande intenção do trabalho. Os objetivos específicos  
+mostram todas as etapas do caminho a ser percorrido durante o processo  
+de pesquisa. No caso, este último deve ser extremamente detalhado, pois  
+revela a quantidade de trabalho a ser realizada pelo pesquisador (aluno) e  
+mostra ao próprio pesquisador a quantidade de trabalho para que se possa  
+orçar o tempo necessário para a consecução do trabalho.** Neste ponto, busca-se uma exposição mais objetiva e técnica, colocar o problema, ou seja,  
+como o tema está problematizado e, consequentemente, por que ele precisa ainda ser pesquisado. Trata-se, portanto, de delimitar, circunscrever o  
+tema-problema. O tema deve ser problematizado e é preciso ter uma ideia  
+muito clara do problema a ser resolvido.
+
+ > Obs.: Pontuar os objetivos do projeto de pesquisa, que podem ser geral, quando estiver ligado à visão global e abrangente do tema, ou específico(s),  quando apresentar caráter mais minucioso, concreto. Geralmente nos objetivos específicos utiliza-se “marcadores” e é inumerado.
+
+---
+
+7. Fontes, procedimentos e etapas: Este item também poderá ser denominado de “Materiais e Métodos”. Neste momento são descritos os materiais,  
+organismos, reagentes e suas concentrações e quantidades, equipamentos,  
+bem como os procedimentos, protocolos e como será planejado o experimento. Deve-se deixar claro ao leitor como será feito o trabalho para que  
+ele possa avaliar adequadamente a viabilidade, possíveis resultados e, se
