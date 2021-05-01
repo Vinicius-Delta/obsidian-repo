@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/SILVA et al., 2020.md",
-            "mode": "source"
+            "file": "templates/Template - Daily.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/SILVA et al., 2020.md",
+                "file": "templates/Template - Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/SILVA et al., 2020.md"
+                "file": "templates/Template - Daily.md"
               }
             }
           },
@@ -118,24 +117,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "active": "39b1bfc40c6d2082",
   "lastOpenFiles": [
+    "templates/Template - Daily.md",
+    "daily/2021-05-01.md",
+    "daily/2021-01-28.md",
     "TCC/referências/SILVA et al., 2020.md",
     "meta obisidian/Hashtags.md",
     "TCC/referências/Untitled.md",
     "TCC/referências/GARRETT, 2010.md",
     "TCC/referências/KUCINSKI, Bernardo et al, 2015.md",
     "TCC/referências/Untitled 1.md",
-    "daily/2021-05-01.md",
-    "daily/2021-01-28.md",
-    "TCC/referências/GARRETT, 2010..md",
-    "TCC/metaprojeto/Obejtivos.md"
+    "TCC/referências/GARRETT, 2010..md"
   ]
 }
