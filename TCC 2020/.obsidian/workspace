@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/Untitled.md",
+            "file": "daily/2021-05-01.md",
             "mode": "source"
           }
         }
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/Untitled.md",
+                "file": "daily/2021-05-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/Untitled.md"
+                "file": "daily/2021-05-01.md"
               }
             }
           }
@@ -115,6 +116,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "daily/2021-05-01.md",
+    "daily/2021-01-28.md",
     "TCC/referências/Untitled.md",
     "TCC/referências/GARRETT, 2010..md",
     "TCC/metaprojeto/Obejtivos.md",
@@ -122,8 +125,6 @@
     "TCC/intenções/Lista do Nirvana 2020.md",
     "TCC/orientações/Orientação 2020.03.20.md",
     "TCC/metaprojeto/TIL.md",
-    "TCC/metaprojeto/Conquistas.md",
-    "meta obisidian/O processo.md",
-    "meta obisidian/Hashtags.md"
+    "TCC/metaprojeto/Conquistas.md"
   ]
 }
