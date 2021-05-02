@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Template - Daily.md",
-            "mode": "preview"
+            "file": "TCC/entregas/monografia/TCC 1/v0.3 - versão entregada/Projeto TCC1 [05.03.20].md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Template - Daily.md",
+                "file": "TCC/entregas/monografia/TCC 1/v0.3 - versão entregada/Projeto TCC1 [05.03.20].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Template - Daily.md"
+                "file": "TCC/entregas/monografia/TCC 1/v0.3 - versão entregada/Projeto TCC1 [05.03.20].md"
               }
             }
           },
@@ -125,15 +125,15 @@
   },
   "active": "39b1bfc40c6d2082",
   "lastOpenFiles": [
-    "templates/Template - Daily.md",
+    "TCC/entregas/monografia/TCC 1/v0.3 - versão entregada/Projeto TCC1 [05.03.20].md",
+    "TCC/entregas/monografia/TCC 1/v0.3 - versão entregada/Guia do Projeto.md",
+    "TCC/entregas/monografia/TCC 1/v0.3 - versão entregada/Formato de introdução.md",
     "daily/2021-05-01.md",
     "daily/2021-01-28.md",
+    "templates/Template - Daily.md",
     "TCC/referências/SILVA et al., 2020.md",
     "meta obisidian/Hashtags.md",
     "TCC/referências/Untitled.md",
-    "TCC/referências/GARRETT, 2010.md",
-    "TCC/referências/KUCINSKI, Bernardo et al, 2015.md",
-    "TCC/referências/Untitled 1.md",
-    "TCC/referências/GARRETT, 2010..md"
+    "TCC/referências/GARRETT, 2010.md"
   ]
 }
