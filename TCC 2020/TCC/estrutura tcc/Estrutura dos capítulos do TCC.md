@@ -25,11 +25,14 @@ Tópico obrigatório de todos os trabalhos. É a descrição detalhada de todas 
 ### ~~Cronograma (Atividades):~~
 O cronograma é a distribuição, ao longo de uma linha temporal, das fases/atividades da pesquisa, e é seção obrigatória para o Projeto de Pesquisa (pré-projeto). Deve contemplar desde a escolha do tema até a defesa do projeto ou  monografia (TCC).
 
- ### - Resultado e Discussão:  
+ ### Resultado e Discussão:  
 Os resultados e discussão é um tópico obrigatório para o Trabalho de Conclusão de Curso, e podem ser apresentados em tópicos separados.
 > Precisa ser adaptado para Design
 
-Conclusão:
+### Conclusão:
+ Aqui devem ser evidenciadas as limitações do estudo, as principais contribui-  
+ções e sugestões de estudos futuros. Não se deve tornar a conclusão muito longa  
+e jamais deve conter citações de autores.
 
 
 ---
