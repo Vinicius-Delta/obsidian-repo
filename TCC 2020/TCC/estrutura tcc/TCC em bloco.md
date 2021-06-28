@@ -10,6 +10,9 @@ Desenvolvida pelo prof. **Douglas Tybel**
 
 
 ### Bloco 1 - **Tópico Frasal**
+
+^1a8a7a
+
 > **O que é?**
 Você conceitua o tema do capítulo da sua cabeça, sem tirar a ideia de algum livro.
 -   Permitido aqui uma citação direta curta.
