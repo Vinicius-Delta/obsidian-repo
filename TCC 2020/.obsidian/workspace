@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/TCC em bloco.md",
-            "mode": "preview"
+            "file": "! INBOX/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO)Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/TCC em bloco.md",
+                "file": "! INBOX/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO)Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/TCC em bloco.md"
+                "file": "! INBOX/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO)Untitled.md"
               }
             }
           },
@@ -127,6 +127,7 @@
   },
   "active": "39b1bfc40c6d2082",
   "lastOpenFiles": [
+    "! INBOX/Untitled.md",
     "! INBOX/TCC em bloco.md",
     "daily/2021-06-28.md",
     "Lista de Leitura.md",
@@ -135,7 +136,6 @@
     "TCC/entregas/monografia/TCC 1/v0.3 - versão entregada/Formato de introdução.md",
     "daily/2021-05-01.md",
     "daily/2021-01-28.md",
-    "templates/Template - Daily.md",
-    "TCC/referências/SILVA et al., 2020.md"
+    "templates/Template - Daily.md"
   ]
 }

@@ -1,6 +1,12 @@
 Desenvolvida pelo prof. **Douglas Tybel**
 
 **nove blocos por capítulo**, cada qual com determinada informação e com utilidade específica.
+**tópico frasal,** que deve ser feito de acordo com a **técnica [TSAC](http://guiadamonografia.com.br/como-funciona-tecnica-tsac/)**
+> **Estrutura base: **
+> -   Tópico frasal;
+> -   Sustentação;
+> -   Argumentação;
+> -   Conclusão.
 
 
 ### Bloco 1 - **Tópico Frasal**
@@ -10,7 +16,6 @@ Você conceitua o tema do capítulo da sua cabeça, sem tirar a ideia de algum l
 -   Duas (2) frases são o suficiente para esse parágrafo.
 
 
-**tópico frasal,** que deve ser feito de acordo com a **técnica [TSAC](http://guiadamonografia.com.br/como-funciona-tecnica-tsac/)**
 **duas a quatro frases**, podendo conter citação direta curta ~~ou indireta~~.
 
 ### Bloco 2 - **Sustentação - autor 1**
