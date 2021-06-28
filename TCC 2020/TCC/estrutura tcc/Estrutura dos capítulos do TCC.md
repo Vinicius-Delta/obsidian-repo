@@ -11,12 +11,26 @@ Os objetivos são obrigatórios para todos os trabalhos (Projeto e TCC). Para ta
 • Objetivo geral - Informação geral e genérica do objetivo deve ser alcançada;  
 • Objetivos específicos (obs.: Devem ser expressos em tópicos separados econsecutivos) - devem apresentar claramente e detalhadamente os objetivos que deverão ser alcançados pela execução da proposta de pesquisa, os verbos precisam denotar ações a serem desenvolvidas pelo autor
 
-### Hipóteses:  
+### ~~Hipóteses:~~
 A hipótese é um elemento obrigatório do **projeto de pesquisa (ou pré-projetos).** Nesse tópico que descreve o ponto primordial do tema a ser pesquisado, usualmente uma dificuldade sentida, compreendida e definida, necessita de resposta “provável, suposta e provisória”.
 
 Contudo, no decorrer do trabalho e pesquisa, as hipóteses podem ser confirmadas ou não, ou mesmo parcialmente confirmadas.
 
-###
+### Revisão bibliográfica (Justificativa ou Referencial Teórico):  
+A revisão literária (ou bibliográfica) é um tópico obrigatório do projeto e do TCC. É esse embasamento bibliográfico, através de artigos, trabalhos e outras  produções científicas ou técnicas que irá fornecer os antecedentes sobre o tema em estudo, além de trazer informações sobre os aspectos metodológicos.
+
+ ### Materiais e Métodos:  
+Tópico obrigatório de todos os trabalhos. É a descrição detalhada de todas as atividades, técnicas, procedimentos e instrumentos a serem usados ou desenvolvidos para a valiação dos dados (teóricos ou de campo) com os quais se desenvolverá o estudo proposto na pesquisa.
+
+### ~~Cronograma (Atividades):~~
+O cronograma é a distribuição, ao longo de uma linha temporal, das fases/atividades da pesquisa, e é seção obrigatória para o Projeto de Pesquisa (pré-projeto). Deve contemplar desde a escolha do tema até a defesa do projeto ou  monografia (TCC).
+
+ ### - Resultado e Discussão:  
+Os resultados e discussão é um tópico obrigatório para o Trabalho de Conclusão de Curso, e podem ser apresentados em tópicos separados.
+> Precisa ser adaptado para Design
+
+Conclusão:
+
 
 ---
 Referência
