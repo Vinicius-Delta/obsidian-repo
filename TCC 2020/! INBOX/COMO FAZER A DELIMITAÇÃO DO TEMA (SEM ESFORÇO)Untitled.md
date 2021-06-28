@@ -1,5 +1,11 @@
 # COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO)
-
+## Delimitação do Tema
+### Assunto
+### Extensão
+## Como Fazer a Delimitação do Tema
+### 1\. Definir o tema
+### 2\. Definir o problema
+> **Palavra Qualificadora + Tema + Ligação da hipótese + Recursos/Solução atual**
 
 ### Referência
 1.  [Definir o tema;](https://guiadamonografia.com.br/como-fazer-a-delimitacao-do-tema/#definir-tema)
