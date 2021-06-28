@@ -58,7 +58,17 @@ Faça sua própria argumentação aqui. Trata-se de por em vista sua opinião em
 -   No máximo 8 linhas para a citação direta longa.
 -   Procure no livro algo sobre a importância do tema.
 
-### Bloco 8 - Argumentação**
+### Bloco 8 - Argumentação
+> Argumente sobre a citação direta acima, você pode concordar ou discordar, tudo isso com base no que foi dito até agora no capítulo.
+> Para toda citação direta longa, logo abaixo vem uma argumentação. Tenha isso como regra.
+-   O objetivo aqui é apontar dentro da citação direta trechos interessantes para o leitor.
+-   Você escreve algo tipo: Perceba que o autor diz…
+-   Force o leitor a ler a citação direta longa chamando atenção sobre alguma coisa.
+
+### Bloco 9 - Conclusão
+> Volte a mencionar tudo que foi dito nos blocos de argumentação.
+-   De duas (2) a três (3) frases bastam.
+-   A ultima frase faça um fechamento da ideia que indique fim do que está sendo abordado. Tipo: Por fim, \[…\]
 
 ## Referência
 [Como Funciona TCC em Blocos? Método de Escrita (guiadamonografia.com.br)](https://guiadamonografia.com.br/como-funciona-tcc-em-blocos/)
