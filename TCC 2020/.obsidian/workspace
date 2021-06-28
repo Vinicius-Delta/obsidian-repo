@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 262,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -149,9 +150,9 @@
   "active": "39b1bfc40c6d2082",
   "lastOpenFiles": [
     "TCC/entregas/monografia/TCC 2/Estrutura do TCC.md",
+    "TCC/estrutura tcc/Estrutura dos capítulos do TCC.md",
     "TCC/estrutura tcc/TCC em bloco.md",
     "! INBOX/[TCC em bloco.md",
-    "TCC/estrutura tcc/Estrutura dos capítulos do TCC.md",
     "TCC/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
     "daily/2021-06-28.md",
     "daily/2021-05-01.md",
