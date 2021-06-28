@@ -8,20 +8,20 @@ Lembre-se do método
 # Introdução
 [[Estrutura dos capítulos do TCC#Introdução]]
 
-> Parágrafo 1: O que é esse trabalho?
+> Parágrafo 1: O que é esse trabalho?  - Tópico
 
-> Parágrafo 2: Qual é a finalidade? (objetivo)
+> Parágrafo 2: Qual é a finalidade? (objetivo) - Sustentação
 
-> Parágrafo 3: Qual é o tema? (área do design)
+> Parágrafo 3: Qual é o tema? (área do design) - Tópico
 
-> Parágrafo 4: Sustentação sobre o tema
+> Parágrafo 4: Sustentação sobre o tema - Sustentação
 
-> Parágrafo 5: Qual é o problema? (social)
+> Parágrafo 5: Qual é o problema? (social) - Tópico
 
-> Parágrafo 6: Citação indireta que comprove a existência desse problema
+> Parágrafo 6: Citação indireta que comprove a existência desse problema - Sustentação
 
-> Parágrafo 6: O que tem a ver? (importância do design X sociedade)
+> Parágrafo 7: O que tem a ver? (importância do design X sociedade) - Argumento
 
-> Paraágrafo 7: Citação que sustente essa relação
+> Parágrafo 8: Citação que sustente essa relação - Sustentação
 
-> Parágrafo final: Porque esse tema?
+> Parágrafo final: Porque escolhi esse tema? - Conclusão
