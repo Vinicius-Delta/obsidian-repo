@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/SILVA et al., 2020.md",
-            "mode": "preview"
+            "file": "TCC/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c9ba9fe4540ab14b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+            "mode": "source"
           }
         }
       },
@@ -20,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Elementos exclusivos do Projeto de Pesquisa.md",
+            "file": "meta obisidian/Hashtags.md",
             "mode": "source"
           }
         }
@@ -50,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#estrutura-do-tcc",
+                "query": "#estr",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,13 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -89,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Elementos exclusivos do Projeto de Pesquisa.md",
+                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Elementos exclusivos do Projeto de Pesquisa.md"
+                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md"
               }
             }
           },
@@ -137,17 +146,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "1fc3aa7c8429af46",
+  "active": "c9ba9fe4540ab14b",
   "lastOpenFiles": [
-    "! INBOX/Sem título.md",
     "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
-    "TCC/referências/SILVA et al., 2020.md",
     "TCC/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md",
+    "meta obisidian/Hashtags.md",
+    "TCC/referências/SILVA et al., 2020.md",
+    "TCC/orientações/Orientação 2020.03.20.md",
+    "! INBOX/Sem título.md",
     "TCC/entregas/monografia/TCC 2/Estrutura do TCC.md",
     "TCC/referências/SANTA-ROSA et al., 2019.md",
     "TCC/estrutura tcc/Estrutura dos capítulos do TCC.md",
-    "TCC/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
-    "meta obisidian/Hashtags.md",
-    "TCC/estrutura tcc/TCC em bloco.md"
+    "TCC/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md"
   ]
 }

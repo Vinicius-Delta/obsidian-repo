@@ -29,7 +29,7 @@ Definir melhor
 
 Forma é conteúdo
 
-"Como o design porde intervir no _problema informacional_ " #promissor 
+"Como o design pode intervir no _problema informacional_ " #seed  
 ---
 
 ## Objetivo geral

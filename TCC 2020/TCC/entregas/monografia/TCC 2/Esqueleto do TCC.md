@@ -14,6 +14,7 @@ Lembre-se do método
 
 # Introdução
 [[Estrutura dos capítulos do TCC#Introdução]]
+[[5 dicas que irão ajudar a fazer seu TCC de Design#^353553]]
 
 > Parágrafo 1: O que é esse trabalho?  - Tópico
 
@@ -53,3 +54,4 @@ Lembre-se do método
 # Considerações finais
 
 # Referências
+[[SILVA et al., 2020#10 Bibliografia]]

@@ -1,4 +1,5 @@
-#estrutura-do-tcc 
+Tags: #estrutura-do-tcc 
+
 ### Faça um sumário bem estruturado.
 ![Modelo de Sumário](https://www.designimador.com.br/wp-content/uploads/2017/03/Sum%C3%A1rio.png)
 
@@ -28,7 +29,8 @@
 Referências
 
 -------
-**Pergunte: O que você está propondo? Qual impacto terá o seu projeto?**
+### Sobre a introdução
+**Pergunte: O que você está propondo? Qual impacto terá o seu projeto?** ^353553
 
 Lembrando que deverá ser apresentado de forma sucinta porque é apenas a introdução e você terá mais tempo para desenvolver esses requisitos.
 
@@ -36,5 +38,5 @@ Lembrando que deverá ser apresentado de forma sucinta porque é apenas a introd
 -   Seguimento (light design)
 -   Objeto (lampiões e candeeiros)
 ------
-Referência
+### Referência
 [5 dicas que irão ajudar a fazer seu TCC de Design (designimador.com.br)](https://www.designimador.com.br/3-dicas-que-irao-ajudar-fazer-seu-tcc/)
