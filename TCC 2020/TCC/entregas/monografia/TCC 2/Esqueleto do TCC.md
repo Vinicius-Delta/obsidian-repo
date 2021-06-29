@@ -14,6 +14,8 @@ Lembre-se do método
 [[SILVA et al., 2020#2 Resumo]]
 [[SANTA-ROSA et al., 2019#Resumo]]
 
+   Palavras-chave: Webdesign.  Usabilidade.  Design  para  web.
+
 # Introdução
 [[Estrutura dos capítulos do TCC#Introdução]]
 [[5 dicas que irão ajudar a fazer seu TCC de Design#Sobre a introdução]]
