@@ -25,3 +25,13 @@ Lembre-se do método
 > Parágrafo 8: Citação que sustente essa relação - Sustentação
 
 > Parágrafo final: Porque escolhi esse tema? - Conclusão
+
+
+# Objetivo Geral e Específico  
+[[Estrutura do TCC#Objetivo Geral e Específico]]
+
+# Justificativa  
+[[Estrutura do TCC#Justificativa]]
+
+# Metodologia
+[[Estrutura do TCC#Metodologia]]
