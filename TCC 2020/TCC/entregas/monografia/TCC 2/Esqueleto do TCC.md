@@ -36,10 +36,20 @@ Lembre-se do método
 
 # Objetivo Geral e Específico  
 [[Estrutura dos capítulos do TCC#Objetivos Gerais e Objetivos específicos]]
-
+[[SILVA et al., 2020#6 Objetivos Para quê]]
 
 # Justificativa  
-
+[[SILVA et al., 2020#5 Justificativa ou motivação]]
 
 # Metodologia
 [[Estrutura dos capítulos do TCC#Materiais e Métodos]]
+[[SILVA et al., 2020#7 Fontes procedimentos e etapas]]
+
+# Referencial teórico
+[[SILVA et al., 2020#4 Fundamentação Teórica ou Revisão da Literatura]]
+
+# Criação
+
+# Considerações finais
+
+# Referências
