@@ -1,4 +1,4 @@
- #estrutura-do-tcc 
+Tags: #estrutura-do-tcc #bud 
  ##  Elementos Textuais
    
  ### Introdução:  
@@ -40,5 +40,5 @@ e jamais deve conter citações de autores.
 
 
 ---
-Referência
+### Referência
 SILVA, D. F. DA et al. **Manual Prático para Elaboração de Trabalhos de Conclusão de Curso**. \[s.l.\] Editora Blucher, 2020.

@@ -8,13 +8,15 @@ Lembre-se do método
 
 # Título
 [[SILVA et al., 2020#1 Título]]
+[[[SANTA-ROSA et al., 2019#Sobre o título]]
 
 # Resumo
 [[SILVA et al., 2020#2 Resumo]]
+[[SANTA-ROSA et al., 2019#Resumo]]
 
 # Introdução
 [[Estrutura dos capítulos do TCC#Introdução]]
-[[5 dicas que irão ajudar a fazer seu TCC de Design#^353553]]
+[[5 dicas que irão ajudar a fazer seu TCC de Design#Sobre a introdução]]
 
 > Parágrafo 1: O que é esse trabalho?  - Tópico
 
@@ -48,10 +50,15 @@ Lembre-se do método
 
 # Referencial teórico
 [[SILVA et al., 2020#4 Fundamentação Teórica ou Revisão da Literatura]]
+[[SANTA-ROSA et al., 2019#Abertura e Fechamento de Capítulos]]
 
 # Criação
+ 
+ # Resultado e Discussão:  
+[[Estrutura dos capítulos do TCC#Resultado e Discussão]]
 
 # Considerações finais
+[[Estrutura dos capítulos do TCC#Conclusão]]
 
 # Referências
 [[SILVA et al., 2020#10 Bibliografia]]

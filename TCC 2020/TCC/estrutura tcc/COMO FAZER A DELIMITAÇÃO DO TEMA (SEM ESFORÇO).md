@@ -1,4 +1,4 @@
-#estrutura-do-tcc 
+Tags: #estrutura-do-tcc #seed 
 # COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO)
 ## Delimitação do Tema
 ### Assunto
