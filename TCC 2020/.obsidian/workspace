@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Sem título.md",
-            "mode": "source"
+            "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+            "mode": "preview"
           }
         }
       },
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Sem título.md",
+                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Sem título.md"
+                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md"
               }
             }
           },
@@ -160,15 +159,15 @@
   },
   "active": "c9ba9fe4540ab14b",
   "lastOpenFiles": [
-    "! INBOX/Sem título.md",
     "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+    "daily/2021-06-29.md",
+    "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
+    "! INBOX/Sem título.md",
     "! INBOX/Elementos exclusivos do Projeto de Pesquisa.md",
     "TCC/referências/SANTA-ROSA et al., 2019.md",
     "meta obisidian/Hashtags.md",
     "TCC/estrutura tcc/Estrutura dos capítulos do TCC.md",
     "TCC/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
-    "TCC/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md",
-    "TCC/referências/SILVA et al., 2020.md",
-    "TCC/orientações/Orientação 2020.03.20.md"
+    "TCC/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md"
   ]
 }
