@@ -35,22 +35,21 @@ refutar a hipótese;
 ##   A estrutura do projeto enquanto texto
 \- p.24
 
- 1. **Título**: O título identifica, preliminarmente, o assunto que se pretende  
-pesquisar. Ainda que provisório, o mesmo que se prevê dar ao trabalho  
-final que relatará os resultados da pesquisa. O título deve expressar, o mais  
-fielmente possível, o conteúdo temático do trabalho. ==derá, eventualmente, ser metafórico, mas, nesses casos, dever-se-á acrescentar um subtítulo  
-tematicamente expressivo. == ^57bfe8
+---
+ #### 1. **Título**
+ O título identifica, preliminarmente, o assunto que se pretende pesquisar. Ainda que provisório, o mesmo que se prevê dar ao trabalho final que relatará os resultados da pesquisa. O título deve expressar, o mais fielmente possível, o conteúdo temático do trabalho. ==derá, eventualmente, ser metafórico, mas, nesses casos, dever-se-á acrescentar um subtítulo tematicamente expressivo. == ^57bfe8
 
 ---
-
-2. **Resumo**: O resumo deve apresentar informações essenciais para que o  
+#### 2. **Resumo**
+O resumo deve apresentar informações essenciais para que o  
 leitor possa entender os aspectos mais importantes da proposta de pesquisa  
 e contemplar de forma resumida os itens: ==trodução e justificativa, problema de pesquisa, objetivos, metodologia, forma de análise dos resultados.  ==
 Palavras-chaves: no mínimo 3 (http://decs.bvs.br/).   ^48e934
 
 ---
 
-3. **Introdução**: A introdução é a apresentação do projeto e nela o autor deverá definir e caracterizar seu objeto de estudo. A introdução ainda delimita o escopo do trabalho. ==nela que se retira o assunto específico de um todo mais amplo no qual ele está inserido. Esta parte do Projeto tem-se uma apresentação em que se exporá sinteticamente como se chegou ao tema de investigação, quais foram as gêneses do problema, as circunstâncias que interferiram nesse processo, por que se fez tal opção, se houve antecedentes.== Esta é a parte mais pessoal da exposição do projeto, único momento em que o pesquisador pode referir-se a motivos de ordem pessoal. A introdução deve conter:
+#### 3. **Introdução**
+A introdução é a apresentação do projeto e nela o autor deverá definir e caracterizar seu objeto de estudo. A introdução ainda delimita o escopo do trabalho. ==nela que se retira o assunto específico de um todo mais amplo no qual ele está inserido. Esta parte do Projeto tem-se uma apresentação em que se exporá sinteticamente como se chegou ao tema de investigação, quais foram as gêneses do problema, as circunstâncias que interferiram nesse processo, por que se fez tal opção, se houve antecedentes.== Esta é a parte mais pessoal da exposição do projeto, único momento em que o pesquisador pode referir-se a motivos de ordem pessoal. A introdução deve conter:
 
 
    a) O assunto que será investigado: deve-se apresentar o tema que foi analisado no trabalho, se foi um animal, um vegetal, órgão, célula, molécula, uma reação química, um processo fisiológico ou patológico, uma máquina, uma técnica, um modelo de organização, uma lei ou norma, entre outros.  Assim, o assunto que será analisado necessita ser conceituado, seus limites definidos e muito bem referenciado. Algumas questões importantes de  serem respondidas são: ==Quais as características desse sistema? Qual a sua  importância? Onde ocorre? Esses dados podem ser de outros autores, e  assim, devem ser **referidos adequadamente**.  ==
@@ -61,48 +60,23 @@ Palavras-chaves: no mínimo 3 (http://decs.bvs.br/).   ^48e934
 
 ---
 
- 4. **Fundamentação Teórica ou Revisão da Literatura**: Neste tópico do  
-Projeto precisa mostrar qual a importância do trabalho a ser feito e por  
-que ele é possível de ser executado. ==Assim, deve ficar claro como o projeto  
-pode contribuir para a área de pesquisa, como vai preencher uma lacuna no conhecimento ou propor novas maneiras de se interpretar um tema  
-conhecido.== Desta forma, neste ponto deve-se adiantar a contribuição que  
-se espera dar com os resultados da pesquisa, justificando-se assim a relevância e a oportunidade de sua realização, mediante o desenvolvimento do  
-Projeto. Este é o momento de se referir então aos estudos anteriores já feitos sobre o tema para assinalar suas eventuais limitações e destacar, assim,  
-a necessidade de se continuar a pesquisá-lo e as contribuições que o seu  
-trabalho dará, justificando-o desta maneira. É o que denomina a revisão de    literatura, processo necessário para que se possa avaliar o que já se produziu sobre o assunto em pauta, situando-se, a partir daí, a contribuição que  
-a pesquisa projetada pode dar ao conhecimento do objeto a ser pesquisado.  
-A justificativa referenciada (Fundamentação Teórica) é de suma importância para a qualidade de um projeto, pois é nesse momento que se mostra  
-o quão bem fundamentado está o pensamento do pesquisador (aluno) e, em  
-adição, quão aprofundada é a sua visão estratégica. Um trabalho científico  
-não pode jamais ser justificado pelas vontades e desejos de um indivíduo  
-(senso comum), nem devem estar pautados exclusivamente pelas necessidades imediatas de obrigações institucionais. ==É nesse ponto que ocorrerá a  
+#### 4. **Fundamentação Teórica ou Revisão da Literatura**
+Neste tópico do Projeto precisa mostrar qual a importância do trabalho a ser feito e por que ele é possível de ser executado. ==Assim, deve ficar claro como o projeto pode contribuir para a área de pesquisa, como vai preencher uma lacuna no conhecimento ou propor novas maneiras de se interpretar um tema conhecido.== Desta forma, neste ponto deve-se adiantar a contribuição que se espera dar com os resultados da pesquisa, justificando-se assim a relevância e a oportunidade de sua realização, mediante o desenvolvimento do Projeto. Este é o momento de se referir então aos estudos anteriores já feitos sobre o tema para assinalar suas eventuais limitações e destacar, assim, a necessidade de se continuar a pesquisá-lo e as contribuições que o seu trabalho dará, justificando-o desta maneira. É o que denomina a revisão de    literatura, processo necessário para que se possa avaliar o que já se produziu sobre o assunto em pauta, situando-se, a partir daí, a contribuição que  a pesquisa projetada pode dar ao conhecimento do objeto a ser pesquisado.  A justificativa referenciada (Fundamentação Teórica) é de suma importância para a qualidade de um projeto, pois é nesse momento que se mostra  o quão bem fundamentado está o pensamento do pesquisador (aluno) e, em  adição, quão aprofundada é a sua visão estratégica. Um trabalho científico  não pode jamais ser justificado pelas vontades e desejos de um indivíduo  (senso comum), nem devem estar pautados exclusivamente pelas necessidades imediatas de obrigações institucionais. ==É nesse ponto que ocorrerá a  
 concatenação de um grande volume de conhecimento adquirido até então.  ==
-Assim, a justificativa mostra com enorme clareza quanto o aluno aproveitou de sua formação prévia, e com quanta clareza e seriedade ele está  
-tratando do trabalho que vem a seguir, seu TCC. Após a Fundamentação  
-Teórica, o trabalho requer uma demonstração clara de seus objetivos.
+Assim, a justificativa mostra com enorme clareza quanto o aluno aproveitou de sua formação prévia, e com quanta clareza e seriedade ele está  tratando do trabalho que vem a seguir, seu TCC. Após a Fundamentação Teórica, o trabalho requer uma demonstração clara de seus objetivos.
 
 >    bs.: Relacionar o tema e o problema da pesquisa aos trabalhos que já versaram sobre o assunto realizando uma síntese da literatura fundamental para o  desenvolvimento da pesquisa. Recomenda-se a utilização das normas preconizadas pela Associação Brasileira de Normas Técnicas (ABNT) para citações de livros, artigos, capítulos de livros, etc., com especial cuidado ao fazer citações livres ou indiretas, evitando apropriações indevidas das ideias dos autores utilizados (evitar plágio).  
 
 > ==Dependendo da organização do projeto e/ou futuro TCC (projeto já realizado e com dados científicos, discutido posteriormente) a Fundamentação  Teórica pode estar vinculada na Introdução.  ==
 
-> ==A Fundamentação Teórica, que é um texto referenciado justificando o  
-projeto ou trabalho científico, não pode ser confundida com o tipo de estudo  
-denominado “Revisão da Literatura” que se trata de um tipo de trabalho  
-científico no qual diversos artigos, estudos e trabalhos relacionados de um  
-determinado assunto são levantados e, somente com o levantamento bibliográfico em bases de dados científicos, tenha-se uma discussão e conclusão  
-final. ==A Revisão da Literatura como Trabalho Científico ou TCC será melhor  
-descrito posteriormente.
+> ==A Fundamentação Teórica, que é um texto referenciado justificando o  projeto ou trabalho científico, não pode ser confundida com o tipo de estudo denominado “Revisão da Literatura” que se trata de um tipo de trabalho científico no qual diversos artigos, estudos e trabalhos relacionados de um determinado assunto são levantados e, somente com o levantamento bibliográfico em bases de dados científicos, tenha-se uma discussão e conclusão final. ==A Revisão da Literatura como Trabalho Científico ou TCC será melhor descrito posteriormente.
 
 ---
 
- 5. **Justificativa ou motivação**: Delimitar as questões ou problemas que se  
-pretende abordar e, se for o caso, as hipóteses a serem estudadas, relacionando ==os motivos de ordem prática e teórica que tornam importante a  
-realização dessa pesquisa.==
+ #### 5. **Justificativa ou motivação**
+Delimitar as questões ou problemas que se pretende abordar e, se for o caso, as hipóteses a serem estudadas, relacionando ==os motivos de ordem prática e teórica que tornam importante a realização dessa pesquisa.==
 
->    Obs.: ==A Justificativa ou motivação pode estar inserida diretamente na  
-Introdução ou na Fundamentação Teórica==, tudo dependendo da organização  
-do projeto e/ou TCC (projeto já realizado e com dados científicos, discutido  
-posteriormente).
+>    Obs.: ==A Justificativa ou motivação pode estar inserida diretamente na Introdução ou na Fundamentação Teórica==, tudo dependendo da organização do projeto e/ou TCC (projeto já realizado e com dados científicos, discutido posteriormente).
 
 ---
 
@@ -121,7 +95,8 @@ muito clara do problema a ser resolvido.
 
 ---
 
-7. **Fontes, procedimentos e etapas**: Este item também poderá ser denominado de “Materiais e Métodos”. Neste momento são descritos os materiais,  organismos, reagentes e suas concentrações e quantidades, equipamentos,  bem como os procedimentos, protocolos e como será planejado o experimento. ==Deve-se deixar claro ao leitor como será feito o trabalho para que ele possa avaliar adequadamente a viabilidade, possíveis resultados e, se desejar, poder sugerir modificações. Nesta etapa, devem ser anunciadas  as fontes (empíricas, documentais, laboratoriais, bibliográficas) com que o  pesquisador conta para a realização da pesquisa e os procedimentos metodológicos e técnicos que usará, deixando bem claro como é que vai proceder.== À vista dos objetivos perseguidos, da natureza do objeto pesquisado e dos procedimentos possíveis, necessita-se indicar as etapas de seu processo de investigação, tendo bem presente que os resultados de cada uma  destas etapas é que constituirão as partes do relatório final do trabalho, ou  seja, os seus capítulos. Considerações importantes:
+#### 7. **Fontes, procedimentos e etapas**
+Este item também poderá ser denominado de “Materiais e Métodos”. Neste momento são descritos os materiais,  organismos, reagentes e suas concentrações e quantidades, equipamentos,  bem como os procedimentos, protocolos e como será planejado o experimento. ==Deve-se deixar claro ao leitor como será feito o trabalho para que ele possa avaliar adequadamente a viabilidade, possíveis resultados e, se desejar, poder sugerir modificações. Nesta etapa, devem ser anunciadas  as fontes (empíricas, documentais, laboratoriais, bibliográficas) com que o  pesquisador conta para a realização da pesquisa e os procedimentos metodológicos e técnicos que usará, deixando bem claro como é que vai proceder.== À vista dos objetivos perseguidos, da natureza do objeto pesquisado e dos procedimentos possíveis, necessita-se indicar as etapas de seu processo de investigação, tendo bem presente que os resultados de cada uma  destas etapas é que constituirão as partes do relatório final do trabalho, ou  seja, os seus capítulos. Considerações importantes:
 	
 	~~a) O trabalho proposto pode também ser uma análise de outros trabalhos publicados sobre um determinado assunto e, se assim for, a metodologia é a  Pesquisa Bibliográfica.  ~~
 	
@@ -131,13 +106,15 @@ muito clara do problema a ser resolvido.
   
 ---
 
-  8. **Hipóteses ou Resultados Esperados**: No projeto deve-se explicitar a(s) hipótese(s) avançadas(s) para a solução do problema. Lembre-se de que todo trabalho científico constitui um raciocínio demonstrativo de alguma hipótese, pois é essa demonstração que soluciona o problema pesquisado.  
+  #### 8. **Hipóteses ou Resultados Esperados**
+  No projeto deve-se explicitar a(s) hipótese(s) avançadas(s) para a solução do problema. Lembre-se de que todo trabalho científico constitui um raciocínio demonstrativo de alguma hipótese, pois é essa demonstração que soluciona o problema pesquisado.  
   
   > Obs.: Sinalizar os resultados e conclusões que, espera-se, poderão ser obtidos com a realização da pesquisa. ==As Hipóteses ou Resultados Esperados estão presentes apenas no projeto de pesquisa, pois é sabido que um Trabalho  Científico ou TCC (para alunos concluintes da graduação) os resultados já  foram alcançados e as hipóteses mantidas ou refutadas.==
 
 ---
 
-   9. **Cronograma**: O cronograma revela a capacidade de planejamento e organização do pesquisador (estudante). Assim, se os objetivos estiverem  claros, os procedimentos bem detalhados e definidos, é possível determinar a carga de trabalho. Contudo, mostra-se necessário avaliar com clareza  e realismo o tempo necessário para a realização de todas as tarefas e processos. O pesquisador deve indicar no seu projeto as várias etapas, distribuindo-as no tempo disponível para as atividades previstas pela pesquisa,  incluindo a redação final. Não confundir os passos cronológicos com as etapas de investigação. O cronograma detalhado, em justificado com os  objetivos específicos, dá indícios da disciplina e capacidade de organização do pesquisador (aluno) e evita dissabores com prazos posteriormente.
+   #### 9. **Cronograma**
+   O cronograma revela a capacidade de planejamento e organização do pesquisador (estudante). Assim, se os objetivos estiverem  claros, os procedimentos bem detalhados e definidos, é possível determinar a carga de trabalho. Contudo, mostra-se necessário avaliar com clareza  e realismo o tempo necessário para a realização de todas as tarefas e processos. O pesquisador deve indicar no seu projeto as várias etapas, distribuindo-as no tempo disponível para as atividades previstas pela pesquisa,  incluindo a redação final. Não confundir os passos cronológicos com as etapas de investigação. O cronograma detalhado, em justificado com os  objetivos específicos, dá indícios da disciplina e capacidade de organização do pesquisador (aluno) e evita dissabores com prazos posteriormente.
 
 >    Obs.: Indicar, em semanas, meses, bimestres, trimestres ou semestres, as  etapas previstas para o desenvolvimento da pesquisa, justificando a exequibilidade do trabalho dentro do tempo regulamentar previsto para o período  abrangido (cronograma). ==O Cronograma está presente apenas no projeto de  pesquisa==, pois é sabido que num Trabalho Científico ou TCC (para alunos  concluintes da graduação) todas as etapas já foram, caso contrário deve ser  justificado no trabalho final o motivo de não ter conseguido atingir o cronograma proposto.
 
