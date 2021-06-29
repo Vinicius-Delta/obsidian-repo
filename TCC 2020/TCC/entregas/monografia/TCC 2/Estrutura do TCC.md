@@ -28,10 +28,11 @@ Lembre-se do método
 
 
 # Objetivo Geral e Específico  
-[[Estrutura do TCC#Objetivo Geral e Específico]]
+[[Estrutura dos capítulos do TCC#Objetivos Gerais e Objetivos específicos]]
+
 
 # Justificativa  
-[[Estrutura do TCC#Justificativa]]
+
 
 # Metodologia
-[[Estrutura do TCC#Metodologia]]
+[[Estrutura dos capítulos do TCC#Materiais e Métodos]]
