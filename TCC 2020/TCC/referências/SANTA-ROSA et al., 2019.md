@@ -1,4 +1,4 @@
-## Sugestões iniciais para quem está começando o TCC
+## Sugestões iniciais para quem está começando o TCC #estrutura-do-tcc
 **Sobre o título**
 no caso de TCC, o ideal é que  reflitam com a maior precisão possível o que foi feito  de fato na pesquisa, ainda que sempre exista lugar  para uma exceção.
 
@@ -10,17 +10,10 @@ Embora não seja uma exigência ou regra, sugerimos  que, ==ao início de cada c
 
 **Algumas falhas comuns, e outras nem tão comuns assim, em TCCs reais:**
  * Ausência de uma criteriosa revisão ortográfica e gramatical.
- * Falha nas referências a números de figuras, tabelas e  
-imagens no corpo do texto.
- * Trabalhos que constam no capítulo referências sem que  
-sejam citados no corpo do texto.
-* Autores que são apresentados no corpo do texto, mas que  
-não têm seus trabalhos incluídos no capítulo Referências.
-* Porcentagem para número pequeno, por exemplo: uma  
-pesquisa foi realizada com seis pessoas, constando no  
-texto observação sobre 50% dos participantes (quando,  
-na verdade, seria mais interessante escrever três dos seis  
-participantes etc.).
+ * Falha nas referências a números de figuras, tabelas e imagens no corpo do texto.
+ * Trabalhos que constam no capítulo referências sem que sejam citados no corpo do texto.
+* Autores que são apresentados no corpo do texto, mas que não têm seus trabalhos incluídos no capítulo Referências.
+* Porcentagem para número pequeno, por exemplo: uma pesquisa foi realizada com seis pessoas, constando no texto observação sobre 50% dos participantes (quando, na verdade, seria mais interessante escrever três dos seis participantes etc.).
 
 ----
 SANTA-ROSA, J. G. (ORG) et al. **TCC em Design: um guia de boas práticas**. [s.l.] SEDIS_UFRN, 2019.

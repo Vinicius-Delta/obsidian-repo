@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md",
+            "file": "TCC/entregas/monografia/TCC 2/Estrutura do TCC.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "3533de559c858293",
+        "id": "e884067bcfdd8e49",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/SANTA-ROSA et al., 2019.md",
+            "file": "TCC/entregas/monografia/TCC 2/Estrutura do TCC.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#to-do",
+                "query": "tag:#estrutura-do-tcc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,12 +67,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/SANTA-ROSA et al., 2019.md",
+                "file": "TCC/entregas/monografia/TCC 2/Estrutura do TCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/SANTA-ROSA et al., 2019.md"
+                "file": "TCC/entregas/monografia/TCC 2/Estrutura do TCC.md"
               }
             }
           },
@@ -133,20 +133,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
-  "active": "3533de559c858293",
+  "active": "e884067bcfdd8e49",
   "lastOpenFiles": [
-    "TCC/referências/SANTA-ROSA et al., 2019.md",
-    "TCC/referências/SILVA et al., 2020.md",
-    "TCC/metaprojeto/Obejtivos.md",
-    "TCC/referências/KUCINSKI, Bernardo et al, 2015.md",
-    "TCC/referências/Sem título.md",
-    "TCC/referências/GARRETT, 2010.md",
     "TCC/entregas/monografia/TCC 2/Estrutura do TCC.md",
-    "TCC/estrutura tcc/Estrutura dos capítulos do TCC.md",
+    "meta obisidian/Hashtags.md",
     "TCC/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md",
-    "TCC/estrutura tcc/TCC em bloco.md"
+    "TCC/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
+    "TCC/estrutura tcc/Estrutura dos capítulos do TCC.md",
+    "TCC/estrutura tcc/TCC em bloco.md",
+    "TCC/referências/GARRETT, 2010.md",
+    "TCC/referências/KUCINSKI, Bernardo et al, 2015.md",
+    "TCC/referências/SILVA et al., 2020.md",
+    "TCC/referências/SANTA-ROSA et al., 2019.md"
   ]
 }
