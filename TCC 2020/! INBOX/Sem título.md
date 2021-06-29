@@ -27,3 +27,26 @@
 	4.1 Problema / Estratégia
 	4.2 Definição do problema / Estratégia
 	4.3 Componentes do problema / Estratégia
+		4.3.1 Briefing  
+		4.3.2  Websites concorrentes (cenário) 
+		4.3.3 Grupo Estelita 
+		4.3.4 Teste de usabilidade   
+		4.4.5 Websites na mesma área de atuação  
+	4.4 ANÁLISE DE DADOS / ESCOPO + ESTRUTURA  
+		4.5.1 Sistema de grid  
+		4.4.2 Interação com redes sociais  
+		4.4.3 Análise do público-alvo
+		4.5.4 Cores, marcas e tipografia   
+		4.4.5 Análise dos sites similares  
+		4.5.6 Estrutura do website a ser desenvolvida  
+	4.6 MATERIAIS E TECNOLOGIAS  
+	4.7 CRIATIVIDADE / ESTRUTURA + ESCOPO E SUPERFÍCIE 
+	4.8 CRIATIVIDADE/ESQUELETO /ESTRUTURA/ESQUELETO
+	4.9 EXPERIMENTAÇÃO/MODELO  
+	4.10 VERIFICAÇÃO   
+
+5 SOLUÇÃO   
+
+6 CONSIDERAÇÕES FINAIS 
+
+7 REFERÊNCIAS 
