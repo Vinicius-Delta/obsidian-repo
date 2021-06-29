@@ -7,11 +7,11 @@ Lembre-se do método
 [[TCC/estrutura tcc/TCC em bloco#Bloco 1 - Tópico Frasal]]
 
 # Título
-[[SILVA et al., 2020#^57bfe8]]
+[[SILVA et al., 2020#1 Título]]
 
 # Resumo
-[[SILVA et al., 2020#^48e934]]
-[[SILVA et al., 2020^]]
+[[SILVA et al., 2020#2 Resumo]]
+
 # Introdução
 [[Estrutura dos capítulos do TCC#Introdução]]
 
