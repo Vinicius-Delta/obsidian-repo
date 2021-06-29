@@ -38,4 +38,5 @@ https://coalizaonegrapordireitos.org.br/2021/06/18/nao-em-nosso-nome-nota-tac-ca
 
 Relatório da ONU
 https://domtotal.com/noticia/1524491/2021/06/relatorio-da-onu-sobre-racismo-na-policia-diz-que-paises-devem-parar-de-negar-o-problema/
+https://noticias.uol.com.br/colunas/jamil-chade/2021/06/28/inquerito-da-onu-por-floyd-denuncia-racismo-sistemico-na-policia-no-brasil.htm
 
