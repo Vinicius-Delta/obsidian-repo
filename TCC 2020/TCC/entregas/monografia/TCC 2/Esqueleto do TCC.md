@@ -6,9 +6,13 @@ Tags: #estrutura-do-tcc
 Lembre-se do método 
 [[TCC/estrutura tcc/TCC em bloco#Bloco 1 - Tópico Frasal]]
 
+---
+
 # Título
 [[SILVA et al., 2020#1 Título]]
 [[[SANTA-ROSA et al., 2019#Sobre o título]]
+
+---
 
 # Resumo
 [[SILVA et al., 2020#2 Resumo]]
@@ -27,7 +31,7 @@ Lembre-se do método
 #to-do Nessecita aplicar os conteúdos já escritos
 #to-do Transpor os feedbacks de Elias
 
----
+.
 
 > Parágrafo 1: O que é esse trabalho?  - Tópico
 
@@ -47,29 +51,59 @@ Lembre-se do método
 
 > Parágrafo final: Porque escolhi esse tema? - Conclusão
 
-
-# Objetivo Geral e Específico  
+---
+# Objetivo Geral e Específico
+**Referências:**
 [[Estrutura dos capítulos do TCC#Objetivos Gerais e Objetivos específicos]]
 [[SILVA et al., 2020#6 Objetivos Para quê]]
 
+**Status**
+#to-do Nessecita aplicar os conteúdos já escritos
+#to-do Transpor os feedbacks de Elias
+
+---
 # Justificativa  
+**Referência:**
 [[SILVA et al., 2020#5 Justificativa ou motivação]]
 
+**Status:**
+#to-do Aplicar o tcc em bloco para essa parte 
+#to-do Nessecita aplicar os conteúdos já escritos
+#to-do Transpor os feedbacks de Elias
+
+---
 # Metodologia
+**Referências:**
 [[Estrutura dos capítulos do TCC#Materiais e Métodos]]
 [[SILVA et al., 2020#7 Fontes procedimentos e etapas]]
 
+**Status:**
+#to-do Repensar o que é metodologia de projeto X metodologia de pesquisa
+#to-do Nessecita aplicar os conteúdos já escritos
+#to-do Transpor os feedbacks de Elias
+
+---
 # Referencial teórico
+**Referências:**
 [[SILVA et al., 2020#4 Fundamentação Teórica ou Revisão da Literatura]]
 [[SANTA-ROSA et al., 2019#Abertura e Fechamento de Capítulos]]
 
+**Status:**
+#to-do Repensar quais itens componhem o referencial, com base nas últimas leituras
+#to-do Nessecita aplicar os conteúdos já escritos
+#to-do Transpor os feedbacks de Elias
+
+---
 # Criação
+ ----
  
  # Resultado e Discussão:  
 [[Estrutura dos capítulos do TCC#Resultado e Discussão]]
 
+----
 # Considerações finais
 [[Estrutura dos capítulos do TCC#Conclusão]]
 
+-----
 # Referências
 [[SILVA et al., 2020#10 Bibliografia]]
