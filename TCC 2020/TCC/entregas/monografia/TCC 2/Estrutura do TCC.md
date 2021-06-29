@@ -1,8 +1,8 @@
-#to-do Aplicar o método [[TCC em bloco]] para estruturar os demais capítulos
+#to-do Aplicar o método [[TCC/estrutura tcc/TCC em bloco]] para estruturar os demais capítulos
 #to-do Rever a estrutura da introdução
 
 Lembre-se do método 
-[[TCC em bloco#Bloco 1 - Tópico Frasal]]
+[[TCC/estrutura tcc/TCC em bloco#Bloco 1 - Tópico Frasal]]
 
 
 # Introdução
