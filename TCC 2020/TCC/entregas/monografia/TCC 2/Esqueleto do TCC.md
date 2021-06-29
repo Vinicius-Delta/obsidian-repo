@@ -15,10 +15,19 @@ Lembre-se do método
 [[SANTA-ROSA et al., 2019#Resumo]]
 
    Palavras-chave: Webdesign.  Usabilidade.  Design  para  web.
+   
+   -----
 
 # Introdução
+**Referências:**
 [[Estrutura dos capítulos do TCC#Introdução]]
 [[5 dicas que irão ajudar a fazer seu TCC de Design#Sobre a introdução]]
+
+**Status:**
+#to-do Nessecita aplicar os conteúdos já escritos
+#to-do Transpor os feedbacks de Elias
+
+---
 
 > Parágrafo 1: O que é esse trabalho?  - Tópico
 
