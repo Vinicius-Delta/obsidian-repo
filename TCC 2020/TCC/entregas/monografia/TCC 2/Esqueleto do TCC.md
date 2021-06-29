@@ -95,9 +95,12 @@ Lembre-se do método
 
 ---
 # Criação
+**Status:**
+#to-do Repensar quais itens componhem o referencial, com base na metodologia e do similar. [[MELO, 2017]]
+
  ----
  
- # Resultado e Discussão:  
+ # Resultados e Discussão:  
 [[Estrutura dos capítulos do TCC#Resultado e Discussão]]
 
 ----
