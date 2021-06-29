@@ -24,17 +24,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "fb5ea72c5a87d902",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "! INBOX/[TCC em bloco.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -144,20 +133,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "active": "39b1bfc40c6d2082",
   "lastOpenFiles": [
     "daily/2021-06-28.md",
+    "TCC/estrutura tcc/TCC em bloco.md",
+    "daily/2021-06-29.md",
     "TCC/entregas/monografia/TCC 2/Estrutura do TCC.md",
     "TCC/estrutura tcc/Estrutura dos capítulos do TCC.md",
-    "TCC/estrutura tcc/TCC em bloco.md",
     "! INBOX/[TCC em bloco.md",
     "TCC/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
     "daily/2021-05-01.md",
     "daily/2021-01-28.md",
-    "TCC/entregas/monografia/TCC 2/Untitled.md",
-    "meta obisidian/Hashtags.md"
+    "TCC/entregas/monografia/TCC 2/Untitled.md"
   ]
 }
