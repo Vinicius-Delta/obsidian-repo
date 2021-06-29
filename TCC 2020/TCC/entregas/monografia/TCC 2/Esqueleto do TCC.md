@@ -1,4 +1,4 @@
-Conteúdo: #estrutura-do-tcc 
+Tags: #estrutura-do-tcc 
 
 #to-do Aplicar o método [[TCC/estrutura tcc/TCC em bloco]] para estruturar os demais capítulos
 #to-do Rever a estrutura da introdução
@@ -6,7 +6,12 @@ Conteúdo: #estrutura-do-tcc
 Lembre-se do método 
 [[TCC/estrutura tcc/TCC em bloco#Bloco 1 - Tópico Frasal]]
 
+# Título
+[[SILVA et al., 2020#^57bfe8]]
 
+# Resumo
+[[SILVA et al., 2020#^48e934]]
+[[SILVA et al., 2020^]]
 # Introdução
 [[Estrutura dos capítulos do TCC#Introdução]]
 

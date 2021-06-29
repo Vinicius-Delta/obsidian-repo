@@ -39,14 +39,14 @@ refutar a hipótese;
 pesquisar. Ainda que provisório, o mesmo que se prevê dar ao trabalho  
 final que relatará os resultados da pesquisa. O título deve expressar, o mais  
 fielmente possível, o conteúdo temático do trabalho. ==derá, eventualmente, ser metafórico, mas, nesses casos, dever-se-á acrescentar um subtítulo  
-tematicamente expressivo. ==
+tematicamente expressivo. == ^57bfe8
 
 ---
 
 2. **Resumo**: O resumo deve apresentar informações essenciais para que o  
 leitor possa entender os aspectos mais importantes da proposta de pesquisa  
 e contemplar de forma resumida os itens: ==trodução e justificativa, problema de pesquisa, objetivos, metodologia, forma de análise dos resultados.  ==
-Palavras-chaves: no mínimo 3 (http://decs.bvs.br/).  
+Palavras-chaves: no mínimo 3 (http://decs.bvs.br/).   ^48e934
 
 ---
 
@@ -57,7 +57,7 @@ Palavras-chaves: no mínimo 3 (http://decs.bvs.br/).
    
    b) A pergunta a ser respondida e sua importância: Após ter exposto o conhecimento inicial sobre o assunto, deve-se colocar qual a questão que se  pretende abordar no trabalho. ==O que se pretende exatamente analisar? O  que se quer demonstrar? As questões não devem ser vagas, ao contrário,  devem ser específicas e objetivas. Devem ser colocados os limites do trabalho: a partir de que ponto e até onde será analisada a questão.==
    
-   >    Obs.: Apresentação do tema, explicitando as razões (acadêmicas, científicas, sociais, etc.) da escolha do mesmo de forma sumária; deve situar o  leitor com objetividade desde a primeira linha sobre a relevância do tema e  explicitar a pertinência do projeto à área e à linha de pesquisa. E todos os  trabalhos de terceiros devem ser devidamente referenciados, caso contrário estará cometendo plágio.
+   >    Obs.: Apresentação do tema, explicitando as razões (acadêmicas, científicas, sociais, etc.) da escolha do mesmo de forma sumária; deve situar o  leitor com objetividade desde a primeira linha sobre a relevância do tema e  explicitar a pertinência do projeto à área e à linha de pesquisa. E todos os  trabalhos de terceiros devem ser devidamente referenciados, caso contrário estará cometendo plágio. ^17504e
 
 ---
 
