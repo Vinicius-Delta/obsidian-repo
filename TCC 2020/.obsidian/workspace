@@ -43,7 +43,7 @@
           "type": "markdown",
           "state": {
             "file": "meta obisidian/Hashtags.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meta obisidian/Hashtags.md",
+                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meta obisidian/Hashtags.md"
+                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md"
               }
             }
           },
@@ -158,11 +158,11 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "1fc3aa7c8429af46",
+  "active": "1cdc7db36de2d9ae",
   "lastOpenFiles": [
-    "meta obisidian/Hashtags.md",
     "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
     "TCC/orientações/Orientação 2020.03.20.md",
+    "meta obisidian/Hashtags.md",
     "daily/2021-06-30.md",
     "daily/2021-06-29.md",
     "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",

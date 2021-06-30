@@ -8,13 +8,13 @@ Lembre-se do método
 
 ---
 
-# Título
+## Título
 [[SILVA et al., 2020#1 Título]]
 [[[SANTA-ROSA et al., 2019#Sobre o título]]
 
 ---
 
-# Resumo
+## Resumo
 [[SILVA et al., 2020#2 Resumo]]
 [[SANTA-ROSA et al., 2019#Resumo]]
 
@@ -22,7 +22,7 @@ Lembre-se do método
    
    -----
 
-# Introdução
+## Introdução
 **Referências:**
 [[Estrutura dos capítulos do TCC#Introdução]]
 [[5 dicas que irão ajudar a fazer seu TCC de Design#Sobre a introdução]]
@@ -92,11 +92,11 @@ Lembre-se do método
 #to-do Repensar quais itens componhem o referencial, com base nas últimas leituras
 #to-do Nessecita aplicar os conteúdos já escritos
 #to-do Transpor os feedbacks de Elias
-> # Onde 
 ---
 # Criação
 **Status:**
 #to-do Repensar quais itens componhem o referencial, com base na metodologia e do similar. [[MELO, 2017]]
+#dúvida  Onde  inserir as análises? É aqui em criação?
 
  ----
  
