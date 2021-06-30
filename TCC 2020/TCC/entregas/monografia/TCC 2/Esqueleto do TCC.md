@@ -1,7 +1,7 @@
 Tags: #estrutura-do-tcc 
 
 **Status**
-#to-do Aplicar o método [[TCC/estrutura tcc/TCC em bloco]] para estruturar os demais capítulos
+- [ ] Aplicar o método [[TCC/estrutura tcc/TCC em bloco]] para estruturar os demais capítulos
 - [x] Rever a estrutura da introdução
 
 **Lembre-se do método **
@@ -55,8 +55,8 @@ Tags: #estrutura-do-tcc
 [[5 dicas que irão ajudar a fazer seu TCC de Design#Sobre a introdução]]
 
 **Status:**
-#to-do Nessecita aplicar os conteúdos já escritos
-#to-do Transpor os feedbacks de Elias
+- [ ] Nessecita aplicar os conteúdos já escritos
+- [ ] Transpor os feedbacks de Elias
 
 ---
 ### 1.1 Tema
@@ -67,7 +67,7 @@ Tags: #estrutura-do-tcc
 [[Orientação 2020.03.20#Problema]]
 
 **Status:**
-#to-do Incorporar o conteúdo da antiga justificativa aqui, [[Orientação 2020.03.20#^62b8d3|segundo Elias]].
+- [ ] Incorporar o conteúdo da antiga justificativa aqui, [[Orientação 2020.03.20#^62b8d3|segundo Elias]].
 
 **Exemplo**
 ![[Orientação 2020.03.20#Como o design pode intervir no _problema informacional_ seed]]
@@ -100,7 +100,7 @@ Tags: #estrutura-do-tcc
 [[Orientação 2020.03.20#Objetivos específicos]] 
 
 **Status**
-#to-do Refazer
+- [ ] Refazer todos os objetivos
 
 ---
 ### 1.4 Justificativa  
@@ -109,8 +109,8 @@ Tags: #estrutura-do-tcc
 [[Orientação 2020.03.20#Orientações]]
 
 **Status:**
-#to-do Aplicar o tcc em bloco para essa parte 
-#to-do Refazer
+- [ ] Aplicar o tcc em bloco para essa parte 
+- [ ] Refazer completamente a justificativa
 
 
 ---
@@ -121,15 +121,15 @@ Tags: #estrutura-do-tcc
 [[Orientação 2020.03.20#^9a9176]]
 
 **Status:**
-#to-do Repensar o que é metodologia de projeto X metodologia de pesquisa
-#to-do Refazer
+- [ ] Repensar o que é metodologia de projeto X metodologia de pesquisa
+- [ ] Refazer o capítulo metodologia de pesquisa com base no [[MELO, 2017|similar]]
 
 ---
 ### 1.6 Estrutura do trabalho
 É opcional, porém desejado. Escreva uma linha sobre qual é o conteúdo de cada capítulo
 
 **Status**
-#to-do Conferir o que eu escrevi em TCC 1
+- [ ] Conferir o que eu escrevi em TCC 1
 
 ---
 ## 2 Referencial teórico
@@ -138,8 +138,8 @@ Tags: #estrutura-do-tcc
 [[SANTA-ROSA et al., 2019#Abertura e Fechamento de Capítulos]]
 
 **Status:**
-#to-do Repensar quais itens componhem o referencial, com base nas últimas leituras. Verificar similar [[MELO, 2017]]
-#to-do Nessecita aplicar os conteúdos já escritos
+- [ ] Repensar quais itens componhem o referencial, com base nas últimas leituras. Verificar similar [[MELO, 2017]]
+- [ ] Nessecita aplicar os conteúdos já escritos
 
 **Exemplos**
 [[MELO, 2017#^f57998]]
@@ -150,7 +150,7 @@ Tags: #estrutura-do-tcc
 [[MELO, 2017|Similar]]
 
 **Status**
-#to-do Transpor o conteúdo do antigo TCC, a antiga metodologia deveria ser apresentada aqui.
+- [ ] Transpor o conteúdo do antigo TCC, a antiga metodologia deveria ser apresentada aqui.
 
 ---
 # Fase 2 e 3
@@ -160,8 +160,8 @@ São 6 etapas, então 5 páginas para cada?
 ----
 ## 4 Aplicação do Método
 **Status:**
-#dúvida  Onde  inserir as análises? É aqui em criação? Acho que sim
-#to-do Trazer o conteúdo e estrutura criada em TCC1 
+- [ ] Onde  inserir as análises? É aqui em criação? Acho que sim
+- [ ] Trazer o conteúdo e estrutura criada em TCC1 
 
 1. Estratégia
 Aqui será inserida as análises (e mais coisas)

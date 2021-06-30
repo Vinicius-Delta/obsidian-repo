@@ -1,10 +1,10 @@
-#to-read #site - Checar a plataforma fogo cruzado  
+- [ ] #site Checar a plataforma fogo cruzado  
   
-#to-do Atualizar a contextualização inicial  
+- [ ] Atualizar a contextualização inicial  
   
-#to-read #livro Ler "Bala Perdida"  
+- [ ] #to-read #livro Ler "Bala Perdida"  
   
-#to-do Escrever problematização:
+- [ ] Escrever problematização:
   ````
 \- Problema do projeto A: sobre familiares  
   

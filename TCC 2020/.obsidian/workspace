@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
-            "mode": "preview"
+            "file": "TCC/intenções/Lista do Nirvana 2020.md",
+            "mode": "source"
           }
         }
       },
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#nao-entendi",
+                "query": "tag:#to-do",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+                "file": "TCC/intenções/Lista do Nirvana 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md"
+                "file": "TCC/intenções/Lista do Nirvana 2020.md"
               }
             }
           },
@@ -159,6 +160,8 @@
   },
   "active": "21c91f40bed8418a",
   "lastOpenFiles": [
+    "TCC/intenções/Lista do Nirvana 2020.md",
+    "meta obisidian/Hashtags.md",
     "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
     "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
     "daily/2021-06-30.md",
@@ -166,8 +169,6 @@
     "daily/2021-01-28.md",
     "daily/2021-06-28.md",
     "daily/2021-06-29.md",
-    "TCC/referências/GARRETT, 2010.md",
-    "meta obisidian/Hashtags.md",
-    "TCC/orientações/Orientação 2020.03.20.md"
+    "TCC/referências/GARRETT, 2010.md"
   ]
 }
