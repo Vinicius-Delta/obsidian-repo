@@ -79,7 +79,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-01-28.md",
+            "file": "daily/2021-06-30.md",
             "mode": "preview"
           }
         }
@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-01-28.md",
+                "file": "daily/2021-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-01-28.md"
+                "file": "daily/2021-06-30.md"
               }
             }
           },
@@ -197,15 +196,15 @@
   },
   "active": "1fc3aa7c8429af46",
   "lastOpenFiles": [
+    "daily/2021-06-30.md",
+    "daily/2021-06-29.md",
+    "daily/2021-06-28.md",
+    "daily/2021-05-01.md",
     "daily/2021-01-28.md",
     "meta obisidian/Hashtags.md",
     "TCC/orientações/Orientação 2020.03.20.md",
     "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
     "TCC/referências/MELO, 2017.md",
-    "TCC/contatos/Elias Bittencourt.md",
-    "daily/2021-06-29.md",
-    "TCC/referências/SILVA et al., 2020.md",
-    "daily/2021-06-30.md",
-    "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md"
+    "TCC/contatos/Elias Bittencourt.md"
   ]
 }
