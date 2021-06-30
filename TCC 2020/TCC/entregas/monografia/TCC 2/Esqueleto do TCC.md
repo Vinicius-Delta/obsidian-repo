@@ -137,12 +137,19 @@ Lembre-se do método
 São 6 etapas, então 5 páginas para cada?
 
 ----
-## Criação
+## 4 Aplicação do Método
 **Status:**
 #dúvida  Onde  inserir as análises? É aqui em criação? Acho que sim
 #to-do Trazer o conteúdo e estrutura criada em TCC1 
 
+1. Estratégia
+Aqui será inserida as análises
 
+3. Estrutura
+4. Escopo
+5. Superfície
+6. Esqueleto
+7. Modelo
 
  ----
  # Fase 4
