@@ -101,17 +101,26 @@ Lembre-se do método
 ### 1.6 Estrutura do trabalho
 É opcional, porém desejado. Escreva uma linha sobre qual é o conteúdo de cada capítulo
 
+**Status**
+#to-do Conferir o que eu escrevi em TCC 1
 
 ---
-## Referencial teórico
+## 2 Referencial teórico
 **Referências:**
 [[SILVA et al., 2020#4 Fundamentação Teórica ou Revisão da Literatura]]
 [[SANTA-ROSA et al., 2019#Abertura e Fechamento de Capítulos]]
 
 **Status:**
-#to-do Repensar quais itens componhem o referencial, com base nas últimas leituras
+#to-do Repensar quais itens componhem o referencial, com base nas últimas leituras. Verificar similar [[MELO, 2017]]
 #to-do Nessecita aplicar os conteúdos já escritos
-#to-do Transpor os feedbacks de Elias
+
+**Exemplos**
+[[MELO, 2017#^f57998]]
+
+---
+## 3 Desenvolvimento do projeto de Design
+**Status**
+#to-do Transpor o conteúdo do antigo TCC, a antiga metodolo
 
 ---
 # Fase 2 e 3
@@ -120,8 +129,10 @@ Lembre-se do método
 ----
 ## Criação
 **Status:**
-#to-do Repensar quais itens componhem o referencial, com base na metodologia e do similar. [[MELO, 2017]]
-#dúvida  Onde  inserir as análises? É aqui em criação?
+#dúvida  Onde  inserir as análises? É aqui em criação? Acho que sim
+#to-do Trazer o conteúdo e estrutura criada em TCC1 
+
+
 
  ----
  # Fase 4
