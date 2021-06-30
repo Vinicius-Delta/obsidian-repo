@@ -42,6 +42,9 @@ Lembre-se do método
 
 ----
 ### 1.2 Problematização
+**Status:**
+#to-do Incorporar o da antiga justificativa aqui [[segundo Elias|Orientação 2020.03.20#^62b8d3]]
+
 
 > Parágrafo 1: O que é esse trabalho?  - Tópico
 
@@ -75,8 +78,7 @@ Lembre-se do método
 ### 1.4 Justificativa  
 **Referência:**
 [[SILVA et al., 2020#5 Justificativa ou motivação]]
-![[Orientação 2020.03.20#^fc74e3]]
-![[Orientação 2020.03.20#^fc74e3]]
+![[Orientação 2020.03.20#Orientações]]
 
 **Status:**
 #to-do Aplicar o tcc em bloco para essa parte 
