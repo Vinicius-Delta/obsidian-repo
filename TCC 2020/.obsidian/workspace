@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/SILVA et al., 2020.md",
-            "mode": "preview"
+            "file": "TCC/metaprojeto/Obejtivos.md",
+            "mode": "source"
           }
         }
       },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/SILVA et al., 2020.md",
+                "file": "TCC/metaprojeto/Obejtivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/SILVA et al., 2020.md"
+                "file": "TCC/metaprojeto/Obejtivos.md"
               }
             }
           },
@@ -136,7 +136,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "19b876b275f5d43e",
@@ -155,19 +156,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 275,
+    "collapsed": true
   },
   "active": "1f35a133cde0d24f",
   "lastOpenFiles": [
-    "TCC/referências/SILVA et al., 2020.md",
+    "TCC/metaprojeto/Obejtivos.md",
     "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
-    "TCC/referências/SANTA-ROSA et al., 2019.md",
+    "templates/Template - Milestones.md",
+    "templates/Template - Objetivo.md",
+    "templates/Template - Conceito.md",
+    "templates/Template - Daily.md",
     "TCC/referências/MELO, 2017.md",
-    "TCC/referências/KUCINSKI, Bernardo et al, 2015.md",
-    "Meta Obsidian/O processo.md",
-    "Meta Obsidian/Hashtags.md",
     "daily/2021-06-30.md",
-    "Meta Obsidian/Changelog.md",
-    "templates/Template - Daily.md"
+    "TCC/referências/SILVA et al., 2020.md",
+    "TCC/referências/SANTA-ROSA et al., 2019.md"
   ]
 }
