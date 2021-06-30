@@ -58,7 +58,7 @@
           "type": "markdown",
           "state": {
             "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/orientações/Orientação 2020.03.20.md",
+                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/orientações/Orientação 2020.03.20.md"
+                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md"
               }
             }
           },
@@ -195,11 +195,11 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "21c91f40bed8418a",
+  "active": "1cdc7db36de2d9ae",
   "lastOpenFiles": [
+    "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
     "TCC/orientações/Orientação 2020.03.20.md",
     "TCC/referências/MELO, 2017.md",
-    "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
     "TCC/contatos/Elias Bittencourt.md",
     "daily/2021-06-29.md",
     "TCC/referências/SILVA et al., 2020.md",
