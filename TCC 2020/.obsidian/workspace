@@ -9,6 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "TCC/referências/SILVA et al., 2020.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "8f6311ff703f996e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
             "mode": "source"
           }
@@ -77,7 +88,7 @@
       {
         "id": "1d377be58a46db76",
         "type": "tabs",
-        "dimension": 65.51226551226551,
+        "dimension": 53.102453102453104,
         "children": [
           {
             "id": "8fb1fa5e1d6c7f00",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+                "file": "TCC/referências/SILVA et al., 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md"
+                "file": "TCC/referências/SILVA et al., 2020.md"
               }
             }
           },
@@ -125,13 +136,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "19b876b275f5d43e",
         "type": "tabs",
-        "dimension": 34.48773448773449,
+        "dimension": 46.897546897546896,
         "children": [
           {
             "id": "39e89fb0e764b306",
@@ -149,15 +159,15 @@
   },
   "active": "1f35a133cde0d24f",
   "lastOpenFiles": [
+    "TCC/referências/SILVA et al., 2020.md",
     "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+    "TCC/referências/SANTA-ROSA et al., 2019.md",
+    "TCC/referências/MELO, 2017.md",
+    "TCC/referências/KUCINSKI, Bernardo et al, 2015.md",
     "Meta Obsidian/O processo.md",
     "Meta Obsidian/Hashtags.md",
     "daily/2021-06-30.md",
-    "TCC/referências/MELO, 2017.md",
     "Meta Obsidian/Changelog.md",
-    "templates/Template - Daily.md",
-    "daily/2021-01-28.md",
-    "templates/Template - Intenções.md",
-    "TCC/intenções/Lista do Nirvana 2020.md"
+    "templates/Template - Daily.md"
   ]
 }

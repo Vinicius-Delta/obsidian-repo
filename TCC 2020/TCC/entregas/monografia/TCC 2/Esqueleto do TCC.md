@@ -34,10 +34,11 @@ Tags: #estrutura-do-tcc #to-do
 **Referências:**
 [[Estrutura dos capítulos do TCC#Introdução]]
 [[5 dicas que irão ajudar a fazer seu TCC de Design#Sobre a introdução]]
+[[SILVA et al., 2020#3 Introdução]]
 
 **Status: #to-do ** 
-- [ ] Nessecita aplicar os conteúdos já escritos
-- [ ] Transpor os feedbacks de Elias
+~~- [ ] Nessecita aplicar os conteúdos já escritos~~
+- [x] Transpor os feedbacks de Elias
 
 ---
 ### 1.1 Tema
