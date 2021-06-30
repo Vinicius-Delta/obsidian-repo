@@ -56,10 +56,10 @@ Lembre-se do método
 **Referências:**
 [[Estrutura dos capítulos do TCC#Objetivos Gerais e Objetivos específicos]]
 [[SILVA et al., 2020#6 Objetivos Para quê]]
-
+[[Orientação 2020.03.20#Objetivo geral]]
+[[Orientação 2020.03.20#Objetivos específicos]] = refazer
 **Status**
 #to-do Nessecita aplicar os conteúdos já escritos
-#to-do Transpor os feedbacks de Elias
 
 ---
 # Justificativa  
@@ -92,7 +92,7 @@ Lembre-se do método
 #to-do Repensar quais itens componhem o referencial, com base nas últimas leituras
 #to-do Nessecita aplicar os conteúdos já escritos
 #to-do Transpor os feedbacks de Elias
-
+> # Onde 
 ---
 # Criação
 **Status:**

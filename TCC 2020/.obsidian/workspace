@@ -20,19 +20,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+            "file": "TCC/orientações/Orientação 2020.03.20.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "b6a97b7265314090",
+        "id": "1cdc7db36de2d9ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
-            "mode": "preview"
+            "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+            "mode": "source"
           }
         }
       },
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 262,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+                "file": "meta obisidian/Hashtags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md"
+                "file": "meta obisidian/Hashtags.md"
               }
             }
           },
@@ -157,17 +158,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "c9ba9fe4540ab14b",
+  "active": "1fc3aa7c8429af46",
   "lastOpenFiles": [
-    "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
     "meta obisidian/Hashtags.md",
-    "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
+    "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+    "TCC/orientações/Orientação 2020.03.20.md",
+    "daily/2021-06-30.md",
     "daily/2021-06-29.md",
+    "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
     "! INBOX/Sem título.md",
     "! INBOX/Elementos exclusivos do Projeto de Pesquisa.md",
     "TCC/referências/SANTA-ROSA et al., 2019.md",
-    "TCC/estrutura tcc/Estrutura dos capítulos do TCC.md",
-    "TCC/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
-    "TCC/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md"
+    "TCC/estrutura tcc/Estrutura dos capítulos do TCC.md"
   ]
 }
