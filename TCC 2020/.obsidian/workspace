@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-06-30.md",
+            "file": "Meta Obsidian/Changelog.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#to-do",
+                "query": "tag:#estrutura-do-tcc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
       {
         "id": "1d377be58a46db76",
         "type": "tabs",
-        "dimension": 56.709956709956714,
+        "dimension": 28.86002886002886,
         "children": [
           {
             "id": "8fb1fa5e1d6c7f00",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-06-30.md",
+                "file": "Meta Obsidian/Changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-06-30.md"
+                "file": "Meta Obsidian/Changelog.md"
               }
             }
           },
@@ -165,7 +164,7 @@
       {
         "id": "19b876b275f5d43e",
         "type": "tabs",
-        "dimension": 43.290043290043286,
+        "dimension": 71.13997113997114,
         "children": [
           {
             "id": "39e89fb0e764b306",
@@ -183,15 +182,15 @@
   },
   "active": "21c91f40bed8418a",
   "lastOpenFiles": [
+    "Meta Obsidian/Changelog.md",
+    "Meta Obsidian/Hashtags.md",
     "daily/2021-06-30.md",
-    "TCC/intenções/Lista do Nirvana 2020.md",
     "templates/Template - Daily.md",
+    "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+    "daily/2021-01-28.md",
+    "templates/Template - Intenções.md",
+    "TCC/intenções/Lista do Nirvana 2020.md",
     "daily/2021-05-01.md",
-    "daily/2021-06-28.md",
-    "daily/2021-06-29.md",
-    "TCC/referências/MELO, 2017.md",
-    "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
-    "TCC/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
-    "Meta Obsidian/Changelog.md"
+    "daily/2021-06-28.md"
   ]
 }

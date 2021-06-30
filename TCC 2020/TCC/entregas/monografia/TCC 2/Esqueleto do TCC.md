@@ -1,4 +1,4 @@
-Tags: #estrutura-do-tcc 
+Tags: #estrutura-do-tcc #to-do 
 
 **Status**
 - [ ] Aplicar o método [[TCC/estrutura tcc/TCC em bloco]] para estruturar os demais capítulos
@@ -54,7 +54,7 @@ Tags: #estrutura-do-tcc
 [[Estrutura dos capítulos do TCC#Introdução]]
 [[5 dicas que irão ajudar a fazer seu TCC de Design#Sobre a introdução]]
 
-**Status:**
+**Status: #to-do ** 
 - [ ] Nessecita aplicar os conteúdos já escritos
 - [ ] Transpor os feedbacks de Elias
 
@@ -66,7 +66,7 @@ Tags: #estrutura-do-tcc
 **Referências**
 [[Orientação 2020.03.20#Problema]]
 
-**Status:**
+**Status: #to-do**
 - [ ] Incorporar o conteúdo da antiga justificativa aqui, [[Orientação 2020.03.20#^62b8d3|segundo Elias]].
 
 **Exemplo**
@@ -106,7 +106,7 @@ Tags: #estrutura-do-tcc
 [[Orientação 2020.03.20#Objetivo geral]]
 [[Orientação 2020.03.20#Objetivos específicos]] 
 
-**Status**
+**Status: #to-do**
 - [ ] Refazer todos os objetivos
 
 ---
@@ -115,7 +115,7 @@ Tags: #estrutura-do-tcc
 [[SILVA et al., 2020#5 Justificativa ou motivação]]
 [[Orientação 2020.03.20#Orientações]]
 
-**Status:**
+**Status: #to-do**
 - [ ] Aplicar o tcc em bloco para essa parte 
 - [ ] Refazer completamente a justificativa
 
@@ -127,7 +127,7 @@ Tags: #estrutura-do-tcc
 [[SILVA et al., 2020#7 Fontes procedimentos e etapas]]
 [[Orientação 2020.03.20#^9a9176]]
 
-**Status:**
+**Status: #to-do**
 - [ ] Repensar o que é metodologia de projeto X metodologia de pesquisa
 - [ ] Refazer o capítulo metodologia de pesquisa com base no [[MELO, 2017|similar]]
 
@@ -135,7 +135,7 @@ Tags: #estrutura-do-tcc
 ### 1.6 Estrutura do trabalho
 É opcional, porém desejado. Escreva uma linha sobre qual é o conteúdo de cada capítulo
 
-**Status**
+**Status: #to-do**
 - [ ] Conferir o que eu escrevi em TCC 1
 
 ---
@@ -144,7 +144,7 @@ Tags: #estrutura-do-tcc
 [[SILVA et al., 2020#4 Fundamentação Teórica ou Revisão da Literatura]]
 [[SANTA-ROSA et al., 2019#Abertura e Fechamento de Capítulos]]
 
-**Status:**
+**Status: #to-do**
 - [ ] Repensar quais itens componhem o referencial, com base nas últimas leituras. Verificar similar [[MELO, 2017]]
 - [ ] Nessecita aplicar os conteúdos já escritos
 
@@ -156,7 +156,7 @@ Tags: #estrutura-do-tcc
 **Referências**
 [[MELO, 2017|Similar]]
 
-**Status**
+**Status: #to-do**
 - [ ] Transpor o conteúdo do antigo TCC, a antiga metodologia deveria ser apresentada aqui.
 
 ---
@@ -166,7 +166,7 @@ São 6 etapas, então 5 páginas para cada?
 
 ----
 ## 4 Aplicação do Método
-**Status:**
+**Status: #to-do**
 - [ ] Onde  inserir as análises? É aqui em criação? Acho que sim
 - [ ] Trazer o conteúdo e estrutura criada em TCC1 
 

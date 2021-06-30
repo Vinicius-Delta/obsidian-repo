@@ -1,4 +1,4 @@
-Tags: #to-do do
+Tags: #to-do
 
 - [ ] #site Checar a plataforma fogo cruzado    
 - [ ] #to-read #livro Ler "Bala Perdida"  

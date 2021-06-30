@@ -1,11 +1,10 @@
 # de julho de 2021
-Tags: #to-do 
 
 ### Feito hoje:
 
 ---
 
-### Preciso fazer:
+### Preciso fazer: #to-do
 
 
 ---
