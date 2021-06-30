@@ -2,8 +2,9 @@
 
 ## Status 
 ### Pendência de ação
-#to-do - **ação** que preciso fazer
+#to-do - adicionar um checklist para a sidebar
 #dúvida - algo da **estrutura do texto** que eu ainda não compreendo
+
 #precisa-desenvolver-mais - preciso escrever mais
 #precisa-revisar - preciso verificar as referências de um conteúdo
 #precisa-linkar - preciso adicionar mais links para tornar a página verde
@@ -21,6 +22,7 @@
 #abandonado - algo que deixei pra lá. insira a jusitficativa
 #side - uma ideia que não faz parte do projeto, mas pode ser útil pra algo no futuro
 
+### Digital garden
 #seed - Algo que pode ser útil nesse projeto no futuro, promissor. Antigo backlog
 #bud - Conclui de utilizar no momento
 #evergreen - revisada com frequência
