@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/intenções/Lista do Nirvana 2020.md",
+            "file": "daily/2021-06-30.md",
             "mode": "source"
           }
         }
@@ -93,11 +93,12 @@
             "id": "26f63c13e97b8d66",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,6 +111,7 @@
       {
         "id": "1d377be58a46db76",
         "type": "tabs",
+        "dimension": 56.709956709956714,
         "children": [
           {
             "id": "8fb1fa5e1d6c7f00",
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/intenções/Lista do Nirvana 2020.md",
+                "file": "daily/2021-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/intenções/Lista do Nirvana 2020.md"
+                "file": "daily/2021-06-30.md"
               }
             }
           },
@@ -158,14 +160,15 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
-        "id": "44ac792555ed5cf9",
+        "id": "19b876b275f5d43e",
         "type": "tabs",
+        "dimension": 43.290043290043286,
         "children": [
           {
-            "id": "75b1ac81e3530b69",
+            "id": "39e89fb0e764b306",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -176,20 +179,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "active": "21c91f40bed8418a",
   "lastOpenFiles": [
-    "TCC/intenções/Lista do Nirvana 2020.md",
-    "Meta Obsidian/Changelog.md",
-    "Meta Obsidian/Hashtags.md",
-    "Meta Obsidian/O processo.md",
     "daily/2021-06-30.md",
-    "meta_obisidian/Changelog.md",
-    "meta_obisidian/O processo.md",
-    "meta_obisidian/Hashtags.md",
-    "meta obisidian/O processo.md",
-    "meta obisidian/Sem título.md"
+    "TCC/intenções/Lista do Nirvana 2020.md",
+    "templates/Template - Daily.md",
+    "daily/2021-05-01.md",
+    "daily/2021-06-28.md",
+    "daily/2021-06-29.md",
+    "TCC/referências/MELO, 2017.md",
+    "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
+    "TCC/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
+    "Meta Obsidian/Changelog.md"
   ]
 }
