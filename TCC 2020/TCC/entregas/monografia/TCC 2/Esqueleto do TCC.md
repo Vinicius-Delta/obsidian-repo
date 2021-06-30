@@ -7,6 +7,10 @@ Lembre-se do método
 [[TCC/estrutura tcc/TCC em bloco#Bloco 1 - Tópico Frasal]]
 
 ---
+# Fase 1
+15 páginas
+
+---
 
 ## Título
 [[SILVA et al., 2020#1 Título]]
@@ -52,7 +56,7 @@ Lembre-se do método
 > Parágrafo final: Porque escolhi esse tema? - Conclusão
 
 ---
-# Objetivo Geral e Específico
+## Objetivo Geral e Específico
 **Referências:**
 [[Estrutura dos capítulos do TCC#Objetivos Gerais e Objetivos específicos]]
 [[SILVA et al., 2020#6 Objetivos Para quê]]
@@ -62,7 +66,7 @@ Lembre-se do método
 #to-do Nessecita aplicar os conteúdos já escritos
 
 ---
-# Justificativa  
+## Justificativa  
 **Referência:**
 [[SILVA et al., 2020#5 Justificativa ou motivação]]
 
@@ -72,7 +76,7 @@ Lembre-se do método
 #to-do Transpor os feedbacks de Elias
 
 ---
-# Metodologia
+## Metodologia
 **Referências:**
 [[Estrutura dos capítulos do TCC#Materiais e Métodos]]
 [[SILVA et al., 2020#7 Fontes procedimentos e etapas]]
@@ -83,7 +87,7 @@ Lembre-se do método
 #to-do Transpor os feedbacks de Elias
 
 ---
-# Referencial teórico
+## Referencial teórico
 **Referências:**
 [[SILVA et al., 2020#4 Fundamentação Teórica ou Revisão da Literatura]]
 [[SANTA-ROSA et al., 2019#Abertura e Fechamento de Capítulos]]
@@ -92,21 +96,29 @@ Lembre-se do método
 #to-do Repensar quais itens componhem o referencial, com base nas últimas leituras
 #to-do Nessecita aplicar os conteúdos já escritos
 #to-do Transpor os feedbacks de Elias
+
 ---
-# Criação
+# Fase 2 e 3
+30 páginas
+
+----
+## Criação
 **Status:**
 #to-do Repensar quais itens componhem o referencial, com base na metodologia e do similar. [[MELO, 2017]]
 #dúvida  Onde  inserir as análises? É aqui em criação?
 
  ----
+ # Fase 4
+ 15 páginas
  
- # Resultados e Discussão:  
+ ---
+ ## Resultados e Discussão:  
 [[Estrutura dos capítulos do TCC#Resultado e Discussão]]
 
 ----
-# Considerações finais
+## Considerações finais
 [[Estrutura dos capítulos do TCC#Conclusão]]
 
 -----
-# Referências
+## Referências
 [[SILVA et al., 2020#10 Bibliografia]]
