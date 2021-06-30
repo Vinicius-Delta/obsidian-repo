@@ -58,7 +58,7 @@
           "type": "markdown",
           "state": {
             "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -79,7 +79,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "meta obisidian/Hashtags.md",
+            "file": "daily/2021-01-28.md",
             "mode": "preview"
           }
         }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#estr",
+                "query": "tag:#done",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,12 +126,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+                "file": "daily/2021-01-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md"
+                "file": "daily/2021-01-28.md"
               }
             }
           },
@@ -195,17 +195,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "1cdc7db36de2d9ae",
+  "active": "1fc3aa7c8429af46",
   "lastOpenFiles": [
+    "daily/2021-01-28.md",
+    "meta obisidian/Hashtags.md",
+    "TCC/orientações/Orientação 2020.03.20.md",
     "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
     "TCC/referências/MELO, 2017.md",
-    "TCC/orientações/Orientação 2020.03.20.md",
     "TCC/contatos/Elias Bittencourt.md",
     "daily/2021-06-29.md",
     "TCC/referências/SILVA et al., 2020.md",
-    "meta obisidian/Hashtags.md",
     "daily/2021-06-30.md",
-    "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
-    "! INBOX/Sem título.md"
+    "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md"
   ]
 }
