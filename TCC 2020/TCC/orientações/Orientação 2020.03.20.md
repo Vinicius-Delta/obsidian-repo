@@ -1,6 +1,6 @@
 # Orientação 2020.03.20
 
-> Status: #precisa-linkar #deadline #prioridade 
+> Tags: #precisa-linkar #deadline #prioridade 
 
 ## Questões geais
 

@@ -21,12 +21,14 @@ Lembre-se do método
 ## Resumo
 [[SILVA et al., 2020#2 Resumo]]
 [[SANTA-ROSA et al., 2019#Resumo]]
+> * É uma das ultimas coisas a ser produzidas.
+> * Prepare duas frases de cada capítulo para juntar depois
 
    Palavras-chave: Webdesign.  Usabilidade.  Design  para  web.
    
    -----
 
-## Introdução
+## 1 Introdução
 **Referências:**
 [[Estrutura dos capítulos do TCC#Introdução]]
 [[5 dicas que irão ajudar a fazer seu TCC de Design#Sobre a introdução]]
@@ -35,7 +37,11 @@ Lembre-se do método
 #to-do Nessecita aplicar os conteúdos já escritos
 #to-do Transpor os feedbacks de Elias
 
-.
+---
+### 1.1 Tema
+
+----
+### 1.2 Problematização
 
 > Parágrafo 1: O que é esse trabalho?  - Tópico
 
@@ -56,15 +62,14 @@ Lembre-se do método
 > Parágrafo final: Porque escolhi esse tema? - Conclusão
 
 ---
-## Objetivo Geral e Específico
+### 1.3 Objetivo Geral e Específico
 **Referências:**
 [[Estrutura dos capítulos do TCC#Objetivos Gerais e Objetivos específicos]]
 [[SILVA et al., 2020#6 Objetivos Para quê]]
 [[Orientação 2020.03.20#Objetivo geral]]
-[[Orientação 2020.03.20#Objetivos específicos]] = refazer
+[[Orientação 2020.03.20#Objetivos específicos]] 
 **Status**
-#to-do Nessecita aplicar os conteúdos já escritos
-
+- [ ] Refazer
 ---
 ## Justificativa  
 **Referência:**
