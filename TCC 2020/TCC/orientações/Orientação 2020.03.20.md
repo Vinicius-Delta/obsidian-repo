@@ -90,17 +90,17 @@ O que te faz evitar?
 ---
 
 ## Metodologia
-Refazer
-Listar as ferramentas e os objetivos atingidos em cada uma
+* Refazer
+* Listar as ferramentas e os objetivos atingidos em cada uma ^9a9176
 
 ---
 
 ## Justificativa
-### Diagnóstico
+#### Diagnóstico
 * Refazer
 * Incorporar texto atual na problematização ^62b8d3
 
-### Orientações
+#### Orientações
 * Descreva os atributos do produto após os objetivos ^3db99e
 * Justificar o projeto ~~sobre~~ a partir dos atributos, ~~pela~~ ==qual é a importância de cumprir os objetivos?== ^fc74e3
 * Trocar tempo verbal para a o pretérito ^f306ee

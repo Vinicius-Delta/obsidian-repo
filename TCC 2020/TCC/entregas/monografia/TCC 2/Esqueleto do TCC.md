@@ -43,7 +43,7 @@ Lembre-se do método
 ----
 ### 1.2 Problematização
 **Status:**
-#to-do Incorporar o da antiga justificativa aqui [[segundo Elias|Orientação 2020.03.20#^62b8d3]]
+#to-do Incorporar o conteúdo da antiga justificativa aqui, [[Orientação 2020.03.20#^62b8d3|segundo Elias]].
 
 
 > Parágrafo 1: O que é esse trabalho?  - Tópico
@@ -73,29 +73,34 @@ Lembre-se do método
 [[Orientação 2020.03.20#Objetivos específicos]] 
 
 **Status**
-- [ ] Refazer
+#to-do Refazer
+
 ---
 ### 1.4 Justificativa  
 **Referência:**
 [[SILVA et al., 2020#5 Justificativa ou motivação]]
-![[Orientação 2020.03.20#Orientações]]
+[[Orientação 2020.03.20#Orientações]]
 
 **Status:**
 #to-do Aplicar o tcc em bloco para essa parte 
-#to-do Nessecita aplicar os conteúdos já escritos
-#to-do Transpor os feedbacks de Elias
+#to-do Refazer
 
 
 ---
-## Metodologia
+### 1.5 Metodologia de pesquisa
 **Referências:**
 [[Estrutura dos capítulos do TCC#Materiais e Métodos]]
 [[SILVA et al., 2020#7 Fontes procedimentos e etapas]]
+[[Orientação 2020.03.20#^9a9176]]
 
 **Status:**
 #to-do Repensar o que é metodologia de projeto X metodologia de pesquisa
-#to-do Nessecita aplicar os conteúdos já escritos
-#to-do Transpor os feedbacks de Elias
+#to-do Refazer
+
+---
+### 1.6 Estrutura do trabalho
+É opcional, porém desejado. Escreva uma linha sobre qual é o conteúdo de cada capítulo
+
 
 ---
 ## Referencial teórico
