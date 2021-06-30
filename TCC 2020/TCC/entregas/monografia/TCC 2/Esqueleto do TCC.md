@@ -72,7 +72,14 @@ Tags: #estrutura-do-tcc
 **Exemplo**
 ![[Orientação 2020.03.20#Como o design pode intervir no _problema informacional_ seed]]
 
+**Rascunho**
+- Problema do projeto A: sobre familiares  
+- Problema do projeto B: sobre os instrumentos de denuncias e sua importância  
+- Problema do projeto C: sobre a falta de amparo  
+- Problema do projeto D: número de casos é subreportado  
+- Problema do projeto E: impunidade e como reverter  
 
+**Estrutura**
 > Parágrafo 1: O que é esse trabalho?  - Tópico
 
 > Parágrafo 2: Qual é a finalidade? (objetivo) - Sustentação

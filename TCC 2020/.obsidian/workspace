@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
-            "mode": "preview"
+            "file": "meta obisidian/Changelog.md",
+            "mode": "source"
           }
         }
       },
@@ -88,9 +88,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "26f63c13e97b8d66",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/intenções/Lista do Nirvana 2020.md",
+                "file": "meta obisidian/Changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/intenções/Lista do Nirvana 2020.md"
+                "file": "meta obisidian/Changelog.md"
               }
             }
           },
@@ -158,17 +165,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "21c91f40bed8418a",
+  "active": "1cdc7db36de2d9ae",
   "lastOpenFiles": [
+    "meta obisidian/Sem título.md",
+    "TCC/orientações/Orientação 2020.03.20.md",
     "TCC/intenções/Lista do Nirvana 2020.md",
-    "meta obisidian/Hashtags.md",
     "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+    "meta obisidian/Hashtags.md",
     "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
     "daily/2021-06-30.md",
     "daily/2021-05-01.md",
     "daily/2021-01-28.md",
-    "daily/2021-06-28.md",
-    "daily/2021-06-29.md",
-    "TCC/referências/GARRETT, 2010.md"
+    "daily/2021-06-28.md"
   ]
 }
