@@ -1,9 +1,10 @@
 Tags: #estrutura-do-tcc 
 
+**Status**
 #to-do Aplicar o método [[TCC/estrutura tcc/TCC em bloco]] para estruturar os demais capítulos
-#to-do Rever a estrutura da introdução
+- [x] Rever a estrutura da introdução
 
-Lembre-se do método 
+**Lembre-se do método **
 [[TCC/estrutura tcc/TCC em bloco#Bloco 1 - Tópico Frasal]]
 
 ---

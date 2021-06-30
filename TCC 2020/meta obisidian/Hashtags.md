@@ -18,15 +18,11 @@
 
 
 ### Completude
-#done - incorporei ao Digital Garden
 #abandonado - algo que deixei pra lá. insira a jusitficativa
-#backlog -algo que pode ser útil nesse no projeto, mas ainda preciso pensar sobre
 #side - uma ideia que não faz parte do projeto, mas pode ser útil pra algo no futuro
 
-----
-## Digital garden - classificação
-#seed - promissor
-#bud - utilizada para algo
+#seed - Algo que pode ser útil nesse projeto no futuro, promissor. Antigo backlog
+#bud - Conclui de utilizar no momento
 #evergreen - revisada com frequência
 
 -------

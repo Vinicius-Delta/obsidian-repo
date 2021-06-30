@@ -1,4 +1,4 @@
-Tags: #estrutura-do-tcc 
+Tags: #estrutura-do-tcc #seed 
 
 # Hipóteses
 [[SILVA et al., 2020#8 Hipóteses ou Resultados Esperados]]

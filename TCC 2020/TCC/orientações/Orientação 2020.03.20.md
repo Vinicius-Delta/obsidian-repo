@@ -1,6 +1,6 @@
 # Orientação 2020.03.20
 
-> Tags: #precisa-linkar #deadline #prioridade [[Elias Bittencourt]]
+> Tags: [[Elias Bittencourt]] #bud 
 
 ## Questões geais
 

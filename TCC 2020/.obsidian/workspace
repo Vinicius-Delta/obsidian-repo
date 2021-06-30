@@ -4,50 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "974998d661254567",
-        "type": "split",
-        "children": [
-          {
-            "id": "c9ba9fe4540ab14b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCC/contatos/Elias Bittencourt.md",
-                "mode": "preview"
-              }
-            },
-            "group": "db9147d880ee1e37"
-          },
-          {
-            "id": "2aa71155f83ff47e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "TCC/contatos/Elias Bittencourt.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "db9147d880ee1e37"
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
         "id": "21c91f40bed8418a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/orientações/Orientação 2020.03.20.md",
-            "mode": "source"
+            "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+            "mode": "preview"
           }
         }
       },
@@ -109,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#done",
+                "query": "tag:#nao-entendi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-06-30.md",
+                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-06-30.md"
+                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md"
               }
             }
           },
@@ -194,17 +157,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "1fc3aa7c8429af46",
+  "active": "21c91f40bed8418a",
   "lastOpenFiles": [
+    "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+    "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
     "daily/2021-06-30.md",
-    "daily/2021-06-29.md",
-    "daily/2021-06-28.md",
     "daily/2021-05-01.md",
     "daily/2021-01-28.md",
+    "daily/2021-06-28.md",
+    "daily/2021-06-29.md",
+    "TCC/referências/GARRETT, 2010.md",
     "meta obisidian/Hashtags.md",
-    "TCC/orientações/Orientação 2020.03.20.md",
-    "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
-    "TCC/referências/MELO, 2017.md",
-    "TCC/contatos/Elias Bittencourt.md"
+    "TCC/orientações/Orientação 2020.03.20.md"
   ]
 }
