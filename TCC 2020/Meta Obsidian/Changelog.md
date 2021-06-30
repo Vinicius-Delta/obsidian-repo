@@ -1,4 +1,4 @@
-- 2021-06-30 at 15h30 · [[Lista do Nirvana 2020]]
+- 2021-06-30 at 15h31 · [[Lista do Nirvana 2020]]
 - 2021-06-30 at 15h28 · [[2021-06-30]]
 - 2021-06-30 at 15h22 · [[Esqueleto do TCC]]
 - 2021-06-30 at 15h14 · [[Elementos exclusivos do Projeto de Pesquisa]]
