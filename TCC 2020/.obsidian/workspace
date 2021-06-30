@@ -4,7 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "c9ba9fe4540ab14b",
+        "id": "974998d661254567",
+        "type": "split",
+        "children": [
+          {
+            "id": "c9ba9fe4540ab14b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCC/contatos/Elias Bittencourt.md",
+                "mode": "preview"
+              }
+            },
+            "group": "db9147d880ee1e37"
+          },
+          {
+            "id": "2aa71155f83ff47e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TCC/contatos/Elias Bittencourt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "db9147d880ee1e37"
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "21c91f40bed8418a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -110,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/orientações/Orientação 2020.03.20.md",
+                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/orientações/Orientação 2020.03.20.md"
+                "file": "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md"
               }
             }
           },
@@ -158,17 +195,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "c9ba9fe4540ab14b",
+  "active": "1cdc7db36de2d9ae",
   "lastOpenFiles": [
-    "TCC/orientações/Orientação 2020.03.20.md",
     "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+    "TCC/orientações/Orientação 2020.03.20.md",
     "TCC/referências/MELO, 2017.md",
+    "TCC/contatos/Elias Bittencourt.md",
     "daily/2021-06-29.md",
     "TCC/referências/SILVA et al., 2020.md",
     "meta obisidian/Hashtags.md",
     "daily/2021-06-30.md",
     "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
-    "! INBOX/Sem título.md",
-    "! INBOX/Elementos exclusivos do Projeto de Pesquisa.md"
+    "! INBOX/Sem título.md"
   ]
 }

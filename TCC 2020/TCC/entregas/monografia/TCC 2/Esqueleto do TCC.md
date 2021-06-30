@@ -68,17 +68,21 @@ Lembre-se do método
 [[SILVA et al., 2020#6 Objetivos Para quê]]
 [[Orientação 2020.03.20#Objetivo geral]]
 [[Orientação 2020.03.20#Objetivos específicos]] 
+
 **Status**
 - [ ] Refazer
 ---
-## Justificativa  
+### 1.4 Justificativa  
 **Referência:**
 [[SILVA et al., 2020#5 Justificativa ou motivação]]
+![[Orientação 2020.03.20#^fc74e3]]
+![[Orientação 2020.03.20#^fc74e3]]
 
 **Status:**
 #to-do Aplicar o tcc em bloco para essa parte 
 #to-do Nessecita aplicar os conteúdos já escritos
 #to-do Transpor os feedbacks de Elias
+
 
 ---
 ## Metodologia

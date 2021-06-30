@@ -1,6 +1,6 @@
 # Orientação 2020.03.20
 
-> Tags: #precisa-linkar #deadline #prioridade 
+> Tags: #precisa-linkar #deadline #prioridade [[Elias Bittencourt]]
 
 ## Questões geais
 
@@ -99,7 +99,7 @@ Listar as ferramentas e os objetivos atingidos em cada uma
 Refazer
 * Incorporar texto atual na problematização
 * Descreva os atributos do produto após os objetivos
-* Justificar o projeto sobre os atributos, pela a importância de cumprir os objetivos
+* Justificar o projeto sobre os atributos, pela a importância de cumprir os objetivos ^fc74e3
 * Trocar tempo verbal para a o pretérito
 
 ---
