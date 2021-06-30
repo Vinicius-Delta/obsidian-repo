@@ -119,12 +119,16 @@ Lembre-se do método
 
 ---
 ## 3 Desenvolvimento do projeto de Design
+**Referências**
+[[MELO, 2017|Similar]]
+
 **Status**
-#to-do Transpor o conteúdo do antigo TCC, a antiga metodolo
+#to-do Transpor o conteúdo do antigo TCC, a antiga metodologia deveria ser apresentada aqui.
 
 ---
 # Fase 2 e 3
 30 páginas
+São 6 etapas, então 5 páginas para cada?
 
 ----
 ## Criação
