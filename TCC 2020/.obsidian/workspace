@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "meta obisidian/Changelog.md",
+            "file": "Meta Obsidian/Changelog.md",
             "mode": "source"
           }
         }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meta obisidian/Changelog.md",
+                "file": "Meta Obsidian/Changelog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meta obisidian/Changelog.md"
+                "file": "Meta Obsidian/Changelog.md"
               }
             }
           },
@@ -167,15 +167,15 @@
   },
   "active": "1cdc7db36de2d9ae",
   "lastOpenFiles": [
-    "meta obisidian/Sem título.md",
-    "TCC/orientações/Orientação 2020.03.20.md",
+    "Meta Obsidian/Changelog.md",
     "TCC/intenções/Lista do Nirvana 2020.md",
-    "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
-    "meta obisidian/Hashtags.md",
-    "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
+    "Meta Obsidian/Hashtags.md",
+    "Meta Obsidian/O processo.md",
     "daily/2021-06-30.md",
-    "daily/2021-05-01.md",
-    "daily/2021-01-28.md",
-    "daily/2021-06-28.md"
+    "meta_obisidian/Changelog.md",
+    "meta_obisidian/O processo.md",
+    "meta_obisidian/Hashtags.md",
+    "meta obisidian/O processo.md",
+    "meta obisidian/Sem título.md"
   ]
 }
