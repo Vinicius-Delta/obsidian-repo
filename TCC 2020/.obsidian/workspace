@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/metaprojeto/Conquistas.md",
+            "file": "Sidequests/Briefing com cliente.md",
             "mode": "preview"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/metaprojeto/Conquistas.md",
+                "file": "Sidequests/Briefing com cliente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/metaprojeto/Conquistas.md"
+                "file": "Sidequests/Briefing com cliente.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "6cfa841c9ebce329",
   "lastOpenFiles": [
+    "Sidequests/Briefing com cliente.md",
     "TCC/metaprojeto/Conquistas.md",
     "TCC/metaprojeto/TIL.md",
     "TCC/metaprojeto/Objtivos.md",
@@ -156,7 +157,6 @@
     "daily/2021-06-30.md",
     "templates/Template - Daily.md",
     "daily/2021-07-03.md",
-    "daily/2021-06-28.md",
-    "daily/2021-06-29.md"
+    "daily/2021-06-28.md"
   ]
 }
