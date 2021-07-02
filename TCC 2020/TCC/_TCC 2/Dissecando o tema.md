@@ -1,8 +1,11 @@
 **Tema**
-> Desevolvimento de uma plataforma Web de visualização de dados baseado nos dados do Atlas da Violência 2020, sobre violência Policial.
+> ~~Desevolvimento de uma plataforma Web de visualização de dados baseado nos dados do Atlas da Violência 2020, sobre violência Policial.~~
+> Desevolvimento de uma plataforma Web de visualização de dados baseado nos conceitos de Usabilidade.
+
 
 **Problema**
 > Como o Design pode propor uma plataforma Web para visualização de dados do Atlas da Violência 2020 sobre violência Policial?
+> Como o Design pode propor a visualização de dados sobre violência Policial?
 
 ----
 
