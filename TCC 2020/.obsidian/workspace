@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2020-06-04.md",
-            "mode": "preview"
+            "file": "TCC/intenções/Lista de Leitura.md",
+            "mode": "source"
           }
         }
       }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lista",
+                "query": "tag:#seed",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2020-06-04.md",
+                "file": "TCC/intenções/Lista de Leitura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2020-06-04.md"
+                "file": "TCC/intenções/Lista de Leitura.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "6cfa841c9ebce329",
   "lastOpenFiles": [
+    "TCC/intenções/Lista de Leitura.md",
+    "TCC/entregas/TCC 2/1. Introdução.md",
+    "daily/2020-08-13.md",
     "daily/2020-06-04.md",
     "templates/Template - Daily.md",
     "daily/2020-03-09.md",
     "daily/2020-03-08.md",
     "TCC/entregas/TCC 2/Atributos desejados.md",
     "TCC/entregas/TCC 2/Sem título.md",
-    "daily/2021-07-02.md",
-    "daily/2020-02-27.md",
-    "TCC/entregas/TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
-    "TCC/entregas/TCC 2/Esqueleto do TCC.md"
+    "daily/2021-07-02.md"
   ]
 }
