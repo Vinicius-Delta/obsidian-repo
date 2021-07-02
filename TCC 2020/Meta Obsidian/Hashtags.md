@@ -37,4 +37,5 @@
 
 -----
 ## Por tipo de conteúdo
-#estrutura-do-tcc 
+#estrutura-do-tcc Sobre o processo inicial de estruturar o projeto e o documento
+#inspirador Para frases que me inspiram a agir

@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/intenções/Lista de Leitura.md",
-            "mode": "source"
+            "file": "daily/2021-01-29.md",
+            "mode": "preview"
           }
         }
       }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#seed",
+                "query": "tag:#inspirador",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/intenções/Lista de Leitura.md",
+                "file": "daily/2021-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/intenções/Lista de Leitura.md"
+                "file": "daily/2021-01-29.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "6cfa841c9ebce329",
   "lastOpenFiles": [
+    "daily/2021-01-29.md",
+    "Meta Obsidian/Hashtags.md",
     "TCC/intenções/Lista de Leitura.md",
+    "daily/2020-11-25.md",
     "TCC/entregas/TCC 2/1. Introdução.md",
     "daily/2020-08-13.md",
     "daily/2020-06-04.md",
     "templates/Template - Daily.md",
     "daily/2020-03-09.md",
-    "daily/2020-03-08.md",
-    "TCC/entregas/TCC 2/Atributos desejados.md",
-    "TCC/entregas/TCC 2/Sem título.md",
-    "daily/2021-07-02.md"
+    "daily/2020-03-08.md"
   ]
 }

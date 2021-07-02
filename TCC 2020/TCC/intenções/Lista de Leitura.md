@@ -29,9 +29,15 @@ Design Justice Network
 
 - [ ] **12-08-2020
 [https://sanguepreto.bandcamp.com/releases](https://sanguepreto.bandcamp.com/releases)
-- [ ] **
-- [ ] **
-- [ ] **
+
+- [ ] **05-09-2020
+[https://www.nuceciwan50.com/en/2020/09/05/police-in-brazil-killed-more-people-in-the-first-6-months-then-last-year-even-with-corona-quarantine/](https://www.nuceciwan50.com/en/2020/09/05/police-in-brazil-killed-more-people-in-the-first-6-months-then-last-year-even-with-corona-quarantine/)
+
+- [ ] **Reportagem do fantástico 18/10
+
+- [ ] **23-08-2020
+[https://twitter.com/MendoncaThaiane/status/1319596046062944258](https://twitter.com/MendoncaThaiane/status/1319596046062944258)
+
 - [ ] **
 - [ ] **
 - [ ] **
@@ -89,4 +95,5 @@ https://coalizaonegrapordireitos.org.br/2021/06/18/nao-em-nosso-nome-nota-tac-ca
 
 - [ ] Relatório da ONU
 https://domtotal.com/noticia/1524491/2021/06/relatorio-da-onu-sobre-racismo-na-policia-diz-que-paises-devem-parar-de-negar-o-problema/
-https://noticias.uol.com.br/colunas/jamil-chade
+https://noticias.uol.com.br/colunas/jamil-chade/2021/06/28/inquerito-da-onu-por-floyd-denuncia-racismo-sistemico-na-policia-no-brasil.htm
+
