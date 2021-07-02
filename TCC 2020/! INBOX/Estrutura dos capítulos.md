@@ -1,11 +1,11 @@
 
-Esta  monografia  foi  organizada  da  seguinte  forma:  
-Capítulo   1 - Introdução.   Descreve   tema,   problema a ser   resolvido,   objetivos, justificativa,  metodologia  e estrutura  do  trabalho.  
-Capítulo   2 - Bases   do   conhecimento.   Apresenta   o   embasamento   na literatura  já   publicada  sobre  o  mesmo  tema,  fundamentando  e  norteando todo  o estudo. 
-Capítulo  3 - Desenvolvimento  do  projeto  de  design.  Detalha  e  aponta  as funções, nesse   trabalho,   das   metodologias   utilizadas,   como   a   de   Munari   adaptada   na   metodologia  de  Garrett.    
-Capítulo  4  – Aplicação  do  método.  Aqui  será  aplicado  o  método  estudado.    
-Capítulo  5 - Solução.  Mostra  os  resultados  obtidos  a  partir  da  metodologia utilizada.    
-Capítulo   6 - Considerações   finais.   Indica   de   maneira   resumida   os   resultados  do trabalho,  propondo  possíveis  trabalhos  futuros.  
+Esta monografia foi organizada da seguinte forma: 
+Capítulo 1 - Introdução. Descreve tema, problema a ser resolvido, objetivos, justificativa, metodologia e estrutura do trabalho. 
+Capítulo 2 - Referêncial teórico. Apresenta o embasamento na literatura  publicada sobre o tema, fundamentando e guiando todo o estudo e produção. 
+Capítulo 3 - Desenvolvimento do projeto de design. Detalha e aponta as funções, das  metodologias utilizadas, como a metodologia de Garrett, para este trabalho. 
+Capítulo 4 – Aplicação do método. Aqui será aplicado o método estudado para atingir os objetivos.
+Capítulo 5 - ApresentaSolução. Mostra os resultados obtidos a partir da metodologia utilizada. 
+Capítulo 6 - Considerações finais. Indica de maneira resumida os resultados do trabalho, propondo possíveis trabalhos futuros. 
 
 
 CAPÍTULO 1 - INTRODUÇÃO
