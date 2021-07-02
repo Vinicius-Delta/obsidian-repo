@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
+            "file": "TCC/_TCC 2/1. Introdução.md",
             "mode": "preview"
           }
         }
@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
-            "mode": "preview"
+            "file": "TCC/_TCC 2/Esqueleto do TCC.md",
+            "mode": "source"
           }
         }
       }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
+                "file": "TCC/_TCC 2/Esqueleto do TCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md"
+                "file": "TCC/_TCC 2/Esqueleto do TCC.md"
               }
             }
           },
@@ -159,15 +159,15 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "227831987e220906",
+  "active": "da488b764a34a1ea",
   "lastOpenFiles": [
-    "TCC/_TCC 1/TCC 1 - Versão Final.md",
+    "TCC/_TCC 2/Esqueleto do TCC.md",
     "TCC/_TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
     "TCC/_TCC 2/1. Introdução.md",
+    "TCC/_TCC 1/TCC 1 - Versão Final.md",
     "TCC/TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
     "TCC/TCC 1/v0.2 - Escrita preliminar/# PARTE 2 Desenvolvimento - Nível Conceitual.md",
     "TCC/TCC 1/v0.3 - versão entregue/Guia do Projeto.md",
-    "TCC/_TCC 2/Esqueleto do TCC.md",
     "TCC/TCC 1/TCC 1 - Versão Final.md",
     "TCC/orientações/Orientação 2020.03.20.md",
     "TCC/TCC 1/Sem título.md"

@@ -62,9 +62,9 @@ Tags: #estrutura-do-tcc #to-do
 - Problema do projeto E: impunidade e como reverter  
 
 **Estrutura**
-> Parágrafo 1: O que é esse trabalho?  - Tópico
+> Parágrafo 1: ~~O que é esse trabalho?~~ Em que você acredita?  - Tópico
 
-> Parágrafo 2: Qual é a finalidade? (objetivo) - Sustentação
+> Parágrafo 2: ~~Qual é a finalidade? (objetivo)~~ O que precisa ser feito?- Sustentação
 
 > Parágrafo 3: Qual é o tema? (área do design) - Tópico
 
@@ -177,4 +177,4 @@ Aqui será inserida as análises (e mais coisas)
 
 -----
 ## Referências
-[[SILVA et al., 2020#10 Bibliografia]]
+[[SILVA et al., 2020#10 Bibliografia]
