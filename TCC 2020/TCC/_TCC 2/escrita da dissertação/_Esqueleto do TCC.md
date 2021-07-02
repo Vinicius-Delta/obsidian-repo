@@ -49,7 +49,7 @@ Tags: #estrutura-do-tcc #to-do
 [[Orientação 2020.03.20#Problema]]
 
 **Status: #to-do**
-- [ ] Incorporar o conteúdo da antiga justificativa aqui, [[Orientação 2020.03.20#^62b8d3|segundo Elias]].
+- [x] Incorporar o conteúdo da antiga justificativa aqui, [[Orientação 2020.03.20#^62b8d3|segundo Elias]].
 
 **Exemplo**
 ![[Orientação 2020.03.20#Como o design pode intervir no _problema informacional_ seed]]
