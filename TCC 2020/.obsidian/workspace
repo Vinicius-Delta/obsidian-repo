@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-02.md",
-            "mode": "source"
+            "file": "daily/2020-03-08.md",
+            "mode": "preview"
           }
         }
       }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-02.md",
+                "file": "daily/2020-03-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-02.md"
+                "file": "daily/2020-03-08.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "6cfa841c9ebce329",
   "lastOpenFiles": [
+    "daily/2020-03-08.md",
+    "TCC/entregas/TCC 2/Atributos desejados.md",
+    "TCC/entregas/TCC 2/Sem título.md",
     "daily/2021-07-02.md",
+    "daily/2020-02-27.md",
     "TCC/entregas/TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
     "TCC/entregas/TCC 2/Esqueleto do TCC.md",
     "daily/2021-06-30.md",
     "TCC/entregas/TCC 1/Sem título.md",
-    "TCC/entregas/TCC 1/v0.3 - versão entregada/Projeto TCC1 [05.03.20].md",
-    "TCC/entregas/TCC 1/v0.3 - versão entregada/Referência - Justificativa.md",
-    "TCC/entregas/TCC 1/v0.3 - versão entregada/Formato de introdução.md",
-    "TCC/entregas/TCC 1/v0.3 - versão entregada/Guia do Projeto.md",
-    "TCC/entregas/TCC 1/v0.2 - Escrita preliminar/# PARTE 2 Desenvolvimento - Nível Conceitual.md"
+    "TCC/entregas/TCC 1/v0.3 - versão entregada/Projeto TCC1 [05.03.20].md"
   ]
 }
