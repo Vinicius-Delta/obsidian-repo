@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/TCC 1/TCC 1 - Versão Final.md",
+            "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/orientações/Orientação 2020.03.20.md",
+            "file": "TCC/_TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
             "mode": "preview"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/TCC 1/TCC 1 - Versão Final.md",
+                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/TCC 1/TCC 1 - Versão Final.md"
+                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "227831987e220906",
   "lastOpenFiles": [
+    "TCC/_TCC 1/TCC 1 - Versão Final.md",
+    "TCC/_TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
+    "TCC/_TCC 2/1. Introdução.md",
+    "TCC/TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
+    "TCC/TCC 1/v0.2 - Escrita preliminar/# PARTE 2 Desenvolvimento - Nível Conceitual.md",
+    "TCC/TCC 1/v0.3 - versão entregue/Guia do Projeto.md",
+    "TCC/_TCC 2/Esqueleto do TCC.md",
     "TCC/TCC 1/TCC 1 - Versão Final.md",
     "TCC/orientações/Orientação 2020.03.20.md",
-    "TCC/_TCC 2/Esqueleto do TCC.md",
-    "TCC/TCC 1/Sem título.md",
-    "TCC/TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
-    "TCC/_TCC 2/1. Introdução.md",
-    "TCC/contatos/Eudaldo.md",
-    "TCC/estrutura tcc/TCC em bloco.md",
-    "TCC/estrutura tcc/Estrutura dos capítulos do TCC.md",
-    "TCC/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md"
+    "TCC/TCC 1/Sem título.md"
   ]
 }
