@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2020-03-08.md",
+            "file": "daily/2020-06-04.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#estrutura-do-tcc",
+                "query": "lista",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2020-03-08.md",
+                "file": "daily/2020-06-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2020-03-08.md"
+                "file": "daily/2020-06-04.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "6cfa841c9ebce329",
   "lastOpenFiles": [
+    "daily/2020-06-04.md",
+    "templates/Template - Daily.md",
+    "daily/2020-03-09.md",
     "daily/2020-03-08.md",
     "TCC/entregas/TCC 2/Atributos desejados.md",
     "TCC/entregas/TCC 2/Sem título.md",
     "daily/2021-07-02.md",
     "daily/2020-02-27.md",
     "TCC/entregas/TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
-    "TCC/entregas/TCC 2/Esqueleto do TCC.md",
-    "daily/2021-06-30.md",
-    "TCC/entregas/TCC 1/Sem título.md",
-    "TCC/entregas/TCC 1/v0.3 - versão entregada/Projeto TCC1 [05.03.20].md"
+    "TCC/entregas/TCC 2/Esqueleto do TCC.md"
   ]
 }
