@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Estrutura dos capítulos.md",
+            "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
             "mode": "source"
           }
         }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/estrutura do tcc/MELO, 2017.md",
+                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/estrutura do tcc/MELO, 2017.md"
+                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md"
               }
             }
           },
@@ -170,17 +169,17 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "47942af3a6f6f6c0",
+  "active": "227831987e220906",
   "lastOpenFiles": [
-    "TCC/referências/estrutura do tcc/MELO, 2017.md",
-    "TCC/_TCC 1/TCC 1 - Versão Final.md",
-    "! INBOX/Estrutura dos capítulos.md",
-    "! INBOX/Sem título.md",
-    "TCC/_TCC 2/Dissecando o tema.md",
     "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
+    "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
+    "TCC/_TCC 2/Dissecando o tema.md",
+    "TCC/_TCC 2/Atributos desejados.md",
+    "! INBOX/Estrutura dos capítulos.md",
+    "TCC/_TCC 1/TCC 1 - Versão Final.md",
+    "TCC/referências/estrutura do tcc/MELO, 2017.md",
+    "! INBOX/Sem título.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
-    "daily/2021-07-02.md",
-    "TCC/_TCC 2/estrutura tcc/TCC em bloco.md",
-    "TCC/_TCC 2/Sem título.md"
+    "daily/2021-07-02.md"
   ]
 }
