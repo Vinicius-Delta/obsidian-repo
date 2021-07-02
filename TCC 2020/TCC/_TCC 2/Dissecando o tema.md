@@ -1,17 +1,18 @@
 **Tema**
 > ~~Desevolvimento de uma plataforma Web de visualização de dados baseado nos dados do Atlas da Violência 2020, sobre violência Policial.~~
-> Desevolvimento de uma plataforma Web de visualização de dados baseado nos conceitos de Usabilidade.
+> Desevolvimento de um website para visualização de dados baseado nos conceitos de usabilidade na web.
 
 
 **Problema**
-> Como o Design pode propor uma plataforma Web para visualização de dados do Atlas da Violência 2020 sobre violência Policial?
-> Como o Design pode propor a visualização de dados sobre violência Policial?
+> ~~Como o Design pode propor uma plataforma Web para visualização de dados do Atlas da Violência 2020 sobre violência Policial?~~
+> Como o Design pode propor uma plataforma web para visualização de dados sobre violência Policial no Brasil?
 
 ----
 
-* Desevolver - o que é desenvolver?
+* Desevolver - o que é desenvolver design?
 * plataforma Web de visualização de dados - como isso funciona? - capítulo A
-* sobre violência Policial - o que é? - capítulo B
+* Qual é o papel social do design? - capítulo B
+* sobre violência Policial - o que é? - capítulo C
 * com base no Atlas da Violência 2020. - quem é ?
 
 ---
