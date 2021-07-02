@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sidequests/Briefing com cliente.md",
-            "mode": "preview"
+            "file": "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sidequests/Briefing com cliente.md",
+                "file": "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sidequests/Briefing com cliente.md"
+                "file": "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "6cfa841c9ebce329",
   "lastOpenFiles": [
+    "TCC/referências/estrutura do tcc/Sem título.md",
+    "TCC/referências/estrutura do tcc/SANTA-ROSA et al., 2019.md",
+    "TCC/referências/estrutura do tcc/MELO, 2017.md",
+    "TCC/referências/KUCINSKI, Bernardo et al, 2015.md",
+    "TCC/referências/GARRETT, 2010.md",
+    "TCC/referências/MELO, 2017.md",
+    "TCC/referências/SANTA-ROSA et al., 2019.md",
+    "TCC/referências/SILVA et al., 2020.md",
     "Sidequests/Briefing com cliente.md",
-    "TCC/metaprojeto/Conquistas.md",
-    "TCC/metaprojeto/TIL.md",
-    "TCC/metaprojeto/Objtivos.md",
-    "TCC/metaprojeto/Estratégia.md",
-    "daily/2021-07-01.md",
-    "daily/2021-06-30.md",
-    "templates/Template - Daily.md",
-    "daily/2021-07-03.md",
-    "daily/2021-06-28.md"
+    "TCC/metaprojeto/Conquistas.md"
   ]
 }
