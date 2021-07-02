@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-03-11.md",
+            "file": "TCC/entregas/TCC 2/Esqueleto do TCC.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "227831987e220906",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TCC/entregas/TCC 2/1. Introdução.md",
+            "mode": "preview"
           }
         }
       }
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-03-11.md",
+                "file": "TCC/entregas/TCC 2/1. Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-03-11.md"
+                "file": "TCC/entregas/TCC 2/1. Introdução.md"
               }
             }
           },
@@ -145,19 +156,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 275,
+    "collapsed": true
   },
-  "active": "6cfa841c9ebce329",
+  "active": "227831987e220906",
   "lastOpenFiles": [
+    "TCC/entregas/monografia/TCC 2/1. Introdução.md",
+    "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
+    "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
     "daily/2021-03-11.md",
     "daily/2021-07-02.md",
     "daily/2021-07-03.md",
     "TCC/contatos/Eudaldo.md",
-    "TCC/entregas/monografia/TCC 2/1. Introdução.md",
-    "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
     "TCC/entregas/monografia/TCC 2/Sem título.md",
     "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md",
-    "TCC/referências/estrutura do tcc/ANDRÉ FONTENELLE, YOUTUBE.md",
-    "TCC/referências/estrutura do tcc/MELO, 2017.md"
+    "TCC/referências/estrutura do tcc/ANDRÉ FONTENELLE, YOUTUBE.md"
   ]
 }
