@@ -1,4 +1,12 @@
-O **tema** do tcc surge a partir da relação entre duas palavras chave. O tema
+>Tags: #abandonado 
+
+Esse canal é pura enrolação e propaganda
+
+---
+O **tema** do tcc surge a partir da relação entre duas palavras chave. 
+Capítulo 1: palavra 1
+Capítulo 2: palavra 2
+Capítulo 3: relação 1+2
 
 
 

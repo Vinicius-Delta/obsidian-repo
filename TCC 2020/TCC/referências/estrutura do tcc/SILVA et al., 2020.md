@@ -1,7 +1,5 @@
-> SILVA, D. F. DA et al. **Manual Prático para Elaboração de Trabalhos de Conclusão de Curso**. \[s.l.\] Editora Blucher, 2020.
 
-
-Tags: #estrutura-do-tcc #bud 
+> Tags: #estrutura-do-tcc #bud 
 ---
 
 ## Etapas da elaboração do trabalho científico
@@ -121,3 +119,6 @@ OBS:
 Os itens citados podem ser reduzidos, ampliados ou estruturados em outra  ordem, de acordo com a natureza da pesquisa a ser desenvolvida. A estruturação  é flexível e seus elementos devem ser distribuídos em conformidade com as exigências lógicas da própria pesquisa (consultar orientador).
 
 Contudo, apesar de um bom direcionamento e todo o cuidado metodológico  e teórico dentro do projeto de pesquisa, muitas vezes ficamos fadados a situações delicadas que podem obrigar-nos a fazer modificações dentro dos nossos projetos. Desta forma, muitas vezes o projeto ou a pesquisa, em seus vários pontos  e momentos temporais, pode ser alterado no decorrer da pesquisa. Porém, esta  situação, além de ser normal é até positiva, pois revela eventuais descobertas de  dados novos e aprofundamento das ideias do autor (SEVERINO, 2017).
+
+---
+SILVA, D. F. DA et al. **Manual Prático para Elaboração de Trabalhos de Conclusão de Curso**. \[s.l.\] Editora Blucher, 2020.

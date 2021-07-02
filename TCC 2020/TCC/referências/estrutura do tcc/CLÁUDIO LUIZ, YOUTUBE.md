@@ -1,5 +1,7 @@
 >Tags: #bud
 
+---
+
 1 - Matricular-se no TCC sem saber o que vai fazer 
 2 - Escolher um assunto que você não tem habilidade 
 3 - Escolher um produto ou serviço ao invés de um problema 
