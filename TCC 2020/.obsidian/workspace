@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-01-29.md",
+            "file": "daily/2021-07-02.md",
             "mode": "source"
           }
         }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-01-29.md",
+                "file": "daily/2021-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-01-29.md"
+                "file": "daily/2021-07-02.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "6cfa841c9ebce329",
   "lastOpenFiles": [
-    "daily/2021-01-29.md",
+    "daily/2021-07-02.md",
+    "daily/2021-06-28.md",
+    "daily/2021-06-29.md",
+    "daily/2021-06-30.md",
+    "daily/2021-07-01.md",
     "TCC/intenções/Lista de Leitura.md",
+    "daily/2021-01-29.md",
     "daily/2020-11-25.md",
     "daily/2020-02-27.md",
-    "daily/2020-03-08.md",
-    "TCC/referências/estrutura do tcc/MELO, 2017.md",
-    "daily/2021-07-02.md",
-    "Meta Obsidian/Hashtags.md",
-    "daily/2020-03-09.md",
-    "templates/Template - Daily.md"
+    "daily/2020-03-08.md"
   ]
 }
