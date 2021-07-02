@@ -38,22 +38,23 @@ Design Justice Network
 - [ ] **23-08-2020
 [https://twitter.com/MendoncaThaiane/status/1319596046062944258](https://twitter.com/MendoncaThaiane/status/1319596046062944258)
 
-- [ ] **
-- [ ] **
-- [ ] **
-- [ ] **
-- [ ] **
-- [ ] **
-- [ ] **
-- [ ] **
-- [ ] **
-- [ ] **
-- [ ] **
-- [ ] **
 
 
 ---
 ## 2021
+- [ ] **28-01-2021
+[https://www.correio24horas.com.br/noticia/nid/grupo-se-reune-com-pm-baiana-pra-discutir-o-fim-de-abordagens-violentas/](https://www.correio24horas.com.br/noticia/nid/grupo-se-reune-com-pm-baiana-pra-discutir-o-fim-de-abordagens-violentas/)
+- [ ] **
+- [ ] **
+- [ ] **
+- [ ] **
+- [ ] **
+- [ ] **
+- [ ] **
+- [ ] **
+- [ ] **
+- [ ] **
+- [ ] **
 
 - [ ] EL PAÍS Brasil: Operação policial mata 25 pessoas no Jacarezinho, em segunda maior chacina da história do Rio.
 https://brasil.elpais.com/brasil/2021-05-06/operacao-policial-mata-25-pessoas-no-jacarezinho-em-segunda-maior-chacina-da-historia-do-rio.html
