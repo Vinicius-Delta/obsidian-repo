@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md",
+            "file": "TCC/referências/estrutura do tcc/SANTA-ROSA et al., 2019.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md",
+                "file": "TCC/referências/estrutura do tcc/SANTA-ROSA et al., 2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md"
+                "file": "TCC/referências/estrutura do tcc/SANTA-ROSA et al., 2019.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "6cfa841c9ebce329",
   "lastOpenFiles": [
-    "TCC/referências/estrutura do tcc/Sem título.md",
     "TCC/referências/estrutura do tcc/SANTA-ROSA et al., 2019.md",
+    "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md",
     "TCC/referências/estrutura do tcc/MELO, 2017.md",
-    "TCC/referências/KUCINSKI, Bernardo et al, 2015.md",
-    "TCC/referências/GARRETT, 2010.md",
-    "TCC/referências/MELO, 2017.md",
-    "TCC/referências/SANTA-ROSA et al., 2019.md",
-    "TCC/referências/SILVA et al., 2020.md",
-    "Sidequests/Briefing com cliente.md",
-    "TCC/metaprojeto/Conquistas.md"
+    "TCC/referências/estrutura do tcc/Sem título.md",
+    "daily/2021-07-03.md",
+    "daily/2021-06-30.md",
+    "daily/2021-07-02.md",
+    "daily/2021-07-01.md",
+    "TCC/entregas/monografia/TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
+    "TCC/referências/KUCINSKI, Bernardo et al, 2015.md"
   ]
 }

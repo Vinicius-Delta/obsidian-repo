@@ -1,4 +1,4 @@
-## Sugestões iniciais para quem está começando o TCC #estrutura-do-tcc
+## Sugestões iniciais para quem está começando o TCC > Tags: #estrutura-do-tcc
 #### Sobre o título
 no caso de TCC, o ideal é que  reflitam com a maior precisão possível o que foi feito  de fato na pesquisa, ainda que sempre exista lugar  para uma exceção.
 
