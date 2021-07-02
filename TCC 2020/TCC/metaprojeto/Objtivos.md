@@ -13,12 +13,12 @@ Template
 **Arquivos relacionados**: [[_Esqueleto do TCC]]
 
 **Milestones**: #to-do 
-- [ ] Tema
+- [x] Tema
 - [ ] Problematização
-- [ ] Objetivos
+- [x] Objetivos
 - [ ] Justificativa
 - [ ] Metodologia de pesquisa
-- [ ] Estrutura do trabalho
+- [x] Estrutura do trabalho
 
 
 **Prazo esperado:** [[2021-07-03]]

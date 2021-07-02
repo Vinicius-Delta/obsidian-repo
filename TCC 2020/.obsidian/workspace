@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Estrutura dos capítulos.md",
+                "file": "TCC/referências/estrutura do tcc/MELO, 2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Estrutura dos capítulos.md"
+                "file": "TCC/referências/estrutura do tcc/MELO, 2017.md"
               }
             }
           },
@@ -168,13 +168,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
-  "active": "227831987e220906",
+  "active": "47942af3a6f6f6c0",
   "lastOpenFiles": [
-    "! INBOX/Estrutura dos capítulos.md",
     "TCC/referências/estrutura do tcc/MELO, 2017.md",
+    "! INBOX/Estrutura dos capítulos.md",
     "TCC/_TCC 1/TCC 1 - Versão Final.md",
     "! INBOX/Sem título.md",
     "TCC/_TCC 2/Dissecando o tema.md",
