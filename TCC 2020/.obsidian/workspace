@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-02.md",
+            "file": "daily/2021-03-11.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-02.md",
+                "file": "daily/2021-03-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-02.md"
+                "file": "daily/2021-03-11.md"
               }
             }
           },
@@ -125,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "19b876b275f5d43e",
@@ -148,6 +149,7 @@
   },
   "active": "6cfa841c9ebce329",
   "lastOpenFiles": [
+    "daily/2021-03-11.md",
     "daily/2021-07-02.md",
     "daily/2021-07-03.md",
     "TCC/contatos/Eudaldo.md",
@@ -156,7 +158,6 @@
     "TCC/entregas/monografia/TCC 2/Sem título.md",
     "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md",
     "TCC/referências/estrutura do tcc/ANDRÉ FONTENELLE, YOUTUBE.md",
-    "TCC/referências/estrutura do tcc/MELO, 2017.md",
-    "TCC/referências/estrutura do tcc/SANTA-ROSA et al., 2019.md"
+    "TCC/referências/estrutura do tcc/MELO, 2017.md"
   ]
 }
