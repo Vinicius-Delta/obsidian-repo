@@ -1,5 +1,6 @@
 > Status: #abandonado 
 
+---
 # PARTE 2 Desenvolvimento - Nível Conceitual
 
 ## 2.1 Plano de estratégia
