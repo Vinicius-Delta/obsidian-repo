@@ -89,7 +89,7 @@ Tags: #estrutura-do-tcc #to-do
 [[Orientação 2020.03.20#Objetivos específicos]] 
 
 **Status: #to-do**
-- [ ] Refazer todos os objetivos
+- [x] Refazer todos os objetivos
 
 ---
 ### 1.4 Justificativa  
