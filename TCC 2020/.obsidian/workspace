@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/1. Introdução.md",
+            "file": "TCC/TCC 1/TCC 1 - Versão Final.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/Esqueleto do TCC.md",
+            "file": "TCC/orientações/Orientação 2020.03.20.md",
             "mode": "preview"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/1. Introdução.md",
+                "file": "TCC/TCC 1/TCC 1 - Versão Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/1. Introdução.md"
+                "file": "TCC/TCC 1/TCC 1 - Versão Final.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "227831987e220906",
   "lastOpenFiles": [
+    "TCC/TCC 1/TCC 1 - Versão Final.md",
+    "TCC/orientações/Orientação 2020.03.20.md",
+    "TCC/_TCC 2/Esqueleto do TCC.md",
+    "TCC/TCC 1/Sem título.md",
+    "TCC/TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
     "TCC/_TCC 2/1. Introdução.md",
     "TCC/contatos/Eudaldo.md",
-    "TCC/_TCC 2/Esqueleto do TCC.md",
-    "TCC/TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
     "TCC/estrutura tcc/TCC em bloco.md",
     "TCC/estrutura tcc/Estrutura dos capítulos do TCC.md",
-    "TCC/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
-    "TCC/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md",
-    "daily/2021-07-02.md",
-    "daily/2021-06-28.md"
+    "TCC/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md"
   ]
 }
