@@ -177,4 +177,4 @@ Aqui será inserida as análises (e mais coisas)
 
 -----
 ## Referências
-[[SILVA et al., 2020#10 Bibliografia]
+[[SILVA et al., 2020#10 Bibliografia]]
