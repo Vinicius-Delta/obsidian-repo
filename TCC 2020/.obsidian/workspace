@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/Esqueleto do TCC.md",
+                "file": "TCC/_TCC 2/1. Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/Esqueleto do TCC.md"
+                "file": "TCC/_TCC 2/1. Introdução.md"
               }
             }
           },
@@ -159,17 +160,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "da488b764a34a1ea",
+  "active": "227831987e220906",
   "lastOpenFiles": [
-    "TCC/_TCC 2/Esqueleto do TCC.md",
     "TCC/_TCC 2/1. Introdução.md",
+    "TCC/contatos/Eudaldo.md",
+    "TCC/_TCC 2/Esqueleto do TCC.md",
     "TCC/TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
     "TCC/estrutura tcc/TCC em bloco.md",
     "TCC/estrutura tcc/Estrutura dos capítulos do TCC.md",
     "TCC/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
     "TCC/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md",
     "daily/2021-07-02.md",
-    "daily/2021-06-28.md",
-    "daily/2021-06-29.md"
+    "daily/2021-06-28.md"
   ]
 }
