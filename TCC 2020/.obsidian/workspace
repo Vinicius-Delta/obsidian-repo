@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/Dissecando o tema.md",
+            "file": "! INBOX/Estrutura dos capítulos.md",
             "mode": "source"
           }
         }
@@ -22,17 +22,6 @@
           "state": {
             "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "da488b764a34a1ea",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
-            "mode": "preview"
           }
         }
       },
@@ -101,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 262,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -118,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
+                "file": "! INBOX/Estrutura dos capítulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md"
+                "file": "! INBOX/Estrutura dos capítulos.md"
               }
             }
           },
@@ -181,17 +171,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "c823d8b74ac59047",
+  "active": "227831987e220906",
   "lastOpenFiles": [
+    "! INBOX/Estrutura dos capítulos.md",
+    "TCC/referências/estrutura do tcc/MELO, 2017.md",
     "TCC/_TCC 1/TCC 1 - Versão Final.md",
+    "! INBOX/Sem título.md",
     "TCC/_TCC 2/Dissecando o tema.md",
     "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
     "daily/2021-07-02.md",
     "TCC/_TCC 2/estrutura tcc/TCC em bloco.md",
-    "TCC/_TCC 2/Sem título.md",
-    "TCC/_TCC 2/Esqueleto do TCC.md",
-    "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
-    "TCC/_TCC 2/Atributos desejados.md"
+    "TCC/_TCC 2/Sem título.md"
   ]
 }
