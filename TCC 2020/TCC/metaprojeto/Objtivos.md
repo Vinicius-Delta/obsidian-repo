@@ -10,7 +10,7 @@ Template
 -----
 
 ## Objetivo #01: completar a Introdução
-**Arquivos relacionados**: [[Esqueleto do TCC]]
+**Arquivos relacionados**: [[_Esqueleto do TCC]]
 
 **Milestones**: #to-do 
 - [ ] Tema
