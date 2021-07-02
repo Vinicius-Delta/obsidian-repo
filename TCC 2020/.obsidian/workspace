@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/entregas/monografia/TCC 2/1. Introdução.md",
+            "file": "daily/2021-07-02.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/entregas/monografia/TCC 2/1. Introdução.md",
+                "file": "daily/2021-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/entregas/monografia/TCC 2/1. Introdução.md"
+                "file": "daily/2021-07-02.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "6cfa841c9ebce329",
   "lastOpenFiles": [
+    "daily/2021-07-02.md",
+    "daily/2021-07-03.md",
+    "TCC/contatos/Eudaldo.md",
     "TCC/entregas/monografia/TCC 2/1. Introdução.md",
     "TCC/entregas/monografia/TCC 2/Esqueleto do TCC.md",
     "TCC/entregas/monografia/TCC 2/Sem título.md",
     "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md",
     "TCC/referências/estrutura do tcc/ANDRÉ FONTENELLE, YOUTUBE.md",
     "TCC/referências/estrutura do tcc/MELO, 2017.md",
-    "TCC/referências/estrutura do tcc/SANTA-ROSA et al., 2019.md",
-    "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
-    "TCC/referências/estrutura do tcc/Sem título.md",
-    "daily/2021-07-03.md"
+    "TCC/referências/estrutura do tcc/SANTA-ROSA et al., 2019.md"
   ]
 }
