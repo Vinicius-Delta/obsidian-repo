@@ -15,12 +15,8 @@
 > Propor um layout para uma plataforma web, a partir dos dados do Atlas da Violência 2020.
 
 **Objetivos específicos**
-> Compreender os elementos do webdesign necessários para o desenvolvimento de uma plataforma de visualização de dados.
-> Sugerir aspectos artísiticos e técnicos para o desenvolvimento de uma plataforma web
-> Identificar plataformas de vis
+> * Compreender os elementos do Web Design e User Experience necessários para o desenvolvimento de uma plataforma de visualização de dados.
+> * Identificar plataformas de visualização de dados que se destacam pela sua usabilidade e experiência do usuário.
+> * Sugerir aspectos artísiticos e técnicos para o desenvolvimento de uma plataforma web
+> * Criação de um protótipo funcional para demostrar os aspectos levantados.
 
-Explicar  como  web  design,  usabilidade  e  responsividade  são  essenciais  para    
-um  projeto  de website institucional;; • Sugerir  os  elementos  estilísticos  e  ferramentais  necessários  para  a    
-construção  de  um website institucional;;  
-• Evidenciar  as  principais  estratégias  utilizadas  em  um website institucional  na    
-área  de  gastronomia,  entretenimento  e  cultura;�
