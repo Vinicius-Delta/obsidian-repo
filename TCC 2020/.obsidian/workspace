@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
-            "mode": "source"
+            "file": "daily/2021-07-03.md",
+            "mode": "preview"
           }
         }
       },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
+                "file": "daily/2021-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md"
+                "file": "daily/2021-07-03.md"
               }
             }
           },
@@ -147,7 +147,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "19b876b275f5d43e",
@@ -166,11 +167,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "active": "ef975b1710a0e0fa",
   "lastOpenFiles": [
+    "daily/2021-07-03.md",
+    "daily/2021-07-02.md",
     "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
     "TCC/_TCC 2/estrutura tcc/Sem título.md",
     "TCC/_TCC 2/estrutura tcc/TCC em bloco.md",
@@ -178,8 +180,6 @@
     "TCC/_TCC 2/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md",
     "TCC/_TCC 2/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
     "TCC/_TCC 2/Dissecando o tema.md",
-    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
-    "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
-    "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md"
+    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md"
   ]
 }
