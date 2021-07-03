@@ -31,8 +31,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/Sem título.md",
-            "mode": "preview"
+            "file": "TCC/referências/PINHEIRO, 2007.md",
+            "mode": "source"
           }
         }
       },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/Sem título.md",
+                "file": "TCC/referências/PINHEIRO, 2007.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/Sem título.md"
+                "file": "TCC/referências/PINHEIRO, 2007.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "bb89ab9f7682d897",
   "lastOpenFiles": [
+    "TCC/referências/Sem título 1.md",
     "TCC/referências/Sem título.md",
     "TCC/referências/GARRETT, 2010.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
@@ -191,7 +192,6 @@
     "daily/2021-07-03.md",
     "daily/2021-07-02.md",
     "TCC/_TCC 2/estrutura tcc/Sem título.md",
-    "TCC/_TCC 2/estrutura tcc/TCC em bloco.md",
-    "TCC/_TCC 2/estrutura tcc/Estrutura dos capítulos do TCC.md"
+    "TCC/_TCC 2/estrutura tcc/TCC em bloco.md"
   ]
 }
