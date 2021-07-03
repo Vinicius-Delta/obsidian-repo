@@ -1,6 +1,6 @@
 **Tema**
 > ~~Desevolvimento de uma plataforma Web de visualização de dados baseado nos dados do Atlas da Violência 2020, sobre violência Policial.~~
-> Desevolvimento de um website para visualização de dados baseado nos conceitos de usabilidade na web.
+> Desevolvimento de uma plataforma web para visualização de dados baseado nos conceitos de usabilidade.
 
 
 **Problema**
