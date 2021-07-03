@@ -6,7 +6,7 @@
 
 "Em termos históricos, o grande trabalho do design tem sido ajustar conexões entre coisas que antes eram desconexas. Hoje, chamamos isso de projetar interfaces." ([Cardoso 2012:p. 22](zotero://open-pdf/library/items/EMU7VXXE?page=22))
 
-"A internet jamais teria alcançado sua repercussão atual se não fosse pela elaboração das interfaces gráficas que dão sustentação à world wide web." ([Cardoso 2012:114](zotero://open-pdf/library/items/EMU7VXXE?page=114))
+=="A internet jamais teria alcançado sua repercussão atual se não fosse pela elaboração das interfaces gráficas que dão sustentação à world wide web." ([Cardoso 2012:114](zotero://open-pdf/library/items/EMU7VXXE?page=114))==
 
 "Em suma, do ponto de vista de sua difusão social, a rede é um fenômeno tanto de design quanto de informática." ([Cardoso 2012:p. 114](zotero://open-pdf/library/items/EMU7VXXE?page=114))
 
