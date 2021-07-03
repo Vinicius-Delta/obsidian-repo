@@ -24,6 +24,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "ddcfcabe6f28e48a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TCC/_TCC 2/Dissecando o tema.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
