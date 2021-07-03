@@ -13,3 +13,7 @@
 "Mais do que o layout, propriamente dito, de uma página qualquer, importa pensar o site (conjunto ou sucessão de páginas) como um sistema de navegação." ([Cardoso 2012:p. 115](zotero://open-pdf/library/items/EMU7VXXE?page=115))
 
 "A navegação na web envolve um deslize constante entre texto e imagem, os quais costumam ser interpostos em alguma correlação de equilíbrio entre blocos (de texto), que retêm o olhar, e janelas (de imagens), penetráveis pelo olhar em sua busca imaginária pela profundidade. Trata-se de uma malha ou rede, no sentido estrito, de ser algo que retém algumas coisas enquanto deixa outras passarem. Trata-se também de uma teia, algo que enreda, pois no espaço virtual, texto e imagem tendem a se interpenetrar cada vez mais. Há imagens dentro dos textos; textos por cima de imagens; textos e imagens que operam em conjunção perfeita. Os textos e imagens são marcadores visuais, pontos de referência, entre os quais se navega. Ao mesmo tempo que são marcadores, todavia, eles constituem a própria paisagem ou meio por qual se navega. O espaço virtual é composto de um conjunto de mapas e sinais (indícios visuais) que são dispostos como salas e espelhos (interstícios espaciais). Ao mesmo tempo que os observamos, movemo-nos entre eles e através deles. Eles estão diante de nós, e também à nossa volta." ([Cardoso 2012:p. 118](zotero://open-pdf/library/items/EMU7VXXE?page=118))
+
+
+---
+CARDOSO, R. **Design para um mundo complexo**. São Paulo: Cosac Naify, 2012.
