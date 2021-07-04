@@ -94,14 +94,12 @@ https://noticias.uol.com.br/colunas/jamil-chade/2021/06/28/inquerito-da-onu-por-
 
 - [ ] **Lista da Standing united**[https://docs.google.com/spreadsheets/d/e/2PACX-1vT1lEijNOMasTpHGwoR6RuUDw4_vVlRM83jlVedmKLN2X3R53ZAioKWyRvvs-sRdWUPOS54cu5XD-ZA/pubhtml#](https://docs.google.com/spreadsheets/d/e/2PACX-1vT1lEijNOMasTpHGwoR6RuUDw4_vVlRM83jlVedmKLN2X3R53ZAioKWyRvvs-sRdWUPOS54cu5XD-ZA/pubhtml?authuser=0)
 
-
-- [ ] **Absorver / Importar deck da Standunited para o tcc
+- [ ] **Absorver / Importar deck da Standunited para o tcc**
 [https://www.notion.so/deltavs/Presentation-57e417506e434642a221943f58855b08](https://www.notion.so/deltavs/Presentation-57e417506e434642a221943f58855b08)
 
-- [ ] **
-[https://www.desisnetwork.org/wp-content/uploads/2018/02/article-Meroni_Fassi-Simeone_DesignforSocialInnovationasaformofDesignActivism-Anactionformat.pdf](https://www.desisnetwork.org/wp-content/uploads/2018/02/article-Meroni_Fassi-Simeone_DesignforSocialInnovationasaformofDesignActivism-Anactionformat.pdf)
+- [ ] #seed [https://www.vox.com/the-goods/21359098/social-justice-slideshows-instagram-activism](https://www.vox.com/the-goods/21359098/social-justice-slideshows-instagram-activism)
 
-- [ ] **
+
 - [ ] **
 - [ ] **
 - [ ] **
