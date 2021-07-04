@@ -37,6 +37,17 @@
         }
       },
       {
+        "id": "8f1dc30ffe495af2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TCC/intenções/Lista de Leitura.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "1e31dfe68146ec92",
         "type": "leaf",
         "state": {
@@ -108,13 +119,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -131,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
+                "file": "TCC/intenções/Lista de Leitura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md"
+                "file": "TCC/intenções/Lista de Leitura.md"
               }
             }
           },
@@ -194,8 +203,9 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "2586fab2daccdb81",
+  "active": "8f1dc30ffe495af2",
   "lastOpenFiles": [
+    "TCC/intenções/Lista de Leitura.md",
     "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
     "TCC/_TCC 2/Dissecando o tema.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
@@ -204,7 +214,6 @@
     "TCC/referências/Sem título.md",
     "TCC/referências/Sem título 1.md",
     "TCC/referências/GARRETT, 2010.md",
-    "daily/2021-07-03.md",
-    "daily/2021-07-02.md"
+    "daily/2021-07-03.md"
   ]
 }
