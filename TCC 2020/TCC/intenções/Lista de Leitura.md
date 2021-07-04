@@ -99,8 +99,9 @@ https://noticias.uol.com.br/colunas/jamil-chade/2021/06/28/inquerito-da-onu-por-
 
 - [ ] #seed [https://www.vox.com/the-goods/21359098/social-justice-slideshows-instagram-activism](https://www.vox.com/the-goods/21359098/social-justice-slideshows-instagram-activism)
 
+- [ ] **Sobre violência**
+[Estratégias de enfrentamento da violência urbana por ativistas sociais do Rio de Janeiro (bvsalud.org)](http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1677-11682016000300013)
 
-- [ ] **
 - [ ] **
 - [ ] **
 - [ ] **
