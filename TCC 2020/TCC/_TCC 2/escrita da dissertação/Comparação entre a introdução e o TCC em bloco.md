@@ -1,6 +1,10 @@
-Utiliza textos de 
-[[TCC em bloco]]
-[[1. Introdução]]
+Tags: #precisa-desenvolver-mais 
+
+Utiliza textos de:
+* [[TCC em bloco]]
+* [[1. Introdução]]
+
+---
 
 
 ![[TCC em bloco#Bloco 1 - Tópico Frasal]]

@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta Obsidian/Hashtags.md",
+                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta Obsidian/Hashtags.md"
+                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md"
               }
             }
           },
@@ -213,17 +213,17 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "729944c7134e28c8",
+  "active": "2586fab2daccdb81",
   "lastOpenFiles": [
+    "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
     "Meta Obsidian/Hashtags.md",
+    "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md",
     "TCC/_TCC 2/escrita da dissertação/Sem título.md",
     "daily/2021-07-06.md",
     "daily/2021-07-07.md",
-    "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
     "TCC/_TCC 2/estrutura tcc/TCC em bloco.md",
     "TCC/intenções/Lista de Leitura.md",
     "TCC/_TCC 2/Dissecando o tema.md",
-    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
-    "TCC/referências/CARDOSO, 2012.md"
+    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md"
   ]
 }
