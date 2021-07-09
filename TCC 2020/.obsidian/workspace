@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-09.md",
+            "file": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-09.md",
+                "file": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-09.md"
+                "file": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "dbedca766e9d9964",
   "lastOpenFiles": [
+    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
     "daily/2021-07-09.md",
     "daily/2021-07-03.md",
+    "daily/2021-07-02.md",
+    "daily/2021-07-01.md",
+    "daily/2021-06-29.md",
+    "daily/2021-06-30.md",
     "daily/2021-07-06.md",
     "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md",
-    "daily/2021-07-07.md",
-    "daily/2021-07-08.md",
-    "Sidequests/Briefing com cliente.md",
-    "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
-    "Meta Obsidian/Hashtags.md",
-    "TCC/_TCC 2/escrita da dissertação/Sem título.md"
+    "daily/2021-07-07.md"
   ]
 }

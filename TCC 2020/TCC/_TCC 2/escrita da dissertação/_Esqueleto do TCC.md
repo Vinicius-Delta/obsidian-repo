@@ -98,7 +98,7 @@ Tags: #estrutura-do-tcc #to-do
 [[Orientação 2020.03.20#Orientações]]
 
 **Status: #to-do**
-- [ ] Aplicar o tcc em bloco para essa parte 
+- [ ] Aplicar o tcc em bloco para a justificativa 
 - [ ] Refazer completamente a justificativa
 
 
