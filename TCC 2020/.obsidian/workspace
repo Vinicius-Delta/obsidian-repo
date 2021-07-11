@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 1/Sem título.md",
-            "mode": "source"
+            "file": "TCC/_TCC 1/Pesagem dos temas.md",
+            "mode": "preview"
           }
         }
       },
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 1/Sem título.md",
+                "file": "TCC/_TCC 1/Pesagem dos temas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 1/Sem título.md"
+                "file": "TCC/_TCC 1/Pesagem dos temas.md"
               }
             }
           },
@@ -160,6 +161,8 @@
   },
   "active": "dbedca766e9d9964",
   "lastOpenFiles": [
+    "TCC/_TCC 1/Pesagem dos temas.md",
+    "! INBOX/2020-02-26.md",
     "TCC/_TCC 1/Sem título.md",
     "daily/2021-07-11.md",
     "daily/2021-07-09.md",
@@ -167,8 +170,6 @@
     "daily/2021-07-02.md",
     "daily/2021-05-01.md",
     "TCC/_TCC 2/estrutura tcc/Justificativa.md",
-    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
-    "! INBOX/NEMER, 2019.md",
-    "! INBOX/MELGAÇO; MADUREIRA, 2017.md"
+    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md"
   ]
 }
