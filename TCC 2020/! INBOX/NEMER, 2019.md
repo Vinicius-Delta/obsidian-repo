@@ -1,4 +1,5 @@
-
+> Hashtags: #internet 
+---
 **Extracted Annotations (09/07/2021 11:56:32)**
 
 "Embora a Web 2.0 forneça ferramentas que possa proporcionar a cidadania e a capacitação de seus usuários, esse estudo questiona tais promessas emancipadoras, principalmente em relação às pessoas que enfrentam a marginalização social e digital." ([Nemer 2019:1](zotero://open-pdf/library/items/ZVUYLVTR?page=1))

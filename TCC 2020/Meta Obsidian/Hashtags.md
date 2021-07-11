@@ -39,3 +39,8 @@
 ## Por tipo de conteúdo
 #estrutura-do-tcc Sobre o processo inicial de estruturar o projeto e o documento
 #inspirador Para frases que me inspiram a agir
+
+#internet 
+#visualização-de-dados
+#user-experience 
+#design

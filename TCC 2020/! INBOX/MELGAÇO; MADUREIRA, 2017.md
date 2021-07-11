@@ -1,5 +1,7 @@
 Hashtags: #internet
 
+---
+
 **Extracted Annotations (09/07/2021 12:14:10)**
 
 "O impacto da criação desse aparato tecnológico pode ser facilmente observado em diversas áreas, sobretudo no comportamento humano. É interessante notar como que, no decorrer dos anos, a internet tornou-se um espaço particularmente importante para as relações humanas. A vida social ganhou novos contornos a partir da invenção dessa nova ferramenta que tem a capacidade de maximizar o contato entre as pessoas, aproximar conhecidos ou desconhecidos e reduzir distâncias de modo a transformar completamente a experiência espaço-temporal. Em tempos de acelerados avanços tecnológicos, interações antes inimagináveis, hoje, ocorrem de maneira muito simples e instantânea." ([Melgaço and Madureira 2017:16](zotero://open-pdf/library/items/SZV7DHPV?page=2))

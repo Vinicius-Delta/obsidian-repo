@@ -1,3 +1,5 @@
+> Tags: #design
+---
 "... não existem receitas formais capazes de equacionar os desafios da atualidade. Não são determinados esquemas de cores e fontes, proporções e diagramas, e muito menos encantações como "a forma segue a função", que resolverão os imensos desafios do mundo complexo em que estamos inseridos" ([Cardoso 2012:p. 21](zotero://open-pdf/library/items/EMU7VXXE?page=21))
 
 "Seria cruel, quase obsceno, propor que arejar a mancha de texto de uma página é uma boa maneira de tornar a leitura mais acessível, num país onde não se lê por opção e falta de opção." ([Cardoso 2012:p. 21](zotero://open-pdf/library/items/EMU7VXXE?page=21))

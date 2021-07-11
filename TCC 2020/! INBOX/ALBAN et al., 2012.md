@@ -1,3 +1,5 @@
+> Hashtags: #internet 
+---
 **Extracted Annotations (08/07/2021 21:32:24)**
 
 "O W3C também propôs algumas orientações para websites móveis, como i) levar em conta diferentes dispositivos; ii) utilizar de padrões web em marcação, disponibilização e formatação do conteúdo; iii) evitar o uso de tabelas aninhadas, janelas pop-ups, frames e imagens mapeadas; iv) organizar o documento de forma que seja possível entendê-lo sem folhas de estilo; v) navegação simples; vi) URLs curtas; vii) não utilizar medidas em pixels ou em unidades absolutas; viii) fornecer informações para uso eficiente de cache nas chamadas HTTP; ix) evitar a entrada de texto; x) rotular todos os controles de formulário de maneira adequada (W3C, 2008)" ([Alban et al 2012:5](zotero://open-pdf/library/items/HBYLIXNX?page=5))

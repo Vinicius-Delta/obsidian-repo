@@ -1,3 +1,6 @@
+> Hashtags: #visualização-de-dados
+---
+
 **Extracted Annotations (07/07/2021 10:58:40)**
 
 "Em um contexto de cada vez mais informação e produção de dados, armazenar e disponibilizar de forma clara dados governamentais, oriundo de diferentes órgãos, que auxiliem em pesquisas e tomadas de decisão se torna um desafio. Acredita-se necessário, crescentemente, pensar em modos de visualização de dados públicos de uma forma mais democrática, onde os dados possam ser traduzidos para que qualquer cidadão consiga entender. Os dados se tornam quase inúteis sem a capacidade de visualizar e agir sobre eles." ([Muruga and Andrade 2019:1723](zotero://open-pdf/library/items/5PGG54UQ?page=1))
