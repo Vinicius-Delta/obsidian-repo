@@ -1,5 +1,5 @@
-`` KUCINSKI, Bernardo et al. Bala perdida: a violência policial no Brasil e os desafios para sua superação. Boitempo Editorial, 2015.``
-
+>Tags: #violência-policial
+---
 > O principal desafio para os defensores dos direitos humanos e para quem sonha com políticas de segurança pública baseadas na promoção da cidadania é superar a oposição entre polícia e direitos humanos. 
 \- Bernardo Kucinski \[et al.\], Bala perdida, loc. 127-128
 
@@ -62,3 +62,6 @@
 
 > O que costumo denominar genocídio de jovens negros nas favelas e nas periferias, conduzido pelas forças policiais, não só militares, é a face mais tangível de um processo perverso que se estende até o sistema penitenciário, onde a destruição de seres humanos tem ensejado as mais violentas reações, alimentando o ciclo vicioso conhecido e a temida espiral de dor e medo. 
 \- Bernardo Kucinski \[et al.\], Bala perdida, loc. 499-502
+
+---
+KUCINSKI, Bernardo et al. **Bala perdida**: a violência policial no Brasil e os desafios para sua superação. Boitempo Editorial, 2015.

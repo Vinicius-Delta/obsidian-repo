@@ -1,6 +1,7 @@
 > Extraido do Notion do TCC - versão tipografia vernacular
+> Tags: #estrutura-do-tcc 
 
-
+---
 A justificativa de TCC serve para mostrar a relevância do tema escolhido e qual o seu impacto.
 
 **Justificativa = Articulador Problema + Problema de Pesquisa + Articulador Proposta/Tese + Benefício**

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/GARRETT, 2010.md",
+            "file": "daily/2021-05-01.md",
             "mode": "source"
           }
         }
@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta Obsidian/Hashtags.md",
-            "mode": "source"
+            "file": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
+            "mode": "preview"
           }
         }
       }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "problemati",
+                "query": "rasc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/GARRETT, 2010.md",
+                "file": "daily/2021-05-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/GARRETT, 2010.md"
+                "file": "daily/2021-05-01.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "dbedca766e9d9964",
   "lastOpenFiles": [
-    "TCC/referências/GARRETT, 2010.md",
-    "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md",
-    "TCC/referências/estrutura do tcc/ANDRÉ FONTENELLE, YOUTUBE.md",
-    "TCC/referências/estrutura do tcc/MELO, 2017.md",
-    "TCC/referências/estrutura do tcc/SANTA-ROSA et al., 2019.md",
-    "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
-    "TCC/referências/CARDOSO, 2012.md",
+    "daily/2021-05-01.md",
+    "TCC/_TCC 2/estrutura tcc/Justificativa.md",
+    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
+    "! INBOX/NEMER, 2019.md",
+    "! INBOX/MELGAÇO; MADUREIRA, 2017.md",
+    "! INBOX/MURUGA; ANDRADE, 2019.md",
     "Meta Obsidian/Hashtags.md",
+    "! INBOX/GRILO, 2019.md",
     "! INBOX/ALBAN et al., 2012.md",
-    "! INBOX/GRILO, 2019.md"
+    "TCC/referências/PINHEIRO, 2007.md"
   ]
 }

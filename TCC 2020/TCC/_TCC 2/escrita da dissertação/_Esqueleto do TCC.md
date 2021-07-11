@@ -96,6 +96,7 @@ Tags: #estrutura-do-tcc #to-do
 **Referência:**
 [[SILVA et al., 2020#5 Justificativa ou motivação]]
 [[Orientação 2020.03.20#Orientações]]
+[[Estrutura da Justificativa - Extraido do Notion]]
 
 **Status: #to-do**
 - [ ] Aplicar o tcc em bloco para a justificativa 

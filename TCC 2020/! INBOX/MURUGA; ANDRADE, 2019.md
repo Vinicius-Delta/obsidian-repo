@@ -1,4 +1,4 @@
-> Hashtags: #visualização-de-dados
+> Tags: #visualização-de-dados
 ---
 
 **Extracted Annotations (07/07/2021 10:58:40)**

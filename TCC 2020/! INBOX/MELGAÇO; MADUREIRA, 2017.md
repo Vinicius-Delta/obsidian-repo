@@ -1,4 +1,4 @@
-Hashtags: #internet
+Tags: #internet
 
 ---
 
