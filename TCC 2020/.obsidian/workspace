@@ -170,8 +170,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "19b876b275f5d43e",
@@ -190,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "active": "dbedca766e9d9964",
   "lastOpenFiles": [
