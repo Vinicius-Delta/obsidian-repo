@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-05-01.md",
+            "file": "daily/2021-07-11.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-05-01.md",
+                "file": "daily/2021-07-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-05-01.md"
+                "file": "daily/2021-07-11.md"
               }
             }
           },
@@ -156,20 +156,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "active": "dbedca766e9d9964",
   "lastOpenFiles": [
+    "daily/2021-07-11.md",
+    "daily/2021-07-09.md",
+    "daily/2021-07-08.md",
+    "daily/2021-07-02.md",
     "daily/2021-05-01.md",
     "TCC/_TCC 2/estrutura tcc/Justificativa.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
     "! INBOX/NEMER, 2019.md",
     "! INBOX/MELGAÇO; MADUREIRA, 2017.md",
-    "! INBOX/MURUGA; ANDRADE, 2019.md",
-    "Meta Obsidian/Hashtags.md",
-    "! INBOX/GRILO, 2019.md",
-    "! INBOX/ALBAN et al., 2012.md",
-    "TCC/referências/PINHEIRO, 2007.md"
+    "! INBOX/MURUGA; ANDRADE, 2019.md"
   ]
 }
