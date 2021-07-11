@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
-            "mode": "source"
+            "file": "! INBOX/NEMER, 2019.md",
+            "mode": "preview"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
+                "file": "! INBOX/NEMER, 2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md"
+                "file": "! INBOX/NEMER, 2019.md"
               }
             }
           },
@@ -149,6 +149,7 @@
   },
   "active": "dbedca766e9d9964",
   "lastOpenFiles": [
+    "! INBOX/Sem título.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
     "daily/2021-07-09.md",
     "daily/2021-07-03.md",
@@ -157,7 +158,6 @@
     "daily/2021-06-29.md",
     "daily/2021-06-30.md",
     "daily/2021-07-06.md",
-    "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md",
-    "daily/2021-07-07.md"
+    "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md"
   ]
 }
