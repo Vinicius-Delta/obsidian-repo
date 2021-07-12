@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 262,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -196,8 +197,8 @@
   "lastOpenFiles": [
     "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
     "! INBOX/MELGAÇO; MADUREIRA, 2017.md",
-    "! INBOX/NEMER, 2019.md",
     "! INBOX/MURUGA; ANDRADE, 2019.md",
+    "! INBOX/NEMER, 2019.md",
     "! INBOX/ALBAN et al., 2012.md",
     "! INBOX/GRILO, 2019.md",
     "! INBOX/KUCINSKI, 2015.md",
