@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/MURUGA; ANDRADE, 2019.md",
+            "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
             "mode": "preview"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/MURUGA; ANDRADE, 2019.md",
+                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/MURUGA; ANDRADE, 2019.md"
+                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "dbedca766e9d9964",
   "lastOpenFiles": [
+    "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
     "! INBOX/MURUGA; ANDRADE, 2019.md",
     "! INBOX/NEMER, 2019.md",
     "! INBOX/2020-02-26.md",
@@ -168,7 +169,6 @@
     "! INBOX/MELGAÇO; MADUREIRA, 2017.md",
     "! INBOX/DefeZap.md",
     "TCC/metaprojeto/Objtivos.md",
-    "daily/2021-07-11.md",
-    "TCC/intenções/Lista de Leitura.md"
+    "daily/2021-07-11.md"
   ]
 }
