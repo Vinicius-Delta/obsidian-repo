@@ -26,6 +26,28 @@
         }
       },
       {
+        "id": "abb6575c77c3d9da",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "! INBOX/MURUGA; ANDRADE, 2019.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "75e9a3a9f4a48974",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "! INBOX/NEMER, 2019.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "f89f492621a5bb2d",
         "type": "leaf",
         "state": {
@@ -90,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -108,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
+                "file": "! INBOX/MELGAÇO; MADUREIRA, 2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md"
+                "file": "! INBOX/MELGAÇO; MADUREIRA, 2017.md"
               }
             }
           },
@@ -171,15 +192,15 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "dbedca766e9d9964",
+  "active": "34e8e60ab0186218",
   "lastOpenFiles": [
-    "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
     "! INBOX/MELGAÇO; MADUREIRA, 2017.md",
+    "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
+    "! INBOX/NEMER, 2019.md",
     "! INBOX/MURUGA; ANDRADE, 2019.md",
     "! INBOX/ALBAN et al., 2012.md",
     "! INBOX/GRILO, 2019.md",
     "! INBOX/KUCINSKI, 2015.md",
-    "! INBOX/NEMER, 2019.md",
     "! INBOX/2020-02-26.md",
     "! INBOX/DefeZap.md",
     "TCC/metaprojeto/Objtivos.md"
