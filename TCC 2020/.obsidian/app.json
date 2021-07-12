@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "! INBOX",
+  "attachmentFolderPath": "assets",
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "readableLineLength": true
+}
