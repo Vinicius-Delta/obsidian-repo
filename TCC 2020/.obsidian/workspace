@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
+            "file": "daily/2021-07-11.md",
             "mode": "source"
           }
         }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
+                "file": "daily/2021-07-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md"
+                "file": "daily/2021-07-11.md"
               }
             }
           },
@@ -203,6 +203,7 @@
   },
   "active": "dbedca766e9d9964",
   "lastOpenFiles": [
+    "daily/2021-07-11.md",
     "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
     "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
@@ -211,7 +212,6 @@
     "TCC/_TCC 2/Atributos desejados.md",
     "TCC/referências/CARDOSO, 2012.md",
     "! INBOX/MELGAÇO; MADUREIRA, 2017.md",
-    "! INBOX/NEMER, 2019.md",
-    "! INBOX/MURUGA; ANDRADE, 2019.md"
+    "! INBOX/NEMER, 2019.md"
   ]
 }
