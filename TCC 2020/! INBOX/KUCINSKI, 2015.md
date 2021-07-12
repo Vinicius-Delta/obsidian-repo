@@ -72,3 +72,6 @@
 		
 		O medo diante da polícia também é registrado em cifras: um terço da população teme sofrer violência policial, e índice semelhante receia ser vítima de extorsão pela polícia.		
 		pessoas com antecedentes criminais, suspeitos do sexo masculino, negros, alcoolizados, pessoas que apresentam comportamento hostil ou que desafiam a autoridade policial, quando há resistência física, nas ocorrências noturnas, em espaços públicos e com policiais à paisana[9].		
+
+---
+KUCINSKI, B. (ED.). **Bala perdida: a violência policial no Brasil e os desafios para sua superação**. 1a edição ed. São Paulo, SP: Carta Maior : Boitempo Editorial, 2015.
