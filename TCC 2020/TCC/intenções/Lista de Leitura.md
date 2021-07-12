@@ -105,7 +105,9 @@ https://noticias.uol.com.br/colunas/jamil-chade/2021/06/28/inquerito-da-onu-por-
 - [ ] [Auto de Resistência - O Filme] Materiais Extras - Google Drive
 https://drive.google.com/drive/folders/1cjgNlNIwiRyPylHwpRn8hrPMmv3cZNtb
 
-- [ ] ds
+- [ ] Similar #seed
+[(20+) DefeZap | Facebook](https://www.facebook.com/defezap/)
+[[DefeZap]]
 
 
 - [ ] **
