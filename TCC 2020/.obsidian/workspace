@@ -15,6 +15,17 @@
         }
       },
       {
+        "id": "34e8e60ab0186218",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "! INBOX/MELGAÇO; MADUREIRA, 2017.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "f89f492621a5bb2d",
         "type": "leaf",
         "state": {
@@ -79,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 262,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -156,19 +168,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 275,
+    "collapsed": true
   },
   "active": "dbedca766e9d9964",
   "lastOpenFiles": [
     "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
+    "! INBOX/MELGAÇO; MADUREIRA, 2017.md",
     "! INBOX/MURUGA; ANDRADE, 2019.md",
-    "! INBOX/NEMER, 2019.md",
-    "! INBOX/2020-02-26.md",
     "! INBOX/ALBAN et al., 2012.md",
     "! INBOX/GRILO, 2019.md",
-    "! INBOX/MELGAÇO; MADUREIRA, 2017.md",
+    "! INBOX/KUCINSKI, 2015.md",
+    "! INBOX/NEMER, 2019.md",
+    "! INBOX/2020-02-26.md",
     "! INBOX/DefeZap.md",
-    "TCC/metaprojeto/Objtivos.md",
-    "daily/2021-07-11.md"
+    "TCC/metaprojeto/Objtivos.md"
   ]
 }
