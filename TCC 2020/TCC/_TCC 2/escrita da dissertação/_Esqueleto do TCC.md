@@ -119,7 +119,7 @@ Tags: #estrutura-do-tcc #to-do
 É opcional, porém desejado. Escreva uma linha sobre qual é o conteúdo de cada capítulo
 
 **Status: #to-do**
-- [ ] Conferir o que eu escrevi em TCC 1
+- [x] Conferir o que eu escrevi em TCC 1
 
 ---
 ## 2 Referencial teórico

@@ -14,7 +14,7 @@ Template
 
 **Milestones**: #to-do 
 - [x] Tema
-- [ ] Problematização
+- [x] Problematização
 - [x] Objetivos
 - [ ] Justificativa
 - [ ] Metodologia de pesquisa
