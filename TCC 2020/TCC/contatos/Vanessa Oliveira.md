@@ -1,0 +1,1 @@
+Enviou digitalmente as fotos do livro (BRAGA, 2011)
