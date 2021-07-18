@@ -38,6 +38,9 @@ Devido às desigualdades de acesso, é preciso destacar que através desse proje
 
 Minha teoria é que a dificuldade de acesso para acessar informações sobre ____ 
 pode ser resolvida com a aplicação de uma plataforma web de visualização de dados 
+em contribuição para o seu público alvo com a vantagem de proporcionar a colaboração entre os usuários.
+
+Devido
 
 
 ## 1.4 Objetivos
