@@ -109,6 +109,6 @@ https://drive.google.com/drive/folders/1cjgNlNIwiRyPylHwpRn8hrPMmv3cZNtb
 [(20+) DefeZap | Facebook](https://www.facebook.com/defezap/)
 [[DefeZap]]
 
+- [ ] https://g1.globo.com/sp/sao-paulo/noticia/2021/07/12/pms-de-18-batalhoes-que-passaram-a-usar-cameras-em-uniformes-registram-letalidade-zero-em-junho-no-estado-de-sp.ghtml
 
-- [ ] **
 - [ ] **
