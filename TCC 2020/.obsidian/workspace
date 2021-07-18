@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
+            "file": "TCC/_TCC 2/estrutura tcc/Estrutura da Justificativa - Extraido do Notion.md",
             "mode": "preview"
           }
         }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 262,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -185,14 +186,14 @@
   "active": "fd44ee67ea1c26c5",
   "lastOpenFiles": [
     "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md",
-    "TCC/_TCC 2/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
-    "TCC/referências/CARDOSO, 2012.md",
-    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
-    "TCC/_TCC 2/Dissecando o tema.md",
-    "TCC/referências/estrutura do tcc/Writing Essay/Structure of an Expository Essay.md",
-    "TCC/_TCC 1/v0.3 - versão entregue/Guia do Projeto.md",
-    "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
     "TCC/_TCC 2/estrutura tcc/Estrutura da Justificativa - Extraido do Notion.md",
-    "TCC/referências/estrutura do tcc/Writing Essay/Essay Writing Hands On 2b8705b0f7a5423593e5e9d51736e284.md"
+    "! INBOX/GRILO, 2019.md",
+    "TCC/_TCC 1/v0.3 - versão entregue/Guia do Projeto.md",
+    "TCC/_TCC 2/estrutura tcc/TCC em bloco.md",
+    "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
+    "TCC/_TCC 1/v0.3 - versão entregue/Referência - Justificativa.md",
+    "TCC/_TCC 1/v0.1 - definição do tema/Quadro de pesquisa.md",
+    "TCC/_TCC 1/v0.3 - versão entregue/Projeto TCC1 [05.03.20].md",
+    "TCC/referências/estrutura do tcc/MELO, 2017.md"
   ]
 }

@@ -33,8 +33,10 @@ Devido às desigualdades de acesso, é preciso destacar que através desse proje
 
 ## 1.3 Problematização
 > **Palavra Qualificadora + Tema + Ligação da hipótese + Recursos/Solução atual**
-> Como o Web Design pode facilitar a interpretação e o acesso 
+> Como o Web Design pode facilitar a interpretação e o acesso de dados sobre _____
 > propor uma plataforma para visualização de dados sobre violência Policial no Brasil?
+
+Minha teoria é que a dificuldade de acesso para acessar informações 
 
 
 ## 1.4 Objetivos
