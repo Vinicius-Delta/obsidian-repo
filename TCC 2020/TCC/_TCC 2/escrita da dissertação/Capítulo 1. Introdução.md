@@ -57,6 +57,10 @@ em contribuição para o seu público alvo com a vantagem de proporcionar a cola
 ## 1.4 Justificativa
 Devido à dificuldade de acesso para acessar informações atuais sobre ____, essa pesquisa se justifica através da proposição de uma plataforma web, voltada a disposivitivos móveis, que pode contribuir para colaboração entre os participantes.
 
+A proposta desse trabalho é facilitar o acesso de informações sobre ______, através da proposta de uma plataforma web, voltada a dipositivos móveis, que possiblite a colaboração entre os participantes.
+
+A proposta desse trabalho é explorarar o acesso de informoções 
+
 qual a relevância do tema escolhido, qual o impacto do tema.
     Aqui vc precisa deixar claro pq o seu projeto é importante, pq ele iria solucionar o problema, qual a relação dele com o design e como o design pode atuar como um vetor político.
 
