@@ -1,6 +1,6 @@
 # 1 Introdução
 ## 1.1 Tema
-Desenvolvimento de uma plataforma web para visualização de dados, guiada pelo conceito de invoação social
+Desenvolvimento de uma plataforma web para visualização de dados
 
 
 ## 1.2 Contextualização inicial
