@@ -33,6 +33,7 @@ Devido às desigualdades de acesso, é preciso destacar que através desse proje
 
 ## 1.3 Problematização
 > **Palavra Qualificadora + Tema + Ligação da hipótese + Recursos/Solução atual**
+> Como o Design pode propor uma plataforma web para visualização de dados sobre violência Policial no Brasil?
 
 
 ## 1.4 Objetivos

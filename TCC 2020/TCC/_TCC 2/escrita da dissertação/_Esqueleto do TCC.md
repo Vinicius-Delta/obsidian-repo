@@ -47,6 +47,7 @@ Tags: #estrutura-do-tcc #to-do
 ### 1.2 Problematização
 **Referências**
 [[Orientação 2020.03.20#Problema]]
+[[Guia do Projeto#1 2 Problema de Pesquisa]]
 
 **Status: #to-do**
 - [x] Incorporar o conteúdo da antiga justificativa aqui, [[Orientação 2020.03.20#^62b8d3|segundo Elias]].
@@ -87,6 +88,7 @@ Tags: #estrutura-do-tcc #to-do
 [[SILVA et al., 2020#6 Objetivos Para quê]]
 [[Orientação 2020.03.20#Objetivo geral]]
 [[Orientação 2020.03.20#Objetivos específicos]] 
+[[Guia do Projeto#1 3 Objetivos]]
 
 **Status: #to-do**
 - [x] Refazer todos os objetivos
@@ -97,6 +99,7 @@ Tags: #estrutura-do-tcc #to-do
 [[SILVA et al., 2020#5 Justificativa ou motivação]]
 [[Orientação 2020.03.20#Orientações]]
 [[Estrutura da Justificativa - Extraido do Notion]]
+[[Guia do Projeto#1 4 Justificava]]
 
 
 **Status: #to-do**
@@ -110,6 +113,7 @@ Tags: #estrutura-do-tcc #to-do
 [[Estrutura dos capítulos do TCC#Materiais e Métodos]]
 [[SILVA et al., 2020#7 Fontes procedimentos e etapas]]
 [[Orientação 2020.03.20#^9a9176]]
+[[Guia do Projeto#1 5 Metodologia de Trabalho Materiais e Métodos]]
 
 **Status: #to-do**
 - [ ] Repensar o que é metodologia de projeto X metodologia de pesquisa
