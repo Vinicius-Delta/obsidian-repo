@@ -54,7 +54,7 @@ em contribuição para o seu público alvo com a vantagem de proporcionar a cola
 > * Criar de um protótipo funcional para demostrar os aspectos levantados.
 
 
-## 1.4 Justificativa
+## 1.4 Justificativa e importância da pesquisa
 Devido à dificuldade de acesso para acessar informações atuais sobre ____, essa pesquisa se justifica através da proposição de uma plataforma web, voltada a disposivitivos móveis, que pode contribuir para colaboração entre os participantes.
 
 A proposta desse trabalho é facilitar o acesso de informações sobre ______, através da proposta de uma plataforma web, voltada a dipositivos móveis, que possiblite a colaboração entre os participantes.
