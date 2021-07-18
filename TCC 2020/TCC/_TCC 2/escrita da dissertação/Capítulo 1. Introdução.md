@@ -36,7 +36,8 @@ Devido às desigualdades de acesso, é preciso destacar que através desse proje
 > Como o Web Design pode facilitar a interpretação e o acesso de dados sobre _____
 > propor uma plataforma para visualização de dados sobre violência Policial no Brasil?
 
-Minha teoria é que a dificuldade de acesso para acessar informações 
+Minha teoria é que a dificuldade de acesso para acessar informações sobre ____ 
+pode ser resolvida com a aplicação de uma plataforma web de visualização de dados 
 
 
 ## 1.4 Objetivos
