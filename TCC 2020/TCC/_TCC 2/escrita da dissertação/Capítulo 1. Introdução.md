@@ -48,7 +48,8 @@ Devido às desigualdades de acesso, é preciso destacar que através desse proje
 
 
 ## 1.4 Justificativa
-
+qual a relevância do tema escolhido, qual o impacto do tema.
+    Aqui vc precisa deixar claro pq o seu projeto é importante, pq ele iria solucionar o problema, qual a relação dele com o design e como o design pode atuar como um vetor político.
 
 
 ### 1.5 Metodologia de pesquisa
