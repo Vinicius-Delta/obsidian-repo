@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
+            "file": "daily/2021-07-18.md",
             "mode": "source"
           }
         }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
+                "file": "daily/2021-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md"
+                "file": "daily/2021-07-18.md"
               }
             }
           },
@@ -180,7 +180,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "19b876b275f5d43e",
@@ -199,20 +200,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "active": "dbedca766e9d9964",
   "lastOpenFiles": [
+    "daily/2021-07-18.md",
+    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
     "TCC/_TCC 2/escrita da dissertação/1. Introdução.md",
     "TCC/_TCC 1/TCC 1 - Versão Final.md",
     "TCC/contatos/_dedicatórias.md",
     "TCC/contatos/Sem título.md",
     "daily/2021-07-11.md",
-    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
     "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
     "TCC/_TCC 2/Estrutura dos capítulos.md",
-    "TCC/_TCC 2/Dissecando o tema.md",
-    "TCC/_TCC 2/Atributos desejados.md"
+    "TCC/_TCC 2/Dissecando o tema.md"
   ]
 }
