@@ -40,7 +40,6 @@ Minha teoria é que a dificuldade de acesso para acessar informações sobre ___
 pode ser resolvida com a aplicação de uma plataforma web de visualização de dados 
 em contribuição para o seu público alvo com a vantagem de proporcionar a colaboração entre os usuários.
 
-Devido à dificuldade de acesso para acessar informações atuais sobre ____, essa pesquisa se justifica através da proposição de uma plataforma web voltada a disposivitivos móveis, que con aos usuários
 
 
 ## 1.4 Objetivos
@@ -56,6 +55,8 @@ Devido à dificuldade de acesso para acessar informações atuais sobre ____, es
 
 
 ## 1.4 Justificativa
+Devido à dificuldade de acesso para acessar informações atuais sobre ____, essa pesquisa se justifica através da proposição de uma plataforma web, voltada a disposivitivos móveis, que pode contribuir para colaboração entre os participantes.
+
 qual a relevância do tema escolhido, qual o impacto do tema.
     Aqui vc precisa deixar claro pq o seu projeto é importante, pq ele iria solucionar o problema, qual a relação dele com o design e como o design pode atuar como um vetor político.
 
