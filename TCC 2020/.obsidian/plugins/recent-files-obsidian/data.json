@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Guia do Projeto",
+      "path": "TCC/_TCC 1/v0.3 - versão entregue/Guia do Projeto.md"
+    },
+    {
+      "basename": "1. Introdução",
+      "path": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md"
+    },
+    {
       "basename": "COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO)",
       "path": "TCC/_TCC 2/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md"
     },
     {
       "basename": "_Esqueleto do TCC",
       "path": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md"
-    },
-    {
-      "basename": "1. Introdução",
-      "path": "TCC/_TCC 2/escrita da dissertação/1. Introdução.md"
     },
     {
       "basename": "Estrutura da Justificativa - Extraido do Notion",
@@ -195,10 +199,6 @@
     {
       "basename": "Estrutura dos capítulos do TCC",
       "path": "TCC/_TCC 2/estrutura tcc/Estrutura dos capítulos do TCC.md"
-    },
-    {
-      "basename": "5 dicas que irão ajudar a fazer seu TCC de Design",
-      "path": "TCC/_TCC 2/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md"
     }
   ],
   "omittedPaths": [],
