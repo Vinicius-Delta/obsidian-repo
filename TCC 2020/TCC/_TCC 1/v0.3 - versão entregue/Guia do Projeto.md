@@ -2,18 +2,18 @@
 ---
 ## CAPÍTULO 1 - INTRODUÇÃO
 
--   \[ \] **1.1 Contextualização inicial**: apresente o seu tema.
-    
-    -   Rever a forma que os dados estatísticos foram colocados, conforme apontado por Elias
--   \[ \] **1.2 Problema de Pesquisa**: coloque o problema de pesquisa que definiu e explique-o brevemente.
-    
--   Problema informacional, de não conhecer seus direitos
-    
-    -   Provar que o numero de casos é subnotificado
-    -   Provar que as pessoas sentem desconforto em denunciar
-    -   E parte do problema é a ferramenta
-    -   Forma é conteúdo
--   "Como o design porde intervir no \[problema informacional\]"
+### 1.1 Contextualização inicial 
+- apresente o seu tema.
+- Rever a forma que os dados estatísticos foram colocados, conforme apontado por Elias
+
+### 1.2 Problema de Pesquisa**: 
+- coloque o problema de pesquisa que definiu e explique-o brevemente.
+- Problema informacional, de não conhecer seus direitos
+- Provar que o numero de casos é subnotificado
+- Provar que as pessoas sentem desconforto em denunciar
+- E parte do problema é a ferramenta
+- Forma é conteúdo
+- "Como o design porde intervir no \[problema informacional\]"
     
 
 **Argumentos**
@@ -28,11 +28,11 @@
     
 -   \[ \] A violência policial geralmente resulta em impunidade e como reverter
     
--   \[ \] **1.3 Objetivos:**
+### 1.3 Objetivos  
+####  **1.3.1 Objetivo Geral**
+escreva o seu objetivo geral e explique-o brevemente.
     
-    **1.3.1 Objetivo Geral**: escreva o seu objetivo geral e explique-o brevemente.
-    
-    Descartar texto anterior
+Descartar texto anterior
     
     O objetivo deve ser uma resposta direta ao problema. Na dúvida pergunte "com que objetivo"
     
@@ -44,11 +44,14 @@
     
     O que fazer depois
     
-    **1.3.2 Objetivos Específicos**: coloque os objetivos específicos.
+#### 1.3.2 Objetivos Específicos
+coloque os objetivos específicos.
     
-    **1.3.3 Atributos desejados:** o que se pretende com o projeto
+#### 1.3.3 Atributos desejados
+o que se pretende com o projeto
     
--   \[ \] **1.4 Justificava**: qual a relevância do tema escolhido, qual o impacto do tema.
+### 1.4 Justificava
+qual a relevância do tema escolhido, qual o impacto do tema.
     
     Descartar texto anterior
     
@@ -64,7 +67,7 @@
     
     [Justificativa Rescunho](https://www.notion.so/Justificativa-Rescunho-7ee95edc646b408b8fd3520d53054ec7)
     
--   \[ \] **1.5 Metodologia de Trabalho (Materiais e Métodos)**
+### 1.5 Metodologia de Trabalho (Materiais e Métodos)
     
     É basicamente você descrever como você fez a sua pesquisa.
     
