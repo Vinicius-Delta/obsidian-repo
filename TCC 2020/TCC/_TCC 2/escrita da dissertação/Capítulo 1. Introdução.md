@@ -1,6 +1,6 @@
 # 1 Introdução
 ## 1.1 Tema
-Desenvolvimento de uma plataforma web para visualização de dados
+Desenvolvimento de uma plataforma web para visualização de dados, voltada a populações carentes e/ou marginalizadas
 
 
 ## 1.2 Contextualização inicial
