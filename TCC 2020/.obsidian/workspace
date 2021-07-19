@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "problema",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/estrutura do tcc/Writing Essay/Essay Writing Hands On.md",
+                "file": "TCC/_TCC 2/Estrutura dos capítulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/estrutura do tcc/Writing Essay/Essay Writing Hands On.md"
+                "file": "TCC/_TCC 2/Estrutura dos capítulos.md"
               }
             }
           },
@@ -203,11 +204,11 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "34f70275daf27459",
+  "active": "badef611d06c7dca",
   "lastOpenFiles": [
-    "TCC/referências/estrutura do tcc/Writing Essay/Essay Writing Hands On.md",
-    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
     "TCC/_TCC 2/Estrutura dos capítulos.md",
+    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
+    "TCC/referências/estrutura do tcc/Writing Essay/Essay Writing Hands On.md",
     "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
     "TCC/_TCC 2/Dissecando o tema.md",
     "TCC/_TCC 2/Atributos desejados.md",
