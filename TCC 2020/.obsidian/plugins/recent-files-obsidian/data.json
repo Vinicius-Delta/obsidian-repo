@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sem título",
+      "path": "! INBOX/Sem título.md"
+    },
+    {
       "basename": "Dissecando o tema",
       "path": "TCC/_TCC 2/Dissecando o tema.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PINHEIRO, 2007",
       "path": "TCC/referências/PINHEIRO, 2007.md"
-    },
-    {
-      "basename": "GARRETT, 2010",
-      "path": "TCC/referências/GARRETT, 2010.md"
     }
   ],
   "omittedPaths": [],

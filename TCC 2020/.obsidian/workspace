@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/Dissecando o tema.md",
+            "file": "! INBOX/Sem título.md",
             "mode": "source"
           }
         }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/Dissecando o tema.md",
+                "file": "! INBOX/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/Dissecando o tema.md"
+                "file": "! INBOX/Sem título.md"
               }
             }
           },
@@ -205,6 +205,7 @@
   },
   "active": "fd44ee67ea1c26c5",
   "lastOpenFiles": [
+    "! INBOX/Sem título.md",
     "TCC/_TCC 2/Dissecando o tema.md",
     "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
     "TCC/_TCC 2/Atributos desejados.md",
@@ -213,7 +214,6 @@
     "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md",
     "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md",
     "TCC/_TCC 2/Estrutura dos capítulos.md",
-    "TCC/intenções/Lista de Leitura.md",
-    "TCC/intenções/Lista do Nirvana 2020.md"
+    "TCC/intenções/Lista de Leitura.md"
   ]
 }
