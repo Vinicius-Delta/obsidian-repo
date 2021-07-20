@@ -26,3 +26,6 @@
 > * Sugerir aspectos artísiticos e técnicos para o desenvolvimento de uma plataforma web para represetar os dados do Atlas da Violência 2020 sobre violência Policial.
 > * Criar de um protótipo funcional para demostrar os aspectos levantados.
 
+---
+* Mapa da violência policial
+* Mapa da discriminação racial
