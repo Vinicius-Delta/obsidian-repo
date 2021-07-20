@@ -64,7 +64,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
+            "file": "! INBOX/Orientação.md",
             "mode": "source"
           }
         }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
+                "file": "! INBOX/Orientação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md"
+                "file": "! INBOX/Orientação.md"
               }
             }
           },
@@ -205,6 +205,8 @@
   },
   "active": "a9fe8f8240eee208",
   "lastOpenFiles": [
+    "! INBOX/Sem título 1.md",
+    "TCC/_TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
     "TCC/_TCC 1/TCC 1 - Versão Final.md",
     "TCC/_TCC 2/Dissecando o tema.md",
     "! INBOX/Sem título.md",
@@ -212,8 +214,6 @@
     "TCC/_TCC 2/Atributos desejados.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
     "TCC/referências/CARDOSO, 2012.md",
-    "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md",
-    "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md",
-    "TCC/_TCC 2/Estrutura dos capítulos.md"
+    "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md"
   ]
 }
