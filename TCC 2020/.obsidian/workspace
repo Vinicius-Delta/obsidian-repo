@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Orientação.md",
+                "file": "TCC/_TCC 2/estrutura tcc/Estrutura da Justificativa - Extraido do Notion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Orientação.md"
+                "file": "TCC/_TCC 2/estrutura tcc/Estrutura da Justificativa - Extraido do Notion.md"
               }
             }
           },
@@ -203,8 +203,9 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "a9fe8f8240eee208",
+  "active": "e60daec091b34a97",
   "lastOpenFiles": [
+    "TCC/_TCC 2/estrutura tcc/Estrutura da Justificativa - Extraido do Notion.md",
     "! INBOX/Sem título 1.md",
     "TCC/_TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
     "TCC/_TCC 1/TCC 1 - Versão Final.md",
@@ -213,7 +214,6 @@
     "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
     "TCC/_TCC 2/Atributos desejados.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
-    "TCC/referências/CARDOSO, 2012.md",
-    "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md"
+    "TCC/referências/CARDOSO, 2012.md"
   ]
 }
