@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Conversa com Rafa.md",
-            "mode": "preview"
+            "file": "daily/2021-07-23.md",
+            "mode": "source"
           }
         }
       },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Conversa com Rafa.md",
+                "file": "daily/2021-07-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Conversa com Rafa.md"
+                "file": "daily/2021-07-23.md"
               }
             }
           },
@@ -200,20 +200,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "active": "dbedca766e9d9964",
   "lastOpenFiles": [
-    "! INBOX/Sem título.md",
     "daily/2021-07-23.md",
+    "daily/2021-07-11.md",
+    "daily/2021-07-18.md",
+    "TCC/intenções/Lista de Leitura.md",
+    "TCC/metaprojeto/Objtivos.md",
+    "! INBOX/Sem título.md",
     "TCC/_TCC 1/TCC 1 - Versão Final.md",
     "TCC/_TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
-    "TCC/_TCC 2/estrutura tcc/Estrutura da Justificativa - Extraido do Notion.md",
-    "TCC/referências/estrutura do tcc/Writing Essay/Essay Writing Hands On.md",
-    "TCC/referências/CARDOSO, 2012.md",
-    "! INBOX/Orientação.md",
-    "! INBOX/Sem título 1.md"
+    "TCC/_TCC 2/estrutura tcc/Estrutura da Justificativa - Extraido do Notion.md"
   ]
 }

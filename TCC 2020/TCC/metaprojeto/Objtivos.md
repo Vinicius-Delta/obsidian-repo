@@ -26,3 +26,9 @@ Template
 **Comentários: 
 
 ----
+## Objetivo Master A: formar em 2021
+Para alcançar isso
+> TCC em 4 meses
+> 16 semanas
+> 100 horas totais
+> **Min 7-8h por semana! **
