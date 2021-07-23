@@ -1,4 +1,6 @@
-Rafael Bacellar
+> Conversa realizada na [[2021-07-19]]
+> Preciso adicionar os links ao Zotero
+---
 
 19:41
 

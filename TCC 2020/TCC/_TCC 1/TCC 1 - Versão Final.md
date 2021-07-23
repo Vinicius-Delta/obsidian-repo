@@ -24,6 +24,7 @@ Estes indivíduos são com frequência, jovens de baixa escolaridade, pobres, mo
 
 Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso (GOMES, 2019).
 
+
 # 2 OBJETIVOS DO PROJETO
 
 ## 2.1 Objetivo Geral

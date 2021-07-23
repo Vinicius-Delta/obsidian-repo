@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
+            "file": "! INBOX/Conversa com Rafa.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Sem título.md",
+            "file": "! INBOX/Conversa com Rafa.md",
             "mode": "source"
           }
         }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
+                "file": "! INBOX/Conversa com Rafa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md"
+                "file": "! INBOX/Conversa com Rafa.md"
               }
             }
           },
@@ -205,15 +205,15 @@
   },
   "active": "dbedca766e9d9964",
   "lastOpenFiles": [
-    "TCC/_TCC 1/TCC 1 - Versão Final.md",
     "! INBOX/Sem título.md",
+    "daily/2021-07-23.md",
+    "TCC/_TCC 1/TCC 1 - Versão Final.md",
     "TCC/_TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
     "TCC/_TCC 2/estrutura tcc/Estrutura da Justificativa - Extraido do Notion.md",
     "TCC/referências/estrutura do tcc/Writing Essay/Essay Writing Hands On.md",
     "TCC/referências/CARDOSO, 2012.md",
     "! INBOX/Orientação.md",
-    "! INBOX/Sem título 1.md",
-    "TCC/_TCC 2/Dissecando o tema.md"
+    "! INBOX/Sem título 1.md"
   ]
 }
