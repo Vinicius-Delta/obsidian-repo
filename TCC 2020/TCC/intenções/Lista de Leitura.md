@@ -16,7 +16,7 @@ Ways To Help #seed
 - [x] **08-07-2020**
 [https://www.vice.com/en_us/article/935qgd/this-map-crowdsources-police-brutality-data](https://www.vice.com/en_us/article/935qgd/this-map-crowdsources-police-brutality-data) #seed 
 
-- [ ] **24-06-2020**
+- [x] **24-06-2020**
 [https://bit.ly/anti-racist-design](https://bit.ly/anti-racist-design)
 
 - [ ] **22-07-2020**
