@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/intenções/Lista do Nirvana 2020.md",
+            "file": "TCC/intenções/Lista de Leitura.md",
             "mode": "preview"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/intenções/Lista do Nirvana 2020.md",
+                "file": "TCC/intenções/Lista de Leitura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/intenções/Lista do Nirvana 2020.md"
+                "file": "TCC/intenções/Lista de Leitura.md"
               }
             }
           },
@@ -149,6 +149,7 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/intenções/Lista de Leitura.md",
     "TCC/intenções/Lista do Nirvana 2020.md",
     "! INBOX/ALBAN et al., 2012.md",
     "! INBOX/Conversa com Rafa.md",
@@ -157,7 +158,6 @@
     "TCC/orientações/Orientação 2020.07.20.md",
     "TCC/contatos/Djalma Fiuza.md",
     "daily/2021-07-20.md",
-    "! INBOX/Orientação.md",
-    "daily/2021-07-25.md"
+    "! INBOX/Orientação.md"
   ]
 }

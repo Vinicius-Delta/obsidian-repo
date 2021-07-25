@@ -1,6 +1,6 @@
 Tags: #to-do
 
-- [ ] #site Checar a plataforma fogo cruzado    
+- [x] #site Checar a plataforma fogo cruzado    
 - [ ] #to-read #livro Ler "Bala Perdida"  
   
 
