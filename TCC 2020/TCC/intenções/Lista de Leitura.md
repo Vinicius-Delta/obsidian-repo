@@ -10,10 +10,10 @@ Ways To Help #seed
 - [x] Black lives metter
 [https://docs.google.com/document/d/1Xa9Av-NfuFsWBHlsMvPiqJHdNedZgnCRW56qAS-7PGQ/edit?usp=drivesdk](https://docs.google.com/document/d/1Xa9Av-NfuFsWBHlsMvPiqJHdNedZgnCRW56qAS-7PGQ/edit?usp=drivesdk&authuser=0)
 
-- [ ] **09-06-2020**
+- [x] **09-06-2020**
 [https://github.com/2020PB/police-brutality](https://github.com/2020PB/police-brutality)
 
-- [ ] **08-07-2020**
+- [x] **08-07-2020**
 [https://www.vice.com/en_us/article/935qgd/this-map-crowdsources-police-brutality-data](https://www.vice.com/en_us/article/935qgd/this-map-crowdsources-police-brutality-data) #seed 
 
 - [ ] **24-06-2020**
