@@ -47,7 +47,7 @@ Design Justice Network
 - [x] **26-01-2021
 [https://medium.com/a-parede/como-fazer-um-projeto-de-design-especulativo-n%C3%A3o-colonialista-um-guia-r%C3%A1pido-e7d47719260d](https://medium.com/a-parede/como-fazer-um-projeto-de-design-especulativo-n%C3%A3o-colonialista-um-guia-r%C3%A1pido-e7d47719260d)
 
-- [ ] **29-01-2021
+- [x] **29-01-2021
 [https://www.b9.com.br/143026/ei-siri-to-tomando-um-enquadro-atalho-de-iphone-ajuda-publico-a-monitorar-abordagens-policiais/](https://www.b9.com.br/143026/ei-siri-to-tomando-um-enquadro-atalho-de-iphone-ajuda-publico-a-monitorar-abordagens-policiais/) #seed 
 
 - [ ] EL PAÍS Brasil: Operação policial mata 25 pessoas no Jacarezinho, em segunda maior chacina da história do Rio.
