@@ -1,5 +1,4 @@
-> Tags: #to-do 
-## 2020
+## 2020 #to-do 
 
 - [x] **29-05-2020**
 [https://www.reddit.com/r/brasil/comments/gs7tc9/_/](https://www.reddit.com/r/brasil/comments/gs7tc9/_/)
@@ -42,7 +41,7 @@ Design Justice Network
 
 
 ---
-## 2021
+## 2021 #to-do 
 - [x] **28-01-2021
 [https://www.correio24horas.com.br/noticia/nid/grupo-se-reune-com-pm-baiana-pra-discutir-o-fim-de-abordagens-violentas/](https://www.correio24horas.com.br/noticia/nid/grupo-se-reune-com-pm-baiana-pra-discutir-o-fim-de-abordagens-violentas/)
 - [x] **26-01-2021
@@ -68,7 +67,7 @@ https://www.instagram.com/p/CO22DuuFGuw/
 Que bom que você topou participar dessa pesquisa. É importante lembrar que todas as respostas são ANÔNIMAS e você não precisa se identificar. Nossa intenção é entender a experiência das pessoas nas abordagens policiais. Essa pesquisa não tem fins lucrativos e é um esforço do Instituto de Defesa do Direito de Defesa com o Data_Labe para ampliar o debate sobre a justiça no Brasil.
 https://form.jotform.com/211185881620656
 
-- [ ] "Sangue azul" - alguém já leu esse livro, relato de um PM no Rio?
+- [x] "Sangue azul" - alguém já leu esse livro, relato de um PM no Rio?
 https://www.reddit.com/r/brasil/comments/nifpyb/_/
 
 - [x] Design Ativista
@@ -95,7 +94,7 @@ https://noticias.uol.com.br/colunas/jamil-chade/2021/06/28/inquerito-da-onu-por-
 
 - [x] **Lista da Standing united**[https://docs.google.com/spreadsheets/d/e/2PACX-1vT1lEijNOMasTpHGwoR6RuUDw4_vVlRM83jlVedmKLN2X3R53ZAioKWyRvvs-sRdWUPOS54cu5XD-ZA/pubhtml#](https://docs.google.com/spreadsheets/d/e/2PACX-1vT1lEijNOMasTpHGwoR6RuUDw4_vVlRM83jlVedmKLN2X3R53ZAioKWyRvvs-sRdWUPOS54cu5XD-ZA/pubhtml?authuser=0)
 
-- [ ] **Absorver / Importar deck da Standunited para o tcc**
+- [x] **Absorver / Importar deck da Standunited para o tcc**
 [https://www.notion.so/deltavs/Presentation-57e417506e434642a221943f58855b08](https://www.notion.so/deltavs/Presentation-57e417506e434642a221943f58855b08)
 
 - [x] #seed [https://www.vox.com/the-goods/21359098/social-justice-slideshows-instagram-activism](https://www.vox.com/the-goods/21359098/social-justice-slideshows-instagram-activism)

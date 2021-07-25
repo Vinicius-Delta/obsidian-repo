@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/intenções/Lista de Leitura.md",
+            "file": "! INBOX/ALBAN et al., 2012.md",
             "mode": "preview"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/intenções/Lista de Leitura.md",
+                "file": "! INBOX/ALBAN et al., 2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/intenções/Lista de Leitura.md"
+                "file": "! INBOX/ALBAN et al., 2012.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
-    "TCC/intenções/Lista de Leitura.md",
-    "TCC/intenções/Lista do Nirvana 2020.md",
     "! INBOX/ALBAN et al., 2012.md",
+    "daily/2021-07-25.md",
+    "TCC/intenções/Lista do Nirvana 2020.md",
+    "TCC/intenções/Lista de Leitura.md",
+    "Meta Obsidian/Lista de tags.md",
     "! INBOX/Conversa com Rafa.md",
     "daily/2021-07-19.md",
     "! INBOX/Orientação 19.md",
     "TCC/orientações/Orientação 2020.07.20.md",
-    "TCC/contatos/Djalma Fiuza.md",
-    "daily/2021-07-20.md",
-    "! INBOX/Orientação.md"
+    "TCC/contatos/Djalma Fiuza.md"
   ]
 }
