@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "20817b745c72d99d",
+        "id": "aa2d7f8f81de283c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-25.md",
-            "mode": "source"
+            "file": "! INBOX/Conversa com Rafa.md",
+            "mode": "preview"
           }
         }
       }
@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-25.md",
+                "file": "! INBOX/Conversa com Rafa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-25.md"
+                "file": "! INBOX/Conversa com Rafa.md"
               }
             }
           },
@@ -148,17 +147,17 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "20817b745c72d99d",
+  "active": "aa2d7f8f81de283c",
   "lastOpenFiles": [
-    "daily/2021-07-25.md",
-    "TCC/contatos/Rafael Bacellar.md",
-    "daily/2021-07-23.md",
-    "daily/2021-07-19.md",
+    "! INBOX/Conversa com Rafa.md",
+    "! INBOX/ALBAN et al., 2012.md",
+    "! INBOX/Orientação 19.md",
+    "TCC/orientações/Orientação 2020.07.20.md",
+    "TCC/contatos/Djalma Fiuza.md",
     "daily/2021-07-20.md",
-    "daily/2021-07-18.md",
-    "daily/2021-07-24.md",
-    "TCC/orientações/Sem título.md",
-    "TCC/contatos/Sem título.md",
-    "daily/2021-07-11.md"
+    "! INBOX/Orientação.md",
+    "daily/2021-07-25.md",
+    "daily/2021-07-19.md",
+    "daily/2021-07-23.md"
   ]
 }

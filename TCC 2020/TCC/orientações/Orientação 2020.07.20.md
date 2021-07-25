@@ -9,3 +9,19 @@ Hoje foi decidido:
 
 Após a reunião, 
 * [[Rafael Bacellar]] indicou que precisa se matricular no semestre, durante o período de ajuste
+
+
+---
+**Rascunho:**
+9 agosto
+16 agosto
+
+15 jul
+ago
+set 
+out
+
+15 nov - limite
+
+8 novembro
+8 dezembro
