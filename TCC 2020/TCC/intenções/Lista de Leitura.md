@@ -56,7 +56,7 @@ https://brasil.elpais.com/brasil/2021-05-06/operacao-policial-mata-25-pessoas-no
 - [x] Por que a polícia não usa armas não letais?
 https://www.reddit.com/r/brasil/comments/kqaxez/_/gi2ywd8?context=1000
 
-- [ ] "A LUTA CONTRA O FASCISMO DENTRO DAS POLÍCIAS" no YouTube
+- [x] "A LUTA CONTRA O FASCISMO DENTRO DAS POLÍCIAS" no YouTube
 https://youtu.be/7nKzf63zm2Y
 
 - [ ] Notícia: informebaiano
