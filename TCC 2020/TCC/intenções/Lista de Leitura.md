@@ -50,10 +50,10 @@ Design Justice Network
 - [x] **29-01-2021
 [https://www.b9.com.br/143026/ei-siri-to-tomando-um-enquadro-atalho-de-iphone-ajuda-publico-a-monitorar-abordagens-policiais/](https://www.b9.com.br/143026/ei-siri-to-tomando-um-enquadro-atalho-de-iphone-ajuda-publico-a-monitorar-abordagens-policiais/) #seed 
 
-- [ ] EL PAÍS Brasil: Operação policial mata 25 pessoas no Jacarezinho, em segunda maior chacina da história do Rio.
+- [x] EL PAÍS Brasil: Operação policial mata 25 pessoas no Jacarezinho, em segunda maior chacina da história do Rio.
 https://brasil.elpais.com/brasil/2021-05-06/operacao-policial-mata-25-pessoas-no-jacarezinho-em-segunda-maior-chacina-da-historia-do-rio.html
 
-- [ ] Por que a polícia não usa armas não letais?
+- [x] Por que a polícia não usa armas não letais?
 https://www.reddit.com/r/brasil/comments/kqaxez/_/gi2ywd8?context=1000
 
 - [ ] "A LUTA CONTRA O FASCISMO DENTRO DAS POLÍCIAS" no YouTube
