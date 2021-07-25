@@ -76,13 +76,13 @@ https://instagram.com/p/CP6mKu6nnOr
 - [x] Caso notário
 https://twitter.com/LeviKaique/status/1402358150825656323
 
-- [ ] Iniciativa similar
+- [x] Iniciativa similar
 https://iddd.org.br/
 
-- [ ] The intercept
+- [x] The intercept
 https://t.co/lMKUTjmCnk?amp=1
 
-- [ ] Inspiração
+- [x] Inspiração
 https://www.instagram.com/tv/CP9PdmJnA19/?utm_medium=copy_link
 
 - [ ] Sobre caso Carrefur
