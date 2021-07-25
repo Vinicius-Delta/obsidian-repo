@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/ALBAN et al., 2012.md",
-            "mode": "preview"
+            "file": "TCC/metaprojeto/Objtivos.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
       {
         "id": "1d377be58a46db76",
         "type": "tabs",
-        "dimension": 34.63203463203463,
+        "dimension": 49.63924963924964,
         "children": [
           {
             "id": "8fb1fa5e1d6c7f00",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/ALBAN et al., 2012.md",
+                "file": "TCC/metaprojeto/Objtivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/ALBAN et al., 2012.md"
+                "file": "TCC/metaprojeto/Objtivos.md"
               }
             }
           },
@@ -131,7 +131,7 @@
       {
         "id": "19b876b275f5d43e",
         "type": "tabs",
-        "dimension": 65.36796536796537,
+        "dimension": 50.36075036075036,
         "children": [
           {
             "id": "39e89fb0e764b306",
@@ -149,15 +149,15 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/metaprojeto/Objtivos.md",
+    "TCC/_TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
+    "! INBOX/NEMER, 2019.md",
+    "! INBOX/MURUGA; ANDRADE, 2019.md",
+    "! INBOX/KUCINSKI, 2015.md",
+    "! INBOX/MELGAÇO; MADUREIRA, 2017.md",
+    "! INBOX/GRILO, 2019.md",
     "! INBOX/ALBAN et al., 2012.md",
-    "daily/2021-07-25.md",
-    "TCC/intenções/Lista do Nirvana 2020.md",
-    "TCC/intenções/Lista de Leitura.md",
-    "Meta Obsidian/Lista de tags.md",
-    "! INBOX/Conversa com Rafa.md",
-    "daily/2021-07-19.md",
-    "! INBOX/Orientação 19.md",
-    "TCC/orientações/Orientação 2020.07.20.md",
-    "TCC/contatos/Djalma Fiuza.md"
+    "TCC/referências/PINHEIRO, 2007.md",
+    "TCC/referências/KUCINSKI, Bernardo et al, 2015.md"
   ]
 }

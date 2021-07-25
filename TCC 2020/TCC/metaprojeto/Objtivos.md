@@ -32,3 +32,6 @@ Para alcançar isso
 > 16 semanas
 > 100 horas totais
 > **Min 7-8h por semana! **
+
+---
+## Objetivo 2: Cumprir com todos os itens 
