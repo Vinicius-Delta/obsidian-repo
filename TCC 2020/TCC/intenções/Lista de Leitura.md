@@ -27,24 +27,24 @@ Os levantes pela morte de George Floyd nos Estados Unidos, em 2020, trouxeram à
 Design Justice Network
 [https://designjustice.org/](https://designjustice.org/)
 
-- [ ] **12-08-2020
+- [x] **12-08-2020
 [https://sanguepreto.bandcamp.com/releases](https://sanguepreto.bandcamp.com/releases)
 
 - [ ] **05-09-2020
 [https://www.nuceciwan50.com/en/2020/09/05/police-in-brazil-killed-more-people-in-the-first-6-months-then-last-year-even-with-corona-quarantine/](https://www.nuceciwan50.com/en/2020/09/05/police-in-brazil-killed-more-people-in-the-first-6-months-then-last-year-even-with-corona-quarantine/)
 
-- [ ] **Reportagem do fantástico 18/10
+- [x] **Reportagem do fantástico 18/10
 
-- [ ] **23-08-2020
+- [x] **23-08-2020
 [https://twitter.com/MendoncaThaiane/status/1319596046062944258](https://twitter.com/MendoncaThaiane/status/1319596046062944258)
 
 
 
 ---
 ## 2021
-- [ ] **28-01-2021
+- [x] **28-01-2021
 [https://www.correio24horas.com.br/noticia/nid/grupo-se-reune-com-pm-baiana-pra-discutir-o-fim-de-abordagens-violentas/](https://www.correio24horas.com.br/noticia/nid/grupo-se-reune-com-pm-baiana-pra-discutir-o-fim-de-abordagens-violentas/)
-- [ ] **26-01-2021
+- [x] **26-01-2021
 [https://medium.com/a-parede/como-fazer-um-projeto-de-design-especulativo-n%C3%A3o-colonialista-um-guia-r%C3%A1pido-e7d47719260d](https://medium.com/a-parede/como-fazer-um-projeto-de-design-especulativo-n%C3%A3o-colonialista-um-guia-r%C3%A1pido-e7d47719260d)
 
 - [ ] **29-01-2021
