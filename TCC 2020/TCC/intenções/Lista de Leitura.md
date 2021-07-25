@@ -1,3 +1,4 @@
+> Tags: #to-do 
 ## 2020
 
 - [x] **29-05-2020**
@@ -111,4 +112,4 @@ https://drive.google.com/drive/folders/1cjgNlNIwiRyPylHwpRn8hrPMmv3cZNtb
 
 - [x] https://g1.globo.com/sp/sao-paulo/noticia/2021/07/12/pms-de-18-batalhoes-que-passaram-a-usar-cameras-em-uniformes-registram-letalidade-zero-em-junho-no-estado-de-sp.ghtml
 
-- [ ] https://g1.globo.com/ba/bahia/noticia/2021/07/22/a-politica-de-seguranca-publica-nao-esta-baseada-na-preservacao-da-vida-analisa-coordenador-da-rede-de-observatorios-veja-dados.ghtml
+- [x] https://g1.globo.com/ba/bahia/noticia/2021/07/22/a-politica-de-seguranca-publica-nao-esta-baseada-na-preservacao-da-vida-analisa-coordenador-da-rede-de-observatorios-veja-dados.ghtml
