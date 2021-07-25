@@ -70,10 +70,10 @@ https://form.jotform.com/211185881620656
 - [ ] "Sangue azul" - alguém já leu esse livro, relato de um PM no Rio?
 https://www.reddit.com/r/brasil/comments/nifpyb/_/
 
-- [ ] Design Ativista
+- [x] Design Ativista
 https://instagram.com/p/CP6mKu6nnOr
 
-- [ ] Caso notário
+- [x] Caso notário
 https://twitter.com/LeviKaique/status/1402358150825656323
 
 - [ ] Iniciativa similar
