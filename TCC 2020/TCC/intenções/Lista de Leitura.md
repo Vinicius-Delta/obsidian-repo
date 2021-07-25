@@ -1,9 +1,9 @@
 ## 2020
 
-- [ ] **29-05-2020**
+- [x] **29-05-2020**
 [https://www.reddit.com/r/brasil/comments/gs7tc9/_/](https://www.reddit.com/r/brasil/comments/gs7tc9/_/)
 
-- [ ]  **08-06-2020**
+- [x]  **08-06-2020**
 Ways To Help #seed 
 [https://blacklivesmatters.carrd.co/](https://blacklivesmatters.carrd.co/)
 
