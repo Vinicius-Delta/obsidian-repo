@@ -19,11 +19,11 @@ Ways To Help #seed
 - [x] **24-06-2020**
 [https://bit.ly/anti-racist-design](https://bit.ly/anti-racist-design)
 
-- [ ] **22-07-2020**
+- [x] **22-07-2020**
 Os levantes pela morte de George Floyd nos Estados Unidos, em 2020, trouxeram à tona o debate pela abolição da polícia. Mas é possível viver sem polícia? Afinal para que foi criada a polícia e qual papel ela cumpre no mundo de hoje?  
 [https://kolektiva.media/videos/watch/b8af80fa-d867-4ac2-aa00-4e9d9c1f7fcc](https://kolektiva.media/videos/watch/b8af80fa-d867-4ac2-aa00-4e9d9c1f7fcc)
 
-- [ ] **11-08-2020**
+- [x] **11-08-2020**
 Design Justice Network
 [https://designjustice.org/](https://designjustice.org/)
 
