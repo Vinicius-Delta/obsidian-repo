@@ -85,14 +85,14 @@ https://t.co/lMKUTjmCnk?amp=1
 - [x] Inspiração
 https://www.instagram.com/tv/CP9PdmJnA19/?utm_medium=copy_link
 
-- [ ] Sobre caso Carrefur
+- [x] Sobre caso Carrefur
 https://coalizaonegrapordireitos.org.br/2021/06/18/nao-em-nosso-nome-nota-tac-carrefour-beto-freitas/
 
-- [ ] Relatório da ONU
+- [x] Relatório da ONU
 https://domtotal.com/noticia/1524491/2021/06/relatorio-da-onu-sobre-racismo-na-policia-diz-que-paises-devem-parar-de-negar-o-problema/
 https://noticias.uol.com.br/colunas/jamil-chade/2021/06/28/inquerito-da-onu-por-floyd-denuncia-racismo-sistemico-na-policia-no-brasil.htm
 
-- [ ] **Lista da Standing united**[https://docs.google.com/spreadsheets/d/e/2PACX-1vT1lEijNOMasTpHGwoR6RuUDw4_vVlRM83jlVedmKLN2X3R53ZAioKWyRvvs-sRdWUPOS54cu5XD-ZA/pubhtml#](https://docs.google.com/spreadsheets/d/e/2PACX-1vT1lEijNOMasTpHGwoR6RuUDw4_vVlRM83jlVedmKLN2X3R53ZAioKWyRvvs-sRdWUPOS54cu5XD-ZA/pubhtml?authuser=0)
+- [x] **Lista da Standing united**[https://docs.google.com/spreadsheets/d/e/2PACX-1vT1lEijNOMasTpHGwoR6RuUDw4_vVlRM83jlVedmKLN2X3R53ZAioKWyRvvs-sRdWUPOS54cu5XD-ZA/pubhtml#](https://docs.google.com/spreadsheets/d/e/2PACX-1vT1lEijNOMasTpHGwoR6RuUDw4_vVlRM83jlVedmKLN2X3R53ZAioKWyRvvs-sRdWUPOS54cu5XD-ZA/pubhtml?authuser=0)
 
 - [ ] **Absorver / Importar deck da Standunited para o tcc**
 [https://www.notion.so/deltavs/Presentation-57e417506e434642a221943f58855b08](https://www.notion.so/deltavs/Presentation-57e417506e434642a221943f58855b08)
