@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Estrutura dos capítulos",
+      "path": "TCC/_TCC 2/Estrutura dos capítulos.md"
+    },
+    {
+      "basename": "Estrutura dos capítulos do TCC",
+      "path": "TCC/_TCC 2/estrutura tcc/Estrutura dos capítulos do TCC.md"
+    },
+    {
       "basename": "Objtivos",
       "path": "TCC/metaprojeto/Objtivos.md"
     },
@@ -137,10 +145,6 @@
       "path": "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md"
     },
     {
-      "basename": "Estrutura dos capítulos",
-      "path": "TCC/_TCC 2/Estrutura dos capítulos.md"
-    },
-    {
       "basename": "2021-07-02",
       "path": "daily/2021-07-02.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "TCC em bloco",
       "path": "TCC/_TCC 2/estrutura tcc/TCC em bloco.md"
-    },
-    {
-      "basename": "SILVA et al., 2020",
-      "path": "TCC/referências/estrutura do tcc/SILVA et al., 2020.md"
     }
   ],
   "omittedPaths": [],

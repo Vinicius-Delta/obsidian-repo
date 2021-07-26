@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/metaprojeto/Objtivos.md",
+            "file": "TCC/_TCC 2/Estrutura dos capítulos.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/metaprojeto/Objtivos.md",
+                "file": "TCC/_TCC 2/Estrutura dos capítulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/metaprojeto/Objtivos.md"
+                "file": "TCC/_TCC 2/Estrutura dos capítulos.md"
               }
             }
           },
@@ -149,6 +149,8 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/_TCC 2/Estrutura dos capítulos.md",
+    "TCC/_TCC 2/estrutura tcc/Estrutura dos capítulos do TCC.md",
     "TCC/metaprojeto/Objtivos.md",
     "daily/2021-07-25.md",
     "TCC/_TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
@@ -156,8 +158,6 @@
     "! INBOX/MURUGA; ANDRADE, 2019.md",
     "! INBOX/KUCINSKI, 2015.md",
     "! INBOX/MELGAÇO; MADUREIRA, 2017.md",
-    "! INBOX/GRILO, 2019.md",
-    "! INBOX/ALBAN et al., 2012.md",
-    "TCC/referências/PINHEIRO, 2007.md"
+    "! INBOX/GRILO, 2019.md"
   ]
 }
