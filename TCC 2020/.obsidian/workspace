@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/estrutura tcc/TCC em bloco.md",
+            "file": "TCC/_TCC 2/Estrutura dos capítulos.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/estrutura tcc/TCC em bloco.md",
+                "file": "TCC/_TCC 2/Estrutura dos capítulos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/estrutura tcc/TCC em bloco.md"
+                "file": "TCC/_TCC 2/Estrutura dos capítulos.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
-    "TCC/referências/estrutura tcc/TCC em bloco.md",
-    "TCC/referências/design/Sem título.md",
-    "TCC/referências/design/CARDOSO, 2012.md",
-    "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md",
-    "TCC/referências/estrutura do tcc/ANDRÉ FONTENELLE, YOUTUBE.md",
-    "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
-    "TCC/referências/estrutura do tcc/SANTA-ROSA et al., 2019.md",
-    "TCC/referências/estrutura do tcc/MELO, 2017.md",
-    "TCC/referências/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md",
-    "TCC/referências/estrutura tcc/Estrutura dos capítulos do TCC.md"
+    "TCC/_TCC 2/Estrutura dos capítulos.md",
+    "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
+    "TCC/_TCC 2/Dissecando o tema.md",
+    "TCC/_TCC 2/Atributos desejados.md",
+    "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md",
+    "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md",
+    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
+    "TCC/_TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
+    "TCC/_TCC 1/TCC 1 - Versão Final.md",
+    "TCC/referências/estrutura tcc/TCC em bloco.md"
   ]
 }
