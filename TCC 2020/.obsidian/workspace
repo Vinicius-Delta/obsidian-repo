@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-27.md",
+            "file": "TCC/orientações/Sem título.md",
             "mode": "source"
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-27.md",
+                "file": "TCC/orientações/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-27.md"
+                "file": "TCC/orientações/Sem título.md"
               }
             }
           },
@@ -150,6 +150,7 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/orientações/Sem título.md",
     "daily/2021-07-27.md",
     "TCC/referências/internet/CGI.BR, 2020.md",
     "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
@@ -158,7 +159,6 @@
     "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
     "TCC/referências/violência policial/KUCINSKI, 2015.md",
     "TCC/_TCC 1/v0.3 - versão entregue/Guia do Projeto.md",
-    "TCC/_TCC 1/v0.3 - versão entregue/Formato de introdução.md",
-    "TCC/referências/internet/Sem título.md"
+    "TCC/_TCC 1/v0.3 - versão entregue/Formato de introdução.md"
   ]
 }
