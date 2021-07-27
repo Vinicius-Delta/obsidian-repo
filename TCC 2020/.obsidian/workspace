@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md",
+            "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md",
+                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md"
+                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/_TCC 1/TCC 1 - Versão Final.md",
     "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md",
     "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
@@ -156,7 +157,6 @@
     "TCC/_TCC 2/Dissecando o tema.md",
     "daily/2021-07-11.md",
     "daily/2021-07-01.md",
-    "TCC/_TCC 2/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
-    "assets/researcher.png"
+    "TCC/_TCC 2/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md"
   ]
 }
