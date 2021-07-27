@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
+            "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
+                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md"
+                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md"
               }
             }
           },
@@ -149,6 +149,7 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/_TCC 1/TCC 1 - Versão Final.md",
     "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
     "TCC/referências/violência policial/KUCINSKI, 2015.md",
     "TCC/referências/violência policial/DefeZap.md",
@@ -157,7 +158,6 @@
     "TCC/_TCC 2/Estrutura dos capítulos.md",
     "TCC/_TCC 2/estrutura tcc/Estrutura dos capítulos do TCC.md",
     "TCC/metaprojeto/Objtivos.md",
-    "daily/2021-07-25.md",
-    "TCC/_TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md"
+    "daily/2021-07-25.md"
   ]
 }
