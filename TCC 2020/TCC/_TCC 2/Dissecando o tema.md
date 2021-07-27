@@ -5,7 +5,7 @@
 
 **Problema**
 > ~~Como o Design pode propor uma plataforma Web para visualização de dados do Atlas da Violência 2020 sobre violência Policial?~~
-> Como o Design pode propor uma plataforma web para visualização de dados sobre violência Policial no Brasil?
+> Como o Design de Interfaces pode propor uma plataforma web para visualização de dados sobre violência Policial no Brasil?
 
 ----
 

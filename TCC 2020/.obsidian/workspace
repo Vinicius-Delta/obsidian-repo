@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-06-29.md",
+            "file": "TCC/_TCC 2/Dissecando o tema.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "similar",
+                "query": "problema",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-06-29.md",
+                "file": "TCC/_TCC 2/Dissecando o tema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-06-29.md"
+                "file": "TCC/_TCC 2/Dissecando o tema.md"
               }
             }
           },
@@ -150,15 +149,15 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
-    "daily/2021-06-29.md",
-    "TCC/z_trash/Lista de Leitura.md",
-    "TCC/_TCC 1/TCC 1 - Versão Final.md",
-    "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
-    "TCC/referências/violência policial/KUCINSKI, 2015.md",
-    "TCC/referências/violência policial/DefeZap.md",
     "TCC/_TCC 2/Dissecando o tema.md",
-    "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
     "TCC/_TCC 2/Estrutura dos capítulos.md",
-    "TCC/_TCC 2/estrutura tcc/Estrutura dos capítulos do TCC.md"
+    "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
+    "TCC/_TCC 1/TCC 1 - Versão Final.md",
+    "TCC/_TCC 2/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
+    "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md",
+    "daily/2021-07-11.md",
+    "daily/2021-07-01.md",
+    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
+    "daily/2021-06-29.md"
   ]
 }
