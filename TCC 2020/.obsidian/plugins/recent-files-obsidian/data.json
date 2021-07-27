@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "TCC em bloco",
+      "path": "TCC/referências/estrutura tcc/TCC em bloco.md"
+    },
+    {
       "basename": "OLIVEIRA; FRANZATO; DEL GAUDIO, 2017",
       "path": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lista do Nirvana 2020",
       "path": "TCC/z_trash/Lista do Nirvana 2020.md"
-    },
-    {
-      "basename": "Lista de tags",
-      "path": "Meta Obsidian/Lista de tags.md"
     }
   ],
   "omittedPaths": [],

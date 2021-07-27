@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
+            "file": "TCC/referências/estrutura tcc/TCC em bloco.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
+                "file": "TCC/referências/estrutura tcc/TCC em bloco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md"
+                "file": "TCC/referências/estrutura tcc/TCC em bloco.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/referências/estrutura tcc/TCC em bloco.md",
     "TCC/referências/design/Sem título.md",
     "TCC/referências/design/CARDOSO, 2012.md",
     "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md",
@@ -156,7 +157,6 @@
     "TCC/referências/estrutura do tcc/SANTA-ROSA et al., 2019.md",
     "TCC/referências/estrutura do tcc/MELO, 2017.md",
     "TCC/referências/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md",
-    "TCC/referências/estrutura tcc/Estrutura dos capítulos do TCC.md",
-    "TCC/referências/estrutura tcc/Estrutura da Justificativa - Extraido do Notion.md"
+    "TCC/referências/estrutura tcc/Estrutura dos capítulos do TCC.md"
   ]
 }
