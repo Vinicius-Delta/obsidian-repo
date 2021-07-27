@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
+            "file": "TCC/referências/internet/CGI.BR, 2020.md",
             "mode": "source"
           }
         }
@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
+                "file": "TCC/referências/internet/CGI.BR, 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/estrutura do tcc/SILVA et al., 2020.md"
+                "file": "TCC/referências/internet/CGI.BR, 2020.md"
               }
             }
           },
@@ -149,6 +148,7 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/referências/internet/CGI.BR, 2020.md",
     "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
     "TCC/_TCC 1/v0.3 - versão entregue/Referência - Justificativa.md",
     "TCC/referências/estrutura do tcc/MELO, 2017.md",
@@ -156,7 +156,6 @@
     "TCC/referências/violência policial/KUCINSKI, 2015.md",
     "TCC/_TCC 1/v0.3 - versão entregue/Guia do Projeto.md",
     "TCC/_TCC 1/v0.3 - versão entregue/Formato de introdução.md",
-    "TCC/referências/internet/CGI.BR, 2020.md",
     "daily/2021-07-27.md",
     "TCC/referências/internet/Sem título.md"
   ]
