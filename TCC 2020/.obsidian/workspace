@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-27.md",
+            "file": "TCC/referências/internet/CGI.BR, 2020.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-27.md",
+                "file": "TCC/referências/internet/CGI.BR, 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-27.md"
+                "file": "TCC/referências/internet/CGI.BR, 2020.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/referências/internet/CGI.BR, 2020.md",
     "daily/2021-07-27.md",
     "TCC/referências/internet/Sem título.md",
     "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
@@ -156,7 +157,6 @@
     "TCC/_TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
     "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
     "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md",
-    "TCC/_TCC 1/TCC 1 - Versão Final.md",
-    "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md"
+    "TCC/_TCC 1/TCC 1 - Versão Final.md"
   ]
 }
