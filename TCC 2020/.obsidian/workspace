@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/internet/CGI.BR, 2020.md",
+            "file": "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "justificativa",
+                "query": "vítimas",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/internet/CGI.BR, 2020.md",
+                "file": "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/internet/CGI.BR, 2020.md"
+                "file": "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md"
               }
             }
           },
@@ -148,15 +149,15 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
+    "TCC/referências/violência policial/KUCINSKI, 2015.md",
+    "TCC/_TCC 1/v0.3 - versão entregue/Guia do Projeto.md",
+    "TCC/_TCC 1/v0.3 - versão entregue/Formato de introdução.md",
     "TCC/referências/internet/CGI.BR, 2020.md",
     "daily/2021-07-27.md",
     "TCC/referências/internet/Sem título.md",
     "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
     "TCC/_TCC 1/v0.3 - versão entregue/Referência - Justificativa.md",
-    "TCC/referências/estrutura tcc/Estrutura da Justificativa - Extraido do Notion.md",
-    "TCC/_TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md",
-    "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
-    "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md",
-    "TCC/_TCC 1/TCC 1 - Versão Final.md"
+    "TCC/referências/estrutura tcc/Estrutura da Justificativa - Extraido do Notion.md"
   ]
 }
