@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2021-06-29",
+      "path": "daily/2021-06-29.md"
+    },
+    {
+      "basename": "Lista de Leitura",
+      "path": "TCC/z_trash/Lista de Leitura.md"
+    },
+    {
       "basename": "TCC 1 - Versão Final",
       "path": "TCC/_TCC 1/TCC 1 - Versão Final.md"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "Lista do Nirvana 2020",
       "path": "TCC/z_trash/Lista do Nirvana 2020.md"
-    },
-    {
-      "basename": "Lista de Leitura",
-      "path": "TCC/z_trash/Lista de Leitura.md"
     },
     {
       "basename": "Lista de tags",
@@ -195,10 +199,6 @@
     {
       "basename": "Guia do Projeto",
       "path": "TCC/_TCC 1/v0.3 - versão entregue/Guia do Projeto.md"
-    },
-    {
-      "basename": "TCC em bloco",
-      "path": "TCC/_TCC 2/estrutura tcc/TCC em bloco.md"
     }
   ],
   "omittedPaths": [],
