@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
+            "file": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
+                "file": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/estrutura do tcc/SILVA et al., 2020.md"
+                "file": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/referências/design/Sem título.md",
+    "TCC/referências/design/CARDOSO, 2012.md",
+    "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md",
+    "TCC/referências/estrutura do tcc/ANDRÉ FONTENELLE, YOUTUBE.md",
     "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
     "TCC/referências/estrutura do tcc/SANTA-ROSA et al., 2019.md",
     "TCC/referências/estrutura do tcc/MELO, 2017.md",
-    "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md",
-    "TCC/referências/estrutura do tcc/ANDRÉ FONTENELLE, YOUTUBE.md",
     "TCC/referências/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md",
     "TCC/referências/estrutura tcc/Estrutura dos capítulos do TCC.md",
-    "TCC/referências/estrutura tcc/Estrutura da Justificativa - Extraido do Notion.md",
-    "TCC/referências/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
-    "TCC/referências/violência policial/KUCINSKI, 2015.md"
+    "TCC/referências/estrutura tcc/Estrutura da Justificativa - Extraido do Notion.md"
   ]
 }

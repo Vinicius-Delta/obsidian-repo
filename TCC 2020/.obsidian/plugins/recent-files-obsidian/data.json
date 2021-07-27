@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "OLIVEIRA; FRANZATO; DEL GAUDIO, 2017",
+      "path": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md"
+    },
+    {
+      "basename": "CARDOSO, 2012",
+      "path": "TCC/referências/design/CARDOSO, 2012.md"
+    },
+    {
+      "basename": "CLÁUDIO LUIZ, YOUTUBE",
+      "path": "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md"
+    },
+    {
+      "basename": "ANDRÉ FONTENELLE, YOUTUBE",
+      "path": "TCC/referências/estrutura do tcc/ANDRÉ FONTENELLE, YOUTUBE.md"
+    },
+    {
       "basename": "SILVA et al., 2020",
       "path": "TCC/referências/estrutura do tcc/SILVA et al., 2020.md"
     },
@@ -11,14 +27,6 @@
     {
       "basename": "MELO, 2017",
       "path": "TCC/referências/estrutura do tcc/MELO, 2017.md"
-    },
-    {
-      "basename": "CLÁUDIO LUIZ, YOUTUBE",
-      "path": "TCC/referências/estrutura do tcc/CLÁUDIO LUIZ, YOUTUBE.md"
-    },
-    {
-      "basename": "ANDRÉ FONTENELLE, YOUTUBE",
-      "path": "TCC/referências/estrutura do tcc/ANDRÉ FONTENELLE, YOUTUBE.md"
     },
     {
       "basename": "5 dicas que irão ajudar a fazer seu TCC de Design",
@@ -43,10 +51,6 @@
     {
       "basename": "GRILO, 2019",
       "path": "TCC/referências/ux/GRILO, 2019.md"
-    },
-    {
-      "basename": "CARDOSO, 2012",
-      "path": "TCC/referências/design/CARDOSO, 2012.md"
     },
     {
       "basename": "TCC 1 - Versão Final",
@@ -195,10 +199,6 @@
     {
       "basename": "Lista de tags",
       "path": "Meta Obsidian/Lista de tags.md"
-    },
-    {
-      "basename": "2021-07-19",
-      "path": "daily/2021-07-19.md"
     }
   ],
   "omittedPaths": [],
