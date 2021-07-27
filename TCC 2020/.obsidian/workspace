@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/Dissecando o tema.md",
-            "mode": "source"
+            "file": "TCC/contatos/Eudaldo.md",
+            "mode": "preview"
           }
         }
       }
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/Dissecando o tema.md",
+                "file": "TCC/contatos/Eudaldo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/Dissecando o tema.md"
+                "file": "TCC/contatos/Eudaldo.md"
               }
             }
           },
@@ -125,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "19b876b275f5d43e",
@@ -149,15 +148,15 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
-    "TCC/_TCC 2/Dissecando o tema.md",
-    "TCC/_TCC 2/Estrutura dos capítulos.md",
-    "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
-    "TCC/_TCC 1/TCC 1 - Versão Final.md",
-    "TCC/_TCC 2/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
-    "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md",
-    "daily/2021-07-11.md",
-    "daily/2021-07-01.md",
-    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
-    "daily/2021-06-29.md"
+    "TCC/contatos/Eudaldo.md",
+    "assets/panda.jpg",
+    "assets/Pasted image 20210711190632.png",
+    "assets/Pasted image 20210711190617.png",
+    "assets/Pasted image 20210711190605.png",
+    "assets/Pasted image 20210711190547.png",
+    "assets/Pasted image 20210711190247.png",
+    "assets/Pasted image 20210128141712.png",
+    "assets/docs/Resolucao Consepe Regulamento TCC.pdf",
+    "assets/docs/Vinicius Santos - Anteprojeto TCC1.pdf"
   ]
 }
