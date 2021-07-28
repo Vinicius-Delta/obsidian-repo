@@ -9,15 +9,15 @@ Template
 	
 -----
 
-## Objetivo #01: completar a Introdução
+## Objetivo #01: completar a Introdução OK
 **Arquivos relacionados**: [[_Esqueleto do TCC]]
 
-**Milestones**: #to-do 
+**Milestones**:
 - [x] Tema
 - [x] Problematização
 - [x] Objetivos
-- [ ] Justificativa
-- [ ] Metodologia de pesquisa
+- [x] Justificativa
+- [x] Metodologia de pesquisa
 - [x] Estrutura do trabalho
 
 
