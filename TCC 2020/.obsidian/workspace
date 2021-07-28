@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
+            "file": "TCC/z_trash/Lista do Nirvana 2020.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
       {
         "id": "1d377be58a46db76",
         "type": "tabs",
-        "dimension": 49.63924963924964,
+        "dimension": 28.86002886002886,
         "children": [
           {
             "id": "771dcd20a1de561d",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md"
+                "file": "TCC/z_trash/Lista do Nirvana 2020.md"
               }
             }
           },
@@ -114,7 +114,7 @@
       {
         "id": "19b876b275f5d43e",
         "type": "tabs",
-        "dimension": 50.36075036075036,
+        "dimension": 71.13997113997114,
         "children": [
           {
             "id": "39e89fb0e764b306",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
+                "file": "TCC/z_trash/Lista do Nirvana 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -149,15 +149,15 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/z_trash/Lista do Nirvana 2020.md",
+    "TCC/z_trash/Lista de Leitura.md",
+    "TCC/_TCC 2/Estrutura dos capítulos.md",
+    "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
+    "TCC/_TCC 2/Dissecando o tema.md",
+    "TCC/_TCC 2/Atributos desejados.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
-    "daily/2021-07-28.md",
-    "daily/2021-07-26.md",
-    "daily/2021-07-27.md",
-    "daily/2021-07-25.md",
-    "TCC/metaprojeto/Objtivos.md",
-    "TCC/referências/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
-    "TCC/referências/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md",
-    "daily/2021-07-08.md",
-    "TCC/orientações/Orientação 2021-07-27.md"
+    "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md",
+    "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md",
+    "TCC/metaprojeto/Objtivos.md"
   ]
 }

@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Lista do Nirvana 2020",
+      "path": "TCC/z_trash/Lista do Nirvana 2020.md"
+    },
+    {
+      "basename": "Lista de Leitura",
+      "path": "TCC/z_trash/Lista de Leitura.md"
+    },
+    {
+      "basename": "Estrutura dos capítulos",
+      "path": "TCC/_TCC 2/Estrutura dos capítulos.md"
+    },
+    {
+      "basename": "Elementos exclusivos do Projeto de Pesquisa",
+      "path": "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md"
+    },
+    {
+      "basename": "Dissecando o tema",
+      "path": "TCC/_TCC 2/Dissecando o tema.md"
+    },
+    {
+      "basename": "Atributos desejados",
+      "path": "TCC/_TCC 2/Atributos desejados.md"
+    },
+    {
       "basename": "_Esqueleto do TCC",
-      "path": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md"
+      "path": "TCC/z_trash/rascunhos do capítulo 1/_Esqueleto do TCC.md"
+    },
+    {
+      "basename": "Comparação entre a introdução e o TCC em bloco",
+      "path": "TCC/z_trash/rascunhos do capítulo 1/Comparação entre a introdução e o TCC em bloco.md"
+    },
+    {
+      "basename": "Capítulo 1. Introdução",
+      "path": "TCC/z_trash/rascunhos do capítulo 1/Capítulo 1. Introdução.md"
+    },
+    {
+      "basename": "Objtivos",
+      "path": "TCC/metaprojeto/Objtivos.md"
+    },
+    {
+      "basename": "_dedicatórias",
+      "path": "TCC/contatos/_dedicatórias.md"
     },
     {
       "basename": "2021-07-28",
@@ -19,10 +59,6 @@
     {
       "basename": "2021-07-25",
       "path": "daily/2021-07-25.md"
-    },
-    {
-      "basename": "Objtivos",
-      "path": "TCC/metaprojeto/Objtivos.md"
     },
     {
       "basename": "COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO)",
@@ -81,32 +117,8 @@
       "path": "TCC/_TCC 1/Proposta de Roteiro para Construção do Anteprojeto de Pesquisa – Semestre 2019.1.md"
     },
     {
-      "basename": "Elementos exclusivos do Projeto de Pesquisa",
-      "path": "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md"
-    },
-    {
-      "basename": "Comparação entre a introdução e o TCC em bloco",
-      "path": "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md"
-    },
-    {
       "basename": "TCC 1 - Versão Final",
       "path": "TCC/_TCC 1/TCC 1 - Versão Final.md"
-    },
-    {
-      "basename": "Capítulo 1. Introdução",
-      "path": "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md"
-    },
-    {
-      "basename": "Estrutura dos capítulos",
-      "path": "TCC/_TCC 2/Estrutura dos capítulos.md"
-    },
-    {
-      "basename": "Dissecando o tema",
-      "path": "TCC/_TCC 2/Dissecando o tema.md"
-    },
-    {
-      "basename": "Atributos desejados",
-      "path": "TCC/_TCC 2/Atributos desejados.md"
     },
     {
       "basename": "TCC em bloco",
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20210711190605",
       "path": "assets/Pasted image 20210711190605.png"
-    },
-    {
-      "basename": "Pasted image 20210711190617",
-      "path": "assets/Pasted image 20210711190617.png"
-    },
-    {
-      "basename": "Eudaldo",
-      "path": "TCC/contatos/Eudaldo.md"
-    },
-    {
-      "basename": "2021-06-29",
-      "path": "daily/2021-06-29.md"
     }
   ],
   "omittedPaths": [],
