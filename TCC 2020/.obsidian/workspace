@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-27.md",
-            "mode": "preview"
+            "file": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
+            "mode": "source"
           }
         }
       }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-27.md"
+                "file": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-27.md",
+                "file": "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -141,8 +141,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,15 +149,15 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
-    "daily/2021-07-27.md",
+    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
     "daily/2021-07-28.md",
+    "daily/2021-07-26.md",
+    "daily/2021-07-27.md",
+    "daily/2021-07-25.md",
+    "TCC/metaprojeto/Objtivos.md",
     "TCC/referências/estrutura tcc/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
     "TCC/referências/estrutura tcc/5 dicas que irão ajudar a fazer seu TCC de Design.md",
-    "TCC/metaprojeto/Objtivos.md",
-    "daily/2021-07-25.md",
-    "daily/2021-07-26.md",
     "daily/2021-07-08.md",
-    "TCC/orientações/Orientação 2021-07-27.md",
-    "TCC/orientações/Sem título.md"
+    "TCC/orientações/Orientação 2021-07-27.md"
   ]
 }

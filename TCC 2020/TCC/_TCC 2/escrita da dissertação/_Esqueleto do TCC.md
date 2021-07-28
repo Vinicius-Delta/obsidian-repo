@@ -103,8 +103,8 @@ Tags: #estrutura-do-tcc #to-do
 
 
 **Status: #to-do**
-- [ ] Aplicar o tcc em bloco para a justificativa 
-- [ ] Refazer completamente a justificativa
+- [x] Aplicar o tcc em bloco para a justificativa 
+- [x] Refazer completamente a justificativa
 
 
 ---
@@ -116,8 +116,8 @@ Tags: #estrutura-do-tcc #to-do
 [[Guia do Projeto#1 5 Metodologia de Trabalho Materiais e Métodos]]
 
 **Status: #to-do**
-- [ ] Repensar o que é metodologia de projeto X metodologia de pesquisa
-- [ ] Refazer o capítulo metodologia de pesquisa com base no [[MELO, 2017|similar]]
+- [x] Repensar o que é metodologia de projeto X metodologia de pesquisa
+- [x] Refazer o capítulo metodologia de pesquisa com base no [[MELO, 2017|similar]]
 
 ---
 ### 1.6 Estrutura do trabalho

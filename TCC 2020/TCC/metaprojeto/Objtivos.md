@@ -9,7 +9,8 @@ Template
 	
 -----
 
-## Objetivo #01: completar a Introdução OK
+## Objetivo #01: completar a Introdução
+**Status: OK!**
 **Arquivos relacionados**: [[_Esqueleto do TCC]]
 
 **Milestones**:
