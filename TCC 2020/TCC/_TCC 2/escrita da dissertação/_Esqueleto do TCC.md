@@ -134,7 +134,7 @@ Tags: #estrutura-do-tcc #to-do
 
 **Status: #to-do**
 - [ ] Repensar quais itens componhem o referencial, com base nas últimas leituras. Verificar similar [[MELO, 2017]]
-- [ ] Nessecita aplicar os conteúdos já escritos
+- [x] Nessecita aplicar os conteúdos já escritos
 
 **Exemplos**
 [[MELO, 2017#^f57998]]
@@ -145,7 +145,7 @@ Tags: #estrutura-do-tcc #to-do
 [[MELO, 2017|Similar]]
 
 **Status: #to-do**
-- [ ] Transpor o conteúdo do antigo TCC, a antiga metodologia deveria ser apresentada aqui.
+- [x] Transpor o conteúdo do antigo TCC, a antiga metodologia deveria ser apresentada aqui.
 
 ---
 # Fase 2 e 3
@@ -155,8 +155,8 @@ São 6 etapas, então 5 páginas para cada?
 ----
 ## 4 Aplicação do Método
 **Status: #to-do**
-- [ ] Onde  inserir as análises? É aqui em criação? Acho que sim
-- [ ] Trazer o conteúdo e estrutura criada em TCC1 
+- [x] Onde  inserir as análises? É aqui em criação? Acho que sim - > Lixo
+- [x] Trazer o conteúdo e estrutura criada em TCC1 
 
 1. Estratégia
 Aqui será inserida as análises (e mais coisas)
