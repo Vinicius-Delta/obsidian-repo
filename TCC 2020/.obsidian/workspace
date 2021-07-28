@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-28.md",
+            "file": "TCC/orientações/Orientação 2021-07-27.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-28.md",
+                "file": "TCC/orientações/Orientação 2021-07-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-07-28.md"
+                "file": "TCC/orientações/Orientação 2021-07-27.md"
               }
             }
           },
@@ -125,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "19b876b275f5d43e",
@@ -144,20 +145,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
-    "daily/2021-07-28.md",
     "TCC/orientações/Orientação 2021-07-27.md",
-    "TCC/orientações/Sem título.md",
     "daily/2021-07-27.md",
+    "daily/2021-07-26.md",
+    "daily/2021-07-28.md",
+    "TCC/orientações/Sem título.md",
     "TCC/referências/internet/CGI.BR, 2020.md",
     "TCC/referências/estrutura do tcc/SILVA et al., 2020.md",
     "TCC/_TCC 1/v0.3 - versão entregue/Referência - Justificativa.md",
     "TCC/referências/estrutura do tcc/MELO, 2017.md",
-    "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
-    "TCC/referências/violência policial/KUCINSKI, 2015.md"
+    "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md"
   ]
 }
