@@ -59,4 +59,8 @@ Para alcançar isso
 - [ ] Selecionar o similar
 - [ ] Investigar mais profundamente
 - [ ] Alinhar a análise com a metodologia
-- [ ] 
+- [ ] Escrever a análise
+- [ ] Linkar a análise
+- [ ] Incorporar ao texto
+
+**Prazo esperado:** [[2021-08-03]] (1 semana)
