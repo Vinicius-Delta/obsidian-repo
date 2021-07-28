@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/z_trash/Lista do Nirvana 2020.md",
+            "file": "daily/2021-07-28.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/z_trash/Lista do Nirvana 2020.md"
+                "file": "daily/2021-07-28.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/z_trash/Lista do Nirvana 2020.md",
+                "file": "daily/2021-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -149,6 +149,7 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "daily/2021-07-28.md",
     "TCC/z_trash/Lista do Nirvana 2020.md",
     "TCC/z_trash/Lista de Leitura.md",
     "TCC/_TCC 2/Estrutura dos capítulos.md",
@@ -157,7 +158,6 @@
     "TCC/_TCC 2/Atributos desejados.md",
     "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
     "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md",
-    "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md",
-    "TCC/metaprojeto/Objtivos.md"
+    "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md"
   ]
 }
