@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/orientações/Orientação 2021-07-27.md",
+            "file": "daily/2021-07-28.md",
             "mode": "source"
           }
         }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/orientações/Orientação 2021-07-27.md",
+                "file": "daily/2021-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/orientações/Orientação 2021-07-27.md"
+                "file": "daily/2021-07-28.md"
               }
             }
           },
@@ -150,6 +149,7 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "daily/2021-07-28.md",
     "TCC/orientações/Orientação 2021-07-27.md",
     "TCC/orientações/Sem título.md",
     "daily/2021-07-27.md",
@@ -158,7 +158,6 @@
     "TCC/_TCC 1/v0.3 - versão entregue/Referência - Justificativa.md",
     "TCC/referências/estrutura do tcc/MELO, 2017.md",
     "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
-    "TCC/referências/violência policial/KUCINSKI, 2015.md",
-    "TCC/_TCC 1/v0.3 - versão entregue/Guia do Projeto.md"
+    "TCC/referências/violência policial/KUCINSKI, 2015.md"
   ]
 }
