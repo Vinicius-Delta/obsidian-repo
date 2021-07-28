@@ -50,3 +50,13 @@ Para alcançar isso
 **Prazo esperado:** [[2021-08-19]] (início das aulas do semestre)
 
 ---
+
+## Objetivo #03: Realizar análise de similar
+**Link**: Porposto por [[Djalma Fiuza]]
+
+**Milestones**: #to-do 
+- [ ] Coletar novos similares
+- [ ] Selecionar o similar
+- [ ] Investigar mais profundamente
+- [ ] Alinhar a análise com a metodologia
+- [ ] 

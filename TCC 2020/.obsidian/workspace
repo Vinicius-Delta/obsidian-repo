@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "TCC/metaprojeto/Objtivos.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -80,23 +80,6 @@
         "dimension": 49.63924963924964,
         "children": [
           {
-            "id": "8fb1fa5e1d6c7f00",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "TCC/metaprojeto/Objtivos.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "byCreatedTime",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "771dcd20a1de561d",
             "type": "leaf",
             "state": {
@@ -126,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "19b876b275f5d43e",
@@ -140,8 +123,26 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "8fb1fa5e1d6c7f00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TCC/metaprojeto/Objtivos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
