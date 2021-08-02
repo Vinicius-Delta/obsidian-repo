@@ -7,11 +7,8 @@
         "id": "3ebe6f868283ef37",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "daily/2021-07-28.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 262,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -95,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/2021-07-28.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
