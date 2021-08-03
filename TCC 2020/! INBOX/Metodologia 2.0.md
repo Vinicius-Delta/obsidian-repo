@@ -58,4 +58,9 @@ Nesta etapa foram listados os atributos desejados para a construção deste trab
 Nesta etapa foi definida a arquitetura da informação, como os conteúdos se interelacionam e as diferente opções de exibição. Além disso, foi realizado o posicionamento da linguagem gráfico-visual em meio a outros similares, representado pelo gráfico gráfico cartesiano sugerido por Preece (2005).
 
 #### Terceira etapa: Estrutura
-É feito um organograma 
+Durante esse momento, utilizou-se a estratégia de criar um organograma, distribuindo as 
+[É feito um organograma](<Uma das estratégias utilizadas na estruturação envolve a criação da
+arquitetura diretamente das considerações feitas no requerimento. Começando das
+categorias, funcionalidades e seções externas quebrando-as em subseções menores.18
+Essa aproximação ajuda no desenvolvimento quando o conteúdo real ainda não está
+disponível, permitindo maior flexibilidade para alterações>)
