@@ -48,19 +48,20 @@ A partir dessa etapa são funcionalidades, ferramentas e cenários das tarefas. 
 #### Terceira etapa: Estrutura
  Esta etapa se preocupa com a arquitetura de informação, através da criação de esquemas de navegação que permitam usuários moverem-se através do conteúdo do site de forma eficiente.
 
+---
 ### Metodologia e procedimentos utilizados
 Por ter sido pensada a partir do contexto acadêmico, a metodologia Projeto E é utilizada como suporte para o desenvolvimento do presente projeto. Alguns dos procedimentos sugeridos pelo texto de referência, foram suprimidos, para se adequar as peferências de trabalho dos autores e ao escopo disponível. 
 
 #### Primeira etapa: Estratégia
-Nesta etapa foram listados os atributos desejados para a construção deste trabalho. Em seguida, foram listados e estudados *websites* e aplicativos similares, utilizando fluxogramas, análise estrutural, escala diferencial semântica e análise com base nos atributos. Por fim, foram listados os requisitos e restrições do projeto.
+Nesta etapa foram listados os atributos e funcionalidades desejadas para o produto. Em seguida, foram listados e estudados *websites* e aplicativos similares, utilizando fluxogramas, análise estrutural, escala diferencial semântica e análise com base nos atributos. Por fim, foram listados os requisitos e restrições do projeto.
 
 #### Segunda etapa: Escopo
 Nesta etapa foi definida a arquitetura da informação, como os conteúdos se interelacionam e as diferente opções de exibição. Além disso, foi realizado o posicionamento da linguagem gráfico-visual em meio a outros similares, representado pelo gráfico gráfico cartesiano sugerido por Preece (2005).
 
 #### Terceira etapa: Estrutura
-Durante esse momento, utilizou-se a estratégia de criar um organograma, distribuindo as 
-[É feito um organograma](<Uma das estratégias utilizadas na estruturação envolve a criação da
-arquitetura diretamente das considerações feitas no requerimento. Começando das
-categorias, funcionalidades e seções externas quebrando-as em subseções menores.18
-Essa aproximação ajuda no desenvolvimento quando o conteúdo real ainda não está
-disponível, permitindo maior flexibilidade para alterações>)
+Durante esse momento, utilizou-se a estratégia de criar um organograma, distribuindo as informações e funcionalidades desejadas em categorias, seções e subseções. Também foram criados fluxogramas que representam de forma preliminar, as intereções necessários para um usuário realizar as tarefas previamente descritas.
+#### Quarta etapa: Esqueleto
+
+
+#### Quarta etapa: Esqueleto
+Neta etapa foram desenhados wireframes, que representam a organização estrutural do conteúdo.
