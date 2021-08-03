@@ -54,6 +54,8 @@ No Projeto E, a etapa Esqueleto refere-se ao momento de organização estrutural
 #### Qunita etapa: Estética
 Nessa etapa é feita a composição final do conteúdo e da identidade visual. O objetivo é atingir um padrão bem resolvido e harmonioso, para melhorar a experiência do usuário.
 
+#### Etapa Final: Execução
+Por fim, na etapa de execução é construído um modelo funcional navegável, que exemplifique as funcionalidades do produto. Não se trata do produto final, apenas um visão do que seria a interface para fins de demonstração e teste.
 
 ---
 ### Metodologia e procedimentos utilizados
@@ -72,4 +74,7 @@ Durante esse momento, utilizou-se a estratégia de criar um organograma, distrib
 Neta etapa foram desenhados wireframes, que representam a organização estrutural do conteúdo.
 
 #### Qunita etapa: Estética
-Durante essa etapa foi contruída a identidade visual do projeto, a composição do 
+Durante essa etapa foi contruída a identidade visual do projeto; a composição e diagramação do conteúdo, respeitando as variações de tela; e a aplicação da identidade visual em Logografia, Cromografia, Tripografia, Pictografia, Iconografia.
+
+#### Etapa Final: Execução
+Por fim, na etapa de execução é construído um modelo funcional navegável, que exemplifique as funcionalidades do produto. Não se trata do produto final, apenas um visão do que seria a interface para fins de demonstração e teste.
