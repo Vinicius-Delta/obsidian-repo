@@ -48,6 +48,7 @@ Nesse primeiro momento é identificado o contexto do projeto, definido os objeti
 Por ter sido pensada a partir do contexto acadêmico, a metodologia Projeto E é utilizada como suporte para o desenvolvimento do presente projeto. Alguns dos procedimentos sugeridos pelo texto de referência, foram suprimidos, para se adequar as peferências de trabalho dos autores e ao escopo disponível. 
 
 #### Primeira etapa: Estratégia
-Nesta etapa foram listados os requisitos e restições envolvidos para a construção deste trabalho. 
+Nesta etapa foram listados os atributos desejados para a construção deste trabalho. Em seguida, foram listados e estudados *websites* e aplicativos similares, utilizando fluxogramas, análise estrutural, escala diferencial semântica e análise com base nos atributos. Por fim, foram listados os requisitos e restrições do projeto.
 
-Em seguida, foram listados e estudados *websites* e aplicativos similares, utilizando fluxogramas, análise estrutural, escala diferencial semântica e análise com base nos requisitos.
+#### Segunda etapa: Escopo
+A partir dessa etapa 
