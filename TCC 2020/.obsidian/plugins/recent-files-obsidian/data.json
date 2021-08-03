@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2021-08-02",
-      "path": "daily/2021-08-02.md"
+      "basename": "2021-08-01",
+      "path": "daily/2021-08-01.md"
+    },
+    {
+      "basename": "2021-07-28",
+      "path": "daily/2021-07-28.md"
+    },
+    {
+      "basename": "Template - Daily",
+      "path": "templates/Template - Daily.md"
     },
     {
       "basename": "Objtivos",
@@ -11,10 +19,6 @@
     {
       "basename": "Template - Objetivo",
       "path": "templates/Template - Objetivo.md"
-    },
-    {
-      "basename": "2021-07-28",
-      "path": "daily/2021-07-28.md"
     },
     {
       "basename": "Lista do Nirvana 2020",
@@ -191,14 +195,6 @@
     {
       "basename": "Vinicius Santos - Anteprojeto TCC1",
       "path": "assets/docs/Vinicius Santos - Anteprojeto TCC1.pdf"
-    },
-    {
-      "basename": "Resolucao Consepe Regulamento TCC",
-      "path": "assets/docs/Resolucao Consepe Regulamento TCC.pdf"
-    },
-    {
-      "basename": "Pasted image 20210711190247",
-      "path": "assets/Pasted image 20210711190247.png"
     }
   ],
   "omittedPaths": [],
