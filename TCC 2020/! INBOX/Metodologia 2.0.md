@@ -5,7 +5,7 @@
 ### Metodologia de referência 1: Garrett
 ==Essa metodologia foi idealizada para a construção de projetos profissionais voltados ao usuário, no qual existe um contato com um cliente, usuários e outras figuras interessadas pelo projeto (*stakeholders*). ==
 
-Ela se baseia na construção de camadas sequenciais (planos), que constroem gradativamente o site, do intangível ao visível (/ref figura X): Plano de estratégia, Plano de Escopo, Plano de estrutura, Plano de esqueleto, Plano de superfície.
+Ela se baseia na construção de camadas sequenciais (planos), que constroem gradativamente o site, do abstrato ao visível (/ref figura X): Plano de estratégia, Plano de Escopo, Plano de estrutura, Plano de esqueleto, Plano de superfície.
 
 Figura 01 - Os cinco planos da metodologia de Garrett (de baixo para cima).
 
