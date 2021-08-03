@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Metodologia 2.0",
+      "path": "! INBOX/Metodologia 2.0.md"
+    },
+    {
       "basename": "MEURER; SZABLUK, 2011",
       "path": "TCC/referências/ux/MEURER; SZABLUK, 2011.md"
+    },
+    {
+      "basename": "TCC 1 - Versão Final",
+      "path": "TCC/_TCC 1/TCC 1 - Versão Final.md"
+    },
+    {
+      "basename": "Capítulo 1. Introdução",
+      "path": "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md"
     },
     {
       "basename": "GARRETT, 2010",
@@ -19,10 +31,6 @@
     {
       "basename": "202PB",
       "path": "TCC/_TCC 2/rascunhos/202PB.md"
-    },
-    {
-      "basename": "TCC 1 - Versão Final",
-      "path": "TCC/_TCC 1/TCC 1 - Versão Final.md"
     },
     {
       "basename": "2021-07-28",
@@ -71,10 +79,6 @@
     {
       "basename": "Comparação entre a introdução e o TCC em bloco",
       "path": "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Comparação entre a introdução e o TCC em bloco.md"
-    },
-    {
-      "basename": "Capítulo 1. Introdução",
-      "path": "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md"
     },
     {
       "basename": "_dedicatórias",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20210711190644",
       "path": "assets/Pasted image 20210711190644.png"
-    },
-    {
-      "basename": "Pasted image 20210711190632",
-      "path": "assets/Pasted image 20210711190632.png"
     }
   ],
   "omittedPaths": [],

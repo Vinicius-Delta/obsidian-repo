@@ -1,0 +1,3 @@
+Entende-se por Metodologia o conjunto de métodos, técnicas e ferramentas aplicadas para a definição, organização e solução de problemas. A metodologia aqui apresentada propõe-se a sistematizar o seu desenvolvimento do produto final.
+
+Para guiar esse projeto, foram utilizadas como metodologias de referência: Garrett (2003); e Projeto E,  craida por Helide , que possui uma abordagem voltada ao desenvolvimento de interfaces digitais, a partir da ótica do UX Design. Isto é, uma prática projetual orientada a criação de experiências envolventes e significativas aos seus usuários.
