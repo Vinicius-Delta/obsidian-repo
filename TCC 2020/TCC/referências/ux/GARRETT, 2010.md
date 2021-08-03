@@ -31,6 +31,23 @@ Necessidades do produto vs necessidades do usuário
 - Definição da nomeclatura
 - Diagramas de uso
 
+## Plano de Esqueleto
+- Estratégias de Navegação (metáforas e convenções)
+- Interface Design (botões)
+- Sistemas de navegação
+- Design de informação (organização do conteudo)
+- Wayfinding
+- Wireframes
+
+## Plano de Superfície
+- Definir as sensações desejadas
+- Aprimorar wireframes com contraste
+- Paleta de cores e tipografia
+- Styleguides
+
+
+## Aplicação
+
 
 ---
 ``GARRETT, Jesse James. Elements of user experience, the: user-centered design for the web and beyond. Pearson Education, 2010.``
