@@ -41,6 +41,6 @@ Por ter sido contruida a partir da metodologia de Garrett, possui uma  estrutura
 Nesse primeiro momento é identificado o contexto do projeto, definido os objetivos e listados os requisitos e restrições do projeto.
 
 ### Metodologia deste projeto
-Por ter sido pensada a partir do contexto acadêmico, a metodologia Projeto E é utilizada como suporte para o desenvolvimento do presente projeto. Alguns dos procedimentos sugeridos pelo texto de origem 
+Por ter sido pensada a partir do contexto acadêmico, a metodologia Projeto E é utilizada como suporte para o desenvolvimento do presente projeto. Alguns dos procedimentos sugeridos pelo texto de referência, foram suprimidos, para se adequar as peferências de trabalho dos autores e ao escopo disponível. O
 
 #### Primeira etapa: Estratégia
