@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Objtivos",
+      "path": "TCC/metaprojeto/Objtivos.md"
+    },
+    {
+      "basename": "Template - Objetivo",
+      "path": "templates/Template - Objetivo.md"
+    },
+    {
       "basename": "2021-07-28",
       "path": "daily/2021-07-28.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Capítulo 1. Introdução",
       "path": "TCC/z_trash/rascunhos do capítulo 1/Capítulo 1. Introdução.md"
-    },
-    {
-      "basename": "Objtivos",
-      "path": "TCC/metaprojeto/Objtivos.md"
     },
     {
       "basename": "_dedicatórias",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20210711190547",
       "path": "assets/Pasted image 20210711190547.png"
-    },
-    {
-      "basename": "Pasted image 20210711190605",
-      "path": "assets/Pasted image 20210711190605.png"
     }
   ],
   "omittedPaths": [],

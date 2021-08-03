@@ -7,8 +7,11 @@
         "id": "3ebe6f868283ef37",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TCC/metaprojeto/Objtivos.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -93,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TCC/metaprojeto/Objtivos.md"
+              }
             }
           },
           {
@@ -126,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TCC/metaprojeto/Objtivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -144,6 +149,8 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/metaprojeto/Objtivos.md",
+    "templates/Template - Objetivo.md",
     "daily/2021-07-28.md",
     "TCC/z_trash/Lista do Nirvana 2020.md",
     "TCC/z_trash/Lista de Leitura.md",
@@ -151,8 +158,6 @@
     "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
     "TCC/_TCC 2/Dissecando o tema.md",
     "TCC/_TCC 2/Atributos desejados.md",
-    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md",
-    "TCC/_TCC 2/escrita da dissertação/Comparação entre a introdução e o TCC em bloco.md",
-    "TCC/_TCC 2/escrita da dissertação/Capítulo 1. Introdução.md"
+    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md"
   ]
 }
