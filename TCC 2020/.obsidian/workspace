@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-08-01.md",
+            "file": "! INBOX/202PB.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-08-01.md"
+                "file": "! INBOX/202PB.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-08-01.md",
+                "file": "! INBOX/202PB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -149,6 +149,7 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "! INBOX/202PB.md",
     "daily/2021-08-01.md",
     "daily/2021-08-02.md",
     "daily/2021-07-28.md",
@@ -157,7 +158,6 @@
     "templates/Template - Objetivo.md",
     "TCC/z_trash/Lista do Nirvana 2020.md",
     "TCC/z_trash/Lista de Leitura.md",
-    "TCC/_TCC 2/Estrutura dos capítulos.md",
-    "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md"
+    "TCC/_TCC 2/Estrutura dos capítulos.md"
   ]
 }
