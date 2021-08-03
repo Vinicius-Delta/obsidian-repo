@@ -47,6 +47,13 @@ A partir dessa etapa são funcionalidades, ferramentas e cenários das tarefas. 
 
 #### Terceira etapa: Estrutura
  Esta etapa se preocupa com a arquitetura de informação, através da criação de esquemas de navegação que permitam usuários moverem-se através do conteúdo do site de forma eficiente.
+ 
+ #### Quarta etapa: Esqueleto
+No Projeto E, a etapa Esqueleto refere-se ao momento de organização estrutural do conteúdo nas telas, seguindo padrões. É recomendado o uso de *wireframes*.
+
+#### Qunita etapa: Estética
+Nessa etapa é feita a composição final do conteúdo e da identidade visual. O objetivo é atingir um padrão bem resolvido e harmonioso, para melhorar a experiência do usuário.
+
 
 ---
 ### Metodologia e procedimentos utilizados
@@ -60,8 +67,9 @@ Nesta etapa foi definida a arquitetura da informação, como os conteúdos se in
 
 #### Terceira etapa: Estrutura
 Durante esse momento, utilizou-se a estratégia de criar um organograma, distribuindo as informações e funcionalidades desejadas em categorias, seções e subseções. Também foram criados fluxogramas que representam de forma preliminar, as intereções necessários para um usuário realizar as tarefas previamente descritas.
-#### Quarta etapa: Esqueleto
-
 
 #### Quarta etapa: Esqueleto
 Neta etapa foram desenhados wireframes, que representam a organização estrutural do conteúdo.
+
+#### Qunita etapa: Estética
+Durante essa etapa foi contruída a identidade visual do projeto, a composição do 
