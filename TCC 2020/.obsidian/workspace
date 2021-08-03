@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/ux/GARRETT, 2010.md",
+            "file": "TCC/referências/ux/MEURER; SZABLUK, 2011.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/ux/GARRETT, 2010.md"
+                "file": "TCC/referências/ux/MEURER; SZABLUK, 2011.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/ux/GARRETT, 2010.md",
+                "file": "TCC/referências/ux/MEURER; SZABLUK, 2011.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -149,6 +149,7 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/referências/ux/Sem título.md",
     "TCC/referências/ux/GARRETT, 2010.md",
     "daily/2021-08-01.md",
     "daily/2021-08-02.md",
@@ -157,7 +158,6 @@
     "daily/2021-07-28.md",
     "templates/Template - Daily.md",
     "TCC/metaprojeto/Objtivos.md",
-    "templates/Template - Objetivo.md",
-    "TCC/z_trash/Lista do Nirvana 2020.md"
+    "templates/Template - Objetivo.md"
   ]
 }
