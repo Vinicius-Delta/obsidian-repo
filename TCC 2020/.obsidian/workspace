@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Metodologia 2.0.md",
+            "file": "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md",
             "mode": "source"
           }
         }
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262,
-    "collapsed": true
+    "width": 262
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Metodologia 2.0.md"
+                "file": "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Metodologia 2.0.md",
+                "file": "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -162,6 +161,7 @@
   },
   "active": "4048bba2e2a79f93",
   "lastOpenFiles": [
+    "TCC/_TCC 2/rascunhos/Sem título.md",
     "! INBOX/Metodologia 2.0.md",
     "TCC/referências/ux/MEURER; SZABLUK, 2011.md",
     "TCC/_TCC 1/TCC 1 - Versão Final.md",
@@ -170,7 +170,6 @@
     "TCC/referências/ux/Sem título.md",
     "TCC/referências/ux/GARRETT, 2010.md",
     "daily/2021-08-01.md",
-    "daily/2021-08-02.md",
-    "! INBOX/202PB.md"
+    "daily/2021-08-02.md"
   ]
 }
