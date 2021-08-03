@@ -37,6 +37,10 @@ Por fim, são construídas as interfaces que constituem a experiência sensível
 
 Por ter sido contruida a partir da metodologia de Garrett, possui uma  estrutura de etapas praticamente idêntica. Porém ela se diferencia por ter sido pensada tanto para o desenvolvimento de projetos profissionais, quanto para projetos em contexto acadêmico. Isso é refletido nos procedimentos sugeridos pelas autoras e numa organização aberta do processo, permitindo retornar e alterar uma ou mais etapas para gerar novas alternativas.
 
+#### Primeira etapa: Estratégia
+Nesse primeiro momento é identificado o contexto do projeto, definido os objetivos e listados os requisitos e restrições do projeto.
 
 ### Metodologia deste projeto
-Por ter 
+Por ter sido pensada a partir do contexto acadêmico, a metodologia Projeto E é utilizada como suporte para o desenvolvimento do presente projeto. Alguns dos procedimentos sugeridos pelo texto de origem 
+
+#### Primeira etapa: Estratégia
