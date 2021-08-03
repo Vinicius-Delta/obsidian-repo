@@ -77,4 +77,4 @@ Neta etapa foram desenhados wireframes, que representam a organização estrutur
 Durante essa etapa foi contruída a identidade visual do projeto; a composição e diagramação do conteúdo, respeitando as variações de tela; e a aplicação da identidade visual em Logografia, Cromografia, Tripografia, Pictografia, Iconografia.
 
 #### Etapa Final: Execução
-Por fim, na etapa de execução é construído um modelo funcional navegável, que exemplifique as funcionalidades do produto. Não se trata do produto final, apenas um visão do que seria a interface para fins de demonstração e teste.
+Para concluir foi construído um modelo funcional navegável, contendo XX telas para fim de demonstração do projeto para a comunidade acadêmica e para a sociedade.
