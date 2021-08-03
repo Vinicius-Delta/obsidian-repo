@@ -5,7 +5,7 @@
 ### Metodologia de referência 1: Garrett
 ==Essa metodologia foi idealizada para a construção de projetos profissionais, no qual existe um contato com um cliente e outras figuras interessadas pelo projeto (*stakeholders*). ==
 
-Ela se baseia na construção de camadas sobrepostas (planos), que constroem gradativamente o site, do intangível ao visível (/ref figura X): Plano de estratégia, Plano de Escopo, Plano de estrutura, Plano de esqueleto, Plano de superfície.
+Ela se baseia na construção de camadas sequenciais (planos), que constroem gradativamente o site, do intangível ao visível (/ref figura X): Plano de estratégia, Plano de Escopo, Plano de estrutura, Plano de esqueleto, Plano de superfície.
 
 Figura 01 - Os cinco planos da metodologia de Garrett (de baixo para cima).
 
@@ -35,4 +35,8 @@ Por fim, são construídas as interfaces que constituem a experiência sensível
 
 ### Metodologia de referência 2: Projeto E
 
-Por ter sido contruida a partir da metodologia de Garret, possui uma  estrutura de etapas praticamente idêntica. Porém ela se diferencia por ter sido pensada tanto para o desenvolvimento de projetos profissionais, quanto para projetos em contexto acadêmico. Por possuir uma afinidade maior a 
+Por ter sido contruida a partir da metodologia de Garrett, possui uma  estrutura de etapas praticamente idêntica. Porém ela se diferencia por ter sido pensada tanto para o desenvolvimento de projetos profissionais, quanto para projetos em contexto acadêmico. Isso é refletido nos procedimentos sugeridos pelas autoras e numa organização aberta do processo, permitindo retornar e alterar uma ou mais etapas para gerar novas alternativas.
+
+
+### Metodologia deste projeto
+Por ter 
