@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/metaprojeto/Objtivos.md",
-            "mode": "preview"
+            "file": "daily/2021-08-02.md",
+            "mode": "source"
           }
         }
       }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/metaprojeto/Objtivos.md"
+                "file": "daily/2021-08-02.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/metaprojeto/Objtivos.md",
+                "file": "daily/2021-08-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -149,6 +149,7 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "daily/2021-08-02.md",
     "TCC/metaprojeto/Objtivos.md",
     "templates/Template - Objetivo.md",
     "daily/2021-07-28.md",
@@ -157,7 +158,6 @@
     "TCC/_TCC 2/Estrutura dos capítulos.md",
     "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
     "TCC/_TCC 2/Dissecando o tema.md",
-    "TCC/_TCC 2/Atributos desejados.md",
-    "TCC/_TCC 2/escrita da dissertação/_Esqueleto do TCC.md"
+    "TCC/_TCC 2/Atributos desejados.md"
   ]
 }
