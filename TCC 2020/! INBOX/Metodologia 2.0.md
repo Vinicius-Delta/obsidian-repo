@@ -42,7 +42,8 @@ Por ter sido contruida a partir da metodologia de Garrett, possui uma  estrutura
 #### Primeira etapa: Estratégia
 Nesse primeiro momento é identificado o contexto do projeto, definido os objetivos e listados os requisitos e restrições do projeto.
 
-#### Segunda etapa: 
+#### Segunda etapa: Escopo
+A partir dessa etapa são funcionalidades, ferramentas e cenários das tarefas. A partir dela é possivel a geração de alternativas.
 
 ### Metodologia e procedimentos utilizados
 Por ter sido pensada a partir do contexto acadêmico, a metodologia Projeto E é utilizada como suporte para o desenvolvimento do presente projeto. Alguns dos procedimentos sugeridos pelo texto de referência, foram suprimidos, para se adequar as peferências de trabalho dos autores e ao escopo disponível. 
@@ -51,4 +52,4 @@ Por ter sido pensada a partir do contexto acadêmico, a metodologia Projeto E é
 Nesta etapa foram listados os atributos desejados para a construção deste trabalho. Em seguida, foram listados e estudados *websites* e aplicativos similares, utilizando fluxogramas, análise estrutural, escala diferencial semântica e análise com base nos atributos. Por fim, foram listados os requisitos e restrições do projeto.
 
 #### Segunda etapa: Escopo
-A partir dessa etapa 
+Nesta etapa foi definida a arquitetura da informação, como os conteúdos se interelacionam e as diferente opções de exibição.
