@@ -19,6 +19,18 @@ Necessidades do produto vs necessidades do usuário
 
 
 ## Plano de escopo
+- Requisitos funcionais do produto
+	- Seja positivo
+	- Seja específico
+	- Seja objetivo
+- Requisitos de conteúdo
+- Priorizar conteúdos
+
+## Plano de estrutura
+- Arquitetura da informação (site map)
+- Definição da nomeclatura
+- Diagramas de uso
+
 
 ---
 ``GARRETT, Jesse James. Elements of user experience, the: user-centered design for the web and beyond. Pearson Education, 2010.``
