@@ -3,7 +3,7 @@
 ==Para guiar esse projeto, foram utilizadas como metodologias de referência: Garrett (2003); e Projeto E, craida por Helide Meurer e Daniela Szabluk, inpiradas pela anterior. Ambas são voltadas para o desenvolvimento de projetos de interfaces interativas dígito-virtuais.==
 
 ### Metodologia de referência 1: Garrett
-==Essa metodologia foi idealizada para a construção de projetos profissionais, no qual existe um contato com um cliente e outras figuras interessadas pelo projeto (*stakeholders*). ==
+==Essa metodologia foi idealizada para a construção de projetos profissionais voltados ao usuário, no qual existe um contato com um cliente, usuários e outras figuras interessadas pelo projeto (*stakeholders*). ==
 
 Ela se baseia na construção de camadas sequenciais (planos), que constroem gradativamente o site, do intangível ao visível (/ref figura X): Plano de estratégia, Plano de Escopo, Plano de estrutura, Plano de esqueleto, Plano de superfície.
 
