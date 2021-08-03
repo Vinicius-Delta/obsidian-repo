@@ -45,7 +45,7 @@ Nesse primeiro momento é identificado o contexto do projeto, definido os objeti
 #### Segunda etapa: Escopo
 A partir dessa etapa são funcionalidades, ferramentas e cenários das tarefas. A partir dela é possivel a geração de alternativas.
 
-#### Segunda etapa: Estrutura
+#### Terceira etapa: Estrutura
  Esta etapa se preocupa com a arquitetura de informação, através da criação de esquemas de navegação que permitam usuários moverem-se através do conteúdo do site de forma eficiente.
 
 ### Metodologia e procedimentos utilizados
