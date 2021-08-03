@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rafa Bacellar",
+                "query": "planos",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,6 +151,7 @@
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
     "! INBOX/202PB.md",
+    "TCC/_TCC 1/TCC 1 - Versão Final.md",
     "daily/2021-08-01.md",
     "daily/2021-08-02.md",
     "daily/2021-07-28.md",
@@ -157,7 +159,6 @@
     "TCC/metaprojeto/Objtivos.md",
     "templates/Template - Objetivo.md",
     "TCC/z_trash/Lista do Nirvana 2020.md",
-    "TCC/z_trash/Lista de Leitura.md",
-    "TCC/_TCC 2/Estrutura dos capítulos.md"
+    "TCC/z_trash/Lista de Leitura.md"
   ]
 }
