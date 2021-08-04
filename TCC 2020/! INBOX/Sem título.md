@@ -4,6 +4,7 @@ Declaração dos direiros humanos
 ODS - Objetivos de Desenvolvimento sustentavel 10 e 16
 
 Coletivos que tratam de direitos humanos
+> Temos a referência do Campaign Zero
 
 ---
 

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Modelo de análise de similares",
-      "path": "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md"
+      "basename": "Orientação 2020.03.20",
+      "path": "TCC/orientações/Orientação 2020.03.20.md"
+    },
+    {
+      "basename": "Orientação 2020.07.20",
+      "path": "TCC/orientações/Orientação 2020.07.20.md"
     },
     {
       "basename": "Sem título",
       "path": "! INBOX/Sem título.md"
+    },
+    {
+      "basename": "Modelo de análise de similares",
+      "path": "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md"
     },
     {
       "basename": "Metodologia 2.0",
@@ -191,14 +199,6 @@
     {
       "basename": "GRILO, 2019",
       "path": "TCC/referências/ux/GRILO, 2019.md"
-    },
-    {
-      "basename": "2021-07-11",
-      "path": "daily/2021-07-11.md"
-    },
-    {
-      "basename": "2021-07-01",
-      "path": "daily/2021-07-01.md"
     }
   ],
   "omittedPaths": [],

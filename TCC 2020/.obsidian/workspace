@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Sem título.md",
+            "file": "TCC/orientações/Orientação 2020.03.20.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "planos",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md"
+                "file": "TCC/orientações/Orientação 2020.03.20.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md",
+                "file": "TCC/orientações/Orientação 2020.03.20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -160,17 +159,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "3ebe6f868283ef37",
+  "active": "4048bba2e2a79f93",
   "lastOpenFiles": [
-    "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md",
+    "TCC/orientações/Orientação 2020.03.20.md",
+    "TCC/orientações/Orientação 2020.07.20.md",
     "! INBOX/Sem título.md",
+    "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md",
     "! INBOX/Metodologia 2.0.md",
     "TCC/referências/ux/MEURER; SZABLUK, 2011.md",
     "TCC/_TCC 2/rascunhos/Sem título.md",
     "TCC/_TCC 1/TCC 1 - Versão Final.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md",
-    "TCC/referências/ux/Sem título.md",
-    "TCC/referências/ux/GARRETT, 2010.md",
-    "daily/2021-08-01.md"
+    "TCC/referências/ux/Sem título.md"
   ]
 }
