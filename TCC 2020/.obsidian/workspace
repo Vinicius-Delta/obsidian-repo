@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/orientações/Orientação 2020.03.20.md",
+            "file": "! INBOX/Sem título.md",
             "mode": "source"
           }
         }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/orientações/Orientação 2020.03.20.md"
+                "file": "! INBOX/Sem título.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/orientações/Orientação 2020.03.20.md",
+                "file": "! INBOX/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -161,10 +161,10 @@
   },
   "active": "4048bba2e2a79f93",
   "lastOpenFiles": [
-    "TCC/orientações/Orientação 2020.03.20.md",
-    "TCC/orientações/Orientação 2020.07.20.md",
     "! INBOX/Sem título.md",
+    "TCC/orientações/Orientação 2020.03.20.md",
     "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md",
+    "TCC/orientações/Orientação 2020.07.20.md",
     "! INBOX/Metodologia 2.0.md",
     "TCC/referências/ux/MEURER; SZABLUK, 2011.md",
     "TCC/_TCC 2/rascunhos/Sem título.md",

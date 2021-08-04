@@ -8,4 +8,8 @@ Coletivos que tratam de direitos humanos
 
 ---
 
-> 
+> Pergunta sobre Elias
+
+---
+
+Perguntou sobre quem financia e quem i
