@@ -5,13 +5,12 @@
 Vai ter ENAD esse ano e provavelmente a gente vai ter que fazer. Valentim está cuidado de elencar as pessoas que farão.
 
 ----
+Indiciou alguns caminhos para aumentar a justificativa
+- Declaração dos direiros humanos
+- ODS - Objetivos de Desenvolvimento sustentavel 10 e 16
+- [Festival conhecendo ODS |Conhecendo os ODS é o maior festival de desenvolvimento sustentável das Américas, com um objetivo global: trazer um planeta regenerado](https://conhecendoosods.com.br/)
 
-> Para a justificativa? Para aumentar o volume de texto.
-
-Declaração dos direiros humanos
-ODS - Objetivos de Desenvolvimento sustentavel 10 e 16
-
-Coletivos que tratam de direitos humanos
+- Coletivos que tratam de direitos humanos
 > Temos a referência do Campaign Zero
 
 ---
