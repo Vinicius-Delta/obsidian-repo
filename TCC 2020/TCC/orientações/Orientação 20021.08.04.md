@@ -1,3 +1,7 @@
+> Presentes: [[Djalma Fiuza]], [[Rafael Bacellar]], Vinicius
+---
+# Reunião com DJ
+
 Vai ter ENAD esse ano e provavelmente a gente vai ter que fazer. Valentim está cuidado de elencar as pessoas que farão.
 
 ----
@@ -23,6 +27,7 @@ Perguntou sobre quem financia e quem irá financiar o nosso
 > Pode ser uma parceria com a Central Unica das Favelas
 
 ---
+
 Conversando sobre colegiado
 Vai ter duas contratações por Reda:
 * Carina?
