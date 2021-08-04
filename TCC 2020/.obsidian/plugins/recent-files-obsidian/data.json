@@ -9,6 +9,10 @@
       "path": "! INBOX/Metodologia 2.0.md"
     },
     {
+      "basename": "Sem título",
+      "path": "! INBOX/Sem título.md"
+    },
+    {
       "basename": "MEURER; SZABLUK, 2011",
       "path": "TCC/referências/ux/MEURER; SZABLUK, 2011.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2021-07-01",
       "path": "daily/2021-07-01.md"
-    },
-    {
-      "basename": "researcher",
-      "path": "assets/researcher.png"
     }
   ],
   "omittedPaths": [],
