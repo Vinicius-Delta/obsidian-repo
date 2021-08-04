@@ -1,7 +1,7 @@
 > Para a justificativa? Para aumentar o volume de texto.
 
 Declaração dos direiros humanos
-ODS - Desenvolvimento sustentavel
+ODS - Objetivos de Desenvolvimento sustentavel 10 e 16
 
 Coletivos que tratam de direitos humanos
 
