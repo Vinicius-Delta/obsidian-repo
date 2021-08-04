@@ -12,4 +12,8 @@ Coletivos que tratam de direitos humanos
 
 ---
 
-Perguntou sobre quem financia e quem i
+Perguntou sobre quem financia e quem irá financiar o nosso
+- Projetos de financiamento da ONU?
+
+> Acho que vale a pena olhar quem mantinha o Onde fui Roubado e Tiro perdido
+
