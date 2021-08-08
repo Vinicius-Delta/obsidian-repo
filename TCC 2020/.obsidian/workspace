@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md",
+            "file": "! INBOX/Metodologia 2.0.md",
             "mode": "source"
           }
         }
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/orientações/Orientação 2021.08.04.md"
+                "file": "! INBOX/Metodologia 2.0.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/orientações/Orientação 2021.08.04.md",
+                "file": "! INBOX/Metodologia 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -159,16 +160,16 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "4048bba2e2a79f93",
+  "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
-    "TCC/orientações/Orientação 2021.08.04.md",
+    "! INBOX/Metodologia 2.0.md",
     "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md",
+    "TCC/orientações/Orientação 2021.08.04.md",
     "! INBOX/Orientação 20021.08.04.md",
     "TCC/orientações/Orientação 2021-07-27.md",
     "! INBOX/Sem título.md",
     "TCC/orientações/Orientação 2020.03.20.md",
     "TCC/orientações/Orientação 2020.07.20.md",
-    "! INBOX/Metodologia 2.0.md",
     "TCC/referências/ux/MEURER; SZABLUK, 2011.md",
     "TCC/_TCC 2/rascunhos/Sem título.md"
   ]
