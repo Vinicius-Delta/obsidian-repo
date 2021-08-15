@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Metodologia 2.0.md",
+            "file": "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "teóri",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Metodologia 2.0.md"
+                "file": "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Metodologia 2.0.md",
+                "file": "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -162,15 +162,15 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
+    "TCC/referências/estrutura do tcc (informal)/Estrutura dos capítulos do TCC.md",
+    "TCC/_TCC 2/Estrutura dos capítulos.md",
     "! INBOX/Metodologia 2.0.md",
     "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md",
     "TCC/orientações/Orientação 2021.08.04.md",
     "! INBOX/Orientação 20021.08.04.md",
     "TCC/orientações/Orientação 2021-07-27.md",
     "! INBOX/Sem título.md",
-    "TCC/orientações/Orientação 2020.03.20.md",
-    "TCC/orientações/Orientação 2020.07.20.md",
-    "TCC/referências/ux/MEURER; SZABLUK, 2011.md",
-    "TCC/_TCC 2/rascunhos/Sem título.md"
+    "TCC/orientações/Orientação 2020.03.20.md"
   ]
 }
