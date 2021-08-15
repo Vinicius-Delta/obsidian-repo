@@ -13,6 +13,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "1dd1b454ecd63c25",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "! INBOX/Referencial teórico.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 262,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -151,14 +163,14 @@
   "active": "4048bba2e2a79f93",
   "lastOpenFiles": [
     "TCC/referências/ux/MURUGA; ANDRADE, 2019.md",
+    "! INBOX/Referencial teórico.md",
+    "! INBOX/Sem título.md",
     "TCC/referências/ux/TEIXEIRA, 2019.md",
     "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.md",
     "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.pdf",
     "TCC/referências/ux/MEURER; SZABLUK, 2011.md",
     "TCC/referências/ux/GRILO, 2019.md",
     "TCC/orientações/Orientação 2021.08.04.md",
-    "TCC/referências/Sem título.md",
-    "TCC/referências/ux/GARRETT, 2010.md",
-    "TCC/referências/ux/Sem título.md"
+    "TCC/referências/Sem título.md"
   ]
 }
