@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "MURUGA; ANDRADE, 2019",
+      "path": "TCC/referências/ux/MURUGA; ANDRADE, 2019.md"
+    },
+    {
+      "basename": "TEIXEIRA, 2019",
+      "path": "TCC/referências/ux/TEIXEIRA, 2019.md"
+    },
+    {
+      "basename": "ROGERS; SHARP; PREECE, 2013",
+      "path": "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.md"
+    },
+    {
+      "basename": "ROGERS; SHARP; PREECE, 2013",
+      "path": "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.pdf"
+    },
+    {
+      "basename": "MEURER; SZABLUK, 2011",
+      "path": "TCC/referências/metodologia/MEURER; SZABLUK, 2011.md"
+    },
+    {
+      "basename": "GRILO, 2019",
+      "path": "TCC/referências/ux/GRILO, 2019.md"
+    },
+    {
+      "basename": "Orientação 2021.08.04",
+      "path": "TCC/orientações/Orientação 2021.08.04.md"
+    },
+    {
+      "basename": "GARRETT, 2010",
+      "path": "TCC/referências/metodologia/GARRETT, 2010.md"
+    },
+    {
       "basename": "Sem título",
       "path": "! INBOX/Sem título.md"
     },
     {
       "basename": "Metodologia 2.0",
-      "path": "! INBOX/Metodologia 2.0.md"
-    },
-    {
-      "basename": "ROGERS; SHARP; PREECE, 2013",
-      "path": "! INBOX/ROGERS; SHARP; PREECE, 2013.md"
-    },
-    {
-      "basename": "TEIXEIRA, 2019",
-      "path": "! INBOX/TEIXEIRA, 2019.md"
+      "path": "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Metodologia 2.0.md"
     },
     {
       "basename": "SILVA et al., 2020",
@@ -33,10 +57,6 @@
       "path": "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md"
     },
     {
-      "basename": "Orientação 2021.08.04",
-      "path": "TCC/orientações/Orientação 2021.08.04.md"
-    },
-    {
       "basename": "Orientação 2021.07.27",
       "path": "TCC/orientações/Orientação 2021.07.27.md"
     },
@@ -49,20 +69,12 @@
       "path": "TCC/orientações/Orientação 2020.07.20.md"
     },
     {
-      "basename": "MEURER; SZABLUK, 2011",
-      "path": "TCC/referências/ux/MEURER; SZABLUK, 2011.md"
-    },
-    {
       "basename": "TCC 1 - Versão Final",
       "path": "TCC/_TCC 1/TCC 1 - Versão Final.md"
     },
     {
       "basename": "Capítulo 1. Introdução",
       "path": "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md"
-    },
-    {
-      "basename": "GARRETT, 2010",
-      "path": "TCC/referências/ux/GARRETT, 2010.md"
     },
     {
       "basename": "2021-08-01",
@@ -187,18 +199,6 @@
     {
       "basename": "TCC em bloco",
       "path": "TCC/referências/estrutura do tcc (informal)/TCC em bloco.md"
-    },
-    {
-      "basename": "OLIVEIRA; FRANZATO; DEL GAUDIO, 2017",
-      "path": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md"
-    },
-    {
-      "basename": "CARDOSO, 2012",
-      "path": "TCC/referências/design/CARDOSO, 2012.md"
-    },
-    {
-      "basename": "CLÁUDIO LUIZ, YOUTUBE",
-      "path": "TCC/referências/estrutura do tcc (formal)/CLÁUDIO LUIZ, YOUTUBE.md"
     }
   ],
   "omittedPaths": [],
