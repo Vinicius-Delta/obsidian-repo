@@ -10,7 +10,10 @@ A usabilidade é geralmente considerada como o fator que assegura que os produto
 ([Rogers et al 2013:26](zotero://open-pdf/groups/4374086/items/7VUEX22S?page=26))
 
 ### Metas da usabilidade
-
+Eficácia: se refere a quanto um sistema é bom em fazer o que se espera dele.
+Eficiência: se refere a maneira como o sistema auxilia os usuários na realização de suas tarefas.
+Segurança: implica proteger o usuário de sistuas perigosas e/ou indesejáveis
+Utilidade: refere-se 
 
 
 ### User Experience
