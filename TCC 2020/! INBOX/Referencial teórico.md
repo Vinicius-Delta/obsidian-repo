@@ -46,6 +46,9 @@ Capacidade de aprendizagem: refere-se a quão fácil é aprender a usar o sistem
 ### Design responsivo
 
 ### Design para telas pesquenas
+   A Amazon verificou em testes que comprimir imagens em JPEG em  uma página reduz a quantidade de bateria necessária para carregá-la em um dispositivo móvel em até 20%. No Facebook, que tem mais imagens, essa economia de bateria chega a 30% (http://www2012.org/proceedings/proceedings/p41.pdf)
+   
+   
 
 ### Importância social
 Acredita-se necessário, crescentemente, pensar em modos de visualização de dados públicos de uma forma mais democrática, onde os dados possam ser traduzidos para que qualquer cidadão consiga entender. Os dados se tornam quase inúteis sem a capacidade de visualizar e agir sobre eles." ([Muruga and Andrade 2019:1723](zotero://open-pdf/library/items/5PGG54UQ?page=1))
