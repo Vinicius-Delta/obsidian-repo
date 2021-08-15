@@ -7,10 +7,9 @@
         "id": "4048bba2e2a79f93",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "TCC/referências/ux/MURUGA; ANDRADE, 2019.md",
-            "mode": "preview"
+            "file": "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.pdf"
           }
         }
       },
@@ -21,7 +20,7 @@
           "type": "markdown",
           "state": {
             "file": "! INBOX/Referencial teórico.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/ux/MURUGA; ANDRADE, 2019.md"
+                "file": "! INBOX/Referencial teórico.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/ux/MURUGA; ANDRADE, 2019.md",
+                "file": "! INBOX/Referencial teórico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -160,14 +159,14 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "4048bba2e2a79f93",
+  "active": "1dd1b454ecd63c25",
   "lastOpenFiles": [
-    "TCC/referências/ux/MURUGA; ANDRADE, 2019.md",
     "! INBOX/Referencial teórico.md",
+    "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.pdf",
+    "TCC/referências/ux/MURUGA; ANDRADE, 2019.md",
     "! INBOX/Sem título.md",
     "TCC/referências/ux/TEIXEIRA, 2019.md",
     "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.md",
-    "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.pdf",
     "TCC/referências/ux/MEURER; SZABLUK, 2011.md",
     "TCC/referências/ux/GRILO, 2019.md",
     "TCC/orientações/Orientação 2021.08.04.md",
