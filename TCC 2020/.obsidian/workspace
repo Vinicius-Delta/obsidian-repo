@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Sem título.md",
+            "file": "! INBOX/Sem título 1.md",
             "mode": "source"
           }
         }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Sem título.md"
+                "file": "! INBOX/Sem título 1.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Sem título.md",
+                "file": "! INBOX/Sem título 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -162,6 +162,7 @@
   },
   "active": "3ebe6f868283ef37",
   "lastOpenFiles": [
+    "! INBOX/Sem título 1.md",
     "! INBOX/Sem título.md",
     "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
     "TCC/referências/estrutura do tcc (informal)/Estrutura dos capítulos do TCC.md",
@@ -170,7 +171,6 @@
     "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md",
     "TCC/orientações/Orientação 2021.08.04.md",
     "! INBOX/Orientação 20021.08.04.md",
-    "TCC/orientações/Orientação 2021-07-27.md",
-    "TCC/orientações/Orientação 2020.03.20.md"
+    "TCC/orientações/Orientação 2021-07-27.md"
   ]
 }
