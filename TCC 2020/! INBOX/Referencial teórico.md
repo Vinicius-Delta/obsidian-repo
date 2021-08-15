@@ -1,8 +1,17 @@
 **
 
 ### Usabilidade
+A usabilidade é geralmente considerada como o fator que assegura que os produtos são faceis de usar, eficientes e agradaveis - da perspectiva do usuário. Implica olimizar as interações estabelecidas pelas pessoas com produtos interativos, de modo a permitir que realizem suas atividades no trabalho, na escola e em casa. Mais especificamente é dividia nas segintes metas:
+* Ser eficaz no uso (eficácia)
+* Ser seguro no uso (segurança)
+* Ser de boa utilidade (utilidade)
+* Ser fácil de aprender (learnability)
+* Ser fácil de lembrar como se usa (memorability)
+([Rogers et al 2013:26](zotero://open-pdf/groups/4374086/items/7VUEX22S?page=26))
 
-	###Componentes da usabilidade
+### Metas da usabilidade
+
+
 
 ### User Experience
 
@@ -12,6 +21,8 @@
 
 ### Design de Interação
 "Entendemos o design de interação como fundamental para todas as disciplinas, campos e abordagens que sc preocupam com pesquisar e projetar sistemas baseados em computador para pessoas (veja Figura 1.3)." ([Rogers et al 2013:20](zotero://open-pdf/groups/4374086/items/7VUEX22S?page=20))
+
+
 
 ### Design para WEB
 
