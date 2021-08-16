@@ -95,4 +95,8 @@ Acredita-se necessário, crescentemente, pensar em modos de visualização de da
 
 
 **
+## Elementos do Design Gráfico
+### Cores
+### Tipografia
+### Grid
 ## Compreensão dos fatores humanos
