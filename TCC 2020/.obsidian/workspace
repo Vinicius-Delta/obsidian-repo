@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4048bba2e2a79f93",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.pdf"
-          }
-        }
-      },
-      {
         "id": "1dd1b454ecd63c25",
         "type": "leaf",
         "state": {
@@ -118,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/LOPES, 2013.md"
+                "file": "! INBOX/Referencial teórico.md"
               }
             }
           },
@@ -152,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/LOPES, 2013.md",
+                "file": "! INBOX/Referencial teórico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -170,10 +160,10 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "1826cc262f5ba3af",
+  "active": "1dd1b454ecd63c25",
   "lastOpenFiles": [
-    "! INBOX/LOPES, 2013.md",
     "! INBOX/Referencial teórico.md",
+    "! INBOX/LOPES, 2013.md",
     "! INBOX/Sem título.md",
     "TCC/referências/ux/TEIXEIRA, 2019.md",
     "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.md",

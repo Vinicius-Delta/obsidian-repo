@@ -43,6 +43,15 @@ Capacidade de aprendizagem: refere-se a quão fácil é aprender a usar o sistem
 
 ### Design para WEB
 
+### Desenvolvimento para web
+"Uma estratégia é começar sempre pela versão Web do seu produto ou webapp. Sedimentar bem sua presença mobile via Web, garantindo acesso universal e multiplataforma. Aí, conforme as necessidades surgirem e seu planejamento financeiro permitir, você pode investirem Apps específicas de plataformas com recursos e experiências nativas. Web first." ([Lopes 2013:17](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=17))
+
+"Várias grandes empresas da Web seguiram esse caminho. Facebook, Google e Twitter são exemplos óbvios. O Facebook tem Apps para iOS e Android bem integradas às plataformas, mas elas só foram construídas depois do site mobile que até hoje oferece suporte a todo tipo de plataforma móvel. Aqui no Brasil, portais de notícias grandes seguiram a mesma estratégia — UOL, Globo, etc—, assim como a maioria das lojas virtuais." ([Lopes 2013:17](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=17))
+
+### Desenvolvimento nativo X web
+"Uma App tem acesso direto ao hardware do aparelho e a recursos do sistema operacional. Consegue se integrar com funções avançadas e a outras Apps. Pode manipular o funcionamento do aparelho e até substituir ou complementar funções" ([Lopes 2013:21](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=21))
+
+
 ### Design responsivo
 
 ### Design para telas pesquenas
