@@ -1,4 +1,4 @@
-## Design de Interação
+## Design de Interação (1)
 "Entendemos o design de interação como fundamental para todas as disciplinas, campos e abordagens que sc preocupam com pesquisar e projetar sistemas baseados em computador para pessoas (veja Figura 1.3)." ([Rogers et al 2013:20](zotero://open-pdf/groups/4374086/items/7VUEX22S?page=20))
 
 
