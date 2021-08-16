@@ -4,6 +4,12 @@
 Nós aprendemos que a criação de uma aplicação móvel que será de grande impacto na vida das pessoas e da sua comunicação exige algumas mudanças no processo tradicional de desenvolvimento para a web ou para os computadores pessoais1.(BENTLEY e BARRET, 2012 p.2) 
 ([Shigeno 2017:45](zotero://open-pdf/groups/4374086/items/2XAIWYQE?page=45))
 
+No decorrer dos anos, vários autores e designers tentaram criar modelos para ilustrar essa rede inter-relacionada de disciplinas, especializações, métodos e técnicas que são utilizadas para criar produtos e projetar experiências. Um dos modelos mais famosos foi proposto por **Dan Saffer** em 2006 (e atualizado por ele mesmo em 2009, na segunda edição de Designing for Interaction):
+
+![Dan_Saffer_diagrama_disciplinas_de_UX](https://miro.medium.com/max/580/0*1AFqysBQXGaMLMSV.jpg)
+
+Repare como o grande círculo de User Experience Design engloba uma série de outras disciplinas: de Arquitetura de Informação a Design Industrial, passando até por Sound Design. Sim, aquele sonzinho que toca quando você inicia seu PC ou Mac também faz parte da experiência do usuário. E como todo elemento da experiência do usuário, também foi projetado por alguém.
+
 ## 2 Design de Interação (1)
 "Entendemos o design de interação como fundamental para todas as disciplinas, campos e abordagens que sc preocupam com pesquisar e projetar sistemas baseados em computador para pessoas (veja Figura 1.3)." ([Rogers et al 2013:20](zotero://open-pdf/groups/4374086/items/7VUEX22S?page=20))
 
@@ -89,3 +95,4 @@ Acredita-se necessário, crescentemente, pensar em modos de visualização de da
 
 
 **
+## Compreensão dos fatores humanos
