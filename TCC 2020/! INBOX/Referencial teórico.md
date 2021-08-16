@@ -40,10 +40,8 @@ Capacidade de aprendizagem: refere-se a quão fácil é aprender a usar o sistem
 
 "O UX designer não é um profeta que sabe como as pessoas pensam; ele é um pesquisador que investiga o que levou uma determinada pessoa a agir de determinada forma e então propõe melhorias de design baseadas nesses insights." ([Teixeira 2019:28](zotero://open-pdf/groups/4374086/items/BHGL4H9E?page=28))
 
-## Design mobile (0)
-
-## Design para WEB (0)
-### Desgin 
+## 4 Design Mobile (2)
+### Desgin Mobile
 ### Desenvolvimento nativo X web (2)
    Sites estão sempre atualizados, são compatíveis com vários sistemas operacionais, são mais facilmente encontráveis pelos buscadores e ideais para usuários que estão tendo contato com a marca pela primeira vez. Por outro lado, aplicativos podem ter melhor performance, podem ser usados offline em alguns casos, permitem mais liberdade criativa na interface e ajudam a criar fidelidade com os usuários. (Teixeira 2019, p. 169)
 
@@ -72,8 +70,6 @@ Capacidade de aprendizagem: refere-se a quão fácil é aprender a usar o sistem
 #### Imagens flexíveis (1)
 
 A Amazon verificou em testes que comprimir imagens em JPEG em  uma página reduz a quantidade de bateria necessária para carregá-la em um dispositivo móvel em até 20%. No Facebook, que tem mais imagens, essa economia de bateria chega a 30% (http://www2012.org/proceedings/proceedings/p41.pdf)
-     
-
 
 ## Visualização de dados (1)
 "Disponibilizar informação fazendo uso de ferramentas de visualização não envolve apenas a representação gráfica da informação. Compreende-se que é um ato que se completa com a percepção e entendimento por parte do usuário e as possibilidades que se abrem a partir da interação dele com aquela representação. Segundo Freitas, Chubachi, Luzzardi & Cava (2001) a visualização de informações permite apresentar dados abstratos de um determinado domínio de aplicação, em formas gráficas de modo que a representação visual gerada explore a capacidade de percepção do homem e este, a partir das relações espaciais exibidas, interprete e compreenda as informações deduzindo novos conhecimentos." ([Muruga and Andrade 2019:1723](zotero://open-pdf/library/items/5PGG54UQ?page=1))
