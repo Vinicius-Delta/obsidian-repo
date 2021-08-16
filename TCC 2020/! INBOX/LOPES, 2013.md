@@ -1,6 +1,6 @@
 **Extracted Annotations (15/08/2021 21:29:05)**
 
-"Uma estratégia é começar sempre pela versão Web do seu produto ou webapp. Sedimentar bem sua presença mobile via Web, garantindo acesso universal e multiplataforma. Aí, conformeasnecessidadessurgiremeseuplanejamentofinanceiro permitir, vocêpodeinvestiremAppsespecíficasdeplataformascomrecursoseexperiênciasnativas. Web first." ([Lopes 2013:17](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=17))
+"Uma estratégia é começar sempre pela versão Web do seu produto ou webapp. Sedimentar bem sua presença mobile via Web, garantindo acesso universal e multiplataforma. Aí, conforme as necessidades surgiremeseuplanejamentofinanceiro permitir, vocêpodeinvestiremAppsespecíficasdeplataformascomrecursoseexperiênciasnativas. Web first." ([Lopes 2013:17](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=17))
 
 "Várias grandes empresas da Web seguiram esse caminho. Facebook, Google e Twitter são exemplos óbvios. O Facebook tem Apps para iOS e Android bem integradas às plataformas, mas elas só foram construídas depois do site mobile que atéhojeoferecesuporteatodotipodeplataformamóvel. AquinoBrasil,portaisde notíciasgrandesseguiramamesmaestratégia—UOL,Globo,etc—,assimcomoa maioriadaslojasvirtuais." ([Lopes 2013:17](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=17))
 
