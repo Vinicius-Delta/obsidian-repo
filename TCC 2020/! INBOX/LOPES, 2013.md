@@ -32,7 +32,7 @@
 
 "Mas fato é que há diferenças claras no uso de aparelhos móveis em comparação ao uso do Desktop. Mais ainda: mobile não é só diferente, parece ser também mais limitado. Tela menor, rede lenta, hardware mais lento, touch menos preciso que mouse, etc." ([Lopes 2013:42](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=42))
 
-"Em termos práticos: um design mobile-first nos obriga a focar mais e a priorizar melhor o conteúdo. Abraçando as restrições do mobile, acabamos chegando em um design mais simples e funcional, já que não há muito espaço para enrolação. Aí quando evoluímos o design para a versão Desktop, o resultado é também uma interface mais focada e todo mundo ganha. O caminho inverso é bem mais difícil. Pelo Desktop ser bem menos restrito, acabamos enchendo a páginas de coisas sem problemas. Quandotentamostransformar emmobile,odesigncomeçaaparecerexageradoeébemdifícilencaixartudo" ([Lopes 2013:42](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=42))
+"Em termos práticos: um design mobile-first nos obriga a focar mais e a priorizar melhor o conteúdo. Abraçando as restrições do mobile, acabamos chegando em um design mais simples e funcional, já que não há muito espaço para enrolação. Aí quando evoluímos o design para a versão Desktop, o resultado é também uma interface mais focada e todo mundo ganha. O caminho inverso é bem mais difícil. Pelo Desktop ser bem menos restrito, acabamos enchendo a páginas de coisas sem problemas. Quando tenta mostransformar emmobile,odesigncomeçaaparecerexageradoeébemdifícilencaixartudo" ([Lopes 2013:42](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=42))
 
 ---
 LOPES, S. **A Web Mobile: Programe para um mundo de muitos dispositivos**. Casa do Código: Casa do Código, 2013.
