@@ -1,8 +1,10 @@
-## Design de Interação (1)
+## 1 Experiência do usuário
+
+## 2 Design de Interação (1)
 "Entendemos o design de interação como fundamental para todas as disciplinas, campos e abordagens que sc preocupam com pesquisar e projetar sistemas baseados em computador para pessoas (veja Figura 1.3)." ([Rogers et al 2013:20](zotero://open-pdf/groups/4374086/items/7VUEX22S?page=20))
 
 
-## Usabilidade (2)
+## 3 Usabilidade (2)
 A usabilidade é geralmente considerada como o fator que assegura que os produtos são faceis de usar, eficientes e agradaveis - da perspectiva do usuário. Implica olimizar as interações estabelecidas pelas pessoas com produtos interativos, de modo a permitir que realizem suas atividades no trabalho, na escola e em casa. Mais especificamente é dividia nas segintes metas:
 * Ser eficaz no uso (eficácia)
 * Ser seguro no uso (segurança)
@@ -41,10 +43,7 @@ Capacidade de aprendizagem: refere-se a quão fácil é aprender a usar o sistem
 ## Design mobile (0)
 
 ## Design para WEB (0)
-
-### Desenvolvimento para web (0)
-
-
+### Desgin 
 ### Desenvolvimento nativo X web (2)
    Sites estão sempre atualizados, são compatíveis com vários sistemas operacionais, são mais facilmente encontráveis pelos buscadores e ideais para usuários que estão tendo contato com a marca pela primeira vez. Por outro lado, aplicativos podem ter melhor performance, podem ser usados offline em alguns casos, permitem mais liberdade criativa na interface e ajudam a criar fidelidade com os usuários. (Teixeira 2019, p. 169)
 
@@ -61,7 +60,7 @@ Capacidade de aprendizagem: refere-se a quão fácil é aprender a usar o sistem
 "O mais comum é ter uma linguagem visual única na Web, não atrelada a nenhuma plataforma específica. É como a Web sempre funcionou no Desktop. Os sites ou web apps costumam ter um estilo mais ligado à identidade visual da marca e da empresa, do que da plataforma de acesso" ([Lopes 2013:24](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=24))
 
 
-### Design responsivo (1)
+### WEB responsiva (1)
 "A ideia pra palavra 'responsivo' veio da arquitetura, na qual se fala de técnicas para construções e materiais de adaptarem ao ambiente e às pessoas que interagem comele. Aí o Ethan fala: "Ao invés de criar designs desconectados para cada um do crescente número de dispositivos web, nós podemos tratá-los como faces da mesma experiência. Podemos criar para uma experiência de visualização ideal, mas embutir tecnologias padronizadas nos nossos designs para fazê-los não apenas mais flexíveis, mas mais adaptados para a mídia que os renderiza" ([Lopes 2013:37](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=37))
 
 "A chave pro design responsivo é fazer um design flexível e adaptável, que se ajuste às características do navegador, do dispositivo e do contexto do usuário. Os pilares técnicos das soluções responsivas são o layout fluído (tópico 8), o uso de media queries (tópico 9) e de imagens flexíveis (tópico 19)." ([Lopes 2013:37](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=37))
