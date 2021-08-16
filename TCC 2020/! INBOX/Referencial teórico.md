@@ -1,6 +1,4 @@
-**
-
-### Usabilidade
+## Usabilidade
 A usabilidade é geralmente considerada como o fator que assegura que os produtos são faceis de usar, eficientes e agradaveis - da perspectiva do usuário. Implica olimizar as interações estabelecidas pelas pessoas com produtos interativos, de modo a permitir que realizem suas atividades no trabalho, na escola e em casa. Mais especificamente é dividia nas segintes metas:
 * Ser eficaz no uso (eficácia)
 * Ser seguro no uso (segurança)
@@ -68,9 +66,9 @@ Capacidade de aprendizagem: refere-se a quão fácil é aprender a usar o sistem
 
 
 ### Design para telas pesquenas
-   A Amazon verificou em testes que comprimir imagens em JPEG em  uma página reduz a quantidade de bateria necessária para carregá-la em um dispositivo móvel em até 20%. No Facebook, que tem mais imagens, essa economia de bateria chega a 30% (http://www2012.org/proceedings/proceedings/p41.pdf)
+A Amazon verificou em testes que comprimir imagens em JPEG em  uma página reduz a quantidade de bateria necessária para carregá-la em um dispositivo móvel em até 20%. No Facebook, que tem mais imagens, essa economia de bateria chega a 30% (http://www2012.org/proceedings/proceedings/p41.pdf)
    
-   A Amazon verificou em testes que comprimir imagens em JPEG em uma página reduz a quantidade de bateria necessária para carregá-la  em um dispositivo móvel em até 20%. No Facebook, que tem mais imagens, essa economia de bateria chega a 30% (http://www2012.org/proceedings/proceedings/p41.pdf)
+A Amazon verificou em testes que comprimir imagens em JPEG em uma página reduz a quantidade de bateria necessária para carregá-la  em um dispositivo móvel em até 20%. No Facebook, que tem mais imagens, essa economia de bateria chega a 30% (http://www2012.org/proceedings/proceedings/p41.pdf)
    
 
 ### Design para dispositivos móveis
