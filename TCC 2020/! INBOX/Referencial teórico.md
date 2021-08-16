@@ -1,4 +1,8 @@
 ## 1 Experiência do usuário
+"A palavra "experiência", aqui é compreendida não apenas como o ato da prática corrente durante a realização de uma tarefa, onde a palavra pode ser por vezes substituída pela palavra "interface", mas sim tudo o que afeta uma pessoa assim que ela toma conhecimento sobre, por exemplo, uma nova aplicação (Bentley e Barret 2012 p.1). Como a experiência que as pessoas podem ter com um dispositivo móvel possui características diferentes da experiência que ela pode ter com um computador tradicional, desktop ou notebook, é importante fazer algumas alterações também no momento de projetar novos produtos interativos para estes dispositivos. Nas palavras dos autores: 
+
+Nós aprendemos que a criação de uma aplicação móvel que será de grande impacto na vida das pessoas e da sua comunicação exige algumas mudanças no processo tradicional de desenvolvimento para a web ou para os computadores pessoais1.(BENTLEY e BARRET, 2012 p.2) 
+([Shigeno 2017:45](zotero://open-pdf/groups/4374086/items/2XAIWYQE?page=45))
 
 ## 2 Design de Interação (1)
 "Entendemos o design de interação como fundamental para todas as disciplinas, campos e abordagens que sc preocupam com pesquisar e projetar sistemas baseados em computador para pessoas (veja Figura 1.3)." ([Rogers et al 2013:20](zotero://open-pdf/groups/4374086/items/7VUEX22S?page=20))
@@ -41,9 +45,7 @@ Capacidade de aprendizagem: refere-se a quão fácil é aprender a usar o sistem
 "O UX designer não é um profeta que sabe como as pessoas pensam; ele é um pesquisador que investiga o que levou uma determinada pessoa a agir de determinada forma e então propõe melhorias de design baseadas nesses insights." ([Teixeira 2019:28](zotero://open-pdf/groups/4374086/items/BHGL4H9E?page=28))
 
 ## 4 Design de Experiências Móveis (2)
-"A palavra "experiência", aqui é compreendida não apenas como o ato da prática corrente durante a realização de uma tarefa, onde a palavra pode ser por vezes substituída pela palavra "interface", mas sim tudo o que afeta uma pessoa assim que ela toma conhecimento sobre, por exemplo, uma nova aplicação (Bentley e Barret 2012 p.1). Como a experiência que as pessoas podem ter com um dispositivo móvel possui características diferentes da experiência que ela pode ter com um computador tradicional, desktop ou notebook, é importante fazer algumas alterações também no momento de projetar novos produtos interativos para estes dispositivos. Nas palavras dos autores: 
 
-Nós aprendemos que a criação de uma aplicação móvel que será de grande impacto na vida das pessoas e da sua comunicação exige algumas mudanças no processo tradicional de desenvolvimento para a web ou para os computadores pessoais1.(BENTLEY e BARRET, 2012 p.2) 
 
 Para Bentley e Barret (2012 p.3-4) há três principais recursos que tornam a experiência com um dispositivo móvel diferente da experiência com um computador pessoal fixo num espaço. O primeiro é a capacidade de estar sempre acessível como um comunicador instantâneo social que nos permite entrar em contato com as pessoas de diferentes ciclos sociais em qualquer lugar. Em segundo lugar é sua capacidade de capturar seu ambiente e o contexto onde se encontra e por fim a habilidade de "sentir" o ambiente em que se encontra, sentir no sentido de identificar, perceber ou reconhecer através de sensores" ([Shigeno 2017:45](zotero://open-pdf/groups/4374086/items/2XAIWYQE?page=45))
 
