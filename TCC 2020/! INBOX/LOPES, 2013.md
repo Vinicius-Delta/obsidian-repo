@@ -10,13 +10,13 @@
 
 "Um aspecto bastante citado como vantagem das Apps é a integração visual da mesma com a plataforma em si. Toda a experiência de uso da plataforma, sua usabilidade e componentes visuais, são transportados pra App. Ela tema cara da plataforma e é familiar para o usuário. Pense naquele estilo caraterístico dos botões do iOS, por exemplo, que seriam um frankenstein se usados no meio de uma App Android." ([Lopes 2013:23](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=23))
 
-"O mais comum é ter uma linguagem visual única na Web, não atrelada a nenhumaplataformaespecífica. ÉcomoaWebsemprefuncionounoDesktop. Ossites ouwebappscostumamterumestilomaisligadoàidentidadevisualdamarcaeda empresa,doquedaplataformadeacesso" ([Lopes 2013:24](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=24))
+"O mais comum é ter uma linguagem visual única na Web, não atrelada a nenhuma plataforma específica. É como a Web sempre funcionou no Desktop. Os sites ou web apps costumam ter um estilo mais ligado à identidade visual da marca e da empresa, do que da plataforma de acesso" ([Lopes 2013:24](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=24))
 
-"A Web é totalmente descomplicada. Abra o link no navegador e pronto. E, se quiser, o usuário ainda pode adicionar um favorito em sua tela inicial pra voltar depois no site. Permissões pra coisas mais avançadas são pedidas pelo navegador conformeonecessário(comogeolocalização)." ([Lopes 2013:25](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=25))
+"A Web é totalmente descomplicada. Abra o link no navegador e pronto. E, se quiser, o usuário ainda pode adicionar um favorito em sua tela inicial pra voltar depois no site. Permissões pra coisas mais avançadas são pedidas pelo navegador conformeo necessário(como geolocalização)." ([Lopes 2013:25](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=25))
 
-"E, por falar em gasto de banda, não há coisa pior do que estar na rua,no3G,eprecisarinstalarumaApp. AWebcostumaserbemmaislevepraesse tipodeusorápidoecasual." ([Lopes 2013:25](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=25))
+"E, por falar em gasto de banda, não há coisa pior do que estar na rua, no 3G, e precisar instalar uma App. A Web costuma ser bem mais leve pra esse tipo de uso rápido e casual." ([Lopes 2013:25](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=25))
 
-"E muita gente não precisa e nem está disposta a ir tão longe. Muitosusuáriossóqueremumacertainformaçãonumdadomomento,algo facilmente encontrável na Web. Uma App é para uso regular, para usuários fiéis. E, mesmoassim,estudosmostramqueamaioriadasAppsqueaspessoasinstalamsão abertasbempoucasvezes,quandosão." ([Lopes 2013:26](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=26))
+"E muita gente não precisa e nem está disposta a ir tão longe. Muitos usuários só querem uma certa informação num dado momento, algo facilmente encontrável na Web. Uma App é para uso regular, para usuários fiéis. E, mesmo assim, estudos mostram que a maioria das Apps que as pessoas instalamsão abertasbempoucasvezes,quandosão." ([Lopes 2013:26](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=26))
 
 "Muitagentefaladissohátantotempo:oseminalartigoADaoofWebDesign,de JohnAllsopp,publicadoem2000no A List Apart(http://alistapart.com/article/dao), éleituraobrigatória. Noiníciodomilênio,elejáfalava:" ([Lopes 2013:36](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=36))
 
@@ -35,4 +35,4 @@
 "Em termos práticos: um design mobile-first nos obriga a focar mais e a priorizar melhor o conteúdo. Abraçando as restrições do mobile, acabamos chegando emumdesignmaissimplesefuncional,jáquenãohámuitoespaçoparaenrolação. Aí quando evoluímos o design para a versão Desktop, o resultado é também uma interfacemaisfocadaetodomundoganha. Ocaminhoinversoébemmaisdifícil. PeloDesktopserbemmenosrestrito,acabamosenchendoapáginasdecoisassemproblemas. Quandotentamostransformar emmobile,odesigncomeçaaparecerexageradoeébemdifícilencaixartudo" ([Lopes 2013:42](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=42))
 
 ---
-LOPES, S. **A Web Mobile: Programe para um mundo de muitos dispositivos**. Casa do Código: Casa do Código, 201
+LOPES, S. **A Web Mobile: Programe para um mundo de muitos dispositivos**. Casa do Código: Casa do Código, 2013.
