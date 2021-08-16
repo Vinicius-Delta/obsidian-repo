@@ -49,17 +49,31 @@ Capacidade de aprendizagem: refere-se a quão fácil é aprender a usar o sistem
 "Várias grandes empresas da Web seguiram esse caminho. Facebook, Google e Twitter são exemplos óbvios. O Facebook tem Apps para iOS e Android bem integradas às plataformas, mas elas só foram construídas depois do site mobile que até hoje oferece suporte a todo tipo de plataforma móvel. Aqui no Brasil, portais de notícias grandes seguiram a mesma estratégia — UOL, Globo, etc—, assim como a maioria das lojas virtuais." ([Lopes 2013:17](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=17))
 
 ### Desenvolvimento nativo X web
+   Sites estão sempre atualizados, são compatíveis com vários sistemas operacionais, são mais facilmente encontráveis pelos buscadores e ideais para usuários que estão tendo contato com a marca pela primeira vez. Por outro lado, aplicativos podem ter melhor performance, podem ser usados offline em alguns casos, permitem mais liberdade criativa na interface e ajudam a criar fidelidade com os usuários. (Teixeira 2019, p. 169)
+
+
 "Uma App tem acesso direto ao hardware do aparelho e a recursos do sistema operacional. Consegue se integrar com funções avançadas e a outras Apps. Pode manipular o funcionamento do aparelho e até substituir ou complementar funções" ([Lopes 2013:21](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=21))
+
+"Apps sempre serão mais rápidas que a Web. Elas rodam direto no sistema operacional, na maioria dos casos, são escritas nativamente para a plataforma específica, o que dá muita performance. A Web roda dentro do navegador, que interpreta seu HTML, CSS e JavaScript, um processo relativamente mais lento. Mas poucas aplicações realmente precisamdeperformance absurda. Não me entenda mal: não estou dizendo que é tudo bem ser lento. De modo algum. O ponto é que, para muitos casos, a diferença de performance entre a Web e uma App nativa não é perceptível para o usuário. Os navegadores de hoje são excelentes e cada vez mais rápidos, e só perdem de forma perceptível em casos bem específicos que exigem alta performance." ([Lopes 2013:22 e 23](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=23))
+
+"Um aspecto bastante citado como vantagem das Apps é a integração visual da mesma com a plataforma em si. Toda a experiência de uso da plataforma, sua usabilidade e componentes visuais, são transportados pra App. Ela tema cara da plataforma e é familiar para o usuário. Pense naquele estilo caraterístico dos botões do iOS, por exemplo, que seriam um frankenstein se usados no meio de uma App Android." ([Lopes 2013:23](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=23))
+
+"O mais comum é ter uma linguagem visual única na Web, não atrelada a nenhuma plataforma específica. É como a Web sempre funcionou no Desktop. Os sites ou web apps costumam ter um estilo mais ligado à identidade visual da marca e da empresa, do que da plataforma de acesso" ([Lopes 2013:24](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=24))
 
 
 ### Design responsivo
+"A ideia pra palavra 'responsivo' veio da arquitetura, na qual se fala de técnicas para construções e materiais de adaptarem ao ambiente e às pessoas que interagem comele. Aí o Ethan fala: "Ao invés de criar designs desconectados para cada um do crescente número de dispositivos web, nós podemos tratá-los como faces da mesma experiência. Podemos criar para uma experiência de visualização ideal, mas embutir tecnologias padronizadas nos nossos designs para fazê-los não apenas mais flexíveis, mas mais adaptados para a mídia que os renderiza" ([Lopes 2013:37](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=37))
+
+"A chave pro design responsivo é fazer um design flexível e adaptável, que se ajuste às características do navegador, do dispositivo e do contexto do usuário. Os pilares técnicos das soluções responsivas são o layout fluído (tópico 8), o uso de media queries (tópico 9) e de imagens flexíveis (tópico 19)." ([Lopes 2013:37](zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=37))
+
 
 ### Design para telas pesquenas
    A Amazon verificou em testes que comprimir imagens em JPEG em  uma página reduz a quantidade de bateria necessária para carregá-la em um dispositivo móvel em até 20%. No Facebook, que tem mais imagens, essa economia de bateria chega a 30% (http://www2012.org/proceedings/proceedings/p41.pdf)
    
    A Amazon verificou em testes que comprimir imagens em JPEG em uma página reduz a quantidade de bateria necessária para carregá-la  em um dispositivo móvel em até 20%. No Facebook, que tem mais imagens, essa economia de bateria chega a 30% (http://www2012.org/proceedings/proceedings/p41.pdf)
    
-   Sites estão sempre atualizados, são compatíveis com vários sistemas operacionais, são mais facilmente encontráveis pelos buscadores e ideais para usuários que estão tendo contato com a marca pela primeira vez. Por outro lado, aplicativos podem ter melhor performance, podem ser usados offline em alguns casos, permitem mais liberdade criativa na interface e ajudam a criar fidelidade com os usuários. (Teixeira 2019, p. 169)
+
+### Design para dispositivos móveis
 
 ### Importância social
 Acredita-se necessário, crescentemente, pensar em modos de visualização de dados públicos de uma forma mais democrática, onde os dados possam ser traduzidos para que qualquer cidadão consiga entender. Os dados se tornam quase inúteis sem a capacidade de visualizar e agir sobre eles." ([Muruga and Andrade 2019:1723](zotero://open-pdf/library/items/5PGG54UQ?page=1))
