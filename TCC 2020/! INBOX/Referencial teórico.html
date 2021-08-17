@@ -1,0 +1,946 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Referencial teórico</title>
+        <meta charset='utf-8'/>
+        <style>
+  .theme-light
+{
+  --background-inline-code: rgb(240, 240, 240);
+  --background-nav-alt: rgb(58, 62, 63);
+  --background-nav-file-tag: rgb(203, 77, 73);
+  --background-nav-selected: rgb(203, 77, 73);
+  --background-nav: rgb(41, 44, 46);
+  --background-primary: rgb(250, 250, 250);
+  --background-tag: #b5b5b5;
+  --border-inline-code: rgb(215, 215, 215);
+  --code-block-background: #ffffff;
+  --code-block-border: #92a1a17a;
+  --font-family-editor: Avenir, "Avenir Next", "Avenir Next Cyr", 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif;
+  --font-family-preview: Avenir, "Avenir Next", "Avenir Next Cyr", 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif;
+  --interactive-accent: rgb(203, 77, 73);
+  --text-accent: rgb(203, 77, 73);
+  --text-faint: rgb(150, 150, 150);
+  --text-header: rgb(44, 44, 44);
+  --text-highlight-bg: #b4ff0066;
+  --text-inline-code: rgb(45, 45, 45);
+  --text-nav-selected: rgb(255, 255, 255);
+  --text-nav: rgb(190, 190, 190);
+  --text-normal: rgb(44, 44, 44);
+  --text-normal-opposite: rgb(216, 216, 216);
+}
+
+.theme-dark {
+  --background-inline-code: rgb(41, 44, 46);
+  --background-nav-alt: rgb(58, 62, 63);
+  --background-nav-file-tag: rgb(116, 190, 247);
+  --background-nav-selected: rgb(73, 73, 73);
+  --background-nav: rgb(41, 44, 46);
+  --background-primary: rgb(28, 30, 32);
+  --background-tag: rgb(111, 112, 116);
+  --border-inline-code: rgb(76, 76, 76);
+  --code-block-background: rgb(32, 32, 32);
+  --code-block-border: rgb(77, 77, 77);
+  --font-family-editor: Avenir, "Avenir Next";
+  --font-family-preview: Avenir, "Avenir Next";
+  --interactive-accent: rgb(116, 190, 247);
+  --text-accent: rgb(116, 190, 247);
+  --text-faint: rgb(150, 150, 150);
+  --text-header: rgb(198, 213, 224);
+  --text-highlight-bg: rgb(64, 73, 181);
+  --text-inline-code: rgb(230, 230, 230);
+  --text-nav-selected: rgb(255, 255, 255);
+  --text-nav: rgb(190, 190, 190);
+  --text-normal: rgb(216, 216, 216);
+  --text-normal-oppsite: rgb(44, 44, 44);
+}
+
+/* header colors */
+.cm-header, 
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  color: var(--text-header);
+}
+
+/* Changing size/color of the header hashtags ## */
+.cm-formatting-header {
+	color: var(--text-faint);
+  font-size: 0.6em;
+}
+
+/* Backlinks header colors - thanks @a-star-wave! */
+.side-dock-collapsible-section-header {
+  color: var(--text-nav);
+}
+
+/* Headers in editor - hide the #'s */
+/* .cm-formatting-header-1, .cm-formatting-header-2, .cm-formatting-header-3, .cm-formatting-header-4, .cm-formatting-header-5, .cm-formatting-header-6, .cm-formatting-header-7 {
+  visibility: hidden; 
+  position: relative; 
+  width: 20px; 
+  display: inline-block;
+} */
+
+/* Headers in editor - show custom content - common */
+/* .cm-formatting-header-1:after, .cm-formatting-header-2:after, .cm-formatting-header-3:after, .cm-formatting-header-4:after, .cm-formatting-header-5:after, .cm-formatting-header-6:after, .cm-formatting-header-7:after {
+  visibility: visible;
+  position: absolute;
+  left: 0;
+  font-size: 12px;
+} */
+
+/* Headers in editor - show custom content - specifics */
+/* .cm-formatting-header-1:after { bottom:  2px; content: "H1"; }
+.cm-formatting-header-2:after { bottom:  0px; content: "H2"; }
+.cm-formatting-header-3:after { bottom:  0px; content: "H3"; }
+.cm-formatting-header-4:after { bottom: -1px; content: "H4"; }
+.cm-formatting-header-5:after { bottom: -1px; content: "H5"; }
+.cm-formatting-header-6:after { bottom: -1px; content: "H6"; }
+.cm-formatting-header-7:after { bottom: -1px; content: "H7"; } */
+
+.cm-s-obsidian span.cm-url {
+  color: var(--text-accent);
+}
+
+.markdown-preview-view mark {
+  color: var(--text-normal);
+  padding: 0px 4px;
+}
+
+.cm-formatting-em.cm-em {
+  color: var(--text-faint);
+  font-weight: 100;
+  font-size: 0.6em;
+}
+.cm-formatting-strong.cm-strong {
+  color: var(--text-faint);
+  font-weight: 100;
+  font-size: 0.6em;
+}
+
+
+
+
+
+
+
+/* Wrap long nav text */
+.nav-file-title, .nav-folder-title {
+  white-space: normal;
+}
+
+/* Indent wrapped nav text */
+.nav-file-title-content {
+  margin-left: 10px;
+  text-indent: -10px;
+}
+
+/* Horizontal rule between Icons and vault in left nav */
+.nav-buttons-container {
+  border-bottom: 1px solid var(--background-nav-alt);
+}
+
+/* The name of the vault */
+.nav-folder.mod-root > .nav-file-title, .nav-folder.mod-root > .nav-folder-title {
+  color: var(--text-nav);
+}
+
+/* Color of left nav tree text */
+.nav-file-title, .nav-folder-title {
+  color: var(--text-nav);
+}
+
+
+/* New top tabs */
+.workspace-tabs {
+  background-color: var(--background-nav-alt);
+}
+
+.workspace-tab-header-container {
+  background-color: var(--background-nav-alt);
+}
+
+/* Color of the curve of the top tabs */
+.workspace-tab-container-before.is-before-active,
+.workspace-tab-container-after.is-after-active,
+.workspace-tab-header.is-before-active,
+.workspace-tab-header.is-after-active {
+  background-color: var(--background-nav);
+}
+
+/* Background color of unselected tabs */
+.workspace-tab-container-before.is-before-active .workspace-tab-header-inner, 
+.workspace-tab-container-after.is-after-active .workspace-tab-header-inner, 
+.workspace-tab-header.is-before-active .workspace-tab-header-inner, 
+.workspace-tab-header.is-after-active .workspace-tab-header-inner {
+  background-color: var(--background-nav-alt);
+}
+
+/* Background color of selected tab */
+.workspace-tab-header.is-active {
+  background-color: var(--background-nav);
+}
+
+/* resize handle coloring */
+.workspace-leaf-resize-handle {
+  background-color: transparent;
+}
+
+/* Set the left nav background to same color as ribbon so we can make a curved corner that matches */
+.workspace-tabs .workspace-leaf {
+  background-color: var(--background-nav-alt);
+}
+
+/* Set the left nav background to different color from ribbon, and give a curved corner with statusbar */
+.mod-left-split .workspace-tabs .workspace-leaf .workspace-leaf-content {
+  background-color: var(--background-nav);
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+/* Set the right nav background to different color from ribbon, and give a curved corner with statusbar */
+.mod-right-split .workspace-tabs .workspace-leaf .workspace-leaf-content {
+  background-color: var(--background-nav);
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.side-dock.mod-right {
+  border-left: 0px;
+}
+
+/* Left nav ribbon background color */
+.side-dock-ribbon {
+  background-color: var(--background-nav-alt);
+}
+
+/* Left nav ribbon background-color */
+.side-dock-ribbon-before.is-before-active, 
+.side-dock-ribbon-after.is-after-active, 
+.side-dock-ribbon-tab.is-before-active, 
+.side-dock-ribbon-tab.is-after-active {
+  background-color: var(--background-nav);
+}
+
+/* Left nav ribbon background-color */
+.side-dock-ribbon-before.is-before-active .side-dock-ribbon-tab-inner, 
+.side-dock-ribbon-after.is-after-active .side-dock-ribbon-tab-inner, 
+.side-dock-ribbon-tab.is-before-active .side-dock-ribbon-tab-inner, 
+.side-dock-ribbon-tab.is-after-active .side-dock-ribbon-tab-inner {
+  background-color: var(--background-nav-alt);
+}
+
+/* Left nav ribbon active background-color */
+.side-dock-ribbon-tab.is-active {
+  background-color: var(--background-nav);
+}
+
+/* Left nav ribbon active hover text color (icon color) */
+.side-dock-ribbon-tab.is-active:hover {
+  color: var(--text-accent);
+}
+
+/* Left nav ribbon inactive hover text color (icon color) */
+.side-dock-ribbon-tab:hover,
+.side-dock-ribbon-action:hover {
+  color: var(--text-accent);
+}
+
+/* Background and text color of selected item in left nav tree */
+.nav-file.is-active > .nav-file-title, 
+.nav-file.is-active > .nav-folder-title, 
+.nav-file.is-active > .nav-folder-collapse-indicator, 
+.nav-folder.is-active > .nav-file-title, 
+.nav-folder.is-active > .nav-folder-title, 
+.nav-folder.is-active > .nav-folder-collapse-indicator {
+  background-color: var(--background-nav-selected);
+  color: var(--text-nav-selected);
+}
+
+/* Background and text color of selected item in left nav tree - when hovering */
+.nav-file.is-active > .nav-file-title:hover, 
+.nav-file.is-active > .nav-folder-title:hover, 
+.nav-file.is-active > .nav-folder-collapse-indicator:hover, 
+.nav-folder.is-active > .nav-file-title:hover, 
+.nav-folder.is-active > .nav-folder-title:hover, 
+.nav-folder.is-active > .nav-folder-collapse-indicator:hover {
+  background-color: var(--text-accent);
+  color: var(--text-nav-selected);
+}
+
+/* Background and text color of hovered item in left nav tree */
+body:not(.is-grabbing) .nav-file-title:hover, 
+body:not(.is-grabbing) .nav-folder-title:hover {
+  background-color: var(--background-secondary-alt);
+  color: var(--text-nav-selected);
+}
+
+/* Background and text color of hovered collapse indicator in left nav tree */
+body:not(.is-grabbing) .nav-file-title:hover .nav-folder-collapse-indicator,
+body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
+  background-color: var(--background-secondary-alt);
+  color: var(--text-nav-selected);
+}
+
+/* Left Nav menu item - hover background color */
+body:not(.is-grabbing) .nav-file-title:hover,
+body:not(.is-grabbing) .nav-folder-title:hover {
+  background-color: var(--background-nav-alt);
+}
+
+/* Left Nav menu item - hover background color of the collapse/expand arrow */
+body:not(.is-grabbing) .nav-file-title:hover .nav-folder-collapse-indicator, 
+body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
+  background-color: var(--background-nav-alt);
+}
+
+/* Left side dock */
+.side-dock.mod-left {
+  border-right: 1px solid var(--background-secondary-border);
+}
+
+/* Font adjustments for pane headers */
+.view-header-title {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/* Status bar ... duh? :) */
+.status-bar {
+  background-color: var(--background-nav-alt);
+  border-top: 0px solid var(--background-nav-alt);
+  color: var(--text-nav);
+}
+
+/* Testing a gradient design for statusbar */
+/* .status-bar {
+  border-top: 0px;
+  background-color: var(--background-nav-alt);
+  background: linear-gradient(90deg, rgba(255,0,0,0) 5%, var(--background-nav-alt) 20%);
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 500px;
+  color: var(--text-nav);
+} */
+
+/* Context menu hover item */
+.menu-item:hover {
+  background-color: var(--background-secondary-alt);
+  color: var(--text-accent);
+}
+
+
+/* Font for the markdown source panel */
+div.markdown-source-view {
+	font-family: var(--font-family-editor);
+}
+
+/* Font for the markdown preview panel */
+div.markdown-preview-view {
+	font-family: var(--font-family-preview);
+}
+
+/* Coloring the list bullets/numbers */
+.cm-s-obsidian span.cm-formatting-list {
+	color: var(--text-accent);
+  font-size: 0.85em;
+  font-weight: 500;
+  font-family: var(--font-monospace);
+}
+
+/* Editor view - task list, color and veritcal align */
+.cm-s-obsidian span.cm-formatting-task {
+  color: var(--text-accent);
+  font-size: 0.85em;
+  font-weight: 500;
+  position: relative;
+  top: -0.12em;
+}
+
+/* Preview Checkboxes don't seem to align correctly */
+.markdown-preview-view .task-list-item-checkbox {
+  /* width: 15px; */
+  /* height: 15px; */
+  /* position: relative; */
+  /* top: 3px; */
+}
+
+/* Resetting the default hue-rotate(42deg) */
+.markdown-preview-view .task-list-item-checkbox {
+  /* filter: hue-rotate(42deg); -- DEFAULT */
+  filter: none;
+}
+
+.CodeMirror .cm-math {
+  color: var(--text-inline-code);
+}
+
+/* color of inline code ticks */
+.cm-s-obsidian span.cm-inline-code.cm-formatting-code {
+  color: var(--text-faint);
+}
+
+/* color of inline code */
+.cm-s-obsidian span.cm-inline-code {
+  color: var(--text-inline-code);
+}
+
+/* color and border of inline code (between the ticks) */
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code),
+.markdown-preview-section code {
+  background-color: var(--background-inline-code);
+  border: 0px solid var(--border-inline-code);
+  padding: 4px 4px;
+  font-weight: 600;
+  color: var(--text-inline-code);
+}
+
+/* Preview code block background */
+.markdown-preview-view pre {
+  padding: 1em;
+  background-color: var(--code-block-background);
+  border-radius: 4px;
+  border: 1px solid var(--code-block-border);
+  white-space: pre-wrap;
+  line-height: 1.0em;
+}
+
+/* Unset the background and font weight from where we set it for inline code */
+.markdown-preview-view pre code {
+  background-color: transparent;
+  font-weight: normal;
+}
+
+/* Code block border color */
+.cm-s-obsidian div.HyperMD-codeblock-begin-bg {
+	border-top: 1px solid var(--code-block-border);
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
+
+/* Code block border color */
+.cm-s-obsidian div.HyperMD-codeblock-end-bg {
+	border-bottom: 1px solid var(--code-block-border);
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+}
+
+/* Code block background color */
+.cm-s-obsidian div.HyperMD-codeblock-bg {
+  background-color: var(--code-block-background);
+}
+
+/* Code block left and right padding */
+.cm-s-obsidian pre.HyperMD-codeblock {
+  padding: 0px 10px 0px 10px;
+  color: var(--text-inline-code);
+}
+
+/* Code block top padding */
+.cm-s-obsidian pre.HyperMD-codeblock-begin {
+	padding-top: 10px;
+}
+
+/* Code block bottom padding */
+.cm-s-obsidian pre.HyperMD-codeblock-end {
+	padding-top: 10px;
+}
+
+/* Code block left and right border colors */
+.cm-s-obsidian div.HyperMD-codeblock-bg {
+	border-left: 1px solid var(--code-block-border);
+	border-right: 1px solid var(--code-block-border);
+}
+
+/* Enable wrapping of code blocks in the preview panel */
+.theme-light code[class*="language-"], .theme-light pre[class*="language-"],
+.theme-dark code[class*="language-"], .theme-dark pre[class*="language-"] {
+  white-space: pre-wrap;
+  background-color: var(--code-block-background);
+}
+
+/* Add some spacing when a #hashtag is used */
+/* .cm-hashtag, .markdown-preview-section .tag {
+  line-height: 1.9em;
+} */
+
+/* Tag pillbox - common settings for editor left, editor right and preview */
+.cm-s-obsidian span.cm-hashtag-begin, 
+.cm-s-obsidian span.cm-hashtag-end,
+a.tag {
+  background-color: var(--background-tag);
+  color: var(--text-nav-selected);
+  padding-bottom: 2px;
+  padding-top: 2px;
+	text-decoration: none;
+  font-family: var(--font-family-editor);
+  font-size: 0.9em;
+}
+
+/* Tag editor left side pillbox */
+.cm-s-obsidian span.cm-hashtag-begin {
+	border-top-left-radius: 25px;
+	border-bottom-left-radius: 25px;
+	padding-left: 8px;
+}
+
+/* Tag editor right side pillbox */
+.cm-s-obsidian span.cm-hashtag-end {
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+	padding-right: 10px;
+}
+
+/* Tag preview pillbox */
+a.tag {
+	border-top-left-radius: 250px;
+	border-top-right-radius: 250px;
+	border-bottom-left-radius: 250px;
+	border-bottom-right-radius: 250px;
+	padding-left: 10px;
+	padding-right: 12px;
+}
+
+/* Add a tiny bit of padding to the link brackets and parenthesis */
+.cm-s-obsidian span.cm-formatting-link,
+.cm-s-obsidian span.cm-formatting-link-string {
+  padding: 0 1px 0 1px;
+  /* font-weight: 500; */
+}
+
+/* Additional left/right padding for tag pane so hover background has some room */
+.tag-pane-tags {
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+/* Color the hover background like we do the selected left nav */
+.tag-pane-tag:hover {
+  background-color: var(--background-nav-alt);
+  color: var(--text-nav-selected);
+}
+
+/* Style the tag pane tag count with the bear red coloring used in selected item from left nav */
+.tag-pane-tag-count {
+  background-color: var(--text-accent);
+  color: var(--text-nav-selected);
+}
+
+/* Backlinks title match hover */
+.search-result-file-title:hover {
+  background-color: var(--background-nav-alt);
+}
+
+/* Backlinks content match hover */
+.search-result-file-match:hover {
+  background-color: var(--background-nav-alt);
+}
+
+/* Backlink titles for matches */
+.search-result-file-title {
+  color: var(--text-nav);
+}
+
+/* Backlink highlighted [[links]] */
+.search-result-file-matched-text {
+  color: var(--text-nav-selected);
+  background-color: var(--text-accent);
+  padding: 2px;
+  border-radius: 4px;
+}
+
+/* Add button hovers to the the Update internal links modal (and possibly others) */
+.modal-button-container button:not(.mod-cta):not(.mod-warning):hover {
+  background-color: var(--text-accent);
+  color: var(--text-nav-selected);
+}
+
+/* Background color of rename inputs */
+.nav-file-title-content.is-being-renamed,
+.nav-folder-title-content.is-being-renamed {
+  cursor: text;
+  border-color: var(--interactive-accent);
+  background-color: var(--background-nav);
+  padding-left: 15px;
+}
+
+/* Background color of file tags, like "png" */
+.nav-file-tag {
+  background-color: var(--background-nav-file-tag);
+  color: var(--text-nav-selected);
+}
+
+/* Remove the border, padding, and margin for the transcludes/embeds */
+.markdown-preview-view .markdown-embed, .markdown-preview-view .file-embed {
+  border: 0px;
+  padding: 0;
+  margin: 0;
+}
+
+/* Hide the title of the embeds */
+.markdown-embed-title {
+  display: none;
+}
+
+/* Allow a full embed, not a partial, scrolling embed */
+.markdown-preview-view .markdown-embed-content {
+  max-height: unset;
+  overflow-y: unset;
+  padding-right: unset;
+}
+.markdown-preview-view .markdown-embed-content > .markdown-preview-view {
+  max-height: unset;
+}
+
+/* Add support for [Calendar plugin](https://github.com/liamcain/obsidian-calendar-plugin) */
+#calendar-container {
+  --color-background-heading: transparent;
+
+  --color-background-day: transparent;
+  --color-background-day-empty: transparent;
+  --color-background-day-active: var(--background-nav-selected);
+  --color-background-day-hover: var(--background-nav-alt);
+
+  --color-dot: var(--text-nav);
+  --color-arrow: var(--text-nav);
+
+  --color-text-title: var(--text-faint);
+  --color-text-heading: var(--text-faint);
+  --color-text-day: var(--text-nav);
+  --color-text-today: var(--text-nav-selected);
+}
+
+/* fix graph controls */
+.workspace-split.mod-right-split .graph-controls,
+.workspace-split.mod-right-split .graph-control-section-header {
+  color: var(--text-normal-oppsite);
+  background-color: var(--background-nav);
+  --background-secondary-alt: var(--background-nav-alt);
+  --background-modifier-border: var(--background-nav-alt);
+}
+
+/* fix graph text */
+.theme-light .graph-view {
+  --text-normal:  rgb(127, 127, 127);
+}
+.theme-dark .graph-view {
+  --text-normal: rgb(127, 127, 127);
+}
+
+
+/* 
+Try to support content in the navs... this is difficult because this theme is a 
+split of dark and light. So content in the main pane should be light mode, while content
+in the left pane should be dark mode
+*/
+/* .workspace-tabs .view-content {
+  color: var(--text-nav);
+} */
+
+
+
+/* input[type=checkbox] {
+  -webkit-appearance: none;
+  appearance: none;
+  border-radius: 50%;
+  border: 1px solid var(--text-faint);
+  padding: 0;
+}
+input[type=checkbox]:focus{
+outline:0;
+}
+input[type=checkbox]:checked {
+  background-color: var(--text-accent-hover);
+  border: 1px solid var(--text-accent-hover);
+  background-position: center;
+  background-size: 70%;
+  background-repeat: no-repeat;
+  background-image: url('data:image/svg+xml; utf8, <svg width="12px" height="10px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-4.000000, -6.000000)" fill="%23ffffff"><path d="M8.1043257,14.0367999 L4.52468714,10.5420499 C4.32525014,10.3497722 4.32525014,10.0368095 4.52468714,9.8424863 L5.24777413,9.1439454 C5.44721114,8.95166768 5.77142411,8.95166768 5.97086112,9.1439454 L8.46638057,11.5903727 L14.0291389,6.1442083 C14.2285759,5.95193057 14.5527889,5.95193057 14.7522259,6.1442083 L15.4753129,6.84377194 C15.6747499,7.03604967 15.6747499,7.35003511 15.4753129,7.54129009 L8.82741268,14.0367999 C8.62797568,14.2290777 8.3037627,14.2290777 8.1043257,14.0367999"></path></g></g></svg>');
+} */
+
+
+/* ======================================================== */
+/* Checkbox stuff,  */
+/* ======================================================== */
+/* .markdown-preview-view .task-list-item-checkbox { height: 19px; } */
+/* .task-list-item input { visibility: hidden; } */
+
+/*
+  Potential emoji:
+  🗹☑️✅✔️🗸🗆◼️◻️▪️▫️🔵🟢🔴⚫⚪⭕❌🔘🔳⬛🔲🆗🟩🟧🟨🟪🟥🟦⬜🟫
+*/
+
+/* Unchecked, set the emoji icon to light grayscale */
+/* .task-list-item input:not([checked=true])::after {
+  content: "✅";
+  opacity: 0.25;
+  visibility: visible;
+  cursor: pointer;
+  filter: grayscale(1);
+} */
+
+/* 
+  Checked, set emoji icon to red to match red graphite accent
+  Note: 
+    hue-rotate makes ✅ a red checkbox, but depends on source color,
+    so you can't just swap in another emojie icon and have it be red
+*/
+/* .task-list-item input[checked=true]::after {
+  content: "✅";
+  visibility: visible;
+  cursor: pointer;
+  filter: hue-rotate(250deg);
+} */ body.plugin-sliding-panes .workspace > .mod-root {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+body.plugin-sliding-panes .workspace > .mod-root > .workspace-leaf {
+  display: block;
+  flex: none;
+}
+body.plugin-sliding-panes .workspace > .mod-root > .workspace-leaf .workspace-leaf-content {
+  position: relative;
+}
+body.plugin-sliding-panes .workspace > .mod-root .mod-am-right-of-active .cm-s-obsidian > div:not([class]) {
+  left: -50% !important;
+}
+body.plugin-sliding-panes .workspace > .mod-root .mod-am-left-of-active .cm-s-obsidian > div:not([class]) {
+  left: 150% !important;
+}
+
+body.plugin-sliding-panes-stacking .workspace > .mod-root > .workspace-leaf {
+  box-shadow: 0px 0px 20px 20px rgba(0, 0, 0, 0.25);
+  position: sticky;
+}
+
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf {
+  /* first we'll add a bit of gap for the spines */
+  /* active titles have different border colours */
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content {
+  padding-left: var(--header-width);
+  /* this is where the magic happens */
+  /* get rid of the gap left by the now-missing horizontal title */
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header {
+  writing-mode: vertical-lr;
+  text-orientation: sideways;
+  border-right: 1px solid var(--background-secondary-alt);
+  border-left: 2px solid var(--background-secondary-alt);
+  border-top: none;
+  border-bottom: none;
+  width: var(--header-width);
+  height: auto;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  /* unset the title container height and swap padding */
+  /* swap the padding/margin around for the header and actions icons */
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header > .view-header-title-container {
+  height: unset;
+  padding-left: unset;
+  padding-top: 0;
+  /* get rid of unnecessary padding */
+  /* fix the long-title-obscuring shadows */
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header > .view-header-title-container > .view-header-title {
+  padding-right: 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header > .view-header-title-container:after {
+  width: 100%;
+  height: 15px;
+  top: unset;
+  bottom: 0;
+  background: linear-gradient(to bottom, transparent, var(--background-secondary));
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header > .view-header-title-container:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 15px;
+  top: 0;
+  bottom: unset;
+  background: linear-gradient(to top, transparent, var(--background-secondary));
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header .view-header-icon,
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header .view-actions {
+  padding: 0;
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header .view-header-icon {
+  margin: 8px 0 3px 0;
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header .view-action {
+  margin: 8px 0;
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-content {
+  height: 100%;
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf.mod-active > .workspace-leaf-content > .view-header {
+  border-right: 2px solid var(--interactive-accent);
+  border-bottom: none;
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf.mod-active > .workspace-leaf-content > .view-header > .view-header-title-container:after {
+  background: linear-gradient(to bottom, transparent, var(--background-primary-alt));
+}
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf.mod-active > .workspace-leaf-content > .view-header > .view-header-title-container:before {
+  background: linear-gradient(to top, transparent, var(--background-primary-alt));
+}
+
+body.plugin-sliding-panes-rotate-header.plugin-sliding-panes-header-alt .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header .view-header-title-container {
+  transform: rotate(180deg);
+  text-align: right;
+  margin-top: 10px;
+}
+
+body.plugin-sliding-panes-rotate-header.plugin-sliding-select-orientation-sideway .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header {
+  text-orientation: sideways !important;
+}
+body.plugin-sliding-panes-rotate-header.plugin-sliding-select-orientation-mixed .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header {
+  text-orientation: mixed !important;
+}
+body.plugin-sliding-panes-rotate-header.plugin-sliding-select-orientation-upright .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-header {
+  text-orientation: upright !important;
+} .plugin-maximise-active-pane .workspace-split.maximised .workspace-leaf:not(.mod-active),
+.plugin-maximise-active-pane .workspace-split.maximised .workspace-leaf.mod-active ~ .workspace-split {
+  display: none;
+}
+.plugin-maximise-active-pane .workspace-split.maximised .workspace-leaf.mod-active {
+  flex-basis: calc(100% - 4px);
+} /* no content */
+.checklist-plugin-main {
+  --todoList-checkboxSize: 20px;
+  --todoList-checkboxCheckedSize: 12px;
+  --todoList-checkboxBorder: 2px solid var(--text-muted);
+  --todoList-checkboxFill: var(--text-muted);
+  --todoList-listItemBorderRadius: 8px;
+  --todoList-listItemMargin: 0 0 12px;
+  --todoList-listItemBackground: var(--interactive-normal);
+  --todoList-listItemBackground--hover: var(--interactive-hover);
+  --todoList-listItemMargin--compact: 0 0 8px;
+  --todoList-headerMargin: 0 0 8px;
+  --todoList-headerGap: 4px;
+  --todoList-headerFontSize: 18px;
+  --todoList-headerFontWeight: 600;
+  --todoList-iconSize: 24px;
+  --todoList-iconFill: var(--text-normal);
+  --todoList-textColor: var(--text-muted);
+  --todoList-textChunkColor: var(--text-accent);
+  --todoList-textChunkColor--hover: var(--text-accent-hover);
+  --todoList-pageMargin: 0 0 4px;
+  --todoList-loaderSize: 16px;
+  --todoList-loaderBorderColor: var(--text-muted) var(--text-muted) var(--text-normal);
+  --todoList-buttonPadding: 0 5px;
+  --todoList-countPadding: 0 6px;
+  --todoList-countBackground: var(--interactive-normal);
+  --todoList-countFontSize: 13px;
+  --todoList-togglePadding: 8px 8px 8px 12px;
+  --todoList-contentPadding: 8px 12px 8px 0;
+  --todoList-contentPadding--compact: 4px 8px;
+  --todoList-togglePadding--compact: 4px 8px;
+  --todoList-countBorderRadius: 4px;
+  --todoList-tagBaseColor: var(--text-faint);
+  --todoList-tagSubColor: var(--text-muted);
+  --todoList-groupMargin: 8px;
+}
+
+.checklist-plugin-main button {
+  margin: initial;
+}
+
+.checklist-plugin-main p {
+  margin: initial;
+}
+ .recent-files-donation {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.recent-files-donate-button {
+  margin: 10px;
+}
+ .container.svelte-pcimu8{--color-background-heading:transparent;--color-background-day:transparent;--color-background-weeknum:transparent;--color-background-weekend:transparent;--color-dot:var(--text-muted);--color-arrow:var(--text-muted);--color-button:var(--text-muted);--color-text-title:var(--text-normal);--color-text-heading:var(--text-muted);--color-text-day:var(--text-normal);--color-text-today:var(--interactive-accent);--color-text-weeknum:var(--text-muted)}.container.svelte-pcimu8{padding:0 8px}.container.is-mobile.svelte-pcimu8{padding:0}th.svelte-pcimu8{text-align:center}.weekend.svelte-pcimu8{background-color:var(--color-background-weekend)}.calendar.svelte-pcimu8{border-collapse:collapse;width:100%}th.svelte-pcimu8{background-color:var(--color-background-heading);color:var(--color-text-heading);font-size:0.6em;letter-spacing:1px;padding:4px;text-transform:uppercase} .nav.svelte-1vwr9dd.svelte-1vwr9dd{align-items:center;display:flex;margin:0.6em 0 1em;padding:0 8px;width:100%}.nav.is-mobile.svelte-1vwr9dd.svelte-1vwr9dd{padding:0}.title.svelte-1vwr9dd.svelte-1vwr9dd{color:var(--color-text-title);font-size:1.5em;margin:0}.is-mobile.svelte-1vwr9dd .title.svelte-1vwr9dd{font-size:1.3em}.month.svelte-1vwr9dd.svelte-1vwr9dd{font-weight:500;text-transform:capitalize}.year.svelte-1vwr9dd.svelte-1vwr9dd{color:var(--interactive-accent)}.right-nav.svelte-1vwr9dd.svelte-1vwr9dd{display:flex;justify-content:center;margin-left:auto}.reset-button.svelte-1vwr9dd.svelte-1vwr9dd{cursor:pointer;border-radius:4px;color:var(--text-muted);font-size:0.7em;font-weight:600;letter-spacing:1px;margin:0 4px;padding:0px 4px;text-transform:uppercase}.is-mobile.svelte-1vwr9dd .reset-button.svelte-1vwr9dd{display:none} .arrow.svelte-156w7na.svelte-156w7na{align-items:center;cursor:pointer;display:flex;justify-content:center;width:24px}.arrow.is-mobile.svelte-156w7na.svelte-156w7na{width:32px}.right.svelte-156w7na.svelte-156w7na{transform:rotate(180deg)}.arrow.svelte-156w7na svg.svelte-156w7na{color:var(--color-arrow);height:16px;width:16px} td.svelte-egt0yd{border-right:1px solid var(--background-modifier-border)}.week-num.svelte-egt0yd{background-color:var(--color-background-weeknum);border-radius:4px;color:var(--color-text-weeknum);cursor:pointer;font-size:0.65em;height:100%;padding:4px;text-align:center;transition:background-color 0.1s ease-in, color 0.1s ease-in;vertical-align:baseline}.week-num.svelte-egt0yd:hover{background-color:var(--interactive-hover)}.week-num.active.svelte-egt0yd:hover{background-color:var(--interactive-accent-hover)}.active.svelte-egt0yd{color:var(--text-on-accent);background-color:var(--interactive-accent)}.dot-container.svelte-egt0yd{display:flex;flex-wrap:wrap;justify-content:center;line-height:6px;min-height:6px} .day.svelte-q3wqg9{background-color:var(--color-background-day);border-radius:4px;color:var(--color-text-day);cursor:pointer;font-size:0.8em;height:100%;padding:4px;position:relative;text-align:center;transition:background-color 0.1s ease-in, color 0.1s ease-in;vertical-align:baseline}.day.svelte-q3wqg9:hover{background-color:var(--interactive-hover)}.day.active.svelte-q3wqg9:hover{background-color:var(--interactive-accent-hover)}.adjacent-month.svelte-q3wqg9{opacity:0.25}.today.svelte-q3wqg9{color:var(--color-text-today)}.day.svelte-q3wqg9:active,.active.svelte-q3wqg9,.active.today.svelte-q3wqg9{color:var(--text-on-accent);background-color:var(--interactive-accent)}.dot-container.svelte-q3wqg9{display:flex;flex-wrap:wrap;justify-content:center;line-height:6px;min-height:6px} .empty.svelte-1rowz1t{color:var(--text-faint);text-align:center}.checklist-plugin-main.svelte-1rowz1t{padding:initial;width:initial;height:initial;position:initial;overflow-y:initial;overflow-wrap:initial} .loader.svelte-1te4fvc{background:transparent !important;border-radius:100%;border:2px solid;display:flex;animation-fill-mode:both;margin:0 auto;animation:svelte-1te4fvc-niceSpinLoader 0.75s 0s infinite linear;border-color:var(--todoList-loaderBorderColor);width:var(--todoList-loaderSize);height:var(--todoList-loaderSize)}@keyframes svelte-1te4fvc-niceSpinLoader{0%{transform:rotate(0deg)}50%{transform:rotate(180deg)}100%{transform:rotate(360deg)}} body.plugin-sliding-panes{--header-width:32px;}body.plugin-sliding-panes .mod-root>.workspace-leaf{width:732px;} .page.svelte-yzsyxo{margin:var(--todoList-pageMargin);color:var(--todoList-textColor);transition:opacity 150ms ease-in-out;cursor:pointer}.file-link.svelte-yzsyxo:hover{opacity:0.8}header.svelte-yzsyxo{font-weight:var(--todoList-headerFontWeight);font-size:var(--todoList-headerFontSize);margin:var(--todoList-headerMargin);display:flex;gap:var(--todoList-headerGap);align-items:center}.space.svelte-yzsyxo{flex:1}button.svelte-yzsyxo,.count.svelte-yzsyxo,.title.svelte-yzsyxo{flex-shrink:1}.count.svelte-yzsyxo{padding:var(--todoList-countPadding);background:var(--todoList-countBackground);border-radius:var(--todoList-countBorderRadius);font-size:var(--todoList-countFontSize)}.title.svelte-yzsyxo{min-width:0;overflow:hidden;text-overflow:ellipsis}button.svelte-yzsyxo{display:flex;padding:var(--todoList-buttonPadding);background:transparent}.tag-base.svelte-yzsyxo{color:var(--todoList-tagBaseColor)}.tag-sub.svelte-yzsyxo{color:var(--todoList-tagSub)}ul.svelte-yzsyxo{list-style:none;padding:0;margin:0}.group.svelte-yzsyxo{margin-bottom:var(--todoList-groupMargin)} .svg.svelte-1jevfyc{width:var(--todoList-iconSize);height:var(--todoList-iconSize);fill:var(--todoList-iconFill);transition:transform 150ms ease;cursor:pointer}.up.svelte-1jevfyc{transform:rotate(180deg)}.down.svelte-1jevfyc{transform:rotate(0deg)}.left.svelte-1jevfyc{transform:rotate(90deg)}.right.svelte-1jevfyc{transform:rotate(270deg)} li.svelte-1q8cjhd.svelte-1q8cjhd{display:flex;align-items:center;background-color:var(--todoList-listItemBackground);border-radius:var(--todoList-listItemBorderRadius);margin:var(--todoList-listItemMargin);cursor:pointer;transition:background-color 100ms ease-in-out}li.svelte-1q8cjhd.svelte-1q8cjhd:hover{background-color:var(--todoList-listItemBackground--hover)}.toggle.svelte-1q8cjhd.svelte-1q8cjhd{padding:var(--todoList-togglePadding);background:transparent}.content.svelte-1q8cjhd.svelte-1q8cjhd{padding:var(--todoList-contentPadding)}.compact.svelte-1q8cjhd.svelte-1q8cjhd{bottom:var(--todoList-listItemMargin--compact)}.compact.svelte-1q8cjhd>.content.svelte-1q8cjhd{padding:var(--todoList-contentPadding--compact)}.compact.svelte-1q8cjhd>.toggle.svelte-1q8cjhd{padding:var(--todoList-togglePadding--compact)}.toggle.svelte-1q8cjhd.svelte-1q8cjhd:hover{opacity:0.8} .checkbox.svelte-4g53y{width:var(--todoList-checkboxSize);height:var(--todoList-checkboxSize);min-width:var(--todoList-checkboxSize);min-height:var(--todoList-checkboxSize);border-radius:50%;border:var(--todoList-checkboxBorder);padding:2px;position:relative}.checked.svelte-4g53y{background-color:var(--text-muted);width:var(--todoList-checkboxCheckedSize);height:var(--todoList-checkboxCheckedSize);border-radius:50%;position:absolute;top:calc(calc(var(--todoList-checkboxSize) - var(--todoList-checkboxCheckedSize)) / 4);left:calc(calc(var(--todoList-checkboxSize) - var(--todoList-checkboxCheckedSize)) / 4)} .dot.svelte-1widvzq,.hollow.svelte-1widvzq{display:inline-block;height:6px;width:6px;margin:0 1px}.filled.svelte-1widvzq{fill:var(--color-dot)}.active.filled.svelte-1widvzq{fill:var(--text-on-accent)}.hollow.svelte-1widvzq{fill:none;stroke:var(--color-dot)}.active.hollow.svelte-1widvzq{fill:none;stroke:var(--text-on-accent)} 
+.pandoc-plugin-error {
+    color: red;
+}
+undefined
+</style>
+    </head>
+    <body>
+<h2 data-heading="1 Experiência do usuário">1 Experiência do usuário</h2>
+<p>"A experiência do usuário manifesta-se em todos os objetos que usamos diariamente, e ela existe desde que o mundo é mundo. Existe desde que as pessoas começaram a usar objetos para realizarem algum tipo de tarefa no seu cotidiano." (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/KM93A6ZL?page=17" target="_blank">Pereira 2018:17</a>)</p>
+<p>"A interação que temos com produtos digitais, foco deste livro, também é bastante ampla e só vem aumentando ao longo dos últimos anos. Usamos diariamente e com muita frequência objetos como computadores, celulares, tablets, videogames, caixas eletrônicos etc. E parte da responsabilidade do UX Designer é projetar sistemas que ajudem as pessoas a terem boas experiências" (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/KM93A6ZL?page=17" target="_blank">Pereira 2018:17</a>)</p>
+<p>"A palavra "experiência", aqui é compreendida não apenas como o ato da prática corrente durante a realização de uma tarefa, onde a palavra pode ser por vezes substituída pela palavra "interface", mas sim tudo o que afeta uma pessoa assim que ela toma conhecimento sobre, por exemplo, uma nova aplicação (Bentley e Barret 2012 p.1). Como a experiência que as pessoas podem ter com um dispositivo móvel possui características diferentes da experiência que ela pode ter com um computador tradicional, desktop ou notebook, é importante fazer algumas alterações também no momento de projetar novos produtos interativos para estes dispositivos. Nas palavras dos autores: (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/2XAIWYQE?page=45" target="_blank">Shigeno 2017:45</a>)</p>
+<p>Nós aprendemos que a criação de uma aplicação móvel que será de grande impacto na vida das pessoas e da sua comunicação exige algumas mudanças no processo tradicional de desenvolvimento para a web ou para os computadores pessoais1.(BENTLEY e BARRET, 2012 p.2)<br>
+(<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/2XAIWYQE?page=45" target="_blank">Shigeno 2017:45</a>)</p>
+<p>No decorrer dos anos, vários autores e designers tentaram criar modelos para ilustrar essa rede inter-relacionada de disciplinas, especializações, métodos e técnicas que são utilizadas para criar produtos e projetar experiências. Um dos modelos mais famosos foi proposto por <strong>Dan Saffer</strong> em 2006 (e atualizado por ele mesmo em 2009, na segunda edição de Designing for Interaction): (TEIXEIRA, 2016)</p>
+<p><img alt="Dan_Saffer_diagrama_disciplinas_de_UX" src="https://miro.medium.com/max/580/0*1AFqysBQXGaMLMSV.jpg" referrerpolicy="no-referrer"></p>
+<p>Repare como o grande círculo de User Experience Design engloba uma série de outras disciplinas: de Arquitetura de Informação a Design Industrial, passando até por Sound Design. Sim, aquele sonzinho que toca quando você inicia seu PC ou Mac também faz parte da experiência do usuário. E como todo elemento da experiência do usuário, também foi projetado por alguém. (TEIXEIRA, 2016)</p>
+<h2 data-heading="2 Design de Interação (1)">2 Design de Interação (1)</h2>
+<p>"Entendemos o design de interação como fundamental para todas as disciplinas, campos e abordagens que sc preocupam com pesquisar e projetar sistemas baseados em computador para pessoas (veja Figura 1.3)." (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/7VUEX22S?page=20" target="_blank">Rogers et al 2013:20</a>)</p>
+<h2 data-heading="3 Usabilidade (2)">3 Usabilidade (2)</h2>
+<p>A usabilidade é geralmente considerada como o fator que assegura que os produtos são faceis de usar, eficientes e agradaveis - da perspectiva do usuário. Implica olimizar as interações estabelecidas pelas pessoas com produtos interativos, de modo a permitir que realizem suas atividades no trabalho, na escola e em casa. Mais especificamente é dividia nas segintes metas:</p>
+<ul>
+<li>Ser eficaz no uso (eficácia)</li>
+<li>Ser seguro no uso (segurança)</li>
+<li>Ser de boa utilidade (utilidade)</li>
+<li>Ser fácil de aprender (learnability)</li>
+<li>Ser fácil de lembrar como se usa (memorability)<br>
+(<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/7VUEX22S?page=26" target="_blank">Rogers et al 2013:26</a>)</li>
+</ul>
+<h3 data-heading="Metas da usabilidade">Metas da usabilidade</h3>
+<p>Eficácia: se refere a quanto um sistema é bom em fazer o que se espera dele.<br>
+Eficiência: se refere a maneira como o sistema auxilia os usuários na realização de suas tarefas.<br>
+Segurança: implica proteger o usuário de sistuas perigosas e/ou indesejáveis<br>
+Utilidade: refere-se à medida na qual o sistema propicia o tipo certo de funcionalidade, de maneira que os usuários possam relizar aquilo de que precisam ou que desejam.<br>
+Capacidade de aprendizagem: refere-se a quão fácil é aprender a usar o sistema<br>
+(<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/7VUEX22S?page=26" target="_blank">Rogers et al 2013:26</a>)</p>
+<p><img alt="Pasted image 20210815201000.png" src="Pasted image 20210815201000.png" class="internal-embed"></p>
+<h3 data-heading="User Experience (2)">User Experience (2)</h3>
+<p>"Originada do termo User Experience popularizado por Donald Norman, a experiência do usuário (UX) é por muitas vezes atrelada a assuntos sobre interfaces para web, embora não se limite somente ao contexto digital. O termo, segundo Norman, é uma tentativa de resumir o conjunto de fatores que envolvem o usuário quando em contato com um produto, serviço ou ambiente." (<a rel="noopener" class="external-link" href="zotero://open-pdf/library/items/5PGG54UQ?page=3" target="_blank">Muruga and Andrade 2019:1725</a>)</p>
+<p>"Projetar produtos interativos usaveis requer que se leve em conta quem ira utiliza-los e onde serão utilizados. Outra preocupação importante consiste em entender o tipo de atividades que as pessoas estao realia zando quando estao interagindo com os produtos. Aquilo que for mais apropriado para os diferentes tipos de interfaces e para  o planejamento de dispositi de entrada e saída de informação vai depender de que tipos de atividades receberão suporte" (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/7VUEX22S?page=17" target="_blank">Rogers et al 2013:17</a>)</p>
+<p>"Normalmente, a experiência é positiva quando você consegue realizar a tarefa sem demora, frustração ou sem encontrar problemas no meio do caminho. Essa tarefa pode ser tanto funcional (entrar no seu internet banking para pagar um boleto bancário) ou emocional (entrar no site de uma rede social para saber o que seus amigos andam fazendo)." (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/BHGL4H9E?page=18" target="_blank">Teixeira 2019:18</a>)</p>
+<p>"ssa experiência é influenciada por fatores humanos (sua habilidade em usar caixas eletrônicos, sua visão, sua habilidade motora, sua capacidade de ler e entender o que está escrito na tela, seu humor naquele momento etc.) e por fatores externos (o horário do dia, o ambiente onde o caixa eletrônico está instalado, o fato de ter uma fila de pessoas atrás de você)." (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/BHGL4H9E?page=18" target="_blank">Teixeira 2019:18</a>)</p>
+<p>""A maioria das pessoas acredita que User Experience é somente encontrar a melhor solução para os seus usuários - mas não é. UX se trata sobre definir o problema que precisa ser resolvido (o porquê), definir para quem esse problema precisa ser resolvido (o quem), e definir o caminho que deve ser percorrido para resolvê-lo (o como)." - Whitney Hess" (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/BHGL4H9E?page=18" target="_blank">Teixeira 2019:18</a>)</p>
+<p>"UX designers trabalham para construir produtos que sejam fáceis de usar (a tal usabilidade), reduzindo a fricção e permitindo que os usuários completem a tarefa desejada em menos tempo, com menos ruído e obstáculos. Ao mesmo tempo, apoiam-se em princípios da psicologia para motivar o usuário e incentivá-lo a seguir adiante" (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/BHGL4H9E?page=20" target="_blank">Teixeira 2019:20</a>)</p>
+<p>"O UX designer não é um profeta que sabe como as pessoas pensam; ele é um pesquisador que investiga o que levou uma determinada pessoa a agir de determinada forma e então propõe melhorias de design baseadas nesses insights." (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/BHGL4H9E?page=28" target="_blank">Teixeira 2019:28</a>)</p>
+<h2 data-heading="4 Design de Experiências Móveis (2)">4 Design de Experiências Móveis (2)</h2>
+<p>Para Bentley e Barret (2012 p.3-4) há três principais recursos que tornam a experiência com um dispositivo móvel diferente da experiência com um computador pessoal fixo num espaço. O primeiro é a capacidade de estar sempre acessível como um comunicador instantâneo social que nos permite entrar em contato com as pessoas de diferentes ciclos sociais em qualquer lugar. Em segundo lugar é sua capacidade de capturar seu ambiente e o contexto onde se encontra e por fim a habilidade de "sentir" o ambiente em que se encontra, sentir no sentido de identificar, perceber ou reconhecer através de sensores" (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/2XAIWYQE?page=45" target="_blank">Shigeno 2017:45</a>)</p>
+<h3 data-heading="Desgin Mobile">Desgin Mobile</h3>
+<h3 data-heading="Desenvolvimento nativo X web (2)">Desenvolvimento nativo X web (2)</h3>
+<p>   Sites estão sempre atualizados, são compatíveis com vários sistemas operacionais, são mais facilmente encontráveis pelos buscadores e ideais para usuários que estão tendo contato com a marca pela primeira vez. Por outro lado, aplicativos podem ter melhor performance, podem ser usados offline em alguns casos, permitem mais liberdade criativa na interface e ajudam a criar fidelidade com os usuários. (Teixeira 2019, p. 169)</p>
+<p>"Uma estratégia é começar sempre pela versão Web do seu produto ou webapp. Sedimentar bem sua presença mobile via Web, garantindo acesso universal e multiplataforma. Aí, conforme as necessidades surgirem e seu planejamento financeiro permitir, você pode investirem Apps específicas de plataformas com recursos e experiências nativas. Web first." (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=17" target="_blank">Lopes 2013:17</a>)</p>
+<p>"Várias grandes empresas da Web seguiram esse caminho. Facebook, Google e Twitter são exemplos óbvios. O Facebook tem Apps para iOS e Android bem integradas às plataformas, mas elas só foram construídas depois do site mobile que até hoje oferece suporte a todo tipo de plataforma móvel. Aqui no Brasil, portais de notícias grandes seguiram a mesma estratégia — UOL, Globo, etc—, assim como a maioria das lojas virtuais." (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=17" target="_blank">Lopes 2013:17</a>)</p>
+<p>"Uma App tem acesso direto ao hardware do aparelho e a recursos do sistema operacional. Consegue se integrar com funções avançadas e a outras Apps. Pode manipular o funcionamento do aparelho e até substituir ou complementar funções" (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=21" target="_blank">Lopes 2013:21</a>)</p>
+<p>"Apps sempre serão mais rápidas que a Web. Elas rodam direto no sistema operacional, na maioria dos casos, são escritas nativamente para a plataforma específica, o que dá muita performance. A Web roda dentro do navegador, que interpreta seu HTML, CSS e JavaScript, um processo relativamente mais lento. Mas poucas aplicações realmente precisamdeperformance absurda. Não me entenda mal: não estou dizendo que é tudo bem ser lento. De modo algum. O ponto é que, para muitos casos, a diferença de performance entre a Web e uma App nativa não é perceptível para o usuário. Os navegadores de hoje são excelentes e cada vez mais rápidos, e só perdem de forma perceptível em casos bem específicos que exigem alta performance." (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=23" target="_blank">Lopes 2013:22 e 23</a>)</p>
+<p>"Um aspecto bastante citado como vantagem das Apps é a integração visual da mesma com a plataforma em si. Toda a experiência de uso da plataforma, sua usabilidade e componentes visuais, são transportados pra App. Ela tema cara da plataforma e é familiar para o usuário. Pense naquele estilo caraterístico dos botões do iOS, por exemplo, que seriam um frankenstein se usados no meio de uma App Android." (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=23" target="_blank">Lopes 2013:23</a>)</p>
+<p>"O mais comum é ter uma linguagem visual única na Web, não atrelada a nenhuma plataforma específica. É como a Web sempre funcionou no Desktop. Os sites ou web apps costumam ter um estilo mais ligado à identidade visual da marca e da empresa, do que da plataforma de acesso" (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=24" target="_blank">Lopes 2013:24</a>)</p>
+<h3 data-heading="WEB responsiva (1)">WEB responsiva (1)</h3>
+<p>"A ideia pra palavra 'responsivo' veio da arquitetura, na qual se fala de técnicas para construções e materiais de adaptarem ao ambiente e às pessoas que interagem comele. Aí o Ethan fala: "Ao invés de criar designs desconectados para cada um do crescente número de dispositivos web, nós podemos tratá-los como faces da mesma experiência. Podemos criar para uma experiência de visualização ideal, mas embutir tecnologias padronizadas nos nossos designs para fazê-los não apenas mais flexíveis, mas mais adaptados para a mídia que os renderiza" (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=37" target="_blank">Lopes 2013:37</a>)</p>
+<p>"A chave pro design responsivo é fazer um design flexível e adaptável, que se ajuste às características do navegador, do dispositivo e do contexto do usuário. Os pilares técnicos das soluções responsivas são o layout fluído (tópico 8), o uso de media queries (tópico 9) e de imagens flexíveis (tópico 19)." (<a rel="noopener" class="external-link" href="zotero://open-pdf/groups/4374086/items/D4ALWJMM?page=37" target="_blank">Lopes 2013:37</a>)</p>
+<h4 data-heading="Layout fluído (0)">Layout fluído (0)</h4>
+<h4 data-heading="Media queries (0)">Media queries (0)</h4>
+<h4 data-heading="Imagens flexíveis (1)">Imagens flexíveis (1)</h4>
+<p>A Amazon verificou em testes que comprimir imagens em JPEG em  uma página reduz a quantidade de bateria necessária para carregá-la em um dispositivo móvel em até 20%. No Facebook, que tem mais imagens, essa economia de bateria chega a 30% (<a rel="noopener" class="external-link" href="http://www2012.org/proceedings/proceedings/p41.pdf" target="_blank">http://www2012.org/proceedings/proceedings/p41.pdf</a>)</p>
+<h2 data-heading="Visualização de dados (1)">Visualização de dados (1)</h2>
+<p>"Disponibilizar informação fazendo uso de ferramentas de visualização não envolve apenas a representação gráfica da informação. Compreende-se que é um ato que se completa com a percepção e entendimento por parte do usuário e as possibilidades que se abrem a partir da interação dele com aquela representação. Segundo Freitas, Chubachi, Luzzardi &amp; Cava (2001) a visualização de informações permite apresentar dados abstratos de um determinado domínio de aplicação, em formas gráficas de modo que a representação visual gerada explore a capacidade de percepção do homem e este, a partir das relações espaciais exibidas, interprete e compreenda as informações deduzindo novos conhecimentos." (<a rel="noopener" class="external-link" href="zotero://open-pdf/library/items/5PGG54UQ?page=1" target="_blank">Muruga and Andrade 2019:1723</a>)</p>
+<p>"Existem situações em que os dados são impossíveis de manipular se eles não são apresentados de uma forma dinâmica que permita observar as possíveis relações existentes entre eles." (<a rel="noopener" class="external-link" href="zotero://open-pdf/library/items/5PGG54UQ?page=1" target="_blank">Muruga and Andrade 2019:1723</a>)</p>
+<h3 data-heading="Importância social">Importância social</h3>
+<p>Acredita-se necessário, crescentemente, pensar em modos de visualização de dados públicos de uma forma mais democrática, onde os dados possam ser traduzidos para que qualquer cidadão consiga entender. Os dados se tornam quase inúteis sem a capacidade de visualizar e agir sobre eles." (<a rel="noopener" class="external-link" href="zotero://open-pdf/library/items/5PGG54UQ?page=1" target="_blank">Muruga and Andrade 2019:1723</a>)</p>
+<p>**</p>
+<h2 data-heading="Elementos do Design Gráfico">Elementos do Design Gráfico</h2>
+<h3 data-heading="Cores">Cores</h3>
+<h3 data-heading="Tipografia">Tipografia</h3>
+<h3 data-heading="Grid">Grid</h3>
+<h2 data-heading="Compreensão dos fatores humanos">Compreensão dos fatores humanos</h2>
+    </body>
+</html>
