@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Referencial teórico.md",
+            "file": "TCC/orientações/Orientação 2020.03.20.md",
             "mode": "source"
           }
         }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Referencial teórico.md"
+                "file": "TCC/orientações/Orientação 2020.03.20.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Referencial teórico.md",
+                "file": "TCC/orientações/Orientação 2020.03.20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -160,6 +160,7 @@
   },
   "active": "1dd1b454ecd63c25",
   "lastOpenFiles": [
+    "TCC/orientações/Orientação 2020.03.20.md",
     "! INBOX/Referencial teórico.md",
     "! INBOX/LOPES, 2013.md",
     "! INBOX/Sem título.md",
@@ -168,7 +169,6 @@
     "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.pdf",
     "TCC/referências/ux/MURUGA; ANDRADE, 2019.md",
     "TCC/referências/ux/MEURER; SZABLUK, 2011.md",
-    "TCC/referências/ux/GRILO, 2019.md",
-    "TCC/orientações/Orientação 2021.08.04.md"
+    "TCC/referências/ux/GRILO, 2019.md"
   ]
 }
