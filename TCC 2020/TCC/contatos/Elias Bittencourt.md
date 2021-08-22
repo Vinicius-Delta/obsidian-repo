@@ -1,1 +1,1 @@
-É o meu orientador do projeto de TCC.
+É o meu EX orientador do projeto de TCC.
