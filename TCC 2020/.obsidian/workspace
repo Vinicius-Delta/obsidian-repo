@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
+            "file": "! INBOX/Sem título.md",
             "mode": "source"
           }
         }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md"
+                "file": "! INBOX/Sem título.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
+                "file": "! INBOX/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -161,6 +161,7 @@
   },
   "active": "1dd1b454ecd63c25",
   "lastOpenFiles": [
+    "! INBOX/Sem título.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Metodologia 2.0.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Comparação entre a introdução e o TCC em bloco.md",
@@ -169,7 +170,6 @@
     "TCC/_TCC 2/rascunhos/202PB.md",
     "TCC/_TCC 2/Atributos desejados.md",
     "TCC/_TCC 2/Estrutura dos capítulos.md",
-    "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
-    "TCC/_TCC 2/Dissecando o tema.md"
+    "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md"
   ]
 }
