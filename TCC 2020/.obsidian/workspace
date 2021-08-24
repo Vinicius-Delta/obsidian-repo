@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Sem título.md",
+            "file": "TCC/orientações/Orientação 2021.08.24.md",
             "mode": "source"
           }
         }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Sem título.md"
+                "file": "TCC/orientações/Orientação 2021.08.24.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Sem título.md",
+                "file": "TCC/orientações/Orientação 2021.08.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",

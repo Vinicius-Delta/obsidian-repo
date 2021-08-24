@@ -14,7 +14,20 @@ Input e output do aplicativo
 
 ---
 
+50 páginas como meta (sem pre textuais)
+
+
+---
+
 Texto = referências que servem diretamente para decidir 
 Apêndice = não é obrigatorio - o que server 
 
-Filtrar no Zotero quais são referE^ncias primárias ou secundárias por tema
+Filtrar no Zotero quais são referências primárias/secundárias e por tema
+
+----
+
+
+
+---
+
+Roubar a estrutura de 3 TCCs de web/app
