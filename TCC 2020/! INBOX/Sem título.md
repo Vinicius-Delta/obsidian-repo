@@ -12,3 +12,9 @@ fala na impotância Pessoal sobre o tema, contraste entre as leis e a realidade
 
 Input e output do aplicativo
 
+---
+
+Texto = referências que servem diretamente para decidir 
+Apêndice = não é obrigatorio - o que server 
+
+Filtrar no Zotero quais são referE^ncias primárias ou secundárias por tema
