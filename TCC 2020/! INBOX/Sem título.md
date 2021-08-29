@@ -17,4 +17,9 @@ Design de interfaces para conscientização da violência policial contras negro
 2.3.2 Coleta e Análise de Dados ......................................................23" ([Pamplona :125](zotero://open-pdf/groups/4374086/items/CSIH6A8G?page=12))
 
 6 "REFERÊNCIAL TEÓRICO.......................................................................... 22 
-6.1. Introdução............................................................................................... 22 6.2. O que é Usabilidade ............................................................................. 24 6.3. Componentes da Usabilidade ............................................................. 24 6.4. Design para telas pequenas ................................................................27 ([Nascimento :83](zotero://open-pdf/groups/4374086/items/RIC24DY2?page=9))
+6.1. Introdução............................................................................................... 22 6.2. O que é Usabilidade ............................................................................. 24 6.3. Componentes da Usabilidade ............................................................. 24 6.4. Design para telas pequenas ................................................................. 27 ([Nascimento :83](zotero://open-pdf/groups/4374086/items/RIC24DY2?page=9))
+
+Referencial Teórico
+	Usabilidade / User experence
+	Componentes da usabilidade
+	Design de interfaces para telas pequenas
