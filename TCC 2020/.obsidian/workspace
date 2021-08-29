@@ -7,9 +7,10 @@
         "id": "1dd1b454ecd63c25",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "TCC/orientações/Orientação 2021.07.11.pdf"
+            "file": "! INBOX/Sem título.md",
+            "mode": "source"
           }
         }
       },
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/orientações/Orientação 2021.07.11.pdf"
+                "file": "! INBOX/Sem título.md"
               }
             }
           },
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/orientações/Orientação 2021.07.11.pdf",
+                "file": "! INBOX/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -160,9 +161,9 @@
   },
   "active": "1dd1b454ecd63c25",
   "lastOpenFiles": [
+    "! INBOX/Sem título.md",
     "TCC/orientações/Orientação 2021.07.11.pdf",
     "TCC/orientações/Orientação 2021.08.24.md",
-    "! INBOX/Sem título.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Metodologia 2.0.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Comparação entre a introdução e o TCC em bloco.md",
