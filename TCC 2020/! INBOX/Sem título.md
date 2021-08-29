@@ -5,10 +5,10 @@ Proposta de interface web sobre violência policial no brasil com uso das
 Design de interfaces para conscientização da violência policial contras negros no Brasil
 
 **Design crítico e especulativo como posicionamento projetual: uma abordagem experimental com foco na violência na cidade de Fortaleza**
-Design Social: uma abordagem experemental com foco na violência policial no Brasil
+Design e usabilidade: uma abordagem experemental com foco na violência policial no Brasil
 
 **PROJETO DE PLATAFORMA DIGITAL PARA USO DE LITERATURA INDEPENDENTE**
-Projeto de 
+NOME: Projeto de plataforma digital para apoio as vítimas de violência policial
 
 -----
 
