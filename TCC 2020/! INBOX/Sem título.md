@@ -1,11 +1,14 @@
 **PROPOSTA DE APLICATIVO SOBRE BALNEABILIDADE NAS PRAIAS DE MACEIÓ COM USO DAS CONCEPÇÕES DO DESIGN THINKING**
-
 Proposta de interface web sobre violência policial no brasil com uso das 	
 
 **Design audiovisual para conscientização da desigualdade de negros no mercado de trabalho**
-
 Design de interfaces para conscientização da violência policial contras negros no Brasil
 
+**Design crítico e especulativo como posicionamento projetual: uma abordagem experimental com foco na violência na cidade de Fortaleza**
+Design Social: uma abordagem experemental com foco na violência policial no Brasil
+
+**PROJETO DE PLATAFORMA DIGITAL PARA USO DE LITERATURA INDEPENDENTE**
+Projeto de 
 
 -----
 
