@@ -68,6 +68,3 @@
 "Muitas vezes, a concepção de sistemas e aplicativos tende a envolver apenas o viés tecnológico e aspectos internos da organização, deixando de considerar as individualidades de seus utilizadores. Em oposição a esse paradigma, designers devem se posicionar como advogados da experiência do usuário, deslocando o foco na tecnologia para o foco no ser humano, adequando os artefatos às pessoas (Norman, 2010)." ([Grilo 2019:59](zotero://open-pdf/groups/4374086/items/R6SA6NAV?page=59))
 
 "O design centrado no usuário (DCU) surge como uma abordagem de projeto na qual as decisões para o produto têm como baliza as diferentes características do público-alvo. Centrar o design no usuário implica em compreender experiências e narrativas sobre as circunstâncias vivenciadas pelo usuário. Lowdermilk (2013) explica que o DCU se originou de um ramo da Tecnologia da Informação, na interação humano-computador, como uma abordagem voltada para colocar as necessidades do usuário como parâmetro para decisões de design e desenvolvimento de software." ([Grilo 2019:59](zotero://open-pdf/groups/4374086/items/R6SA6NAV?page=59))
-
----
-GRILO, A. **Experiência do usuário em interfaces digitais**. [s.l.] SEDIS-UFRN, 2019.

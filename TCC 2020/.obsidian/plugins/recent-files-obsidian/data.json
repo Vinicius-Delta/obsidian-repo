@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "GRILO, 2019",
+      "path": "TCC/referências/ux/GRILO, 2019.md"
+    },
+    {
+      "basename": "PEREIRA, 2018",
+      "path": "TCC/referências/ux/PEREIRA, 2018.md"
+    },
+    {
       "basename": "TEIXEIRA, 2019",
       "path": "TCC/referências/ux/TEIXEIRA, 2019.md"
     },
@@ -117,10 +125,6 @@
       "path": "TCC/referências/metodologia/MEURER; SZABLUK, 2011.md"
     },
     {
-      "basename": "GRILO, 2019",
-      "path": "TCC/referências/ux/GRILO, 2019.md"
-    },
-    {
       "basename": "Orientação 2021.08.04",
       "path": "TCC/orientações/Orientação 2021.08.04.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "5 dicas que irão ajudar a fazer seu TCC de Design",
       "path": "TCC/referências/estrutura do tcc (informal)/5 dicas que irão ajudar a fazer seu TCC de Design.md"
-    },
-    {
-      "basename": "2021-07-08",
-      "path": "daily/2021-07-08.md"
     }
   ],
   "omittedPaths": [],
