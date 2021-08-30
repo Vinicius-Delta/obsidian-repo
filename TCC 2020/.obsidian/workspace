@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Metodologia 2.0.md",
+            "file": "TCC/referências/ux/TEIXEIRA, 2019.md",
             "mode": "preview"
           }
         }
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Metodologia 2.0.md"
+                "file": "TCC/referências/ux/TEIXEIRA, 2019.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Metodologia 2.0.md",
+                "file": "TCC/referências/ux/TEIXEIRA, 2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -162,6 +161,7 @@
   },
   "active": "1dd1b454ecd63c25",
   "lastOpenFiles": [
+    "TCC/referências/ux/TEIXEIRA, 2019.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Metodologia 2.0.md",
     "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.pdf",
     "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.md",
@@ -170,7 +170,6 @@
     "TCC/orientações/Orientação 2021.07.11.pdf",
     "TCC/orientações/Orientação 2021.08.24.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
-    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Comparação entre a introdução e o TCC em bloco.md",
-    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md"
+    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Comparação entre a introdução e o TCC em bloco.md"
   ]
 }
