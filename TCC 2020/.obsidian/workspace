@@ -7,10 +7,9 @@
         "id": "1dd1b454ecd63c25",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "! INBOX/Sem título.md",
-            "mode": "source"
+            "file": "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.pdf"
           }
         }
       },
@@ -20,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/LOPES, 2013.md",
+            "file": "TCC/referências/design para telas pequenas/LOPES, 2013.md",
             "mode": "source"
           }
         }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Sem título.md"
+                "file": "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.pdf"
               }
             }
           },
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Sem título.md",
+                "file": "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -161,15 +160,15 @@
   },
   "active": "1dd1b454ecd63c25",
   "lastOpenFiles": [
+    "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.pdf",
+    "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.md",
+    "! INBOX/LOPES, 2013.md",
     "! INBOX/Sem título.md",
     "TCC/orientações/Orientação 2021.07.11.pdf",
     "TCC/orientações/Orientação 2021.08.24.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Metodologia 2.0.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Comparação entre a introdução e o TCC em bloco.md",
-    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md",
-    "TCC/_TCC 2/rascunhos/Modelo de análise de similares.md",
-    "TCC/_TCC 2/rascunhos/202PB.md",
-    "TCC/_TCC 2/Atributos desejados.md"
+    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md"
   ]
 }
