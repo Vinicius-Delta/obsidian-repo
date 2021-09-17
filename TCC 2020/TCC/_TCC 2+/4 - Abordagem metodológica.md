@@ -1,9 +1,9 @@
-**
 
-O tópico presente tópico irá aprofundar cada uma das etapas, indicando os procedimentos aplicados. Os resultados e discussões obtidos serão apresentados no capítulo 4.
+O tópico presente tópico irá aprofundar cada uma das etapas, indicando os procedimentos aplicados, além dos resultados e discussões obtidos.
 
-**
 ## 4.1 - Identificação dos sinais
+Durante esse primeiro momento, foram realizadas pesquisas teóricas para contextualizar sobre o problema da violência policial e sobre soluções tecnologias emergentes que estão testadas ou poderão ser adotadas no futuro pelas forças policiais. 
+
 ### 4.1.1 - Uso da internet
 Cada vez mais as tecnologias digitais têm sido integradas ao dia-a-dia da população urbana, sendo utilizadas nos mais diversos aparelhos e com diversas finalidades. Graças a ampliação das redes sem fio, vivemos constantemente conectados, interagindo com pessoas e sistemas através de interfaces físicas e digitais.
 
@@ -31,9 +31,6 @@ Na proxíma seção serpa tratado esse uso específico da internet.
 
 
 ### 4.1.2 - Aplicativos contra violência policial
-
-**
-
 A partir desse crescente interesse, formou-se uma comunidade estadunidense do Reddit com pessoas interessadas em registrar e expor ocorrências de violências cometidas pelos policiais durante os protestos pacíficos decorrentes do assassinato de Floyd. Esta documentação começou a princípio como posts na comunidade r/2020PoliceBrutality (2020 Violência Policial, tradução nossa), mas devido ao grande volume de contribuições, surgiu a necessidade de organizá-las com ferramentas mais apropriadas. 
 
 Levando em conta essa necessidade, um grupo de usuários trabalhou coletivamente na construção de um banco de dados, para auxiliar jornalistas, políticos, promotores, ativistas e cidadãos a utilizarem as informações em campanhas políticas, cobertura jornalística, educação pública e acusação dos policiais criminosos. Eles utilizaram a plataforma Github, por possibilitar a colaboração direta e disponibilizar o código fonte de maneira transparente.
@@ -125,8 +122,26 @@ O compartilhamento e compilação de informações relacionadas aos casos de vio
 
 
 
+### 4.1.4 - Construção do mapa mental
+A partir das pesquisas realizadas, apresentadas nas seções anteiores, foi criado um mapa mental para auxiliar na visualização da relação dos conceitos e palavras chaves encontrados. Esse mapa mental foi expandido (fig. XX), associando a ele a uma especulação dos próprios autores do projeto, pensando em como as problemáticas encontradas podem evoluir para soluções ou novos problemas. O mapa mental completo pode ser encontrado no apêndice X.
+
+**
+
+Figura XX - Captura de tela do mapa mental construído
+
+![](https://lh4.googleusercontent.com/b0AAVSatj2xdmgWxLjNJoJKDwQdQYEJdHcKRqvnlr-evJEflfCgsJ_zbhegv-PTjubnGW8Pn5N9tVCvtWO8fMd6xpozsKiWCt0Vt2vU1D6F1wSfiEj85WhlShW6ijc4IFBHXmlu3=s0)
+
+Fonte: Dos autores (2021)
+
+**
+
 ## 4.2 - Classificação das tendências
 ### 4.2.1 - Taxinomia dos futuros
+**
+
+Inspirado na abordagem da Extrapolation Factory, no projeto 99¢ Futures (fig X), previsões escritas na etapa anterior, foram agrupadas entre as categorias “Tecnológico”, “Ecológico”, “Social”, “Político” e “Econômico”. Isso permitiu uma melhor visualização de cada um dos itens e estabeleceu conexões entre ideias relacionadas.
+
+**
 ### 4.2.2 - Categorização das tendências
 
 ## 4.3 - Construção do futuro
