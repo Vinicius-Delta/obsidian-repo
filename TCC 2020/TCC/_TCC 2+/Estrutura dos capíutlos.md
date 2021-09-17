@@ -1,5 +1,10 @@
 [[1 - Introdução]]
+
 [[2 - Sobre violência policial]]
+	- O que é?
+	- Historico
+	- Acontecimentos recentes
+	- Alternativas para o futuro
 [[3 - Abordagem do tema]]
 	- Tema
 	- Problematização?

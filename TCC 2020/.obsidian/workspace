@@ -15,6 +15,28 @@
         }
       },
       {
+        "id": "3b0ac93cf3245938",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TCC/orientações/Orientação 2021.09.02.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "d7ab658aee9d20ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TCC/orientações/Orientação 2021.08.31.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
         "id": "04f29b5edbe8f8bb",
         "type": "leaf",
         "state": {
@@ -75,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -107,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2+/Estrutura dos capíutlos.md"
+                "file": "TCC/orientações/Orientação 2021.09.02.md"
               }
             }
           },
@@ -141,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2+/Estrutura dos capíutlos.md",
+                "file": "TCC/orientações/Orientação 2021.09.02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -160,8 +183,9 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "1dd1b454ecd63c25",
+  "active": "3b0ac93cf3245938",
   "lastOpenFiles": [
+    "TCC/orientações/Orientação 2021.09.02.md",
     "TCC/_TCC 2+/Estrutura dos capíutlos.md",
     "TCC/_TCC 2/Estrutura dos capítulos.md",
     "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
@@ -170,7 +194,6 @@
     "daily/2020-03-08.md",
     "! INBOX/Sem título.md",
     "! INBOX/Referencial teórico.md",
-    "TCC/_TCC 2+/Sem título.md",
-    "TCC/orientações/Orientação 2021.08.31.md"
+    "TCC/_TCC 2+/Sem título.md"
   ]
 }
