@@ -4,7 +4,7 @@ O tópico presente tópico irá aprofundar cada uma das etapas, indicando os pro
 ## 4.1 - Identificação dos sinais
 Durante esse primeiro momento, foram realizadas pesquisas teóricas para contextualizar sobre o problema da violência policial e sobre soluções tecnologias emergentes que estão testadas ou poderão ser adotadas no futuro pelas forças policiais. 
 
-### 4.1.1 - Uso da internet
+### 4.1.1 - Uso da internet no Brasil
 Cada vez mais as tecnologias digitais têm sido integradas ao dia-a-dia da população urbana, sendo utilizadas nos mais diversos aparelhos e com diversas finalidades. Graças a ampliação das redes sem fio, vivemos constantemente conectados, interagindo com pessoas e sistemas através de interfaces físicas e digitais.
 
 [..] mas resta o desafio de garantir o acesso pleno a este serviço – estabelecido em 2015 pela ONU como um dos pontos principais para o atingimento do Objetivo de Desenvolvimento Sustentável número 9 (SDG 9):
