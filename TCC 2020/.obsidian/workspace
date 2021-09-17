@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-09-17.md",
+            "file": "TCC/orientações/Orientação 2021.08.31.md",
             "mode": "source"
           }
         }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2021-09-17.md"
+                "file": "TCC/orientações/Orientação 2021.08.31.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-09-17.md",
+                "file": "TCC/orientações/Orientação 2021.08.31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -161,6 +161,7 @@
   },
   "active": "1dd1b454ecd63c25",
   "lastOpenFiles": [
+    "TCC/orientações/Sem título.md",
     "daily/2021-09-17.md",
     "TCC/referências/design para telas pequenas/LOPES, 2013.md",
     "TCC/referências/ux/PEREIRA, 2018.md",
@@ -169,7 +170,6 @@
     "TCC/referências/ux/TEIXEIRA, 2019.md",
     "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.md",
     "TCC/referências/ux/Sem título.md",
-    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Metodologia 2.0.md",
-    "TCC/referências/ux/ROGERS; SHARP; PREECE, 2013.pdf"
+    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Metodologia 2.0.md"
   ]
 }
