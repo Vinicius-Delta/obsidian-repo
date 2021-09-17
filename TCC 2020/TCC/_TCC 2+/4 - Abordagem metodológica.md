@@ -137,18 +137,41 @@ Fonte: Dos autores (2021)
 
 ## 4.2 - Classificação das tendências
 ### 4.2.1 - Taxinomia dos futuros
-**
-
 Inspirado na abordagem da Extrapolation Factory, no projeto 99¢ Futures (fig X), previsões escritas na etapa anterior, foram agrupadas entre as categorias “Tecnológico”, “Ecológico”, “Social”, “Político” e “Econômico”. Isso permitiu uma melhor visualização de cada um dos itens e estabeleceu conexões entre ideias relacionadas.
 
 **
-### 4.2.2 - Categorização das tendências
+
+Figura X - Parede do workshop realizado para o projeto 99¢ Futures (2013)
+
+![](https://lh3.googleusercontent.com/ac5MkDWPapf6rHU4JFxXOlKeRwYktCxriE1GPv_cMOEVPOs1uEddNciTR_lIa2XHhs-td-7Ef2wQyaisNFVrgXDngs-DgqVATYcXruEKERxF6rGwDS106lMGZenv7jI7rlX-QDGV=s0)
+
+Fonte: Extrapolation Factory. Disponível em: [https://extrapolationfactory.com/99-Futures](https://extrapolationfactory.com/99-Futures)
+
+Em seguida, foi aplicado o “cone da plausibilidade”, dispositivo proposto pelo futurologista Stuart Candy em 2009 e adaptado ao Design Especulativo e Crítico por Anthony Dunne e Fiona Raby (2013). Nele as diferentes previsões são classificadas entre prováveis, plausíveis e possíveis, com base nas tendências e acontecimentos conhecidos pelos pesquisadores.
+
+Figura XX - Cone da plausibilidade
+
+![](https://lh3.googleusercontent.com/rnLlY6gUy11CSFFmrGax8ycVpyefFHUIzrS5QG0bq1ekQ5WyMbMD10eKVL9gGJhlhYHteAkeyTeQ0eNLqcD_4ZFEspdWc18t8sctqxJIYsXr39pVx7_jGGXYHs1A92whFj3sUIVc=s0)
+
+Fonte: Extraído de DUNNE, RABY (2013)
+
+  
+
+Para visualização simultânea de ambas classificações, os cartões contendo as previsões foram organizados em uma tabela, sendo a plausibilidade representada pelas linhas e a categoria pelas colunas (fig X). Graças a esta forma de visualização, foi possível estabelecer relações e adicionar novos elementos que não haviam sido imaginados na etapa anterior para compor o futuro ficcional a ser trabalhado. Os resultados serão discutidos em detalhes no capítulo 4.
+
+  
+
+Figura X - Previsões organizadas entre Plausibilidade X Categoria 
+
+![](https://lh4.googleusercontent.com/VcXKi3pSUnf3rnSiJnK1REq2uylLuk8Nau4Ly1K9fY9hHmROOJA0vtPdTV2TGbyYPSPP0qurc_2xdxcnSeE0PB6CCKOgL1GdDQtpENiAZte-quh4BG8yk5nSNUwplQi2U5EYKBZ0=s0)
+
+Fonte: Dos autores (2021)
 
 ## 4.3 - Construção do futuro
-### 4.3.1 - Conexões
-### 4.3.2 - Escrita da narrativa
+### 4.3.1 - Conexões [pendente]
+### 4.3.2 - Escrita da narrativa [pendente]
 
-## 4.4 - Criação da experiência
+## 4.4 - Criação da experiência [pendente]
 ### 4.4.1 - Conceituação
 ### 4.4.2 - Storyboard 
 ### 4.4.3 - Wireframes
