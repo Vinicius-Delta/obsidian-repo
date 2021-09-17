@@ -16,14 +16,30 @@
 [[4 - Abordagem metodológica]]
  1. Identificação dos sinais
 		- Estado atual da tecnologia
+		- Tendências para o futuro
 		
 > O resultado dessa etapa é check-list dos problemas e oportunidades identificados.
 
 2. Mapeamento de cenários
+
+> 
+
 3. Aplicação da Taxinomia de Futuro
+
+> 
+
 4. Contação de histórias
+
+> 
+
 5. Criação da experiência
-6. Compartilhamento da experiência
+
+> 
+
+6. Compartilhamento/Contextualização da experiência
+
+> 
+
 
 [[5 - Resultados obtidos]]
 
