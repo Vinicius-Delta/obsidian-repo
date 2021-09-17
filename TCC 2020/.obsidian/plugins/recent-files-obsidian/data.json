@@ -5,20 +5,8 @@
       "path": "TCC/_TCC 2+/4 - Abordagem metodológica.md"
     },
     {
-      "basename": "1 - Introdução",
-      "path": "TCC/_TCC 2+/1 - Introdução.md"
-    },
-    {
-      "basename": "0. Estrutura dos capíutlos",
-      "path": "TCC/_TCC 2+/0. Estrutura dos capíutlos.md"
-    },
-    {
-      "basename": "2 - Sobre violência policial",
-      "path": "TCC/_TCC 2+/2 - Sobre violência policial.md"
-    },
-    {
-      "basename": "3 - Abordagem do tema",
-      "path": "TCC/_TCC 2+/3 - Abordagem do tema.md"
+      "basename": "Citações soltas",
+      "path": "TCC/_TCC 2+/Citações soltas.md"
     },
     {
       "basename": "5 - Apresentação da experiência",
@@ -27,6 +15,22 @@
     {
       "basename": "6 - Considerações finais",
       "path": "TCC/_TCC 2+/6 - Considerações finais.md"
+    },
+    {
+      "basename": "3 - Abordagem do tema",
+      "path": "TCC/_TCC 2+/3 - Abordagem do tema.md"
+    },
+    {
+      "basename": "1 - Introdução",
+      "path": "TCC/_TCC 2+/1 - Introdução.md"
+    },
+    {
+      "basename": "2 - Sobre violência policial",
+      "path": "TCC/_TCC 2+/2 - Sobre violência policial.md"
+    },
+    {
+      "basename": "0. Estrutura dos capíutlos",
+      "path": "TCC/_TCC 2+/0. Estrutura dos capíutlos.md"
     },
     {
       "basename": "Metodologia 2.0",
@@ -195,10 +199,6 @@
     {
       "basename": "2021-08-01",
       "path": "daily/2021-08-01.md"
-    },
-    {
-      "basename": "2021-08-02",
-      "path": "daily/2021-08-02.md"
     }
   ],
   "omittedPaths": [],

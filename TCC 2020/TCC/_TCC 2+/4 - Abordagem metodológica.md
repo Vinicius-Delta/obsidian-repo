@@ -20,11 +20,13 @@ O impacto da evolução desse aparato tecnológico pode ser observado em diversa
 
 Mesmo com essas limitações, as classes populares conseguem utilizar a Internet de forma a contornar diversas adversidades. Para as autoras Paula Melgaço e Bruna Madureira, o uso das redes sociais para essa população constitui uma forma de empoderamento, citando como exemplos o uso de sites e plataformas, como base de conhecimento informal, e a possibilidade de comunicação entre amigos e familiares, mesmo que separados pela falta de transporte público e/ou pela insegurança urbana. (MELGAÇO; MADUREIRA, 2017, p. 18-19)
 
-Dentro desse contexto das realidades das periferias brasileiras, em que a violência e o perigo ocasionados pela polícia e tráfico são constantes, os moradores encontram instrumentos de comunicação através da Internet. Mesmo que de forma limitada, através da rede é possível que eles se conectem com seus pares, expressem seus sentimentos e denunciem injustiças perpetuadas pelas demais camadas da sociedade e pelo Estado. Na proxíma seção serpa t
+Dentro desse contexto das realidades das periferias brasileiras, em que a violência e o perigo ocasionados pela polícia e tráfico são constantes, os moradores encontram instrumentos de comunicação através da Internet. Mesmo que de forma limitada, através da rede é possível que eles se conectem com seus pares, expressem seus sentimentos e denunciem injustiças perpetuadas pelas demais camadas da sociedade e pelo Estado. 
+
+Na proxíma seção serpa tratado esse uso específico da internet.
 
 
 ### 4.1.2 - Aplicativos contra violência policial
-
+O compartilhamento e compilação de informações relacionadas aos casos de violência policial pode auxiliar na cobertura midiática dos eventos, denunciar os excessos cometidos para os órgãos de fiscalização (como corregedorias, Ministério Público), reunir organizações e indivíduos interessados em amparar as vítimas e os impactados, além de munir os próprios moradores das regiões mais afetadas com referências para que estes possam cuidar melhor da própria segurança e da segurança de seus entes queridos.
 
 ### 4.1.3 - Tendências para o futuro
 
@@ -41,4 +43,4 @@ Dentro desse contexto das realidades das periferias brasileiras, em que a violê
 ### 4.4.2 - Storyboard 
 ### 4.4.3 - Wireframes
 ### 4.4.4 - Fluxo de uso
-### 4.4.5 - Elaboração e
+### 4.4.5 - Elaboração estética
