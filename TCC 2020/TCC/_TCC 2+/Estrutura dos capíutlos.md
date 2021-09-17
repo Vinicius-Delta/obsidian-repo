@@ -33,11 +33,9 @@
 - Fluxo de uso
 - Elaboração estética
 
-5. Compartilhamento/Contextualização da experiência
-
-> 
-
-
-[[5 - Resultados obtidos]]
+[[5 - Apresentação da experiência]]
+- Contextualização
+- d
+-  
 
 [[6 - Considerações finais]]
