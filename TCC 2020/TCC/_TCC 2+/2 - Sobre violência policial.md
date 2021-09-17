@@ -1,3 +1,6 @@
+## Historico
+
+
 
 [[Fale sobre o direitos humanos]]
 
@@ -18,3 +21,7 @@ Estes indivíduos são, com frequência, jovens de baixa escolaridade, pobres, m
 Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
 
 Como afirma Bonsiepe (1997), “o Design se configura como ferramenta de articulação e interlocução para a transformação social na contemporaneidade”. (BONSIEPE. 1997, p. 38). Isto é, o Design pode (e deve) romper com o paradigma de produzir para fabricantes produtos para um mercado consumidor, e direcionar o foco a atender necessidades de populações injustiçadas ou marginalizadas. (MARGOLIN E MARGOLIN, 2004, p. 44).
+
+
+## Acontecimentos recentes
+## Vislumbres para o futuro
