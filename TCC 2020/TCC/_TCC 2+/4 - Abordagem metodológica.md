@@ -1,3 +1,8 @@
+**
+
+O tópico presente tópico irá aprofundar cada uma das etapas, indicando os procedimentos aplicados. Os resultados e discussões obtidos serão apresentados no capítulo 4.
+
+**
 ## 4.1 - Identificação dos sinais
 ### 4.1.1 - Uso da internet
 Cada vez mais as tecnologias digitais têm sido integradas ao dia-a-dia da população urbana, sendo utilizadas nos mais diversos aparelhos e com diversas finalidades. Graças a ampliação das redes sem fio, vivemos constantemente conectados, interagindo com pessoas e sistemas através de interfaces físicas e digitais.
@@ -43,7 +48,8 @@ Referência dessas interfaces
 Dentre as interfaces possíveis para esse projeto, optamos realizar uma análise mais aprofundada do app "2020PB", criado por Hossain Khan, por ser a único voltado a dispositivos móveis. A proposta desse aplicativo é contextualizar os casos de violência policial, durante os antirracistas nos Estados Unidos. Ele possibilita os usuários acessarem toda a base de dados da comunidade r/2020PoliceBrutality em qualquer lugar, além de oferecer um link de acesso rápido para adicionar novas denúncias através do repositório do projeto. Toda a informação utilizada para essa análise provém da página do *Github*, pois não foram encontradas outras referências que tratasse do mesmo.
 
 
-#### 4.1.2.1
+#### 4.1.2.1 - Estudo do app “2020PB”
+
 
 
 Figura XX - Capturas de tela do aplicativo “2020PB”
@@ -114,7 +120,10 @@ Fonte: elaborado pelos autores (2021)**
 O compartilhamento e compilação de informações relacionadas aos casos de violência policial pode auxiliar na cobertura midiática dos eventos, denunciar os excessos cometidos para os órgãos de fiscalização, reunir organizações e indivíduos interessados em amparar as vítimas e os impactados, além de munir os próprios moradores das regiões mais afetadas com referências para que estes possam cuidar melhor da própria segurança e da segurança de seus entes queridos.
 
 
-### 4.1.3 - Tendências para o futuro
+### 4.1.3 - Tendências para o futuro [pendente]
+
+
+
 
 ## 4.2 - Classificação das tendências
 ### 4.2.1 - Taxinomia dos futuros
