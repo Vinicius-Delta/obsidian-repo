@@ -136,7 +136,6 @@ Fonte: Dos autores (2021)
 **
 
 ## 4.2 - Classificação das tendências
-### 4.2.1 - Taxinomia dos futuros
 Inspirado na abordagem da Extrapolation Factory, no projeto 99¢ Futures (fig X), previsões escritas na etapa anterior, foram agrupadas entre as categorias “Tecnológico”, “Ecológico”, “Social”, “Político” e “Econômico”. Isso permitiu uma melhor visualização de cada um dos itens e estabeleceu conexões entre ideias relacionadas.
 
 **
