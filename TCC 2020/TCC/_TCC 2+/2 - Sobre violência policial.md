@@ -23,5 +23,12 @@ Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, qua
 Como afirma Bonsiepe (1997), “o Design se configura como ferramenta de articulação e interlocução para a transformação social na contemporaneidade”. (BONSIEPE. 1997, p. 38). Isto é, o Design pode (e deve) romper com o paradigma de produzir para fabricantes produtos para um mercado consumidor, e direcionar o foco a atender necessidades de populações injustiçadas ou marginalizadas. (MARGOLIN E MARGOLIN, 2004, p. 44).
 
 
-## Acontecimentos recentes
-## Vislumbres para o futuro
+## Acontecimentos recentes [pendente]
+
+## 2020
+Em 25 de maio de 2020, George Floyd, um homem negro estadunidense foi brutalmente assassinado pelo policial Derek Chauvin na cidade Minneapolis. O incidente foi registrado em vídeo e divulgado pela internet, repercutindo tanto nos Estados Unidos como no mundo. A partir deste acontecimento, os protestos contra a brutalidade policial ganharam mais força, abrindo espaço para o diálogo público sobre a violência policial e a reorganização desta instituição.
+
+Em resposta à crescente onda de protestos, vários departamentos de polícia reprimiram violentamente as manifestações pacíficas, resultando em confrontos com os manifestantes. Conforme os vídeos dessas repressões circulavam nas redes sociais, os protestos atingiram nível nacional e internacional. À medida que esses protestos continuaram, centenas de incidentes foram registrados nos quais a polícia americana realizou agressões violentas, perseguições e prisões arbitrárias.
+
+Um dos efeitos desses protestos, é o crescente interesse por informações na Internet sobre essas temáticas. Nunca foram feitas tantas pesquisas na Internet sobre racismo e questões correlatas quanto em 2020. Neste ano, a busca pelos assuntos “racismo” e ‘violência policial” atingiu o maior pico da década em número de acessos no Google, tanto no Brasil, quanto nos Estados Unidos. (GOOGLE TRENDS, 2021).
+## Vislumbres para o futuro [pendente]
