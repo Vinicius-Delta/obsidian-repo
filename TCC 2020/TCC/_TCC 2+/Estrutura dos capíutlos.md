@@ -1,17 +1,17 @@
 [[1 - Introdução]]
-	- O que é sensível para nós
+- O que é sensível para nós
 	
 [[2 - Sobre violência policial]]
-	- O que é?
-	- Historico
-	- Acontecimentos recentes
-	- Alternativas para o futuro
+- O que é?
+- Historico
+- Acontecimentos recentes
+- Alternativas para o futuro
 	
 [[3 - Abordagem do tema]]
-	- Objetivos
-	- Justificativa
-	- Fundamentação teórica
-	- Metodologia
+- Objetivos
+- Justificativa
+- Fundamentação teórica
+- Metodologia
 	
 [[4 - Abordagem metodológica]]
  1. Identificação dos sinais
@@ -34,8 +34,8 @@
 - Elaboração estética
 
 [[5 - Apresentação da experiência]]
-- Contextualização
-- d
--  
+- Resultado final
+- Compatilhamento
+- Reações 
 
 [[6 - Considerações finais]]
