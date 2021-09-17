@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/orientações/Orientação 2021.08.31.md",
+            "file": "TCC/_TCC 2+/Estrutura dos capíutlos.md",
             "mode": "source"
           }
         }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/orientações/Orientação 2021.08.31.md"
+                "file": "TCC/_TCC 2+/Estrutura dos capíutlos.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/orientações/Orientação 2021.08.31.md",
+                "file": "TCC/_TCC 2+/Estrutura dos capíutlos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -161,15 +161,15 @@
   },
   "active": "1dd1b454ecd63c25",
   "lastOpenFiles": [
-    "TCC/orientações/Orientação 2021.08.31.md",
-    "TCC/orientações/Orientação 2021.09.14.md",
-    "TCC/orientações/Orientação 2021.09.02.md",
-    "TCC/orientações/Orientação 2021.08.24.md",
-    "TCC/orientações/Sem título.md",
-    "daily/2021-09-17.md",
-    "TCC/referências/design para telas pequenas/LOPES, 2013.md",
-    "TCC/referências/ux/PEREIRA, 2018.md",
-    "TCC/referências/ux/MURUGA; ANDRADE, 2019.md",
-    "TCC/referências/ux/GRILO, 2019.md"
+    "TCC/_TCC 2+/Estrutura dos capíutlos.md",
+    "TCC/_TCC 2/Estrutura dos capítulos.md",
+    "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md",
+    "TCC/_TCC 2/Dissecando o tema.md",
+    "TCC/_TCC 2/Atributos desejados.md",
+    "daily/2020-03-08.md",
+    "! INBOX/Sem título.md",
+    "! INBOX/Referencial teórico.md",
+    "TCC/_TCC 2+/Sem título.md",
+    "TCC/orientações/Orientação 2021.08.31.md"
   ]
 }
