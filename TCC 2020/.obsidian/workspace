@@ -53,8 +53,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2+/Lost chapters/Ref 3 - DESIGN PARA DISPOSITIVOS MÓVEIS.md",
+            "file": "TCC/_TCC 2+/0. Estrutura dos capíutlos.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "4e4fabd57af5751f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TCC/_TCC 2+/4 - Abordagem metodológica.md",
+            "mode": "source"
           }
         }
       },
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2+/Lost chapters/Ref 3 - DESIGN PARA DISPOSITIVOS MÓVEIS.md"
+                "file": "TCC/_TCC 2+/4 - Abordagem metodológica.md"
               }
             }
           },
@@ -185,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2+/Lost chapters/Ref 3 - DESIGN PARA DISPOSITIVOS MÓVEIS.md",
+                "file": "TCC/_TCC 2+/4 - Abordagem metodológica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -204,17 +215,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "74533d18110ad144",
+  "active": "4e4fabd57af5751f",
   "lastOpenFiles": [
+    "TCC/_TCC 2+/4 - Abordagem metodológica.md",
+    "TCC/_TCC 2+/0. Estrutura dos capíutlos.md",
     "TCC/_TCC 2+/Lost chapters/Sem título.md",
     "TCC/_TCC 2+/Lost chapters/Ref 1 - EXPERIÊNCIA DO USUÁRIO.md",
     "TCC/_TCC 2+/Lost chapters/Ref 2 - USABILIDADE.md",
-    "TCC/_TCC 2+/4 - Abordagem metodológica.md",
     "TCC/_TCC 2+/Citações soltas.md",
     "TCC/_TCC 2+/5 - Apresentação da experiência.md",
     "TCC/_TCC 2+/6 - Considerações finais.md",
     "TCC/_TCC 2+/3 - Abordagem do tema.md",
-    "TCC/_TCC 2+/1 - Introdução.md",
-    "TCC/_TCC 2+/2 - Sobre violência policial.md"
+    "TCC/_TCC 2+/1 - Introdução.md"
   ]
 }

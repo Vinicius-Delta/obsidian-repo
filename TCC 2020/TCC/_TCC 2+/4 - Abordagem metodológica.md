@@ -26,7 +26,30 @@ Na proxíma seção serpa tratado esse uso específico da internet.
 
 
 ### 4.1.2 - Aplicativos contra violência policial
-O compartilhamento e compilação de informações relacionadas aos casos de violência policial pode auxiliar na cobertura midiática dos eventos, denunciar os excessos cometidos para os órgãos de fiscalização (como Corregedorias e Ministério Público), reunir organizações e indivíduos interessados em amparar as vítimas e os impactados, além de munir os próprios moradores das regiões mais afetadas com referências para que estes possam cuidar melhor da própria segurança e da segurança de seus entes queridos.
+
+**
+
+A partir desse crescente interesse, formou-se uma comunidade estadunidense do Reddit com pessoas interessadas em registrar e expor ocorrências de violências cometidas pelos policiais durante os protestos pacíficos decorrentes do assassinato de Floyd. Esta documentação começou a princípio como posts na comunidade r/2020PoliceBrutality (2020 Violência Policial, tradução nossa), mas devido ao grande volume de contribuições, surgiu a necessidade de organizá-las com ferramentas mais apropriadas. 
+
+Levando em conta essa necessidade, um grupo de usuários trabalhou coletivamente na construção de um banco de dados, para auxiliar jornalistas, políticos, promotores, ativistas e cidadãos a utilizarem as informações em campanhas políticas, cobertura jornalística, educação pública e acusação dos policiais criminosos. Eles utilizaram a plataforma Github, por possibilitar a colaboração direta e disponibilizar o código fonte de maneira transparente.
+
+A construção desse banco de dados motivou a participação de engenheiros de software ao movimento, dando origem a sites e aplicativos que dispõem visualmente os casos de violência policial registradas pela comunidade. Ao todo foram desenvolvidas pelo menos 10 interfaces diferentes, por diferentes autores, com ênfase a diferentes funcionalidades.
+
+**
+Referência dessas interfaces
+**
+
+
+Dentre as interfaces possíveis para esse projeto, optamos realizar uma análise mais aprofundada do app "2020PB", criado por Hossain Khan, será utilizado como objeto de análise, por ser a único voltado a dispositivos móveis. O nome é uma abreviação de 2020 Police Brutality, nome da comunidade do Reddit do qual o autor faz parte e colabora.**
+
+2020PB é um aplicativo para o sistema operacional Android que lista e contextualiza os casos de violência policial durante os antirracistas nos Estados Unidos. Ele possibilita os usuários acessarem toda a base de dados da comunidade r/2020PoliceBrutality em qualquer lugar, além de oferecer um link de acesso rápido para adicionar novas denúncias através do repositório do projeto. Todas as informações deste repositório são adicionadas manualmente pelos colaboradores.
+
+
+
+
+
+O compartilhamento e compilação de informações relacionadas aos casos de violência policial pode auxiliar na cobertura midiática dos eventos, denunciar os excessos cometidos para os órgãos de fiscalização, reunir organizações e indivíduos interessados em amparar as vítimas e os impactados, além de munir os próprios moradores das regiões mais afetadas com referências para que estes possam cuidar melhor da própria segurança e da segurança de seus entes queridos.
+
 
 ### 4.1.3 - Tendências para o futuro
 
