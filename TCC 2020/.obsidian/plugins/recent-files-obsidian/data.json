@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "6 - Considerações finais",
+      "path": "TCC/_TCC 2+/6 - Considerações finais.md"
+    },
+    {
       "basename": "0. Estrutura dos capíutlos",
       "path": "TCC/_TCC 2+/0. Estrutura dos capíutlos.md"
+    },
+    {
+      "basename": "5 - Apresentação da experiência",
+      "path": "TCC/_TCC 2+/5 - Apresentação da experiência.md"
+    },
+    {
+      "basename": "4 - Abordagem metodológica",
+      "path": "TCC/_TCC 2+/4 - Abordagem metodológica.md"
     },
     {
       "basename": "3 - Abordagem do tema",
@@ -187,18 +199,6 @@
     {
       "basename": "2021-08-02",
       "path": "daily/2021-08-02.md"
-    },
-    {
-      "basename": "2021-07-28",
-      "path": "daily/2021-07-28.md"
-    },
-    {
-      "basename": "Template - Daily",
-      "path": "templates/Template - Daily.md"
-    },
-    {
-      "basename": "Objtivos",
-      "path": "TCC/metaprojeto/Objtivos.md"
     }
   ],
   "omittedPaths": [],
