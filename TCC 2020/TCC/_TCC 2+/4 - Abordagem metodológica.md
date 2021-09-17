@@ -30,7 +30,14 @@ Dentro desse contexto das realidades das periferias brasileiras, em que a violê
 Na proxíma seção serpa tratado esse uso específico da internet.
 
 
-### 4.1.2 - Aplicativos contra violência policial
+### 4.1.2 - Caso George Floyd
+Em 25 de maio de 2020, George Floyd, um homem negro estadunidense foi brutalmente assassinado pelo policial Derek Chauvin na cidade Minneapolis. O incidente foi registrado em vídeo e divulgado pela internet, repercutindo tanto nos Estados Unidos como no mundo. A partir deste acontecimento, os protestos contra a brutalidade policial ganharam mais força, abrindo espaço para o diálogo público sobre a violência policial e a reorganização desta instituição.
+
+Em resposta à crescente onda de protestos, vários departamentos de polícia reprimiram violentamente as manifestações pacíficas, resultando em confrontos com os manifestantes. Conforme os vídeos dessas repressões circulavam nas redes sociais, os protestos atingiram nível nacional e internacional. À medida que esses protestos continuaram, centenas de incidentes foram registrados nos quais a polícia americana realizou agressões violentas, perseguições e prisões arbitrárias.
+
+Um dos efeitos desses protestos, é o crescente interesse por informações na Internet sobre essas temáticas. Nunca foram feitas tantas pesquisas na Internet sobre racismo e questões correlatas quanto em 2020. Neste ano, a busca pelos assuntos “racismo” e ‘violência policial” atingiu o maior pico da década em número de acessos no Google, tanto no Brasil, quanto nos Estados Unidos. (GOOGLE TRENDS, 2021).
+
+### 4.1.3 - Aplicativos contra violência policial
 A partir desse crescente interesse, formou-se uma comunidade estadunidense do Reddit com pessoas interessadas em registrar e expor ocorrências de violências cometidas pelos policiais durante os protestos pacíficos decorrentes do assassinato de Floyd. Esta documentação começou a princípio como posts na comunidade r/2020PoliceBrutality (2020 Violência Policial, tradução nossa), mas devido ao grande volume de contribuições, surgiu a necessidade de organizá-las com ferramentas mais apropriadas. 
 
 Levando em conta essa necessidade, um grupo de usuários trabalhou coletivamente na construção de um banco de dados, para auxiliar jornalistas, políticos, promotores, ativistas e cidadãos a utilizarem as informações em campanhas políticas, cobertura jornalística, educação pública e acusação dos policiais criminosos. Eles utilizaram a plataforma Github, por possibilitar a colaboração direta e disponibilizar o código fonte de maneira transparente.
@@ -117,12 +124,12 @@ Fonte: elaborado pelos autores (2021)**
 O compartilhamento e compilação de informações relacionadas aos casos de violência policial pode auxiliar na cobertura midiática dos eventos, denunciar os excessos cometidos para os órgãos de fiscalização, reunir organizações e indivíduos interessados em amparar as vítimas e os impactados, além de munir os próprios moradores das regiões mais afetadas com referências para que estes possam cuidar melhor da própria segurança e da segurança de seus entes queridos.
 
 
-### 4.1.3 - Tendências para o futuro [pendente]
+### 4.1.4 - Tendências para o futuro [pendente]
 
 
 
 
-### 4.1.4 - Construção do mapa mental
+### 4.1.5 - Construção do mapa mental
 A partir das pesquisas realizadas, apresentadas nas seções anteiores, foi criado um mapa mental para auxiliar na visualização da relação dos conceitos e palavras chaves encontrados. Esse mapa mental foi expandido (fig. XX), associando a ele a uma especulação dos próprios autores do projeto, pensando em como as problemáticas encontradas podem evoluir para soluções ou novos problemas. O mapa mental completo pode ser encontrado no apêndice X.
 
 **
