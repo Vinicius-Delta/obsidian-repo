@@ -1,9 +1,15 @@
 [[1 - Introdução]]
 [[2 - Sobre violência policial]]
 [[3 - Abordagem do tema]]
+	- Tema
+	- Problematização?
 	- Objetivos
 	- Justificativa
 	- Fundamentação teórica
-[[4 - Metodologia]]
-[[5 - Resultados]]
+	- Metodologia
+[[4 - Abordagem metodológica]]
+	- Contextualização tecnológica
+	- Estado atual da tecnologia
+	- 
+[[5 - Resultados obtidos]]
 [[6 - Considerações finais]]
