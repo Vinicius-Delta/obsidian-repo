@@ -17,26 +17,20 @@
  1. Identificação dos sinais
 		- Estado atual da tecnologia
 		- Tendências para o futuro
-		
-> O resultado dessa etapa é check-list dos problemas e oportunidades identificados.
 
-2. Mapeamento de cenários
+2. Classificação das tendências
+- Taxinomia dos f
+> 
+
+3. Construção do futuro
+- Escrita da narrativa
+> 
+
+4. Criação da experiência
 
 > 
 
-3. Aplicação da Taxinomia de Futuro
-
-> 
-
-4. Contação de histórias
-
-> 
-
-5. Criação da experiência
-
-> 
-
-6. Compartilhamento/Contextualização da experiência
+5. Compartilhamento/Contextualização da experiência
 
 > 
 
