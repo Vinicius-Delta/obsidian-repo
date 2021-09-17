@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Estrutura dos capíutlos",
-      "path": "TCC/_TCC 2+/Estrutura dos capíutlos.md"
+      "basename": "2 - Sobre violência policial",
+      "path": "TCC/_TCC 2+/2 - Sobre violência policial.md"
+    },
+    {
+      "basename": "0. Estrutura dos capíutlos",
+      "path": "TCC/_TCC 2+/0. Estrutura dos capíutlos.md"
+    },
+    {
+      "basename": "1 - Introdução",
+      "path": "TCC/_TCC 2+/1 - Introdução.md"
     },
     {
       "basename": "Metodologia 2.0",
@@ -191,14 +199,6 @@
     {
       "basename": "Template - Objetivo",
       "path": "templates/Template - Objetivo.md"
-    },
-    {
-      "basename": "Lista do Nirvana 2020",
-      "path": "TCC/z_trash/Lista do Nirvana 2020.md"
-    },
-    {
-      "basename": "Lista de Leitura",
-      "path": "TCC/z_trash/Lista de Leitura.md"
     }
   ],
   "omittedPaths": [],
