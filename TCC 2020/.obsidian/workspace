@@ -48,17 +48,6 @@
         }
       },
       {
-        "id": "61059b56a8016a5c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TCC/_TCC 2+/2 - Sobre violência policial.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "74533d18110ad144",
         "type": "leaf",
         "state": {
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2+/2 - Sobre violência policial.md"
+                "file": "TCC/_TCC 2+/4 - Abordagem metodológica.md"
               }
             }
           },
@@ -196,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2+/2 - Sobre violência policial.md",
+                "file": "TCC/_TCC 2+/4 - Abordagem metodológica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -215,13 +204,13 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "61059b56a8016a5c",
+  "active": "74533d18110ad144",
   "lastOpenFiles": [
-    "TCC/_TCC 2+/2 - Sobre violência policial.md",
-    "TCC/_TCC 2+/1 - Introdução.md",
-    "TCC/_TCC 2+/3 - Abordagem do tema.md",
-    "TCC/_TCC 2+/0. Estrutura dos capíutlos.md",
     "TCC/_TCC 2+/4 - Abordagem metodológica.md",
+    "TCC/_TCC 2+/1 - Introdução.md",
+    "TCC/_TCC 2+/0. Estrutura dos capíutlos.md",
+    "TCC/_TCC 2+/2 - Sobre violência policial.md",
+    "TCC/_TCC 2+/3 - Abordagem do tema.md",
     "TCC/_TCC 2+/5 - Apresentação da experiência.md",
     "! INBOX/6 - Considerações finais.md",
     "! INBOX/5 - Apresentação da experiência.md",
