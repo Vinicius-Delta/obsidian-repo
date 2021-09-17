@@ -13,6 +13,7 @@
 [[4 - Abordagem metodológica]]
 	- Identificação dos sinais
 		- Estado atual da tecnologia
+> O resultado dessa etapa é check-list dos problemas e oportunidades identificados.
 		-
 	- 
 [[5 - Resultados obtidos]]
