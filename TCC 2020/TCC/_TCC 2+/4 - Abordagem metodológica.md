@@ -40,10 +40,73 @@ Referência dessas interfaces
 **
 
 
-Dentre as interfaces possíveis para esse projeto, optamos realizar uma análise mais aprofundada do app "2020PB", criado por Hossain Khan, será utilizado como objeto de análise, por ser a único voltado a dispositivos móveis. O nome é uma abreviação de 2020 Police Brutality, nome da comunidade do Reddit do qual o autor faz parte e colabora.**
+Dentre as interfaces possíveis para esse projeto, optamos realizar uma análise mais aprofundada do app "2020PB", criado por Hossain Khan, por ser a único voltado a dispositivos móveis. A proposta desse aplicativo é contextualizar os casos de violência policial, durante os antirracistas nos Estados Unidos. Ele possibilita os usuários acessarem toda a base de dados da comunidade r/2020PoliceBrutality em qualquer lugar, além de oferecer um link de acesso rápido para adicionar novas denúncias através do repositório do projeto. Toda a informação utilizada para essa análise provém da página do *Github*, pois não foram encontradas outras referências que tratasse do mesmo.
 
-2020PB é um aplicativo para o sistema operacional Android que lista e contextualiza os casos de violência policial durante os antirracistas nos Estados Unidos. Ele possibilita os usuários acessarem toda a base de dados da comunidade r/2020PoliceBrutality em qualquer lugar, além de oferecer um link de acesso rápido para adicionar novas denúncias através do repositório do projeto. Todas as informações deste repositório são adicionadas manualmente pelos colaboradores.
 
+#### 4.1.2.1
+
+
+Figura XX - Capturas de tela do aplicativo “2020PB”
+
+![](https://lh3.googleusercontent.com/S24nrES4OnDk9SKMfa36Eg_j5t7w-lyiNpd2DvT79X2_Um9mAtqbiZ3biCdgWVE2ZnHG_pwGqdOqyd41hW9GpJDMQZmXkeMF534nefq4H1CL_KkcTttGqNrxKblmr9bsjUR8LGxz=s0)
+
+Fonte: Hossain Khan [https://github.com/2020PB/police-brutality](https://github.com/2020PB/police-brutality) (acesso em 01 de ago de 2021)
+
+  
+
+As principais funcionalidades que este aplicativo possui são: navegar pelos incidentes reportados, filtrando por data ou estado americano; sincronização automática, possibilitando acessar os casos mais recentes; listagem de links relacionados ao caso selecionado, como por exemplo, vídeos em redes sociais ou localização exata, pelo Google Maps;  informações sobre instituições de caridades notáveis que atuam em auxílio a causa.
+
+A navegação do aplicativo é realizada por seções, cada uma contendo um conjunto de funcionalidades: “Incidentes”, “Reportar”, “Doar”, “Informações”. Cada seção é representada por um ícone e um texto de legenda, na parte interior da tela.
+
+A seção “Incidentes” (figura XX) apresenta a listagem dos estados americanos, cada um deles acompanhado do número de incidentes reportados e a data do último incidente registrado. Além disso, na parte superior da tela, é possível escolher navegar por data e atualizar o aplicativo. Em ambos modos de navegação o resultado é semelhante, os casos são listados em cards, contendo uma descrição breve do caso, data, cidade, link para a localização e  links externos para postagens em redes sociais. Também existe a opção de compartilhar informações sobre o caso, porém esta funcionalidade contém uma grave falha de usabilidade, por se encontrar agrupada a função de localização, sem qualquer indicativo externo.
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+Figura XX - Análise estrutural da seção “Incidentes” do aplicativo  “2020PB”
+
+Fonte: Hossain Khan ([https://github.com/2020PB/police-brutality](https://github.com/2020PB/police-brutality)), imagem adaptada pelos autores
+
+Na tela “Reportar” (figura XX) é apresentado um curto texto explicativo apresentando o repositório do GitHub, link para o FAQ e um grande botão com o símbolo do Black Lives Matter, além da legenda “Reportar novo incidente”. Esse botão leva o usuário para uma página do GitHub, na qual ele pode escrever informações sobre um caso ainda não listado, para ser submetido à aprovação. Todavia, para realizar a submissão, é necessário uma conta no GitHub, o que pode desencorajar usuários que não sejam familiares com a plataforma.
+
+Figura XX - Análise estrutural da seção “Reportar” do aplicativo  “2020PB”
+
+Fonte: Hossain Khan ([https://github.com/2020PB/police-brutality](https://github.com/2020PB/police-brutality)), imagem adaptada pelos autores
+
+Na seção “Doar” (figura XX) é apresentada uma lista de organizações não governamentais americanas alinhadas com o Movimento Black Lives Matter e/ou contra abusos policiais. É apresentado o logotipo, o nome, uma descrição curta, botões com links para mais informações e para a página de doações da mesma. Na parte superior existe um botão, que ao interagir, exibe um aviso no qual explica que o aplicativo não é filiado a nenhuma das instituições listadas, apenas as cita como comodidade aos usuários.
+
+Figura XX - Análise estrutural da seção “Doar” do aplicativo  “2020PB”
+
+Fonte: Hossain Khan ([https://github.com/2020PB/police-brutality](https://github.com/2020PB/police-brutality)), imagem adaptada pelos autores
+
+Por fim, na seção “Informações” (figura XX), são apresentadas a comunidade r/2020PoliceBrutality, o propósito do aplicativo, links para as redes sociais da mesma, além de uma lista das principais hashtags utilizadas pelos membros para facilitar a localização das postagens. 
+
+Figura XX - Análise estrutural da seção “Informações” do aplicativo  “2020PB”
+
+Fonte: Hossain Khan ([https://github.com/2020PB/police-brutality](https://github.com/2020PB/police-brutality)), imagem adaptada pelos autores
+
+  
+
+O fluxograma do aplicativo pode ser verificado na figura X, construído para representar a organização de suas funcionalidades. Como a listagem dos casos segue o mesmo layout, independente do critério de exibição utilizado, as possibilidades de interação se repetem, tornando desnecessária a sua repetição no gráfico.
+
+  
+  
+  
+  
+  
+
+Figura XX - Fluxograma do aplicativo “2020PB”
+
+![](https://lh4.googleusercontent.com/fEhZsJoUvI7krXE-sx0ibL5RwSTKxOzNeN_DwATxBjQzhVbd7CK7L_RqPwuh7cftM8w8XRgRytb06Q-Tl1ShFeBD61jrahHU5jdXSZFAM12Ey_apv1M-scqOVu0RHVWh7FSWKVI6=s0)
+
+Fonte: elaborado pelos autores (2021)**
 
 
 
