@@ -1,8 +1,7 @@
 ## 4.1 - Identificação dos sinais
-- Estado atual da tecnologia
-	- Uso da internet
-	- Aplicativos contra violência policial
-- Tendências para o futuro
+### 4.1.1 Uso da internet
+### 4.1.2 Aplicativos contra violência policial
+### 4.1.3 Tendências para o futuro
 
 ## 4.2 - Classificação das tendências
 - Taxinomia dos futuros
