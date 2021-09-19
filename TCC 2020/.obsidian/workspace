@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rafael car",
+                "query": "tema",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,12 +64,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 283,
-    "collapsed": true
+    "width": 283
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
