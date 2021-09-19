@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 283,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -153,14 +154,14 @@
   "active": "60479b22f07531d5",
   "lastOpenFiles": [
     "! INBOX/Sem título.md",
+    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
+    "daily/2021-03-11.md",
     "TCC/_TCC 2+/1 - Introdução.md",
     "TCC/_TCC 2+/4 - Abordagem metodológica.md",
     "TCC/_TCC 2+/3 - Abordagem do tema.md",
     "TCC/_TCC 2+/2 - Sobre violência policial.md",
     "TCC/_TCC 2+/0. Estrutura dos capíutlos.md",
     "TCC/_TCC 2+/6 - Considerações finais.md",
-    "TCC/_TCC 2+/5 - Apresentação da experiência.md",
-    "TCC/_TCC 2+/Lost chapters/Sem título.md",
-    "TCC/_TCC 2+/Lost chapters/Ref 1 - EXPERIÊNCIA DO USUÁRIO.md"
+    "TCC/_TCC 2+/5 - Apresentação da experiência.md"
   ]
 }
