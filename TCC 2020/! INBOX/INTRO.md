@@ -2,8 +2,7 @@
 
 Enquanto homens pretos no Brasil, podemos afimar que é impossível ignorar a realidade enquanto a questão racial no Brasil, pois fazemos parte do perfil demográfico mais sucetível a abordagens, opressões e injustiça pelo sistema de segurança pública brasileiro.
 
-Para Mbembe (2006), no mundo pós-colonial, na modernidade tardia e nos setores da população subalternizada no primeiro mundo, vigora política da morte
-
+Para o intelectual, político, negro, pan-africanista Abdias Nascimento, existe um processo de sejeição sociocultural, indicioso, sistemático e silencioso, no qual a população negra do Brasil foi forçada a subalternizar-se. Nesse processo, o ser negro é impelido a negar a si próprio
 
 Essa constatação é confirmada pelo Anuário Brasileiro de Segurança Pública (2021), que mostra que os negros (pretos e pardos, segundo o IBGE) correspondem a 79% das vítimas de assassinatos provocados por agentes de segurança pública no ano de 2020. Colacando em pespectiva, a taxa de letalidade policial entre negros é de 4,2 vítimas a cada 100 mil, já entre brancos ela é de 1,5 a cada 100 mil. Ou seja, pessoas negras tem uma chance de 2,8 vezes maior de ser vitimado por um homicídio provocado pelas forças policiais.
 
@@ -13,7 +12,7 @@ Entre a dor e o silêncio, esse trabalho surge como uma resposta a essa opressã
 
 Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem lutar por equidade e por direitos. Segundo, precisamos da desmiliritação das polícias, para termos uma polícia única (sem disitinção entre Civil e Militar), voltada para a preservação da vida, como proposto pela Proposta de Ementa Constitucional Número 51 (disponível no anexo A). E em terceiro lugar, precisamos que a lei seja cumprida, especialmente a Constituição e os Direitos Humanos. Qualquer forma de execução de cidadãs é ilegal, principalmente quando realizada pelo Estado, e por isso, deve ser erradicada.
 
-Sob esses ideais nos reunimos e utilizamos o Design como um instrumento para concretizar nosso manifesto, realizando nosso papel social de agir em prol a um futuro livre de opressões sistêmicas, como afirma o intelectual Abdias Nascimento (2016):
+Sob esses ideais nos reunimos e utilizamos o Design como um instrumento para concretizar nosso manifesto, realizando nosso papel social de agir em prol a um futuro livre de opressões sistêmicas, como afirma NASCIMENTO (2016):
 
 		“Devemos nós, africanos e seus descendentes, enfatizar nossa capacidade de agir no projeto deste mundo atual, o de modelar a civilização futura, aberta a todos os eventos e expressões da existência humana, livre de exploradores e explorados, o que resulta na impossibilidade de haver opressores e oprimidos de qualquer raça ou cor epidérmica” (NASCIMENTO, 2016 [1977], p.171).
 
