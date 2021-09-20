@@ -10,7 +10,9 @@ Esse cenário nos atinge na forma um mal estar constante ao ver que nossos semel
 
 Entre a dor e o silêncio, esse trabalho surge para trazer um pouco de luz. É grito mesmo que vão, para quem quiser ouvir, de que ações concretas são necessárias.
 
-Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem lutar por equidade e por direitos. Segundo, precisamos da desmiliritação
+Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem lutar por equidade e por direitos. Segundo, precisamos da desmiliritação das polícias, isto é, remover qualquer vínculo entre as Polícias Militares com o exército, como proposto pela Ementa Constitucional Número 51 (disponível no anexo A). E em terceiro lugar, precisamos que a lei seja cumprida. Qualquer execução de cidadões pelas forças do Estado é ilegal
+
+
 
 > Parágrafo 2: ~~Qual é a finalidade? (objetivo)~~ O que precisa ser feito?- Sustentação
 
