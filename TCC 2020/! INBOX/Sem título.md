@@ -16,10 +16,9 @@ Sob esses ideais nos reunimos e utilizamos o Design como um instrumento para con
 
 Desta forma, inauguramos novos diálogos e análises sob a questão, através da abordagem projetual do Design Crítico e Especulativo. Essa abordagem se propõe a criar futuros possíveis e realidades alternativas com base no que presente, com o intuito de levantar um debate sobre quais os futuros que desejamos e quais queremos evitar (DUNNE; RABY, 2013).
 
-dentro do
-espectro do design conceitual, 
+Assim, os capítulos seguintes deste trabalho devem ser orientados pela pergunta: como estabelecer conexões entre o contexto da violência policial no Brasil do século XXI e suas ramificações em um futuro próximo e hipotético, criando protótipos a partir das metodologias de ficção projetual?
 
-
+No capítulo seguinte iremos 
 
 
 
