@@ -4,11 +4,13 @@ Enquanto homens pretos no Brasil, podemos afimar que é impossível ignorar a re
 
 Para o intelectual, político, negro, pan-africanista Abdias Nascimento, existe um processo de sejeição sociocultural, indicioso, sistemático e silencioso, no qual a população negra do Brasil foi forçada a subalternizar-se. Nesse processo, o ser negro é impelido a negar a si próprio
 
+As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, uma figura jurídica que visa a proteger os policiais, que no exercício da função, agem em “legítima defesa”, e que matem alguém, na linguagem jurídico-policial um “opositor”, que contra o policial ou sua ação levantou “injusta agressão”. A morte desse sujeito “matável” ocorre fora do registro dos homicídios ou de crimes, e não chegam sequer a gerar nenhum tipo de processo (Misse, 2011).
+
 Essa constatação é confirmada pelo Anuário Brasileiro de Segurança Pública (2021), que mostra que os negros (pretos e pardos, segundo o IBGE) correspondem a 79% das vítimas de assassinatos provocados por agentes de segurança pública no ano de 2020. Colacando em pespectiva, a taxa de letalidade policial entre negros é de 4,2 vítimas a cada 100 mil, já entre brancos ela é de 1,5 a cada 100 mil. Ou seja, pessoas negras tem uma chance de 2,8 vezes maior de ser vitimado por um homicídio provocado pelas forças policiais.
 
 Esse cenário nos atinge na forma um mal estar constante ao ver que nossos semelhantes diáriamente perecem sob a ação do Estado. Não há números, estatísticas ou tabelas que quantifiquem a brutalidade desses processos. É viver em sob um misto de constante indignação e impotência, que assombram com o medo de que em uma abordagem percamos nossos irmãos, irmãs, pais, mães, amigxs e companheirxs. É desnorteador e trumático viver sob tal bárbare armada, acaica, que remete aos tempos de escravidão. 
 
-Entre a dor e o silêncio, esse trabalho surge como uma resposta a essa opressão institucionalizada. É um grito, mesmo que em vão, para quem quiser ouvir, de que ações concretas são necessárias.
+Entre a dor e o silêncio, esse trabalho surge como uma forma de resistência a essa opressão institucionalizada. É um grito, mesmo que em vão, para quem quiser ouvir, de que ações concretas são necessárias.
 
 Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem lutar por equidade e por direitos. Segundo, precisamos da desmiliritação das polícias, para termos uma polícia única (sem disitinção entre Civil e Militar), voltada para a preservação da vida, como proposto pela Proposta de Ementa Constitucional Número 51 (PEC 51/2013, disponível no anexo A). E em terceiro lugar, precisamos que a lei seja cumprida, especialmente a Constituição e os Direitos Humanos. Qualquer forma de execução de cidadãs é ilegal, principalmente quando realizada pelo Estado, e por isso, deve ser erradicada.
 
