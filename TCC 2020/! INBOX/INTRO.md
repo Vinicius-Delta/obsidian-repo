@@ -31,6 +31,15 @@ Isto é, o Design pode (e deve) romper com o paradigma de produzir para fabrican
 
 Para o intelectual, político, negro, pan-africanista Abdias Nascimento, existe um processo de sejeição sociocultural, indicioso, sistemático e silencioso, no qual a população negra do Brasil foi forçada a subalternizar-se. Nesse processo, o ser negro é impelido a negar a si próprio
 
+   Para Mbembe, “o estado de exceção e a relação de  
+inimizade tornaram-se a base normativa do direito de matar
+
+As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, uma figura jurídica que visa a proteger os policiais, que no exercício da função, agem em “legítima defesa”, e que matem alguém, na linguagem jurídico-policial um “opositor”, que contra o policial ou sua ação levantou “injusta agressão”. 
+
+
+
+A morte desse sujeito “matável” ocorre fora do registro dos homicídios ou de crimes, e não chegam sequer a gerar nenhum tipo de processo (Misse, 2011).
+
 
 > Parágrafo 2: ~~Qual é a finalidade? (objetivo)~~ O que precisa ser feito?- Sustentação
 
