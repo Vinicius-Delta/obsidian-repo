@@ -12,9 +12,13 @@ Entre a dor e o silêncio, esse trabalho surge para nos trazer um pouco de luz. 
 
 Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem lutar por equidade e por direitos. Segundo, precisamos da desmiliritação das polícias, isto é, remover qualquer vínculo entre as Polícias Militares com o exército, como proposto pela Proposta de Ementa Constitucional Número 51 (disponível no anexo A). E em terceiro lugar, precisamos que a lei seja cumprida. Qualquer forma de execução de cidadães pelas forças do Estado é ilegal e deve ser erradicada.
 
-Sob esses ideais nos reunimos, para utilizar o Design como ferrmenta para nosso manifesto, desta forma, inician novos diálogos e análises sob a questão.
+Sob esses ideais nos reunimos e utilizamos o Design como um instrumento para concretizar nosso manifesto, assim como afirma Bonsiepe (1997), “o Design se configura como ferramenta de articulação e interlocução para a transformação social na contemporaneidade”. (BONSIEPE. 1997, p. 38). 
 
-Nesse mesmo sentido afirma Bonsiepe (1997), “o Design se configura como ferramenta de articulação e interlocução para a transformação social na contemporaneidade”. (BONSIEPE. 1997, p. 38). 
+Desta forma, inauguramos novos diálogos e análises sob a questão, através da abordagem projetual do Design Crítico e Especulativo, que se propõe a criar futuros possíveis e realidades alternativas com base no q
+
+dentro do
+espectro do design conceitual, 
+
 
 
 
