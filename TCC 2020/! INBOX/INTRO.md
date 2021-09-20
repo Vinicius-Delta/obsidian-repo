@@ -9,11 +9,15 @@ Essa constatação é confirmada pelo Anuário Brasileiro de Segurança Pública
 
 Esse cenário nos atinge na forma um mal estar constante ao ver que nossos semelhantes diáriamente perecem sob a ação do Estado. Não há números, estatísticas ou tabelas que quantifiquem a brutalidade desses processos. É viver em sob um misto de constante indignação e impotência, que assombram com o medo de que em uma abordagem percamos nossos irmãos, irmãs, pais, mães, amigxs e companheirxs. É desnorteador e trumático viver sob tal bárbare armada, acaica, que remete aos tempos de escravidão. 
 
-Entre a dor e o silêncio, esse trabalho surge para nos trazer um pouco de luz. É grito mesmo que em vão, para quem quiser ouvir, de que ações concretas são necessárias.
+Entre a dor e o silêncio, esse trabalho surge como uma resposta a essa opressão institucionalizada. É um grito, mesmo que em vão, para quem quiser ouvir, de que ações concretas são necessárias.
 
 Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem lutar por equidade e por direitos. Segundo, precisamos da desmiliritação das polícias, para termos uma polícia única (sem disitinção entre Civil e Militar), voltada para a preservação da vida, como proposto pela Proposta de Ementa Constitucional Número 51 (disponível no anexo A). E em terceiro lugar, precisamos que a lei seja cumprida, especialmente a Constituição e os Direitos Humanos. Qualquer forma de execução de cidadãs é ilegal, principalmente quando realizada pelo Estado, e por isso, deve ser erradicada.
 
-Sob esses ideais nos reunimos e utilizamos o Design como um instrumento para concretizar nosso manifesto, assim como afirma Bonsiepe (1997), “o Design se configura como ferramenta de articulação e interlocução para a transformação social na contemporaneidade”. (BONSIEPE. 1997, p. 38). 
+Sob esses ideais nos reunimos e utilizamos o Design como um instrumento para concretizar nosso manifesto, seguindo nossas responsabilidades como afrodescendentes em transformar a realidade para futuras gerações:
+
+“Devemos nós, africanos e seus descendentes, enfatizar nossa capacidade de agir no projeto deste mundo atual, o de modelar a civilização futura, aberta a todos os eventos e expressões da existência humana, livre de exploradores e explorados, o que resulta na impossibilidade de haver opressores e oprimidos de qualquer raça ou cor epidérmica” (NASCIMENTO, 2016 [1977], p.171).
+
+
 
 Desta forma, inauguramos novos diálogos e análises sob a questão, através da abordagem projetual do Design Crítico e Especulativo. Essa abordagem se propõe a criar futuros possíveis e realidades alternativas com base no que presente, com o intuito de levantar um debate sobre quais os futuros que desejamos e quais queremos evitar (DUNNE; RABY, 2013).
 
