@@ -2,7 +2,7 @@
 
 Enquanto homens pretos no Brasil, podemos afimar que é impossível ignorar a realidade enquanto a questão racial no Brasil, pois fazemos parte do perfil demográfico mais sucetível a abordagens, opressões e injustiça pelo sistema de segurança pública brasileiro.
 
-A face mais perversa [genocídio da população negra]
+[O que é violência policial?] A face mais perversa [genocídio da população negra]
 
 Essa constatação é confirmada pelo Anuário Brasileiro de Segurança Pública (2021), que mostra que os negros (pretos e pardos, segundo o IBGE) correspondem a 79% das vítimas de assassinatos provocados por agentes de segurança pública no ano de 2020. Colacando em pespectiva, a taxa de letalidade policial entre negros é de 4,2 vítimas a cada 100 mil, já entre brancos ela é de 1,5 a cada 100 mil. Ou seja, a letalidade policial é 2,8 vezes mais comuns entre negros do que entre brancos.
 
@@ -12,7 +12,14 @@ Entre a dor e o silêncio, esse trabalho surge para nos trazer um pouco de luz. 
 
 Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem lutar por equidade e por direitos. Segundo, precisamos da desmiliritação das polícias, isto é, remover qualquer vínculo entre as Polícias Militares com o exército, como proposto pela Proposta de Ementa Constitucional Número 51 (disponível no anexo A). E em terceiro lugar, precisamos que a lei seja cumprida. Qualquer forma de execução de cidadães pelas forças do Estado é ilegal e deve ser erradicada.
 
-Sob esses ideais nos reunimos, para utilizar do Design como ferrmenta do nosso manifesto. Nesse mesmo sentido afirma Bonsiepe (1997), “o Design se configura como ferramenta de articulação e interlocução para a transformação social na contemporaneidade”. (BONSIEPE. 1997, p. 38). Isto é, o Design pode (e deve) romper com o paradigma de produzir para fabricantes produtos para um mercado consumidor, e direcionar o foco a atender necessidades de populações injustiçadas ou marginalizadas. (MARGOLIN E MARGOLIN, 2004, p. 44).
+Sob esses ideais nos reunimos, para utilizar do Design como ferrmenta para nosso manifesto.
+
+Nesse mesmo sentido afirma Bonsiepe (1997), “o Design se configura como ferramenta de articulação e interlocução para a transformação social na contemporaneidade”. (BONSIEPE. 1997, p. 38). 
+
+
+
+
+Isto é, o Design pode (e deve) romper com o paradigma de produzir para fabricantes produtos para um mercado consumidor, e direcionar o foco a atender necessidades de populações injustiçadas ou marginalizadas. (MARGOLIN E MARGOLIN, 2004, p. 44).
 
 
 > Parágrafo 2: ~~Qual é a finalidade? (objetivo)~~ O que precisa ser feito?- Sustentação
