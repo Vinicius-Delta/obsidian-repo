@@ -21,7 +21,7 @@ Assim, os capítulos seguintes deste trabalho devem ser orientados pela pergunta
 No capítulo seguinte realizamos discussões a partir de levantamentos bibliográficas e dados sobre a questão da Violência Policial no Brasil. No terceiro capítulo identificamos os objetivos, justificativa, fundamentação teórica e metodologia utilizados no projeto. No quato capítutlo apresentamos a metodologia projetual realizada, juntamente aos resultados obtidos em cada etapa. No quinto capítulo apresentamos o produto final e os resultados obtidos. No sexto capítulo realizamos nossas últimas considerações sobre o processo e nossas espectativas de continuidade. No sétimo capítulo são listadas todas as referências que serviram de base para  a contrução do trabalho.
 
 
-
+#todo citar marielle franco
 
 Isto é, o Design pode (e deve) romper com o paradigma de produzir para fabricantes produtos para um mercado consumidor, e direcionar o foco a atender necessidades de populações injustiçadas ou marginalizadas. (MARGOLIN E MARGOLIN, 2004, p. 44).
 
