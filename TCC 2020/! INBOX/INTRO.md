@@ -18,8 +18,9 @@ Desta forma, inauguramos novos diálogos e análises sob a questão, através da
 
 Assim, os capítulos seguintes deste trabalho devem ser orientados pela pergunta: como estabelecer conexões entre o contexto da violência policial no Brasil do século XXI e suas ramificações em um futuro próximo e hipotético, criando protótipos a partir das metodologias de ficção projetual?
 
-No capítulo seguinte discutimos sobre dados e  sobre a questão da Violência Policial no Brasil, que serviram de base para a construção do projeto. No terceiro capítulo ermos apresentar a abordagem que realizamos para co
-No quato capítutlo apresen
+No capítulo seguinte realizamos discussões a partir de levantamentos bibliográficas e dados sobre a questão da Violência Policial no Brasil. No terceiro capítulo ermos apresentar a abordagem que realizamos para co
+No quato capítutlo apresentamos a metodologia projetual realizada, juntamente aos resultados obtidos em cada etapa. No quinto capítulo apresentamos o produto final e os resultados obtidos. No sexto capítulo 
+No sétimo capítulo são listadas todas as referências que serviram de base para  a contrução do trabalho.
 
 
 Isto é, o Design pode (e deve) romper com o paradigma de produzir para fabricantes produtos para um mercado consumidor, e direcionar o foco a atender necessidades de populações injustiçadas ou marginalizadas. (MARGOLIN E MARGOLIN, 2004, p. 44).
