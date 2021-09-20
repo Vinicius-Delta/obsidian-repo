@@ -2,6 +2,9 @@
 
 Enquanto homens pretos no Brasil, podemos afimar que é impossível ignorar a realidade enquanto a questão racial no Brasil, pois fazemos parte do perfil demográfico mais sucetível a abordagens, opressões e acusações injustas do sistema de segurança pública brasileiro.
 
+Essa constatação é confirmada pelo 14º Anuário Brasileiro de Segurança Pública, que mostra que os negros (pretos e pardos) correspondem a 79,1% das vítimas de assassinatos provocados por agentes de segurança pública no ano de 2019.
+
+
 
 > Parágrafo 2: ~~Qual é a finalidade? (objetivo)~~ O que precisa ser feito?- Sustentação
 
