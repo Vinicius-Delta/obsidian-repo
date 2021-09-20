@@ -2,15 +2,15 @@
 
 Enquanto homens pretos no Brasil, podemos afimar que é impossível ignorar a realidade enquanto a questão racial no Brasil, pois fazemos parte do perfil demográfico mais sucetível a abordagens, opressões e injustiça pelo sistema de segurança pública brasileiro.
 
-A face mais perversa
+A face mais perversa [genocídio da população negra]
 
 Essa constatação é confirmada pelo Anuário Brasileiro de Segurança Pública (2021), que mostra que os negros (pretos e pardos, segundo o IBGE) correspondem a 79% das vítimas de assassinatos provocados por agentes de segurança pública no ano de 2020. Colacando em pespectiva, a taxa de letalidade policial entre negros é de 4,2 vítimas a cada 100 mil, já entre brancos ela é de 1,5 a cada 100 mil. Ou seja, a letalidade policial é 2,8 vezes mais comuns entre negros do que entre brancos.
 
 Esse cenário nos atinge na forma um mal estar constante ao ver que nossos semelhantes diáriamente perecem sob a ação do Estado. Não há números, estatísticas ou tabelas que quantifiquem a brutalidade desses processos. É viver em sob um misto de constante indignação e impotência, que assombram com o medo de que em uma abordagem percamos nossos irmãos, irmãs, pais, mães, amigxs e companheirxs. É desnorteador e trumático viver sob tal bárbare armada, acaica, que remete aos tempos de escravidão. 
 
-Entre a dor e o silêncio, esse trabalho surge para trazer um pouco de luz. É grito mesmo que vão, para quem quiser ouvir, de que uma mudança é necessária.
+Entre a dor e o silêncio, esse trabalho surge para trazer um pouco de luz. É grito mesmo que vão, para quem quiser ouvir, de que ações concretas são necessárias.
 
-Queremos a revogação 
+Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem lutar por equidade e por direitos. Segundo, precisamos da desmiliritação
 
 > Parágrafo 2: ~~Qual é a finalidade? (objetivo)~~ O que precisa ser feito?- Sustentação
 
