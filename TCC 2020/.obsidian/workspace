@@ -13,6 +13,28 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "9340ca0c4f128b7a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TCC/referências/violência policial/DefeZap.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "d184a3eea2aa628b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TCC/referências/violência policial/KUCINSKI, 2015.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283,
-    "collapsed": true
+    "width": 283
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -152,15 +173,15 @@
   },
   "active": "60479b22f07531d5",
   "lastOpenFiles": [
+    "! INBOX/INTRO.md",
+    "TCC/referências/violência policial/KUCINSKI, 2015.md",
+    "TCC/referências/violência policial/DefeZap.md",
     "! INBOX/Sem título.md",
     "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
     "daily/2021-03-11.md",
     "TCC/_TCC 2+/1 - Introdução.md",
     "TCC/_TCC 2+/4 - Abordagem metodológica.md",
-    "TCC/_TCC 2+/3 - Abordagem do tema.md",
-    "TCC/_TCC 2+/2 - Sobre violência policial.md",
-    "TCC/_TCC 2+/0. Estrutura dos capíutlos.md",
-    "TCC/_TCC 2+/6 - Considerações finais.md"
+    "TCC/_TCC 2+/3 - Abordagem do tema.md"
   ]
 }

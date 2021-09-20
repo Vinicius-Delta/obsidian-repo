@@ -5,6 +5,14 @@
       "path": "! INBOX/INTRO.md"
     },
     {
+      "basename": "KUCINSKI, 2015",
+      "path": "TCC/referências/violência policial/KUCINSKI, 2015.md"
+    },
+    {
+      "basename": "DefeZap",
+      "path": "TCC/referências/violência policial/DefeZap.md"
+    },
+    {
       "basename": "KUCINSKI, Bernardo et al, 2015",
       "path": "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "TCC 1 - Versão Final",
       "path": "TCC/_TCC 1/TCC 1 - Versão Final.md"
-    },
-    {
-      "basename": "Orientação 2020.07.20",
-      "path": "TCC/orientações/Orientação 2020.07.20.md"
-    },
-    {
-      "basename": "MEURER; SZABLUK, 2011",
-      "path": "TCC/referências/metodologia/MEURER; SZABLUK, 2011.md"
     }
   ],
   "omittedPaths": [],
