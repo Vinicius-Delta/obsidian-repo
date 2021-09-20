@@ -18,7 +18,7 @@ Desta forma, inauguramos novos diálogos e análises sob a questão, através da
 
 Assim, os capítulos seguintes deste trabalho devem ser orientados pela pergunta: como estabelecer conexões entre o contexto da violência policial no Brasil do século XXI e suas ramificações em um futuro próximo e hipotético, criando protótipos a partir das metodologias de ficção projetual?
 
-No capítulo seguinte iremos 
+No capítulo seguinte iremos apresentar dados e discussões sobre a questão da Violência Policial no Brasil, que serviram de base para a construção do projeto. No terceiro capítulo ermos apresentar a abordagem que realizamos para co
 
 
 
