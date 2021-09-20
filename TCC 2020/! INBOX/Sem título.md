@@ -6,6 +6,7 @@ Essa constatação é confirmada pelo Anuário Brasileiro de Segurança Pública
 
 
 
+
 > Parágrafo 2: ~~Qual é a finalidade? (objetivo)~~ O que precisa ser feito?- Sustentação
 
 > Parágrafo 3: Qual é o tema? (área do design) - Tópico
