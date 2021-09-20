@@ -2,7 +2,8 @@
 
 Enquanto homens pretos no Brasil, podemos afimar que é impossível ignorar a realidade enquanto a questão racial no Brasil, pois fazemos parte do perfil demográfico mais sucetível a abordagens, opressões e injustiça pelo sistema de segurança pública brasileiro.
 
-[O que é violência policial?] A face mais perversa [genocídio da população negra]
+Para Mbembe (2006), no mundo pós-colonial, na modernidade tardia e nos setores da população subalternizada no primeiro mundo, vigora política da morte
+
 
 Essa constatação é confirmada pelo Anuário Brasileiro de Segurança Pública (2021), que mostra que os negros (pretos e pardos, segundo o IBGE) correspondem a 79% das vítimas de assassinatos provocados por agentes de segurança pública no ano de 2020. Colacando em pespectiva, a taxa de letalidade policial entre negros é de 4,2 vítimas a cada 100 mil, já entre brancos ela é de 1,5 a cada 100 mil. Ou seja, pessoas negras tem uma chance de 2,8 vezes maior de ser vitimado por um homicídio provocado pelas forças policiais.
 
