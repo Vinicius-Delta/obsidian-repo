@@ -13,13 +13,13 @@ Entre a dor e o silêncio, esse trabalho surge como uma resposta a essa opressã
 
 Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem lutar por equidade e por direitos. Segundo, precisamos da desmiliritação das polícias, para termos uma polícia única (sem disitinção entre Civil e Militar), voltada para a preservação da vida, como proposto pela Proposta de Ementa Constitucional Número 51 (disponível no anexo A). E em terceiro lugar, precisamos que a lei seja cumprida, especialmente a Constituição e os Direitos Humanos. Qualquer forma de execução de cidadãs é ilegal, principalmente quando realizada pelo Estado, e por isso, deve ser erradicada.
 
-Sob esses ideais nos reunimos e utilizamos o Design como um instrumento para concretizar nosso manifesto, seguindo nossas responsabilidades como afrodescendentes em transformar a realidade para futuras gerações:
+Sob esses ideais nos reunimos e utilizamos o Design como um instrumento para concretizar nosso manifesto, realizando nosso papel social de agir em prol a um futuro livre de opressões sistêmicas, como afirma o intelectual Abdias Nascimento (2016):
 
-“Devemos nós, africanos e seus descendentes, enfatizar nossa capacidade de agir no projeto deste mundo atual, o de modelar a civilização futura, aberta a todos os eventos e expressões da existência humana, livre de exploradores e explorados, o que resulta na impossibilidade de haver opressores e oprimidos de qualquer raça ou cor epidérmica” (NASCIMENTO, 2016 [1977], p.171).
+		“Devemos nós, africanos e seus descendentes, enfatizar nossa capacidade de agir no projeto deste mundo atual, o de modelar a civilização futura, aberta a todos os eventos e expressões da existência humana, livre de exploradores e explorados, o que resulta na impossibilidade de haver opressores e oprimidos de qualquer raça ou cor epidérmica” (NASCIMENTO, 2016 [1977], p.171).
 
 
 
-Desta forma, inauguramos novos diálogos e análises sob a questão, através da abordagem projetual do Design Crítico e Especulativo. Essa abordagem se propõe a criar futuros possíveis e realidades alternativas com base no que presente, com o intuito de levantar um debate sobre quais os futuros que desejamos e quais queremos evitar (DUNNE; RABY, 2013).
+Assim, inauguramos novos diálogos e análises sob a questão, utilizando da abordagem projetual do Design Crítico e Especulativo. Essa abordagem se propõe a criar futuros possíveis e realidades alternativas com base no que presente, com o intuito de levantar um debate sobre quais os futuros que desejamos e quais queremos evitar (DUNNE; RABY, 2013).
 
 Assim, os capítulos seguintes deste trabalho devem ser orientados pela pergunta: como estabelecer conexões entre o contexto da violência policial no Brasil do século XXI e suas ramificações em um futuro próximo e hipotético, criando protótipos a partir das metodologias de ficção projetual?
 
