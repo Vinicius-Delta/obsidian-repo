@@ -10,7 +10,7 @@ Esse cenário nos atinge na forma um mal estar constante ao ver que nossos semel
 
 Entre a dor e o silêncio, esse trabalho surge como uma resposta a essa opressão institucionalizada. É um grito, mesmo que em vão, para quem quiser ouvir, de que ações concretas são necessárias.
 
-Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem lutar por equidade e por direitos. Segundo, precisamos da desmiliritação das polícias, para termos uma polícia única (sem disitinção entre Civil e Militar), voltada para a preservação da vida, como proposto pela Proposta de Ementa Constitucional Número 51 (disponível no anexo A). E em terceiro lugar, precisamos que a lei seja cumprida, especialmente a Constituição e os Direitos Humanos. Qualquer forma de execução de cidadãs é ilegal, principalmente quando realizada pelo Estado, e por isso, deve ser erradicada.
+Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem lutar por equidade e por direitos. Segundo, precisamos da desmiliritação das polícias, para termos uma polícia única (sem disitinção entre Civil e Militar), voltada para a preservação da vida, como proposto pela Proposta de Ementa Constitucional Número 51 (PEC 51/2013, disponível no anexo A). E em terceiro lugar, precisamos que a lei seja cumprida, especialmente a Constituição e os Direitos Humanos. Qualquer forma de execução de cidadãs é ilegal, principalmente quando realizada pelo Estado, e por isso, deve ser erradicada.
 
 Sob esses ideais nos reunimos e utilizamos o Design como um instrumento para concretizar nosso manifesto, realizando nosso papel social de agir em prol a um futuro livre de opressões sistêmicas, como afirma NASCIMENTO (2016):
 
