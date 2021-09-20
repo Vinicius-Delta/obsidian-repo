@@ -14,7 +14,7 @@ Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem l
 
 Sob esses ideais nos reunimos e utilizamos o Design como um instrumento para concretizar nosso manifesto, assim como afirma Bonsiepe (1997), “o Design se configura como ferramenta de articulação e interlocução para a transformação social na contemporaneidade”. (BONSIEPE. 1997, p. 38). 
 
-Desta forma, inauguramos novos diálogos e análises sob a questão, através da abordagem projetual do Design Crítico e Especulativo, que se propõe a criar futuros possíveis e realidades alternativas com base no q
+Desta forma, inauguramos novos diálogos e análises sob a questão, através da abordagem projetual do Design Crítico e Especulativo. Essa abordagem se propõe a criar futuros possíveis e realidades alternativas com base no que presente, com o intuito de levantar um debate sobre quais os futuros que desejamos ou quais queremos evitar (DUNNE, RABY, 2013).
 
 dentro do
 espectro do design conceitual, 
