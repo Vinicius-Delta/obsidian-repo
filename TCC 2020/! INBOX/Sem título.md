@@ -8,10 +8,11 @@ Essa constatação é confirmada pelo Anuário Brasileiro de Segurança Pública
 
 Esse cenário nos atinge na forma um mal estar constante ao ver que nossos semelhantes diáriamente perecem sob a ação do Estado. Não há números, estatísticas ou tabelas que quantifiquem a brutalidade desses processos. É viver em sob um misto de constante indignação e impotência, que assombram com o medo de que em uma abordagem percamos nossos irmãos, irmãs, pais, mães, amigxs e companheirxs. É desnorteador e trumático viver sob tal bárbare armada, acaica, que remete aos tempos de escravidão. 
 
-Entre a dor e o silêncio, esse trabalho surge para trazer um pouco de luz. É grito mesmo que vão, para quem quiser ouvir, de que ações concretas são necessárias.
+Entre a dor e o silêncio, esse trabalho surge para nos trazer um pouco de luz. É grito mesmo que em vão, para quem quiser ouvir, de que ações concretas são necessárias.
 
-Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem lutar por equidade e por direitos. Segundo, precisamos da desmiliritação das polícias, isto é, remover qualquer vínculo entre as Polícias Militares com o exército, como proposto pela Ementa Constitucional Número 51 (disponível no anexo A). E em terceiro lugar, precisamos que a lei seja cumprida. Qualquer execução de cidadões pelas forças do Estado é ilegal
+Primeiramente, precisamos que nós e nossos pares, estejam vivos, para poderem lutar por equidade e por direitos. Segundo, precisamos da desmiliritação das polícias, isto é, remover qualquer vínculo entre as Polícias Militares com o exército, como proposto pela Proposta de Ementa Constitucional Número 51 (disponível no anexo A). E em terceiro lugar, precisamos que a lei seja cumprida. Qualquer forma de execução de cidadães pelas forças do Estado é ilegal e deve ser erradicada.
 
+Sob esses ideais nos reunimos, para utilizar do Design como ferrmenta do nosso manifesto. Nesse mesmo sentido afirma Bonsiepe (1997), “o Design se configura como ferramenta de articulação e interlocução para a transformação social na contemporaneidade”. (BONSIEPE. 1997, p. 38). Isto é, o Design pode (e deve) romper com o paradigma de produzir para fabricantes produtos para um mercado consumidor, e direcionar o foco a atender necessidades de populações injustiçadas ou marginalizadas. (MARGOLIN E MARGOLIN, 2004, p. 44).
 
 
 > Parágrafo 2: ~~Qual é a finalidade? (objetivo)~~ O que precisa ser feito?- Sustentação
