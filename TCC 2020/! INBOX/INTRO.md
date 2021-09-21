@@ -2,10 +2,7 @@
 
 Enquanto homens pretos no Brasil, podemos afimar que é impossível ignorar a realidade enquanto a questão racial no Brasil, pois fazemos parte do perfil demográfico mais sucetível a abordagens, opressões e injustiça pelo sistema de segurança pública brasileiro.
 
-O que legitima a ação desses agentes de segurança para cometer essa violências indiscriminadamente? Segundo 
-
-que se se sustenta a partir da violência e da desagregação das identidades negras. Ao observer o fenômeno da violência policial
-percebemos que existem valor d valor diferenciado entre os “matáveis” e os “cidadãos de bem”.
+Ao observer o fenômeno da violência policial, percebemos que existem valor diferente para a vida dos “matáveis” e os “cidadãos de bem”. Os "matéveis" são em maioria os jovens negros, que trabalham no mercado informal, sem grantias assistenciais, que vivem em moradias precárias, que ficam longe do local do trabalho e locais públicos de lazer. Os “cidadãos de bem” são homens e mulheres brancas, muitos de classe média, com bom grau de educação, com empregos de renda média e morando nas zonas mais seguras das cidades. Para o primeiro grupo, a polícia se sente autorizada para usar força extrema para eliminar seus "inimigos", mesmo que não ofereçam risco ou resistência.
 
 
 Essa constatação é demonstrada pelo Anuário Brasileiro de Segurança Pública (2021), que mostra que os negros (pretos e pardos, segundo o IBGE) correspondem a 79% das vítimas de assassinatos provocados por agentes de segurança pública no ano de 2020. Colacando em pespectiva, a taxa de letalidade policial entre negros é de 4,2 vítimas a cada 100 mil, já entre brancos ela é de 1,5 a cada 100 mil. Ou seja, pessoas negras tem uma chance de 2,8 vezes maior de ser vitimado por um homicídio provocado pelas forças policiais.
