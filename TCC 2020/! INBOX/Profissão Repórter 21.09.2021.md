@@ -24,3 +24,4 @@ Ministérios públicos
 Fica na fase de inquerito
 Ministerio publico que não consegue denunciar
 Impunidade
+
