@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/INTRO.md",
+            "file": "! INBOX/Sem título.md",
             "mode": "source"
           }
         }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/INTRO.md"
+                "file": "! INBOX/Sem título.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/INTRO.md",
+                "file": "! INBOX/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -173,10 +173,10 @@
   },
   "active": "60479b22f07531d5",
   "lastOpenFiles": [
+    "! INBOX/Sem título.md",
     "! INBOX/INTRO.md",
     "TCC/referências/violência policial/KUCINSKI, 2015.md",
     "TCC/referências/violência policial/DefeZap.md",
-    "! INBOX/Sem título.md",
     "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
     "daily/2021-03-11.md",
