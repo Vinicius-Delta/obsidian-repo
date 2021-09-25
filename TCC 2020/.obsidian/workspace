@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Sem título.md",
+            "file": "! INBOX/Sem título 1.md",
             "mode": "source"
           }
         }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Sem título.md"
+                "file": "! INBOX/Sem título 1.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Sem título.md",
+                "file": "! INBOX/Sem título 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -173,6 +173,7 @@
   },
   "active": "60479b22f07531d5",
   "lastOpenFiles": [
+    "! INBOX/Sem título 1.md",
     "! INBOX/Sem título.md",
     "! INBOX/INTRO.md",
     "TCC/referências/violência policial/KUCINSKI, 2015.md",
@@ -181,7 +182,6 @@
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
     "daily/2021-03-11.md",
     "TCC/_TCC 2+/1 - Introdução.md",
-    "TCC/_TCC 2+/4 - Abordagem metodológica.md",
-    "TCC/_TCC 2+/3 - Abordagem do tema.md"
+    "TCC/_TCC 2+/4 - Abordagem metodológica.md"
   ]
 }
