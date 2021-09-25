@@ -1,3 +1,8 @@
+[(54) Profissão Repórter 21/09/2021 COMPLETO - YouTube](https://www.youtube.com/watch?v=5x4LmgyIkKk)
+
+
+
+
 João pedro
 
 Suspensão das operações policiais durante a pandemia, mesma assim continuam 
@@ -17,5 +22,5 @@ Ministérios públicos
 
 
 Fica na fase de inquerito
-Ministerio publico
+Ministerio publico que não consegue denunciar
 Impunidade
