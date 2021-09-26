@@ -41,7 +41,27 @@ As mortes provocadas pela polícia são usualmente enquadradas como “autos de 
 Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
 
 ## 6.Leituras complementares
-Por se tratar um tema complexto, com diversas temáticas transversais, foi necessário definir um escopo para o aprofundamento da pesquisa e utilização no projeto de Design. Devido as limitações de tempo e escopo dos auto
+Por se tratar um tema complexto, com diversas temáticas transversais, foi necessário definir um escopo execução da pesquisa e utilização no projeto de Design. Devido as limitações de tempo e escopo do TCC, os autores não aprofundarão em texto as seguintes temáticas:
+
+* A crescente disponibilidade de armas de fogo no Brasil
+* Crime organizado
+* A inexistência de uma política nacional de redução de homicídios
+* A banalização da violência no país
+* A estigmatização dos moradores das favelas
+* Racismo histórico no Brasil
+* Representação midíatica da criminalidade
+* A ação dos Grupos de Extermínio e Milícias
+* A questão das drogas
+* O debate público sobre segurança pública
+* As violações de direitos humanos cometidas ao policiais, dentro das organizações
+* O contexto histórico das políticas segurança públicas
+* Violência policial no contexto internacional
+
+Apesar desses temas não estarem diretamente representados nesta monografia, 
+
+
+
+
 
 
 
