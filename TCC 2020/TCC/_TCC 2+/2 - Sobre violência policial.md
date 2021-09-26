@@ -40,6 +40,7 @@ As mortes provocadas pela polícia são usualmente enquadradas como “autos de 
 
 Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
 
+
 ## 6.Leituras complementares
 Por se tratar um tema complexto, com diversas temáticas transversais, foi necessário definir um escopo execução da pesquisa e utilização no projeto de Design. Devido as limitações de tempo e escopo do TCC, os autores não aprofundarão em texto as seguintes temáticas:
 
@@ -57,7 +58,7 @@ Por se tratar um tema complexto, com diversas temáticas transversais, foi neces
 * O contexto histórico das políticas segurança públicas
 * Violência policial no contexto internacional
 
-Apesar desses temas não estarem diretamente representados nesta monografia, reconhecemos a importância do compreensão delas para o melhor entendimento da questão 
+Apesar desses temas não estarem diretamente representados nesta monografia, reconhecemos a importância do compreensão delas para o melhor entendimento da questão. Por isso, selecionamos outras publicações que tratam desssas subtemáticas. A relação das obras e autores está disponível no Apêndice X.
 
 
 
