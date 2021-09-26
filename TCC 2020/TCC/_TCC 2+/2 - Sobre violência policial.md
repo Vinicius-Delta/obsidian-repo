@@ -66,7 +66,7 @@ Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, qua
   
 
 [dados recentes]
-Em 2020, o Brasil atingiu o maior nímero de mortes devido a intervenções policiais, desde o in
+Em 2020, o Brasil atingiu o maior nímero de mortes devido a intervenções policiais, desde 1998, quando o indicador pasosu a ser monitorado pelo Fórum Brasileiro de Segurança Pública
   
 
 [melhorar a conexão desse trecho]
