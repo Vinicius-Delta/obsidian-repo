@@ -1,6 +1,6 @@
 **
 
-## 1. Segurança pública como direito humano
+## 2.1. Segurança pública como direito humano
 
 Todos os seres humanos têm o direito à vida, à liberdade à liberdade e à segurança pessoal, independentemente de sua cor, raça, classe social ou gênero. Esse direito, é resultado de uma da luta realizada históricamente por pessoas que viveram ou ainda vivem sob opressão, e que atingiu patamar global a partir de 1948, pela assinatura da Declaração Universal dos Direitos Humanos em asssembléia da ONU. A partir dessa declaração, todos os governos, precisam garantir esses direiros e atuar contra a sua violação.  (ONU, 1948)
   
@@ -14,26 +14,27 @@ Os agentes dessas instituições são assegurados pela Lei de que podem realizar
 
 	“Os responsáveis pela aplicação da lei não usarão armas de fogo contra pessoas, exceto em casos de legítima defesa própria ou de outrem contra ameaça iminente de morte ou ferimento grave; para impedir a perpetração de crime particularmente grave que envolva séria ameaça à vida; para efetuar a prisão de alguém que represente tal risco e resista à autoridade; ou para impedir a fuga de tal indivíduo, e isso apenas nos casos em que outros meios menos extremados revelem-se insuficientes para atingir tais objetivos. Em qualquer caso, o uso letal intencional de  armas de fogo só poderá ser feito quando estritamente inevitável à proteção da vida”. (ANISTIA INTERNACIONAL, 2015,p. 18)
 
-Apesar dos direitos humanos determinarem que as armas de fogo devem ser utilizadas apenas quando há uma vida em risco, infelizmente, nem sempre é o caso. São frequentes as mortes que resultaram de ações da polícia, que não foram por uma ação de legítima defesa do policial. São as chamadas “execuções extrajudiciais”, pois são produto de um uso desnecessário ou desproporcional da força letal. (ANISTIA INTERNACIONAL, 2017)
-
-
-   Os governos deverão assegurar que o uso arbitrário ou abusivo da força e de armas de fogo por  responsáveis pela aplicação da lei seja punido como delito criminal, de acordo com a legislação em vigor
-
-[desenvolvimento]
+Apesar dos direitos humanos determinarem que as armas de fogo devem ser utilizadas apenas quando há uma vida em risco, infelizmente, nem sempre é o caso. São frequentes as mortes que resultaram de ações da polícia, que não foram por uma ação de legítima defesa do policial. São as chamadas “execuções extrajudiciais”, pois são produto de um uso desnecessário ou desproporcional da força letal (ANISTIA INTERNACIONAL, 2017). 
  
- ----
  
+ ## 2.2. Execuções extrajudiciais e outros abusos policiais
 
 Apesar das tentativas das forças do Estado em combater as ameaças à segurança, o Brasil ainda possui uma criminalidade elevada. Segundo o Anuário Brasileiro de Segurança Pública de 2019, isso se reflete no número de mortes violentas intencionais, com um total de 57.341 homicídios em 2018. Ou, em média, uma pessoa morta a cada 10 minutos. Importante destacar que desse total de assassinatos, apenas 8% são esclarecidos por meio de inquérito policial. (Fórum Brasileiro de Segurança Pública, 2019).
 
 Essa ineficiência do sistema investigativo, resulta numa percepção de impunidade e numa descrença sobre o sistema de justiça criminal. Como resposta, a população se tornou menos tolerante ao crime, solicitando maior repressão e intervenção por parte do governo. Esse cenário contribuiu para fortalecer a ideia de que, através do endurecimento das abordagens policiais, seria possível solucionar os problemas da criminalidade (CUBAS et al, 2016).
 
-Em resposta a isso, parte do efetivo aproveita o apoio como licença para matar ou, como preceitua Mingardi (2015, p.14), agem de acordo com regras próprias, por vezes infringindo o espírito das leis. A ação policial se torna mais violenta e entram no repertório a prática de abusos da força legal, torturas, humilhações e execuções extrajudiciais por parte das polícias.
+Em resposta a isso, parte do efetivo aproveita o apoio como licença para matar ou, como preceitua Mingardi (2015, p.14), "agem de acordo com regras próprias, por vezes infringindo o espírito das leis". A ação policial se torna mais violenta e entram no repertório a prática de abusos da força legal, torturas, humilhações e execuções extrajudiciais por parte das polícias.
+
+
+
+Segundo o Relatório para o Conselho de Direitos Humanos das Nações Unidas (2014, parágrafo 79),  os governos 
+
+Os governos deverão assegurar que o uso arbitrário ou abusivo da força e de armas de fogo por  responsáveis pela aplicação da lei seja punido como delito criminal, de acordo com a legislação em vigor
+(ONU, 2014)
 
   
   
 
-## 3. Execuções extrajudiciais e outros abusos policiais
 
   
 
