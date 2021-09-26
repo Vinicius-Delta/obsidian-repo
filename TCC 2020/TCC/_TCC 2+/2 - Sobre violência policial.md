@@ -22,7 +22,7 @@ Estes indivíduos são, com frequência, jovens de baixa escolaridade, pobres, m
 
 [Exemplo de salvador]
 
-As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico que visa a proteger os policiais, que no exercício da função, agem em “legítima defesa”, e que matem alguém, na linguagem jurídico-policial um “opositor”, que contra o policial ou sua ação levantou “injusta agressão”. 
+As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico utilizado para proteger os policiais que durante o exercício da função, agiram em “legítima defesa”, e mataram um “opositor” que realizou uma “injusta agressão” contra eles. 
 
 
 Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
