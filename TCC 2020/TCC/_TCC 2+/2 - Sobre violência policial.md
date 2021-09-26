@@ -25,14 +25,17 @@ Essa ineficiência do sistema investigativo, resulta numa percepção de impunid
 
 Em resposta a isso, parte do efetivo aproveita o apoio como licença para matar ou, como preceitua Mingardi (2015, p.14), "agem de acordo com regras próprias, por vezes infringindo o espírito das leis". A ação policial se torna mais violenta e entram no repertório a prática de abusos da força legal, torturas, humilhações e execuções extrajudiciais por parte das polícias.
 
+Prova disso, é que temos no Brasil a polícia que mais mata no mundo. 11 a cada 100 homicídios foram provocados pelas Polícias, num total de mais de 6.220 vítimas no ano de 2018, e em média, 17 por dia. Em comparação ao ano anterior (2017), o assassinato causado por policiais aumentou em 19,6%, e foi a única categoria de homicídios em alta. (Fórum Brasileiro de Segurança Pública, 2019).
+
+As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico utilizado para proteger os policiais que durante o exercício da função, agiram em “legítima defesa”, e mataram um “opositor” que realizou uma “injusta agressão” contra eles. (MISSE; GRILLO; NERI, 2015).
+
+Essa manifestação ainda mais violenta da polícia tem impactos mais intensos em determinados setores da população. Segundo Fernanda Mena (2016), na questão policial não há equidade nem respeito à Constituição, uma vez que as desigualdades fazem parte das atividades policiais e da Justiça criminal. Ele afirma que existe uma preferência pela prisão em flagrante, que acontece nas ruas, "sob um filtro social, territorial e racial". (SOARES, p.32-35, 2016).
+
+Estes indivíduos são, com frequência, jovens de baixa escolaridade, pobres, moradores de periferias e favelas, que devido às dificuldades sociais e sinônimas recorrem a alternativas de sobrevivência econômica. Consequentemente, são os principais alvos das ações policiais que resultam em homicídio. Segundo o Anuário, as maiores vítimas fatais são homens (99,3%), negros (75,4%) e jovens entre 15 e 29 anos (77,9%). Do total de vítimas, 81,5% das vítimas só chegaram até o Ensino Fundamental, 16,2% foram até o Ensino Médio, e 2,3% ao Ensino Superior. (Fórum Brasileiro de Segurança Pública, 2019).
+
+Segundo o Relatório para o Conselho de Direitos Humanos das Nações Unidas (2014),  os governos deverão assegurar que os agentes de seguraçança - especialmente os policiais - respeitem o direito a vida.  O mesmo relatório articula que "a falha do Estado em investigar devidamente os casos de mortes resultantes do uso da força de seus agentes é uma violação do direito à vida de igual forma" (ONU, 2014; tradução de ANISTIA INTERNACIONAL, 2015)
 
 
-Segundo o Relatório para o Conselho de Direitos Humanos das Nações Unidas (2014),  os governos deverão assegurar que os agentes de seguraçança - especialmente os policiais - respeitem o direito a vida.  Ainda sobre o mesmo relatório, "A falha do Estado em investigar devidamente os casos de mortes resultantes do uso da força de seus agentes é uma violação do direito à vida de igual forma"
-
-o uso arbitrário ou abusivo da força e de armas de fogo por  responsáveis pela aplicação da lei seja punido como delito criminal, de acordo com a legislação em vigor
-(ONU, 2014)
-
-  
   
 
 
@@ -42,20 +45,14 @@ o uso arbitrário ou abusivo da força e de armas de fogo por  responsáveis pel
 
   
 
-Prova disso, é que temos no Brasil a polícia que mais mata no mundo. 11 a cada 100 homicídios foram provocados pelas Polícias, num total de mais de 6.220 vítimas no ano de 2018, e em média, 17 por dia. Em comparação ao ano anterior (2017), o assassinato causado por policiais aumentou em 19,6%, e foi a única categoria de homicídios em alta. (Fórum Brasileiro de Segurança Pública, 2019).
 
   
 
-Essa manifestação ainda mais violenta da polícia tem impactos mais intensos em determinados setores da população. Segundo Fernanda Mena (2016), na questão policial não há equidade nem respeito à Constituição, uma vez que as desigualdades fazem parte das atividades policiais e da Justiça criminal. Ele afirma que existe uma preferência pela prisão em flagrante, que acontece nas ruas, "sob um filtro social, territorial e racial". (SOARES, p.32-35, 2016).
 
-  
-
-Estes indivíduos são, com frequência, jovens de baixa escolaridade, pobres, moradores de periferias e favelas, que devido às dificuldades sociais e sinônimas recorrem a alternativas de sobrevivência econômica. Consequentemente, são os principais alvos das ações policiais que resultam em homicídio. Segundo o Anuário, as maiores vítimas fatais são homens (99,3%), negros (75,4%) e jovens entre 15 e 29 anos (77,9%). Do total de vítimas, 81,5% das vítimas só chegaram até o Ensino Fundamental, 16,2% foram até o Ensino Médio, e 2,3% ao Ensino Superior. (Fórum Brasileiro de Segurança Pública, 2019).
 
   
   
 
-As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico utilizado para proteger os policiais que durante o exercício da função, agiram em “legítima defesa”, e mataram um “opositor” que realizou uma “injusta agressão” contra eles. (MISSE; GRILLO; NERI, 2015).
 
   
 
