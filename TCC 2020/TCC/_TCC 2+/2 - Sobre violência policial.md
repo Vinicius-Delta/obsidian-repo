@@ -57,7 +57,7 @@ Por se tratar um tema complexto, com diversas temáticas transversais, foi neces
 * O contexto histórico das políticas segurança públicas
 * Violência policial no contexto internacional
 
-Apesar desses temas não estarem diretamente representados nesta monografia, 
+Apesar desses temas não estarem diretamente representados nesta monografia, reconhecemos a importância do compreensão delas para o melhor entendimento da questão 
 
 
 
