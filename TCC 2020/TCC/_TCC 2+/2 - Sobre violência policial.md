@@ -10,7 +10,12 @@ Quadro X - Instituições brasileiras responsáveis pela segurança
 ![[Pasted image 20210926113017.png]]
 Fonte: adaptado de ANISTIA INTERNACIONAL (2017)
 
-Os agentes dessas instituições são assegurados pela Lei de que podem realizar uso de força durante o exercício das suas funções, todavia esse uso deve ser feito respentando os direitos humanos e internacionais. 
+Os agentes dessas instituições são assegurados pela Lei de que podem realizar uso de força durante o exercício das suas funções, todavia esse uso deve ser feito respentando os direitos humanos e internacionais (ANISTIA INTERNACIONAL, 2017). Por ser um membro da 
+
+O Brasil como membro da Organização das Nações Unidas (ONU) está
+vinculado as resoluções que criaram o Código de Conduta (CCEAL) e os princípios
+básicos sobre a utilização da força e de armas de fogo pelos funcionários
+responsáveis pela aplicação da lei (PBUFAF). 
 
   
 
