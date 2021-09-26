@@ -1,21 +1,25 @@
-# Sobre violência policial
+# Segurança Pública e Violência Policial
 
 ## 1. Segurança pública como direito humano
 Todos os seres humanos têm o direito a vida, à liberdade à liberdade e à segurança pessoal, independente de sua cor, raça, classe social ou gênero.
 
 A Constituição Federal, promulgada em 1988, também estabelece
-princípios que estão baseados nos direitos humanos, garantindo o a proteção de todos os brasileiros, seus bens e seus direitos. 
+princípios que estão baseados nos direitos humanos, garantindo o a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o Art. 5, todos tem o direito a vida, à liberdade, à igualdade, à segurança e à propriedade, sem qualquer distinção entre os indivíduos.
 
 
-Segundo o seu Art. 144, os responsáveis por essa proteção são órgãos representantes do estado: polícias federais, rodoviárias e ferroviárias, que respondem à União, e as polícias civis, militares e o corpo de bombeiros, que são subordinados ao governo estadual (Brasil, 1988).
+## 2. O papel das polícias
 
+Segundo o Artigo 144º da Constituição, os responsáveis por essa proteção são órgãos representantes do estado: polícias federais, rodoviárias e ferroviárias, que respondem à União, e as polícias civis, militares e o corpo de bombeiros, que são subordinados ao governo estadual (Brasil, 1988).
 
-## 3. Execuções extrajudiciais e outros abusos policiais
 Apesar das tentativas das forças do Estado em combater as ameaças à segurança, o Brasil ainda possui uma criminalidade elevada. Segundo o Anuário Brasileiro de Segurança Pública de 2019, isso se reflete no número de mortes violentas intencionais, com um total de 57.341 homicídios em 2018. Ou, em média, uma pessoa morta a cada 10 minutos. Importante destacar que desse total de assassinatos, apenas 8% são esclarecidos por meio de inquérito policial. (Fórum Brasileiro de Segurança Pública, 2019).
 
 Essa ineficiência do sistema investigativo, resulta numa percepção de impunidade e numa descrença sobre o sistema de justiça criminal. Como resposta, a população se tornou menos tolerante ao crime, solicitando maior repressão e intervenção por parte do governo. Esse cenário contribuiu para fortalecer a ideia de que, através do endurecimento das abordagens policiais, seria possível solucionar os problemas da criminalidade (CUBAS et al, 2016).
 
-Em resposta a isso, parte do efetivo aproveita o apoio como licença para matar ou, como preceitua Mingardi (2015, p.14), agem de acordo com regras próprias, por vezes infringindo o espírito das leis. A ação policial se torna mais violenta e entram no repertório a prática de abusos da força legal, torturas, humilhações e execuções extrajudiciais por parte das polícias.
+Em resposta a isso, parte do efetivo aproveita o apoio como licença para matar ou, como preceitua Mingardi (2015, p.14), agem de acordo com regras próprias, por vezes infringindo o espírito das leis. 
+
+## 3. Execuções extrajudiciais e outros abusos policiais
+
+A ação policial se torna mais violenta e entram no repertório a prática de abusos da força legal, torturas, humilhações e execuções extrajudiciais por parte das polícias.
 
 Prova disso, é que temos no Brasil a polícia que mais mata no mundo. 11 a cada 100 homicídios foram provocados pelas Polícias, num total de mais de 6.220 vítimas no ano de 2018, e em média, 17 por dia. Em comparação ao ano anterior (2017), o assassinato causado por policiais aumentou em 19,6%, e foi a única categoria de homicídios em alta. (Fórum Brasileiro de Segurança Pública, 2019).
 
