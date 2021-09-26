@@ -2,7 +2,7 @@
 
 ## 1. Segurança pública como direito humano
 
-Todos os seres humanos têm o direito à vida, à liberdade à liberdade e à segurança pessoal, independentemente de sua cor, raça, classe social ou gênero.
+Todos os seres humanos têm o direito à vida, à liberdade à liberdade e à segurança pessoal, independentemente de sua cor, raça, classe social ou gênero. Esse direito, é uma conconquistado ao longo de uma luta histórica, realizada por pessoas que que vi
 
   
 A Constituição Federal, promulgada em 1988, também estabelece princípios que estão baseados nos direitos humanos, garantindo o a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o Art. 5, todos tem o direito a vida, à liberdade, à igualdade, à segurança e à propriedade, sem qualquer distinção entre os indivíduos.
