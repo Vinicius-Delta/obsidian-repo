@@ -20,28 +20,33 @@ Em resposta a isso, parte do efetivo aproveita o apoio como licença para matar 
 
 ## 3. Execuções extrajudiciais e outros abusos policiais
 
-[algo]
+[Argumento principal]
+
 Prova disso, é que temos no Brasil a polícia que mais mata no mundo. 11 a cada 100 homicídios foram provocados pelas Polícias, num total de mais de 6.220 vítimas no ano de 2018, e em média, 17 por dia. Em comparação ao ano anterior (2017), o assassinato causado por policiais aumentou em 19,6%, e foi a única categoria de homicídios em alta. (Fórum Brasileiro de Segurança Pública, 2019).
 
 Essa manifestação ainda mais violenta da polícia tem impactos mais intensos em determinados setores da população. Segundo Fernanda Mena (2016), na questão policial não há equidade nem respeito à Constituição, uma vez que as desigualdades fazem parte das atividades policiais e da Justiça criminal. Ele afirma que existe uma preferência pela prisão em flagrante, que acontece nas ruas, "sob um filtro social, territorial e racial". (SOARES, p.32-35, 2016).
 
 Estes indivíduos são, com frequência, jovens de baixa escolaridade, pobres, moradores de periferias e favelas, que devido às dificuldades sociais e sinônimas recorrem a alternativas de sobrevivência econômica. Consequentemente, são os principais alvos das ações policiais que resultam em homicídio. Segundo o Anuário, as maiores vítimas fatais são homens (99,3%), negros (75,4%) e jovens entre 15 e 29 anos (77,9%). Do total de vítimas, 81,5% das vítimas só chegaram até o Ensino Fundamental, 16,2% foram até o Ensino Médio, e 2,3% ao Ensino Superior. (Fórum Brasileiro de Segurança Pública, 2019).
 
-[Exemplo de salvador]
+[Em salvador, 100% dos homicídios cometidos pelos policiais foram de jovens negros]
 
-As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico utilizado para proteger os policiais que durante o exercício da função, agiram em “legítima defesa”, e mataram um “opositor” que realizou uma “injusta agressão” contra eles. (MISSE; GRILLO; NERI, 2015)
+As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico utilizado para proteger os policiais que durante o exercício da função, agiram em “legítima defesa”, e mataram um “opositor” que realizou uma “injusta agressão” contra eles. (MISSE; GRILLO; NERI, 2015).
 
+[desenvolvimento sobre número de casos investigados e impunidade]
 
-## 4. Acontecimentos recentes [pendente]
+Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
+
+## 4. Acontecimentos recentes 
+[pendente]
 
 
 
 ## 5. Recomendações dos especialistas
 
-Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
 
-
-[uso de câmeras]
+[uso de câmeras nos uniformes]
+[desmilitarização]
+[recomendações da Anistia Internacional]
 
 
 ## 6.Leituras complementares
