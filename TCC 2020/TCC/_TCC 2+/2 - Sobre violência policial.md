@@ -12,11 +12,11 @@ Fonte: adaptado de ANISTIA INTERNACIONAL (2017)
 
 Os agentes dessas instituições são assegurados pela Lei de que podem realizar uso de força durante o exercício das suas funções, todavia esse uso deve ser feito respentando os direitos humanos e internacionais. Por ser um membro da ONU, o Brasil está vinculado as resoluções do CCEAL - Código de Conduta para os Funcionários Responsáveis pela Aplicação da Lei - e ao PBUFAF - Princípios básicos sobre a utilização da força e de armas de fogo pelos funcionários responsáveis pela aplicação da lei  (ANISTIA INTERNACIONAL, 2017). O artigo 3º da CCEAL determina que "os encarregados da aplicação da lei só podem empregar a força quando estritamente necessária e na medida exigida para o cumprimento de seu dever". O princípio 9 da PBUFAF determina que:
 
-	“Os responsáveis pela aplicação da lei não usarão armas de fogo contra pessoas, exceto em casos de legítima defesa própria ou de outrem contra ameaça iminente de morte ou ferimento grave; para impedir a perpetração de crime particularmente grave que envolva séria ameaça à vida; para efetuar a prisão de alguém que represente tal risco e resista à autoridade; ou para impedir a fuga de tal indivíduo, e isso apenas nos casos em que outros meios menos extremados revelem-se insuficientes para atingir tais objetivos. Em qualquer caso, o uso letal intencional de  armas de fogo só poderá ser feito quando estritamente inevitável à proteção da vida”. (ANISTIA INTERNACIONAL, 2017,p. 18)
+	“Os responsáveis pela aplicação da lei não usarão armas de fogo contra pessoas, exceto em casos de legítima defesa própria ou de outrem contra ameaça iminente de morte ou ferimento grave; para impedir a perpetração de crime particularmente grave que envolva séria ameaça à vida; para efetuar a prisão de alguém que represente tal risco e resista à autoridade; ou para impedir a fuga de tal indivíduo, e isso apenas nos casos em que outros meios menos extremados revelem-se insuficientes para atingir tais objetivos. Em qualquer caso, o uso letal intencional de  armas de fogo só poderá ser feito quando estritamente inevitável à proteção da vida”. (ANISTIA INTERNACIONAL, 2015,p. 18)
 
-O Relatório (ONU, 2014, parágrafo 56)
+O Relatório (ONU, 2015, parágrafo 56)
 
-  
+   Os governos deverão assegurar que o uso arbitrário ou abusivo da força e de armas de fogo por  responsáveis pela aplicação da lei seja punido como delito criminal, de acordo com a legislação em vigor
 
 [desenvolvimento]
  
