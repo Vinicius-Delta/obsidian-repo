@@ -7,7 +7,7 @@ A Constituição Federal, promulgada em 1988, também estabelece
 princípios que estão baseados nos direitos humanos, garantindo o a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o seu Art. 144, os responsáveis por essa proteção são órgãos representantes do estado: polícias federais, rodoviárias e ferroviárias, que respondem à União, e as polícias civis, militares e o corpo de bombeiros, que são subordinados ao governo estadual (Brasil, 1988).
 
 
-## 3. Execuções extrajudiciais, uso desnecessário de força e outros abusos policiais
+## 3. Execuções extrajudiciais e outros abusos policiais
 Apesar das tentativas das forças do Estado em combater as ameaças à segurança, o Brasil ainda possui uma criminalidade elevada. Segundo o Anuário Brasileiro de Segurança Pública de 2019, isso se reflete no número de mortes violentas intencionais, com um total de 57.341 homicídios em 2018. Ou, em média, uma pessoa morta a cada 10 minutos. Importante destacar que desse total de assassinatos, apenas 8% são esclarecidos por meio de inquérito policial. (Fórum Brasileiro de Segurança Pública, 2019).
 
 Essa ineficiência do sistema investigativo, resulta numa percepção de impunidade e numa descrença sobre o sistema de justiça criminal. Como resposta, a população se tornou menos tolerante ao crime, solicitando maior repressão e intervenção por parte do governo. Esse cenário contribuiu para fortalecer a ideia de que, através do endurecimento das abordagens policiais, seria possível solucionar os problemas da criminalidade (CUBAS et al, 2016).
@@ -21,6 +21,9 @@ Essa manifestação ainda mais violenta da polícia tem impactos mais intensos e
 Estes indivíduos são, com frequência, jovens de baixa escolaridade, pobres, moradores de periferias e favelas, que devido às dificuldades sociais e sinônimas recorrem a alternativas de sobrevivência econômica. Consequentemente, são os principais alvos das ações policiais que resultam em homicídio. Segundo o Anuário, as maiores vítimas fatais são homens (99,3%), negros (75,4%) e jovens entre 15 e 29 anos (77,9%). Do total de vítimas, 81,5% das vítimas só chegaram até o Ensino Fundamental, 16,2% foram até o Ensino Médio, e 2,3% ao Ensino Superior. (Fórum Brasileiro de Segurança Pública, 2019).
 
 [Exemplo de salvador]
+
+As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico que visa a proteger os policiais, que no exercício da função, agem em “legítima defesa”, e que matem alguém, na linguagem jurídico-policial um “opositor”, que contra o policial ou sua ação levantou “injusta agressão”. 
+
 
 Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
 
