@@ -6,6 +6,8 @@ Todos os seres humanos têm o direito a vida, à liberdade à liberdade e à seg
 A Constituição Federal, promulgada em 1988, também estabelece
 princípios que estão baseados nos direitos humanos, garantindo o a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o Art. 5, todos tem o direito a vida, à liberdade, à igualdade, à segurança e à propriedade, sem qualquer distinção entre os indivíduos.
 
+[desenvolvimento]
+
 
 ## 2. O papel das polícias
 
@@ -36,7 +38,7 @@ As mortes provocadas pela polícia são usualmente enquadradas como “autos de 
 
 Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
 
-## 4. Acontecimentos recentes 
+## 4. Violência policial durante a pandemia (2020-2021) 
 [pendente]
 
 
