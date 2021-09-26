@@ -66,7 +66,7 @@ Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, qua
   
 
 [dados recentes]
-
+Em 2020, o Brasil atingiu o maior nímero de mortes devido a intervenções policiais, desde o in
   
 
 [melhorar a conexão desse trecho]
