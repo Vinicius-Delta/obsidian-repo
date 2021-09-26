@@ -3,22 +3,20 @@
 ## 1. Segurança pública como direito humano
 Todos os seres humanos têm o direito a vida, à liberdade à liberdade e à segurança pessoal, independente de sua cor, raça, classe social ou gênero.
 
+A Constituição Federal, promulgada em 1988, também estabelece
+princípios que estão baseados nos direitos humanos, garantindo o a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o seu Art. 144, os responsáveis por essa proteção são órgãos representantes do estado: polícias federais, rodoviárias e ferroviárias, que respondem à União, e as polícias civis, militares e o corpo de bombeiros, que são subordinados ao governo estadual (Brasil, 1988).
+
+## 2. A ineficiência da segurança pública
 
 
-## 2. Execuções extrajudiciais, uso desnecessário de força e outros abusos policiais
+## 3. Execuções extrajudiciais, uso desnecessário de força e outros abusos policiais
 
-## 3. Impunidade
+## 4. Impunidade
 
-## 4. Recomendações dos especialistas
-
-[[Fale sobre o direitos humanos]]
-
-A nossa Constituição Federal, maior lei do País desde sua promulgação, em 1988, também estabelece
-princípios, e eles estão baseados nos
-direitos humanos
+## 5. Recomendações dos especialistas
 
 
-Com a promulgação da Constituição Federal Brasileira, torna-se dever do Estado a garantia à segurança pública a todos seus cidadãos, protegendo todas as pessoas, seus bens e seus direitos. Segundo o seu Art. 144, os responsáveis por essa proteção são órgãos representantes do estado: polícias federais, rodoviárias e ferroviárias, que respondem à União, e as polícias civis, militares e o corpo de bombeiros, que são subordinados ao governo estadual (Brasil, 1988).
+
 
 Apesar das tentativas das forças do Estado em combater as ameaças à segurança, o Brasil ainda possui uma criminalidade elevada. Segundo o Anuário Brasileiro de Segurança Pública de 2019, isso se reflete no número de mortes violentas intencionais, com um total de 57.341 homicídios em 2018. Ou, em média, uma pessoa morta a cada 10 minutos. Importante destacar que desse total de assassinatos, apenas 8% são esclarecidos por meio de inquérito policial. (Fórum Brasileiro de Segurança Pública, 2019).
 
