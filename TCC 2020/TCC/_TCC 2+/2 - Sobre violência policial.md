@@ -30,7 +30,6 @@ Essa manifestação ainda mais violenta da polícia tem impactos mais intensos e
 
 Estes indivíduos são, com frequência, jovens de baixa escolaridade, pobres, moradores de periferias e favelas, que devido às dificuldades sociais e sinônimas recorrem a alternativas de sobrevivência econômica. Consequentemente, são os principais alvos das ações policiais que resultam em homicídio. Segundo o Anuário, as maiores vítimas fatais são homens (99,3%), negros (75,4%) e jovens entre 15 e 29 anos (77,9%). Do total de vítimas, 81,5% das vítimas só chegaram até o Ensino Fundamental, 16,2% foram até o Ensino Médio, e 2,3% ao Ensino Superior. (Fórum Brasileiro de Segurança Pública, 2019).
 
-[Em salvador, 100% dos homicídios cometidos pelos policiais foram de jovens negros]
 
 As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico utilizado para proteger os policiais que durante o exercício da função, agiram em “legítima defesa”, e mataram um “opositor” que realizou uma “injusta agressão” contra eles. (MISSE; GRILLO; NERI, 2015).
 
@@ -49,7 +48,13 @@ Em resposta à crescente onda de protestos, vários departamentos de polícia re
 
 [suspensão das operações policiais pelo STF]
 
-[Caso ]
+[Operação em Jacarezinho]
+
+[Em salvador, 100% dos homicídios cometidos pelos policiais foram de jovens negros]
+
+[Kathlen Romeu, a designer de interiores]
+
+
 
 ## 5. Recomendações dos especialistas
 
@@ -76,6 +81,7 @@ Por se tratar um tema complexto, com diversas temáticas transversais, foi neces
 * As violações de direitos humanos cometidas ao policiais, dentro das organizações
 * O contexto histórico das políticas segurança públicas
 * Violência policial no contexto internacional
+* Homicídios promovidos por empresas contra pessoas negras
 
 Apesar desses temas não estarem diretamente representados nesta monografia, reconhecemos a importância do compreensão delas para o melhor entendimento da questão. Por isso, selecionamos outras publicações que tratam desssas subtemáticas. A relação das obras e autores está disponível no Apêndice X.
 
