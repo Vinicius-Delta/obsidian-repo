@@ -4,7 +4,7 @@
 
 Todos os seres humanos têm o direito à vida, à liberdade à liberdade e à segurança pessoal, independentemente de sua cor, raça, classe social ou gênero. Esse direito, é resultado de uma da luta realizada históricamente por pessoas que viveram ou ainda vivem sob opressão, e que atingiu patamar global a partir de 1948, pela assinatura da Declaração Universal dos Direitos Humanos em asssembléia da ONU. A partir dessa declaração, todos os governos, precisam garantir esses direiros e atuar contra a sua violação.  (ONU, 1948)
   
-A Constituição Federal, promulgada em 1988, também estabelece princípios que estão baseados nos direitos humanos, garantindo o a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o Art. 1, todos tem o direito a vida, à liberdade, à igualdade, à segurança e à propriedade, sem qualquer distinção entre os indivíduos (BRASIL, 1988). 
+A Constituição Federal, promulgada em 1988, estabelece princípios baseados nos direitos humanos, garantindo a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o Art. 144, a segurança pública é dever do Estado, direito e responsabilidade de todos e é exercída por diversos orgãos do governo, com responsabilidades divididas entre as esferas municipais, estatudais e do governo federal.
 
 
 
