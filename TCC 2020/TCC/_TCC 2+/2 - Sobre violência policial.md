@@ -10,7 +10,7 @@ Quadro X - Instituições brasileiras responsáveis pela segurança
 ![[Pasted image 20210926113017.png]]
 Fonte: adaptado de ANISTIA INTERNACIONAL (2017)
 
-
+Os agentes dessas instituições são assegurados pela Lei de que podem realizar uso de força durante o exercício das suas funções, todavia esse uso deve ser feito respentando os direitos humanos e internacionais. 
 
   
 
