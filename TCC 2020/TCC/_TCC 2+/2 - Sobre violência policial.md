@@ -1,7 +1,9 @@
 # Sobre violência policial
 
 ## 1. Segurança pública como direito humano
-Todos os seres humanos 
+Todos os seres humanos têm o direito a vida, à liberdade à liberdade e à segurança pessoal, independente de sua cor, raça, classe social ou gênero.
+
+
 
 ## 2. Execuções extrajudiciais, uso desnecessário de força e outros abusos policiais
 
@@ -10,6 +12,11 @@ Todos os seres humanos
 ## 4. Recomendações dos especialistas
 
 [[Fale sobre o direitos humanos]]
+
+A nossa Constituição Federal, maior lei do País desde sua promulgação, em 1988, também estabelece
+princípios, e eles estão baseados nos
+direitos humanos
+
 
 Com a promulgação da Constituição Federal Brasileira, torna-se dever do Estado a garantia à segurança pública a todos seus cidadãos, protegendo todas as pessoas, seus bens e seus direitos. Segundo o seu Art. 144, os responsáveis por essa proteção são órgãos representantes do estado: polícias federais, rodoviárias e ferroviárias, que respondem à União, e as polícias civis, militares e o corpo de bombeiros, que são subordinados ao governo estadual (Brasil, 1988).
 
