@@ -88,6 +88,7 @@ Em resposta à crescente onda de protestos, vários departamentos de polícia re
 [Operação em Jacarezinho]
 
   
+[João pedro,14]
 
 [Em salvador, 100% dos homicídios cometidos pelos policiais foram de jovens negros]
 
