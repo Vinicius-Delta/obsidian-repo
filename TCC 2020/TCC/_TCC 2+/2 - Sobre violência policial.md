@@ -4,7 +4,11 @@
 
 Todos os seres humanos têm o direito à vida, à liberdade à liberdade e à segurança pessoal, independentemente de sua cor, raça, classe social ou gênero. Esse direito, é resultado de uma da luta realizada históricamente por pessoas que viveram ou ainda vivem sob opressão, e que atingiu patamar global a partir de 1948, pela assinatura da Declaração Universal dos Direitos Humanos em asssembléia da ONU. A partir dessa declaração, todos os governos, precisam garantir esses direiros e atuar contra a sua violação.  (ONU, 1948)
   
-A Constituição Federal, promulgada em 1988, estabelece princípios baseados nos direitos humanos, garantindo a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o Art. 144, a segurança pública é dever do Estado, direito e responsabilidade de todos e é exercída por diversos orgãos do governo, com responsabilidades divididas entre as esferas municipais, estatudais e do governo federal.
+A Constituição Federal, promulgada em 1988, estabelece princípios baseados nos direitos humanos, garantindo a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o Art. 144, a segurança pública é dever do Estado, direito e responsabilidade de todos e é exercída por diversos orgãos do governo, com responsabilidades divididas entre as esferas municipais, estatudais e do governo federal (BRASIL, 1988). Esta divisão, suas respectivas responsabilidade e os agentes responsáveis são representados pelo quadro abaixo:
+
+Quadro X - Instituições brasileiras responsáveis pela segurança
+![[Pasted image 20210926113017.png]]
+Fonte: adaptado de ANISTIA INTERNACIONAL (2017)
 
 
 
