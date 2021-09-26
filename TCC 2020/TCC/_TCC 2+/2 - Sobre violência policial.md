@@ -14,7 +14,8 @@ Os agentes dessas instituições são assegurados pela Lei de que podem realizar
 
 	“Os responsáveis pela aplicação da lei não usarão armas de fogo contra pessoas, exceto em casos de legítima defesa própria ou de outrem contra ameaça iminente de morte ou ferimento grave; para impedir a perpetração de crime particularmente grave que envolva séria ameaça à vida; para efetuar a prisão de alguém que represente tal risco e resista à autoridade; ou para impedir a fuga de tal indivíduo, e isso apenas nos casos em que outros meios menos extremados revelem-se insuficientes para atingir tais objetivos. Em qualquer caso, o uso letal intencional de  armas de fogo só poderá ser feito quando estritamente inevitável à proteção da vida”. (ANISTIA INTERNACIONAL, 2015,p. 18)
 
-Apesar dos regulamentos determinarem que as armas de fogo devem ser utilizadas apenas como último recurso, quando há uma vida em risco
+Apesar dos direitos humanos determinarem que as armas de fogo devem ser utilizadas apenas quando há uma vida em risco, infelizmente, nem sempre é o caso. São frequentes as mortes que resultaram de ações da polícia, que não foram por uma ação de legítima defesa do policial. São as chamadas “execuções extrajudiciais”, pois são produto de um uso desnecessário ou desproporcional da força letal. (ANISTIA INTERNACIONAL, 2017)
+
 
    Os governos deverão assegurar que o uso arbitrário ou abusivo da força e de armas de fogo por  responsáveis pela aplicação da lei seja punido como delito criminal, de acordo com a legislação em vigor
 
