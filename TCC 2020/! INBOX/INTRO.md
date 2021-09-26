@@ -34,7 +34,7 @@ Para o intelectual, político, negro, pan-africanista Abdias Nascimento, existe 
    Para Mbembe, “o estado de exceção e a relação de  
 inimizade tornaram-se a base normativa do direito de matar
 
-As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, uma figura jurídica que visa a proteger os policiais, que no exercício da função, agem em “legítima defesa”, e que matem alguém, na linguagem jurídico-policial um “opositor”, que contra o policial ou sua ação levantou “injusta agressão”. 
+As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, uma figura jurídica que visa a proteger os policiais, que no exercício da função, agem em “legítima defesa”, e que matem alguém, na linguagem jurídico-policial um “opositor”, que contra o policial ou sua ação levantou “injusta agressão”.  
 
 
 
