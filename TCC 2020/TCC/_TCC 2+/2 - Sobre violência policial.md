@@ -4,7 +4,10 @@
 Todos os seres humanos têm o direito a vida, à liberdade à liberdade e à segurança pessoal, independente de sua cor, raça, classe social ou gênero.
 
 A Constituição Federal, promulgada em 1988, também estabelece
-princípios que estão baseados nos direitos humanos, garantindo o a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o seu Art. 144, os responsáveis por essa proteção são órgãos representantes do estado: polícias federais, rodoviárias e ferroviárias, que respondem à União, e as polícias civis, militares e o corpo de bombeiros, que são subordinados ao governo estadual (Brasil, 1988).
+princípios que estão baseados nos direitos humanos, garantindo o a proteção de todos os brasileiros, seus bens e seus direitos. 
+
+
+Segundo o seu Art. 144, os responsáveis por essa proteção são órgãos representantes do estado: polícias federais, rodoviárias e ferroviárias, que respondem à União, e as polícias civis, militares e o corpo de bombeiros, que são subordinados ao governo estadual (Brasil, 1988).
 
 
 ## 3. Execuções extrajudiciais e outros abusos policiais
@@ -25,7 +28,6 @@ Estes indivíduos são, com frequência, jovens de baixa escolaridade, pobres, m
 As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico utilizado para proteger os policiais que durante o exercício da função, agiram em “legítima defesa”, e mataram um “opositor” que realizou uma “injusta agressão” contra eles. (MISSE; GRILLO; NERI, 2015)
 
 
-Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
 
 
 ## 4. Impunidade
@@ -33,6 +35,7 @@ Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, qua
 
 ## Acontecimentos recentes [pendente]
 
+Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
 
 
 ## 5. Recomendações dos especialistas
