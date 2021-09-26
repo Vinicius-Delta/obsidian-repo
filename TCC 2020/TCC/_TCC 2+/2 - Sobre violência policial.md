@@ -42,6 +42,8 @@ Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, qua
 
 [dados recentes]
 
+[melhorar a conexão desse trecho]
+
 Em 25 de maio de 2020, George Floyd, um homem negro estadunidense foi brutalmente assassinado pelo policial Derek Chauvin na cidade Minneapolis. O incidente foi registrado em vídeo e divulgado pela internet, repercutindo tanto nos Estados Unidos como no mundo. A partir deste acontecimento, os protestos contra a brutalidade policial ganharam mais força, abrindo espaço para o diálogo público sobre a violência policial e a reorganização desta instituição.
 
 Em resposta à crescente onda de protestos, vários departamentos de polícia reprimiram violentamente as manifestações pacíficas, resultando em confrontos com os manifestantes. Conforme os vídeos dessas repressões circulavam nas redes sociais, os protestos atingiram nível nacional e internacional. À medida que esses protestos continuaram, centenas de incidentes foram registrados nos quais a polícia americana realizou agressões violentas, perseguições e prisões arbitrárias.
