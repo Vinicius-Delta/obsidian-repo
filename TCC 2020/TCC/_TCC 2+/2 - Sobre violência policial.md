@@ -27,9 +27,9 @@ Em resposta a isso, parte do efetivo aproveita o apoio como licença para matar 
 
 
 
-Segundo o Relatório para o Conselho de Direitos Humanos das Nações Unidas (2014, parágrafo 79),  os governos 
+Segundo o Relatório para o Conselho de Direitos Humanos das Nações Unidas (2014),  os governos deverão assegurar que os agentes de seguraçança - especialmente os policiais - respeitem o direito a vida.  Ainda sobre o mesmo relatório, "A falha do Estado em investigar devidamente os casos de mortes resultantes do uso da força de seus agentes é uma violação do direito à vida de igual forma"
 
-Os governos deverão assegurar que o uso arbitrário ou abusivo da força e de armas de fogo por  responsáveis pela aplicação da lei seja punido como delito criminal, de acordo com a legislação em vigor
+o uso arbitrário ou abusivo da força e de armas de fogo por  responsáveis pela aplicação da lei seja punido como delito criminal, de acordo com a legislação em vigor
 (ONU, 2014)
 
   
