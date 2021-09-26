@@ -1,6 +1,7 @@
 # Sobre violência policial
 
 ## 1. Segurança pública como direito humano
+Todos os seres humanos 
 
 ## 2. Execuções extrajudiciais, uso desnecessário de força e outros abusos policiais
 
