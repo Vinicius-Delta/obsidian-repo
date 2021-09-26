@@ -4,7 +4,7 @@
 
 Todos os seres humanos têm o direito à vida, à liberdade à liberdade e à segurança pessoal, independentemente de sua cor, raça, classe social ou gênero. Esse direito, é resultado de uma da luta realizada históricamente por pessoas que viveram ou ainda vivem sob opressão, e que atingiu patamar global a partir de 1948, pela assinatura da Declaração Universal dos Direitos Humanos em asssembléia da ONU. A partir dessa declaração, todos os governos, precisam garantir esses direiros e atuar contra a sua violação.  (ONU, 1948)
   
-A Constituição Federal, promulgada em 1988, estabelece princípios baseados nos direitos humanos, garantindo a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o Art. 144, a segurança pública é dever do Estado, direito e responsabilidade de todos e é exercída por diversos orgãos do governo, com responsabilidades divididas entre as esferas municipais, estatudais e do governo federal (BRASIL, 1988). Esta divisão, suas respectivas responsabilidade e os agentes responsáveis são representados pelo quadro abaixo:
+A Constituição Federal, promulgada em 1988, estabelece princípios baseados nos direitos humanos, garantindo a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o Art. 144º, a segurança pública é dever do Estado, direito e responsabilidade de todos e é exercída por diversos orgãos do governo: polícias federais, rodoviárias e ferroviárias, que respondem à União, e as polícias civis, militares e o corpo de bombeiros, que são subordinados ao governo estadual (BRASIL, 1988). Esta divisão, suas respectivas responsabilidade e os agentes responsáveis são representados pelo quadro abaixo:
 
 Quadro X - Instituições brasileiras responsáveis pela segurança
 ![[Pasted image 20210926113017.png]]
@@ -15,25 +15,11 @@ Fonte: adaptado de ANISTIA INTERNACIONAL (2017)
   
 
 [desenvolvimento]
-
-  
-  
-
-## 2. O papel das polícias
-
-  
-
-Segundo o Artigo 144º da Constituição, os responsáveis por essa proteção são órgãos representantes do estado: polícias federais, rodoviárias e ferroviárias, que respondem à União, e as polícias civis, militares e o corpo de bombeiros, que são subordinados ao governo estadual (Brasil, 1988).
-
-  
+ 
 
 Apesar das tentativas das forças do Estado em combater as ameaças à segurança, o Brasil ainda possui uma criminalidade elevada. Segundo o Anuário Brasileiro de Segurança Pública de 2019, isso se reflete no número de mortes violentas intencionais, com um total de 57.341 homicídios em 2018. Ou, em média, uma pessoa morta a cada 10 minutos. Importante destacar que desse total de assassinatos, apenas 8% são esclarecidos por meio de inquérito policial. (Fórum Brasileiro de Segurança Pública, 2019).
 
-  
-
 Essa ineficiência do sistema investigativo, resulta numa percepção de impunidade e numa descrença sobre o sistema de justiça criminal. Como resposta, a população se tornou menos tolerante ao crime, solicitando maior repressão e intervenção por parte do governo. Esse cenário contribuiu para fortalecer a ideia de que, através do endurecimento das abordagens policiais, seria possível solucionar os problemas da criminalidade (CUBAS et al, 2016).
-
-  
 
 Em resposta a isso, parte do efetivo aproveita o apoio como licença para matar ou, como preceitua Mingardi (2015, p.14), agem de acordo com regras próprias, por vezes infringindo o espírito das leis. A ação policial se torna mais violenta e entram no repertório a prática de abusos da força legal, torturas, humilhações e execuções extrajudiciais por parte das polícias.
 
