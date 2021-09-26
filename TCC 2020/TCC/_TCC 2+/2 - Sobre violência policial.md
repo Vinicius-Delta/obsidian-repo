@@ -15,12 +15,12 @@ Apesar das tentativas das forças do Estado em combater as ameaças à seguranç
 
 Essa ineficiência do sistema investigativo, resulta numa percepção de impunidade e numa descrença sobre o sistema de justiça criminal. Como resposta, a população se tornou menos tolerante ao crime, solicitando maior repressão e intervenção por parte do governo. Esse cenário contribuiu para fortalecer a ideia de que, através do endurecimento das abordagens policiais, seria possível solucionar os problemas da criminalidade (CUBAS et al, 2016).
 
-Em resposta a isso, parte do efetivo aproveita o apoio como licença para matar ou, como preceitua Mingardi (2015, p.14), agem de acordo com regras próprias, por vezes infringindo o espírito das leis. 
+Em resposta a isso, parte do efetivo aproveita o apoio como licença para matar ou, como preceitua Mingardi (2015, p.14), agem de acordo com regras próprias, por vezes infringindo o espírito das leis. A ação policial se torna mais violenta e entram no repertório a prática de abusos da força legal, torturas, humilhações e execuções extrajudiciais por parte das polícias.
+
 
 ## 3. Execuções extrajudiciais e outros abusos policiais
 
-A ação policial se torna mais violenta e entram no repertório a prática de abusos da força legal, torturas, humilhações e execuções extrajudiciais por parte das polícias.
-
+[algo]
 Prova disso, é que temos no Brasil a polícia que mais mata no mundo. 11 a cada 100 homicídios foram provocados pelas Polícias, num total de mais de 6.220 vítimas no ano de 2018, e em média, 17 por dia. Em comparação ao ano anterior (2017), o assassinato causado por policiais aumentou em 19,6%, e foi a única categoria de homicídios em alta. (Fórum Brasileiro de Segurança Pública, 2019).
 
 Essa manifestação ainda mais violenta da polícia tem impactos mais intensos em determinados setores da população. Segundo Fernanda Mena (2016), na questão policial não há equidade nem respeito à Constituição, uma vez que as desigualdades fazem parte das atividades policiais e da Justiça criminal. Ele afirma que existe uma preferência pela prisão em flagrante, que acontece nas ruas, "sob um filtro social, territorial e racial". (SOARES, p.32-35, 2016).
@@ -32,20 +32,16 @@ Estes indivíduos são, com frequência, jovens de baixa escolaridade, pobres, m
 As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico utilizado para proteger os policiais que durante o exercício da função, agiram em “legítima defesa”, e mataram um “opositor” que realizou uma “injusta agressão” contra eles. (MISSE; GRILLO; NERI, 2015)
 
 
+## 4. Acontecimentos recentes [pendente]
 
-
-## 4. Impunidade
-
-
-## Acontecimentos recentes [pendente]
-
-Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
 
 
 ## 5. Recomendações dos especialistas
 
+Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
 
-
+## 6.Outras questões
+A d
 
 
 
