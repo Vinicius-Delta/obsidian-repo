@@ -10,9 +10,7 @@ Quadro X - Instituições brasileiras responsáveis pela segurança
 ![[Pasted image 20210926113017.png]]
 Fonte: adaptado de ANISTIA INTERNACIONAL (2017)
 
-Os agentes dessas instituições são assegurados pela Lei de que podem realizar uso de força durante o exercício das suas funções, todavia esse uso deve ser feito respentando os direitos humanos e internacionais. Por ser um membro da ONU, o Brasil está vinculado as resoluções do " Código de Conduta para os Funcionários Responsáveis pela Aplicação da Lei" (CCEAL) e aos "Princípios básicos sobre a utilização da força e de armas de fogo pelos funcionários responsáveis pela aplicação da lei" (PBUFAF) (ANISTIA INTERNACIONAL, 2017). 
-
-O artigo 3º da CCEAL determina que "os encarregados da aplicação da lei só podem empregar a força quando estritamente necessária e na medida exigida para o cumprimento de seu dever" 
+Os agentes dessas instituições são assegurados pela Lei de que podem realizar uso de força durante o exercício das suas funções, todavia esse uso deve ser feito respentando os direitos humanos e internacionais. Por ser um membro da ONU, o Brasil está vinculado as resoluções do CCEAL - Código de Conduta para os Funcionários Responsáveis pela Aplicação da Lei - e ao PBUFAF - Princípios básicos sobre a utilização da força e de armas de fogo pelos funcionários responsáveis pela aplicação da lei  (ANISTIA INTERNACIONAL, 2017). O artigo 3º da CCEAL determina que "os encarregados da aplicação da lei só podem empregar a força quando estritamente necessária e na medida exigida para o cumprimento de seu dever" 
 
   
 
