@@ -39,9 +39,17 @@ As mortes provocadas pela polícia são usualmente enquadradas como “autos de 
 Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
 
 ## 4. Violência policial durante a pandemia (2020-2021) 
-[pendente]
+[apresentar o que é a pandemia]
 
+[dados recentes]
 
+Em 25 de maio de 2020, George Floyd, um homem negro estadunidense foi brutalmente assassinado pelo policial Derek Chauvin na cidade Minneapolis. O incidente foi registrado em vídeo e divulgado pela internet, repercutindo tanto nos Estados Unidos como no mundo. A partir deste acontecimento, os protestos contra a brutalidade policial ganharam mais força, abrindo espaço para o diálogo público sobre a violência policial e a reorganização desta instituição.
+
+Em resposta à crescente onda de protestos, vários departamentos de polícia reprimiram violentamente as manifestações pacíficas, resultando em confrontos com os manifestantes. Conforme os vídeos dessas repressões circulavam nas redes sociais, os protestos atingiram nível nacional e internacional. À medida que esses protestos continuaram, centenas de incidentes foram registrados nos quais a polícia americana realizou agressões violentas, perseguições e prisões arbitrárias.
+
+[suspensão das operações policiais pelo STF]
+
+[Caso ]
 
 ## 5. Recomendações dos especialistas
 
@@ -49,6 +57,7 @@ Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, qua
 [uso de câmeras nos uniformes]
 [desmilitarização]
 [recomendações da Anistia Internacional]
+[Campaign Zero?]
 
 
 ## 6.Leituras complementares
