@@ -69,7 +69,6 @@ Em resposta à crescente onda de protestos, vários departamentos de polícia re
 
   
 
-[suspensão das operações policiais pelo STF]
 
   
 
@@ -80,7 +79,8 @@ Em resposta à crescente onda de protestos, vários departamentos de polícia re
 
 [Em salvador, 100% dos homicídios cometidos pelos policiais foram de jovens negros]
 
-  
+  [suspensão das operações policiais pelo STF]
+
 
 [Kathlen Romeu, a designer de interiores]
 
