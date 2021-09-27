@@ -3,6 +3,8 @@
 # 2020
 
 ## Maio 2020
+
+Naquele mesmo mês me maio
 "Em maio, 13 homens foram mortos no Complexo do Alemão, um conjunto de favelas no Rio de Janeiro, durante uma violenta operação policial executada pelo Batalhão de Operações Policiais Especiais (BOPE) e pela polícia. Alguns dias depois, João Pedro Mattos, de 14 anos, morreu em uma operação realizada na favela do Salgueiro, em São Gonçalo, no Rio de Janeiro. Ele estava em casa com amigos quando membros da Coordenadoria de Recursos Especiais da Polícia Civil (CORE) entraram na residência e dispararam mais de 70 tiros. João Pedro Mattos foi atingido pelas costas. O agravamento da situação no Rio de Janeiro fez com que organizações da sociedade civil, ativistas locais, a Defensoria Pública do estado, o Partido Socialista Brasileiro e parentes das vítimas apresentassem uma petição ao Supremo Tribunal Federal para impedir as incursões policiais nas favelas. Em junho, a Corte emitiu uma decisão preliminar para suspender as operações policiais nas favelas durante a pandemia. Após a decisão, houve uma queda de 74% nas mortes cometidas pela polícia" ([ANISTIA INTERNACIONAL 2021:68](zotero://open-pdf/groups/4374086/items/BJCLRBG5?page=68))
 
 ## Julho 2020
