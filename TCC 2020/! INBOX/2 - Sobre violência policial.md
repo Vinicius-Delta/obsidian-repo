@@ -52,7 +52,12 @@ Nesse contexto marcado pela pandemia, mesmo com a circulação reduzida de pesso
   
 Em 25 de maio de 2020, quando a pandemia estava em ascensão no Estados Unidos, George Floyd, um homem negro estadunidense foi brutalmente asfixiado por policiais na cidade de Minneapolis. O incidente foi registrado em vídeo e divulgado pela internet, repercutindo por todo no mundo. A partir deste acontecimento, os protestos contra a brutalidade policial ganharam mais força, o movimento ativista *Black Lives Matter* ganhou visibilidade e ampliou o tema no diálogo público e na mídia.
 
-Naquele mesmo mês de maio, João Pedro Mattos, de 14 anos, foi assassinado em casa durante uma operação realizada na favela do Salgueiro (São Gonçalo - RJ). Ele estava brincando com os primos, quando a residência dele foi invadida por membros da Coordenadoria de Recursos Especiais da Polícia Civil (CORE) e dispararam mais de 70 tiros e o atingiu pelas costas. 
+Naquele mesmo mês de maio, 13 homens foram mortos no Complexo do Alemão (Rio de Janeiro - RJ), durante uma operação policial realizada pelo Batalhão de Operações Policiais Especiais (BOPE) e pela polícia militar. Alguns dias depois, João Pedro Mattos, de 14 anos, foi assassinado em casa durante uma operação realizada na favela do Salgueiro (São Gonçalo - RJ). Ele estava brincando com os primos, quando teve a residência invadida por membros da Coordenadoria de Recursos Especiais da Polícia Civil (CORE) e dispararam mais de 70 tiros e o atingiu pelas costas. Em nota, a PF disse que “a ação tinha como objetivo apurar denúncias de que traficantes estariam utilizando uma casa no alto da mata do Complexo como apoio para o tráfico na região”. 
+
+Imagem X - Adolescente João Pedro, de 14 anos, vítima da CORE-RJ
+![[Pasted image 20210927195806.png]]
+Fonte: disponível em https://veja.abril.com.br/brasil/morte-do-adolescente-joao-pedro-e-denunciada-a-onu-e-oea/
+
 
 O agravamento da situação no Rio de Janeiro fez com que organizações da sociedade civil, ativistas locais, a Defensoria Pública do estado, o Partido Socialista Brasileiro e parentes das vítimas apresentassem uma petição ao Supremo Tribunal Federal para impedir as incursões policiais nas favelas. Em junho, a Corte emitiu uma decisão preliminar para suspender as operações policiais nas favelas durante a pandemia. Após a decisão, houve uma queda de 74% nas mortes cometidas pela polícia" ([ANISTIA INTERNACIONAL 2021:68](zotero://open-pdf/groups/4374086/items/BJCLRBG5?page=68))
 
