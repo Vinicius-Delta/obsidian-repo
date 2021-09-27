@@ -35,15 +35,9 @@ O Relatório para o Conselho de Direitos Humanos das Nações Unidas (2014) dete
 
 Apesar desssa determinação, a investigação (e punição) dos homicídios causados pela Polícia, encontram obstáculos criados pelo próprio Estado e pelos agentes de segurança. Com a sanção da lei 13.491 (2017), os casos de violência policial deixaram de ser julgados após denúcia nas audiências de custódia, passando a serem apurados pela Polícia Militar. Ou seja, a averiguação das acusações de tortura e homicídio são realizadas pelos próprios colegas de Batalhão e comandantes. 
 
-Ao verificar o andamento de 44 investigações de homicídios decorrentes de intervenção policial no estado de São Paulo, o Intituto Conectas (2021) constatou que  38 casos foram arquivados, sem render sequer uma Investigação Preliminar ou um Inquérito Policial Militar (CONECTAS, 2021). A ausência de investigações adequadas e de punições dos homicídios causados pela Polícia, além de ser uma violação dos Direitos Humanos, como apontado anteriormente, colaboram para aumentar o ciclo de violência, enviando uma mensagem que essas mortes são permitidas e toleradas pelo Estado.  (ANISTIA INTERNACIONAL, 2015)
+Ao verificar o andamento de 44 investigações de homicídios decorrentes de intervenção policial no estado de São Paulo, o Intituto Conectas (2021) constatou que  38 casos foram arquivados, sem render sequer uma Investigação Preliminar ou um Inquérito Policial Militar (CONECTAS, 2021). A ausência de investigações adequadas e de punições dos homicídios causados pela Polícia, além de ser uma violação dos Direitos Humanos, como apontado anteriormente, colaboram para aumentar o ciclo de violência, enviando uma mensagem que essas mortes são permitidas e toleradas pelas autoridades.  (ANISTIA INTERNACIONAL, 2015)
 
-
-Frequentemente, as investigações são prejudicadas pela alteração das cenas dos crimes como a remoção do corpo da vítima sem diligência aproprida ou a inserção de provas falsificadas (como armas e drogas) junto ao corpo. (ANISTIA INTERNACIONAL, 2015)
-
-
-[desenvolvimento sobre número de casos investigados e impunidade]
-
-  
+Uma outra questão é que frequentemente, as investigações são prejudicadas pela alteração das cenas dos crimes como a remoção do corpo da vítima sem diligência aproprida ou a inserção de provas falsificadas (como armas e drogas) junto ao corpo. Ao enquandra a vítima como suspeita de ter relação com o tráfico de drogas, a investigação geralmente passa a forcar em seu perfil criminal, ao invés de determinar as circustâncias do homicídio.  (ANISTIA INTERNACIONAL, 2015)	  
   
 
 Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).

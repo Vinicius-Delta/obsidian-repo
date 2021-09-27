@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2+/2 - Sobre violência policial.md",
+            "file": "TCC/_TCC 1/v0.3 - versão entregue/Projeto TCC1 [05.03.20].md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tema",
+                "query": "GOMES",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,12 +64,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 283,
-    "collapsed": true
+    "width": 283
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2+/2 - Sobre violência policial.md"
+                "file": "TCC/_TCC 1/v0.3 - versão entregue/Projeto TCC1 [05.03.20].md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2+/2 - Sobre violência policial.md",
+                "file": "TCC/_TCC 1/v0.3 - versão entregue/Projeto TCC1 [05.03.20].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -152,6 +152,7 @@
   },
   "active": "60479b22f07531d5",
   "lastOpenFiles": [
+    "TCC/_TCC 1/v0.3 - versão entregue/Projeto TCC1 [05.03.20].md",
     "TCC/_TCC 2+/2 - Sobre violência policial.md",
     "! INBOX/INTRO.md",
     "! INBOX/Questões paralelas.md",
@@ -160,7 +161,6 @@
     "! INBOX/ANISTIA INTERNACIONAL, 2015.md",
     "! INBOX/Sem título 1.md",
     "TCC/referências/violência policial/KUCINSKI, 2015.md",
-    "TCC/referências/violência policial/DefeZap.md",
-    "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md"
+    "TCC/referências/violência policial/DefeZap.md"
   ]
 }
