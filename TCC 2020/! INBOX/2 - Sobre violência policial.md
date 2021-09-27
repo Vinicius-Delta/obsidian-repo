@@ -46,17 +46,11 @@ As medidas de segurança realizdas até então não foram capazes de extinguir a
 
 ## 2.3 Violência policial durante a pandemia (2020-2021) 
 
- O ano de 2020 foi marcante para história mundial, devido a pandemia do novo coronavírus, que alterou draticamente a rotina das pessoas e das relações sociais. Os impatos foram diversos, principalmente com o fechamento de fronteiras, restrição da circulação das pessoas,
+ O ano de 2020 foi marcante para história mundial, devido a pandemia do novo coronavírus, que alterou draticamente a rotina das pessoas e das relações sociais. Os impatos foram diversos, principalmente com o fechamento de fronteiras, restrição da circulação das pessoas, cancelamento de eventos e aumento do desemprego.
 
-
-Apesar do ano de 2020 ter sido marcado pela pandemia, com a circulação reduzida de pessoas nas ruas, o número de mores decorrente às intervenções policiais se manteve em crescimento, atingindo um índice recorde. Foram 6.416 mortes, o maior número desde 2013, quando o indicador passou a ser monitorado pelo Fórum Brasileiro de Segurança Pública, quando eram o valor eram de 2.212 homicídios, representando um aumento de 190%.  (FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA, 2021)
+Nesse contexto marcado pela pandemia, mesmo com a circulação reduzida de pessoas nas ruas, o número de mores decorrente às intervenções policiais se manteve em crescimento. Foram 6.416 mortes, o maior número desde 2013, quando o indicador passou a ser monitorado pelo Fórum Brasileiro de Segurança Pública, com um total de 2.212 homicídios, representando um aumento durante esse período 190%.  (FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA, 2021)
   
-
-[melhorar a conexão desse trecho]
-
-  
-
-Em 25 de maio de 2020, George Floyd, um homem negro estadunidense foi brutalmente assassinado pelo policial Derek Chauvin na cidade Minneapolis. O incidente foi registrado em vídeo e divulgado pela internet, repercutindo tanto nos Estados Unidos como no mundo. A partir deste acontecimento, os protestos contra a brutalidade policial ganharam mais força, abrindo espaço para o diálogo público sobre a violência policial e a reorganização desta instituição.
+Em 25 de maio de 2020, quando a pandemia estava em ascensão no Estados Unidos, George Floyd, um homem negro estadunidense foi brutalmente assassinado por policiais na cidade de Minneapolis. O incidente foi registrado em vídeo e divulgado pela internet, repercutindo por todo no mundo. A partir deste acontecimento, os protestos contra a brutalidade policial ganharam mais força, o motviento ativista  abrindo espaço para o diálogo público sobre a violência policial e a reorganização desta instituição.
 
   
 
