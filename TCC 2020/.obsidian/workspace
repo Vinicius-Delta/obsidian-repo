@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/2 - Sobre violência policial.md",
+            "file": "! INBOX/Casos notáveis - rascunho.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/2 - Sobre violência policial.md"
+                "file": "! INBOX/Casos notáveis - rascunho.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/2 - Sobre violência policial.md",
+                "file": "! INBOX/Casos notáveis - rascunho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -151,10 +151,10 @@
   },
   "active": "60479b22f07531d5",
   "lastOpenFiles": [
-    "! INBOX/2 - Sobre violência policial.md",
     "! INBOX/Casos notáveis - rascunho.md",
-    "! INBOX/ANISTIA INTERNACIONAL, 2015.md",
     "! INBOX/Indice de casos recentes.md",
+    "! INBOX/2 - Sobre violência policial.md",
+    "! INBOX/ANISTIA INTERNACIONAL, 2015.md",
     "TCC/_TCC 2+/2 - Sobre violência policial.md",
     "! INBOX/Sem título.md",
     "! INBOX/Questões paralelas.md",
