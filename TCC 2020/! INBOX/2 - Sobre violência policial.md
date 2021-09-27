@@ -46,7 +46,7 @@ As medidas de segurança realizdas até então não foram capazes de extinguir a
 
 ## 2.3 Violência policial durante a pandemia (2020-2021) 
 
-[apresentar o que é a pandemia]
+ O ano de 2020 foi marcante para história mundial, devido a pandemia do novo coronavírus, que alterou draticamente a rotina das pessoas e das relações sociais. Os impatos foram diversos, principalmente com o fechamento de fronteiras, restrição da circulação das pessoas,
 
 
 Apesar do ano de 2020 ter sido marcado pela pandemia, com a circulação reduzida de pessoas nas ruas, o número de mores decorrente às intervenções policiais se manteve em crescimento, atingindo um índice recorde. Foram 6.416 mortes, o maior número desde 2013, quando o indicador passou a ser monitorado pelo Fórum Brasileiro de Segurança Pública, quando eram o valor eram de 2.212 homicídios, representando um aumento de 190%.  (FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA, 2021)
@@ -123,7 +123,6 @@ Por se tratar um tema complexo, com diversas temáticas transversais, é possív
 
 * Homicídios promovidos por empresas contra pessoas negras
 
-  
 
 Apesar desses temas não estarem completamente representados nesta monografia, reconhecemos a importância da compreensão das mesmas para o melhor entendimento da questão. Por isso, selecionamos outras publicações que tratam dessas temáticas específicas, como sugestão de leitura. A relação das obras e autores está disponível no Apêndice X.
 

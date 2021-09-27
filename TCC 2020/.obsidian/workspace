@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Indice de casos recentes.md",
+            "file": "! INBOX/2 - Sobre violência policial.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 283,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Indice de casos recentes.md"
+                "file": "! INBOX/2 - Sobre violência policial.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Indice de casos recentes.md",
+                "file": "! INBOX/2 - Sobre violência policial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -146,10 +147,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 275,
+    "collapsed": true
   },
   "active": "60479b22f07531d5",
   "lastOpenFiles": [
+    "! INBOX/2 - Sobre violência policial.md",
     "! INBOX/Indice de casos recentes.md",
     "! INBOX/Casos notáveis - rascunho.md",
     "TCC/_TCC 2+/2 - Sobre violência policial.md",
@@ -158,7 +161,6 @@
     "! INBOX/ANISTIA INTERNACIONAL, 2015.md",
     "daily/2021-09-27.md",
     "TCC/_TCC 1/v0.3 - versão entregue/Projeto TCC1 [05.03.20].md",
-    "! INBOX/INTRO.md",
-    "! INBOX/Profissão Repórter 21.09.2021.md"
+    "! INBOX/INTRO.md"
   ]
 }
