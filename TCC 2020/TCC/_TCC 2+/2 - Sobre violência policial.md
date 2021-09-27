@@ -41,7 +41,7 @@ Ao verificar o andamento de 44 investigações de homicídios decorrentes de int
 
 Uma outra questão é que frequentemente, as investigações são prejudicadas pela alteração das cenas dos crimes como a remoção do corpo da vítima sem diligência aproprida ou a inserção de provas falsificadas (como armas e drogas) junto ao corpo. Ao enquandra a vítima como suspeita de ter relação com o tráfico de drogas, a investigação geralmente passa a forcar em seu perfil criminal, ao invés de determinar as circustâncias do homicídio.  (ANISTIA INTERNACIONAL, 2015)	  
   
-
+[conclusão]
 
   
 
