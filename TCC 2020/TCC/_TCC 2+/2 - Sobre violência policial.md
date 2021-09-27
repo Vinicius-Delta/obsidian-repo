@@ -106,7 +106,7 @@ Em resposta à crescente onda de protestos, vários departamentos de polícia re
 
 ## 2.5 Leituras complementares
 
-Por se tratar um tema complexo, com diversas temáticas transversais, foi necessário definir um escopo execução da pesquisa e utilização no projeto de Design. Devido as limitações de tempo e escopo do TCC, os autores não aprofundarão em texto as seguintes temáticas:
+Por se tratar um tema complexo, com diversas temáticas transversais, é possível traçar diversos outros desdobramentos para tratar da temática. Porém, devido as limitações de tempo e escopo do Trabalho de Conclusão de Curso, além do compromisso em relacionar essas questões ao Design, foi necessário definir um escopo para a realização da pesquisa que será aplicada ao projeto de Design. Devido as limitações essas limitações, os autores se aprofundarão em texto nas seguintes temáticas:
 
   
 
@@ -140,7 +140,7 @@ Por se tratar um tema complexo, com diversas temáticas transversais, foi necess
 
   
 
-Apesar desses temas não estarem diretamente representados nesta monografia, reconhecemos a importância da compreensão delas para o melhor entendimento da questão. Por isso, selecionamos outras publicações que tratam dessas temáticas específicas, como sugestão de leitura para as pessoas interessadas. A relação das obras e autores está disponível no Apêndice X.
+Apesar desses temas não estarem completamente representados nesta monografia, reconhecemos a importância da compreensão das mesmas para o melhor entendimento da questão. Por isso, selecionamos outras publicações que tratam dessas temáticas específicas, como sugestão de leitura. A relação das obras e autores está disponível no Apêndice X.
 
   
 **
