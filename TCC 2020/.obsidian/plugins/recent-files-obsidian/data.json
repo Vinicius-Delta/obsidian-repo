@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Indice de casos recentes",
+      "path": "! INBOX/Indice de casos recentes.md"
+    },
+    {
       "basename": "Casos notáveis - rascunho",
       "path": "! INBOX/Casos notáveis - rascunho.md"
     },
     {
-      "basename": "ANISTIA INTERNACIONAL, 2017",
-      "path": "! INBOX/ANISTIA INTERNACIONAL, 2017.md"
-    },
-    {
       "basename": "2 - Sobre violência policial",
       "path": "TCC/_TCC 2+/2 - Sobre violência policial.md"
+    },
+    {
+      "basename": "ANISTIA INTERNACIONAL, 2017",
+      "path": "! INBOX/ANISTIA INTERNACIONAL, 2017.md"
     },
     {
       "basename": "Questões paralelas",
@@ -195,10 +199,6 @@
     {
       "basename": "202PB",
       "path": "TCC/_TCC 2/rascunhos/202PB.md"
-    },
-    {
-      "basename": "Orientação 2020.03.20",
-      "path": "TCC/orientações/Orientação 2020.03.20.md"
     }
   ],
   "omittedPaths": [],

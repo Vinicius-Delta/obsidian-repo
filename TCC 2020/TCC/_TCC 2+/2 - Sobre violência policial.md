@@ -48,9 +48,6 @@ As medidas de segurança realizdas até então não foram capazes de extinguir a
 
 [apresentar o que é a pandemia]
 
-  
-
-[dados recentes]
 
 Apesar do ano de 2020 ter sido marcado pela pandemia, com a circulação reduzida de pessoas nas ruas, o número de mores decorrente às intervenções policiais se manteve em crescimento, atingindo um índice recorde. Foram 6.416 mortes, o maior número desde 2013, quando o indicador passou a ser monitorado pelo Fórum Brasileiro de Segurança Pública, quando eram o valor eram de 2.212 homicídios, representando um aumento de 190%.  (FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA, 2021)
   
@@ -69,18 +66,8 @@ Em resposta à crescente onda de protestos, vários departamentos de polícia re
 
 
   
+[[Indice de casos recentes]]
 
-[Operação em Jacarezinho]
-
-  
-[João pedro,14]
-
-[Em salvador, 100% dos homicídios cometidos pelos policiais foram de jovens negros]
-
-  [suspensão das operações policiais pelo STF]
-
-
-[Kathlen Romeu, a designer de interiores]
 
   
   
