@@ -35,8 +35,9 @@ Estes indivíduos são, com frequência, jovens de baixa escolaridade, pobres, m
 
 O Relatório para o Conselho de Direitos Humanos das Nações Unidas (2014) determina que os governos devem assegurar que os agentes de seguraçança - especialmente os policiais - respeitem o direito a vida.  O mesmo relatório articula que "a falha do Estado em investigar devidamente os casos de mortes resultantes do uso da força de seus agentes é uma violação do direito à vida de igual forma" (ONU, 2014; tradução de ANISTIA INTERNACIONAL, 2015)
 
-Apesar desssa determinação, 
-  
+Apesar desssa determinação, a investigação e punição dos homicídios causados pela Polícia deixa a desejar. Frequentemente, as investigações são prejudicadas pela alteração das cenas dos crimes como a remoção do corpo da vítima sem diligência aproprida ou a inserção de provas falsificadas (como armas e drogas) junto ao corpo. 
+
+
 [desenvolvimento sobre número de casos investigados e impunidade]
 
   
