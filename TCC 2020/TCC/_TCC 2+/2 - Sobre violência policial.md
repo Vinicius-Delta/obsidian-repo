@@ -41,8 +41,7 @@ Ao verificar o andamento de 44 investigações de homicídios decorrentes de int
 
 Uma outro obstáculo frequente para as investigações, é alteração das cenas dos crimes, como a remoção do corpo da vítima sem diligência aproprida ou a inserção de provas falsificadas (como armas e drogas) junto ao corpo. Ao enquandrar a vítima como suspeita de ter relação com o tráfico de drogas, a investigação geralmente passa a forcar em seu perfil criminal, ao invés de determinar as circustâncias do homicídio.  (ANISTIA INTERNACIONAL, 2015)	  
   
-[conclusão]
-As medidas de segurança realizdas até então não foram capazes de extinguir as execuções extrajudiciais. A Polícia Militar (e Civil), continuam utilizando a força de forma arbitrária e excessiva, resultando em mortes e impunidades. A seção seguinte irá apresentar alguns dos casos que ocorreram recentemente, durante o pandemia de 2020-2 destaque na mídia recentemente 
+As medidas de segurança realizdas até então não foram capazes de extinguir as execuções extrajudiciais. A Polícia Militar (e Civil), continuam utilizando a força de forma arbitrária e excessiva, resultando em mortes e impunidades. A seção seguinte irá apresentar alguns dos casos que ocorreram recentemente, durante o período de 2020-2021, e que foram destaque na mídia e na repercussão pública.
   
 
 ## 2.3 Violência policial durante a pandemia (2020-2021) 
