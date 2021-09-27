@@ -59,9 +59,9 @@ Imagem X - Adolescente João Pedro, de 14 anos, vítima da CORE-RJ
 Fonte: disponível em https://veja.abril.com.br/brasil/morte-do-adolescente-joao-pedro-e-denunciada-a-onu-e-oea/
 
 
-O agravamento da situação no Rio de Janeiro fez com que ativistas e organizações locais, a Defensoria Pública do estado, o Partido Socialista Brasileiro (PSB) e parentes das vítimas apresentassem uma petição ao Supremo Tribunal Federal (STF) para impedir as operações policiais nas favelas. Em junho de 2020, a Corte emitiu uma decisão preliminar para suspender as operações policiais nas favelas durante a pandemia. Após a decisão, houve uma queda de 74% nas mortes cometidas pela polícia" ([ANISTIA INTERNACIONAL 2021:68](zotero://open-pdf/groups/4374086/items/BJCLRBG5?page=68))
+O agravamento da situação no Rio de Janeiro fez com que ativistas e organizações locais, a Defensoria Pública do estado, o Partido Socialista Brasileiro (PSB) e parentes das vítimas apresentassem uma petição ao Supremo Tribunal Federal (STF) para impedir as operações policiais nas favelas. Em junho de 2020, a Corte emitiu uma decisão preliminar para suspender as operações policiais nas favelas durante a pandemia, limitando apenas as operações a casos excepcionais, com autorização prévia. Após a decisão, houve uma queda de 74% nas mortes cometidas pela polícia" ([ANISTIA INTERNACIONAL 2021:68](zotero://open-pdf/groups/4374086/items/BJCLRBG5?page=68))
 
-
+No mês de julho do mesmo ano, o adolescente de 13 anos, Mizael Fernandes da Silva, foi morto pela Polícia Militar do Ceará com um tiro a queima roupa, enquanto dormia dentro de casa. A tia dele, que estava na casa durante o ocorrido relatou ao jornal independente 
   
 
 
