@@ -23,6 +23,8 @@ Essa ineficiência do sistema investigativo, resulta numa percepção de impunid
 
 Em resposta a isso, parte do efetivo aproveita o apoio como licença para matar ou, como preceitua Mingardi (2015, p.14), "agem de acordo com regras próprias, por vezes infringindo o espírito das leis". A ação policial se torna mais violenta e entram no repertório a prática de abusos da força legal, torturas, humilhações e execuções extrajudiciais por parte das polícias.
 
+Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
+
 Prova disso, é que temos no Brasil a polícia que mais mata no mundo. Do total de homicídios intencionais do em 2020, 12,8% foram provocados pelas Polícias, num total de mais de 6.416 vítimas no ano e, em média, 18 por dia. (Fórum Brasileiro de Segurança Pública, 2020). Colocando em pespectiva, o total de homicídios cometidos por policiais apenas no estado do Rio de Janeiro foi superior aos Estados Unidos inteiro. (Anistia Internacional, 2021)
 
 Essa manifestação violenta da polícia tem impactos mais intensos em determinados setores da população. Segundo Fernanda Mena (2016), na questão policial não há equidade nem respeito à Constituição, uma vez que as desigualdades fazem parte das atividades policiais e da Justiça criminal. Nas palavras de Luiz Eduardo Soares (2016), ex-secretário nacional de Segurança Pública, existe uma preferência pela prisão em flagrante, que acontece nas ruas, "sob um filtro social, territorial e racial". (SOARES, p.32-35, 2016).
@@ -40,7 +42,6 @@ Ao verificar o andamento de 44 investigações de homicídios decorrentes de int
 Uma outra questão é que frequentemente, as investigações são prejudicadas pela alteração das cenas dos crimes como a remoção do corpo da vítima sem diligência aproprida ou a inserção de provas falsificadas (como armas e drogas) junto ao corpo. Ao enquandra a vítima como suspeita de ter relação com o tráfico de drogas, a investigação geralmente passa a forcar em seu perfil criminal, ao invés de determinar as circustâncias do homicídio.  (ANISTIA INTERNACIONAL, 2015)	  
   
 
-Esse cenário turbulento gera desamparo tanto para pessoas que fogem à lei, quanto para pessoas que não cometem delitos, caindo num ciclo vicioso, em que se exige mais segurança ao estado e é correspondido com mais repressão. (GOMES, 2019).
 
   
 
