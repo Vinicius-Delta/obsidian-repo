@@ -17,7 +17,7 @@ Apesar dos direitos humanos determinarem que as armas de fogo devem ser utilizad
  
  ## 2.2 Execuções extrajudiciais e outros abusos policiais
 
-Apesar das tentativas das forças do Estado em combater as ameaças à segurança, o Brasil ainda possui uma criminalidade elevada. Segundo o Anuário Brasileiro de Segurança Pública de 2021, isso se reflete na taxa de mortes violentas incidentais, que atingiu o valor de 23,6 por 100 mil habitantes em 2020. Ou, em média, uma pessoa morta a cada 10 minutos. Importante destacar que desse total de assassinatos, apenas 8% são esclarecidos por meio de inquérito policial. (Fórum Brasileiro de Segurança Pública, 2019).
+Apesar das tentativas das forças do Estado em combater as ameaças à segurança, o Brasil ainda possui uma criminalidade elevada. Segundo o Anuário Brasileiro de Segurança Pública de 2019, isso se reflete no número de mortes violentas intencionais, com um total de 57.341 homicídios em 2018. Ou, em média, uma pessoa morta a cada 10 minutos. Importante destacar que desse total de assassinatos, apenas 8% são esclarecidos por meio de inquérito policial. (Fórum Brasileiro de Segurança Pública, 2019).
 
 Essa ineficiência do sistema investigativo, resulta numa percepção de impunidade e numa descrença sobre o sistema de justiça criminal. Como resposta, a população se tornou menos tolerante ao crime, solicitando maior repressão e intervenção por parte do governo. Esse cenário contribuiu para fortalecer a ideia de que, através do endurecimento das abordagens policiais, seria possível solucionar os problemas da criminalidade (CUBAS et al, 2016).
 
