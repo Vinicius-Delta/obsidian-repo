@@ -50,9 +50,11 @@ As medidas de segurança realizdas até então não foram capazes de extinguir a
 
 Nesse contexto marcado pela pandemia, mesmo com a circulação reduzida de pessoas nas ruas, o número de mores decorrente às intervenções policiais se manteve em crescimento. Foram 6.416 mortes, o maior número desde 2013, quando o indicador passou a ser monitorado pelo Fórum Brasileiro de Segurança Pública, com um total de 2.212 homicídios, representando um aumento durante esse período 190%.  (FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA, 2021)
   
-Em 25 de maio de 2020, quando a pandemia estava em ascensão no Estados Unidos, George Floyd, um homem negro estadunidense foi brutalmente assassinado por policiais na cidade de Minneapolis. O incidente foi registrado em vídeo e divulgado pela internet, repercutindo por todo no mundo. A partir deste acontecimento, os protestos contra a brutalidade policial ganharam mais força, o motviento ativista  abrindo espaço para o diálogo público sobre a violência policial e a reorganização desta instituição.
+Em 25 de maio de 2020, quando a pandemia estava em ascensão no Estados Unidos, George Floyd, um homem negro estadunidense foi brutalmente asfixiado por policiais na cidade de Minneapolis. O incidente foi registrado em vídeo e divulgado pela internet, repercutindo por todo no mundo. A partir deste acontecimento, os protestos contra a brutalidade policial ganharam mais força, o movimento ativista *Black Lives Matter* ganhou visibilidade e o tema se tornou recorrente no diálogo público e na mídia.
 
-  
+Não se tratava da primeira vez, nem mesmo a útltima que 
+
+
 
 Em resposta à crescente onda de protestos, vários departamentos de polícia reprimiram violentamente as manifestações pacíficas, resultando em confrontos com os manifestantes. Conforme os vídeos dessas repressões circulavam nas redes sociais, os protestos atingiram nível nacional e internacional. À medida que esses protestos continuaram, centenas de incidentes foram registrados nos quais a polícia americana realizou agressões violentas, perseguições e prisões arbitrárias.
 
