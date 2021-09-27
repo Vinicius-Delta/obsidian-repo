@@ -23,9 +23,7 @@ Essa ineficiência do sistema investigativo, resulta numa percepção de impunid
 
 Em resposta a isso, parte do efetivo aproveita o apoio como licença para matar ou, como preceitua Mingardi (2015, p.14), "agem de acordo com regras próprias, por vezes infringindo o espírito das leis". A ação policial se torna mais violenta e entram no repertório a prática de abusos da força legal, torturas, humilhações e execuções extrajudiciais por parte das polícias.
 
-Prova disso, é que temos no Brasil a polícia que mais mata no mundo. 11 a cada 100 homicídios foram provocados pelas Polícias, num total de mais de 6.220 vítimas no ano de 2018, e em média, 17 por dia. Em comparação ao ano anterior (2017), o assassinato causado por policiais aumentou em 19,6%, e foi a única categoria de homicídios em alta. (Fórum Brasileiro de Segurança Pública, 2019).
-
-As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico utilizado para proteger os policiais que durante o exercício da função, agiram em “legítima defesa”, e mataram um “opositor” que realizou uma “injusta agressão” contra eles. (MISSE; GRILLO; NERI, 2015).
+Prova disso, é que temos no Brasil a polícia que mais mata no mundo. Do toral de homicídios intencionais do em 2020, 12,8% foram provocados pelas Polícias, num total de mais de 6.220 vítimas no ano de 2018, e em média, 17 por dia. Em comparação ao ano anterior (2017), o assassinato causado por policiais aumentou em 19,6%, e foi a única categoria de homicídios em alta. (Fórum Brasileiro de Segurança Pública, 2019). As mortes provocadas pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico utilizado para proteger os policiais que durante o exercício da função, agiram em “legítima defesa”, e mataram um “opositor” que realizou uma “injusta agressão” contra eles. (MISSE; GRILLO; NERI, 2015).
 
 [dados do anuário que provam que não é mútua]
 
