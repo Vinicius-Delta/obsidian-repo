@@ -89,7 +89,7 @@ Em resposta à crescente onda de protestos, vários departamentos de polícia re
 
 ## 2.4 Recomendações dos especialistas
 
-  
+  O cenário analisado neste capítulo demostra que existe uma necessidade urgente de melhoria no controle da força policial, principalmente da força letal utilizada pelos policiais. 
   
 
 [uso de câmeras nos uniformes]
