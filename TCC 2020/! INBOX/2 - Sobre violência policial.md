@@ -31,7 +31,7 @@ Essa manifestação violenta da polícia tem impactos mais intensos em determina
 
 Estes indivíduos são, com frequência, jovens de baixa escolaridade, pobres, moradores de periferias e favelas, que devido às dificuldades sociais e sinônimas recorrem a atividades informais de sobrevivência econômica. Consequentemente, são os principais alvos das ações policiais que resultam em homicídio. Segundo o Anuário Brasileiro de Segurança Pública (2021), as maiores vítimas fatais são homens (98,4%), negros (78,9%) e jovens entre 18 e 29 anos (68,8%).  (Fórum Brasileiro de Segurança Pública, 2021).
 
- ## 2.3 Execuções extrajudiciais e impunidade
+ ## 2.3 Autos de resistência e impunidade
 
 O homicídios cometidos pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico criado durante a Ditatura Militar, que é utilizado para proteger os policiais que durante o exercício da função, agiram em “legítima defesa”, e mataram um “opositor” que realizou uma “injusta agressão” contra eles. Tal identificação dificulta a diferenciação desses procedimentos dos demais homicídios, por não constar nos registros do Ministério Público e do Tribunal de Justiça. (MISSE; GRILLO; NERI, 2015, p. 46).  A Anistia Internacional corrobora, afirmando que os registros realizados como "autos de resistência" dificultam investigações imparciais e independentes, que poderiam avaliar se o uso de força foi legítimo. (ANISTIA INTERNACIONAL, 2015, p. 5)
 
