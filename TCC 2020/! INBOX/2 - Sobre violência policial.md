@@ -67,7 +67,8 @@ No mês de julho do mesmo ano, o adolescente de 13 anos, Mizael Fernandes da Sil
   
 O crime causou comoção aos moradores da cidade onde Mizael morava. Durante três dias, os comerciantes não abriram as portas e diversanifestações foram feitas no município, com cartazes e carreatas. Em âmbito nacional, foi realizada uma campanha em redes sociais intitulada #JustiçaPorMizael, iniciada pela Rede de Observatórios da Segurança do Ceará, que exigia o posicionamento do governo de Camilo Santana e das polícias cearenses. (VASCONCELOS, 2020)
 
-Durante o mês de maio de 2021, ocorreu um dos maiores exemplos sintomáticos dos problemas descritos: a Operação Exceptis, relizada no Jacarezinho (Rio de janeiro - RJ). Primeiramente, ela descumpriu as determinações do STF que restringirem as operações nas favelas, não foi realizado informe previo e nem estava acompanhamento do MP-RJ, como foi determinado pelos Ministros. O objetivo da operação visava cumprir 21 mandados de prisão, mas terminou cumprindo apenas três e resultou na morte de 28 pessoas; algumas, segundo narrativas dos moradores, por execução
+Durante o mês de maio de 2021, ocorreu um dos maiores exemplos sintomáticos dos problemas descritos: a Operação Exceptis, relizada no Jacarezinho (Rio de janeiro - RJ). Primeiramente, ela descumpriu as determinações do STF que restringirem as operações nas favelas, não foi realizado informe previo e nem estava acompanhamento do MP-RJ, como foi determinado pelos Ministros. O objetivo da operação era cumprir 21 mandados de prisão, mas cumpriu apenas três e resultou na morte de 28 pessoas; algumas, sem qualquer envolvimento com os mandatos. (BRASIL, 2021)
+
 
 
   
@@ -128,4 +129,4 @@ Por se tratar um tema complexo, com diversas temáticas transversais, é possív
 Apesar desses temas não estarem completamente representados nesta monografia, reconhecemos a importância da compreensão das mesmas para o melhor entendimento da questão. Por isso, selecionamos outras publicações que tratam dessas temáticas específicas, como sugestão de leitura. A relação das obras e autores está disponível no Apêndice X.
 
   
-*
+**
