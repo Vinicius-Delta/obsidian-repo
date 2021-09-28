@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/INTRO.md",
+            "file": "! INBOX/2 - Sobre violência policial.md",
             "mode": "source"
           }
         }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/INTRO.md"
+                "file": "! INBOX/2 - Sobre violência policial.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/INTRO.md",
+                "file": "! INBOX/2 - Sobre violência policial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -161,8 +161,8 @@
   },
   "active": "60479b22f07531d5",
   "lastOpenFiles": [
-    "! INBOX/INTRO.md",
     "! INBOX/2 - Sobre violência policial.md",
+    "! INBOX/INTRO.md",
     "assets/Pasted image 20210927195806.png",
     "! INBOX/Casos notáveis - rascunho.md",
     "assets/Pasted image 20210926113017.png",

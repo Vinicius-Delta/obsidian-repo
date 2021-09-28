@@ -80,7 +80,7 @@ O último caso a ser destacado é o da Designer de Interiores Kathlen Romeu. Ela
 
   O cenário analisado neste capítulo demostra que existe uma necessidade urgente de melhoria no controle da força policial, principalmente da força letal utilizada pelos policiais. Esta seção irá apresentar algumas recomendações feitas por especialistas, voltadas para a redução de os abusos e arbitrariedades.
   
-
+A Anistia Internacional (2015), 
 
 [desmilitarização]
 
