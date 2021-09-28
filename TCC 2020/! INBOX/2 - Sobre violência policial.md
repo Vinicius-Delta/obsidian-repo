@@ -84,15 +84,8 @@ A Anistia Internacional (2015, p. 6), reidivinca que o Governo do estado do Rio 
 
 Para CONECTAS (2021), a investigação da atuação dos policiais que realizam violência deve ser retirada da competência da Justiça Militar, para ser realizada por um órgão independente. Ao Ministério Público, recomendam que realize sua função constitucional de apurar as denúncias de violência policial, sem delegar às polícias. Além disso, a Defensoria Pública, recomendam que a assistência jurídica seja relizada durante todo o processo de apuração, agindo para garantir que o depoimento das vítimas sejam considerados.
 
-O 
+O especialista em segurança pública, Luiz Eduardo Soares, em seu livro Desmilitarizar (2019), defende a refundação das instituições policiais, a legalização das drogas e uma mudança nas relações entre o poder do estado armado e as camadas mais vuneráveis. (SOARES, 2019)
 
-[desmilitarização]
-
-[recomendações da Anistia Internacional]
-
-[Campaign Zero?]
-
-  
   
 
 ## 2.6 Leituras complementares
