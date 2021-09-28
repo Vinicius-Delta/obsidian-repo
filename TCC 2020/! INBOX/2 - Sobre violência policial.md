@@ -78,9 +78,9 @@ O último caso a ser destacado é o da Designer de Interiores Kathlen Romeu. Ela
 
 ## 2.5 Recomendações dos especialistas
 
-  O cenário analisado neste capítulo demostra que existe uma necessidade urgente de melhoria no controle da força policial, principalmente da força letal utilizada pelos policiais. Esta seção irá apresentar algumas recomendações feitas por especialistas, voltadas para a redução de os abusos e arbitrariedades.
+  O cenário analisado neste capítulo demostra que existe uma necessidade urgente de melhoria no controle da força policial, principalmente da força letal utilizada pelos policiais. Esta seção irá apresentar algumas das recomendações e reidivicações feitas por especialistas e organizações, voltadas para a redução de os abusos e arbitrariedades.
   
-A Anistia Internacional (2015), 
+A Anistia Internacional (2015), reidivinca que o Governo do estado do Rio de Janeiro, realize investigações amplas, imparciais e independentes dos casos, para que seja realizado processos criminais quando necessário.
 
 [desmilitarização]
 
