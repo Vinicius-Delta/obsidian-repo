@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Casos notáveis - rascunho.md",
+            "file": "! INBOX/2 - Sobre violência policial.md",
             "mode": "source"
           }
         }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Pasted image 20210926113017.png"
+                "file": "! INBOX/2 - Sobre violência policial.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Pasted image 20210926113017.png",
+                "file": "! INBOX/2 - Sobre violência policial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -159,12 +159,12 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "6a575f9dd631971f",
+  "active": "60479b22f07531d5",
   "lastOpenFiles": [
-    "assets/Pasted image 20210926113017.png",
     "! INBOX/2 - Sobre violência policial.md",
-    "! INBOX/Sem título.md",
     "! INBOX/Casos notáveis - rascunho.md",
+    "assets/Pasted image 20210926113017.png",
+    "! INBOX/Sem título.md",
     "! INBOX/Indice de casos recentes.md",
     "! INBOX/ANISTIA INTERNACIONAL, 2015.md",
     "TCC/_TCC 2+/2 - Sobre violência policial.md",
