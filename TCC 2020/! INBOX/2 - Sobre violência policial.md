@@ -33,7 +33,7 @@ Estes indivíduos são, com frequência, jovens de baixa escolaridade, pobres, m
 
  ## 2.3 Autos de resistência e impunidade
 
-O homicídios cometidos pela polícia são usualmente enquadradas como “autos de resistência”, um jargão jurídico criado durante a Ditatura Militar, que é utilizado para proteger os policiais que durante o exercício da função, agiram em “legítima defesa”, e mataram um “opositor” que realizou uma “injusta agressão” contra eles. Tal identificação dificulta a diferenciação desses procedimentos dos demais homicídios, por não constar nos registros do Ministério Público e do Tribunal de Justiça. (MISSE; GRILLO; NERI, 2015, p. 46).  A Anistia Internacional corrobora, afirmando que os registros realizados como "autos de resistência" dificultam investigações imparciais e independentes, que poderiam avaliar se o uso de força foi legítimo. (ANISTIA INTERNACIONAL, 2015, p. 5)
+O homicídios cometidos pela polícia são usualmente enquadrados como “autos de resistência”, um jargão jurídico criado durante a Ditatura Militar, que é utilizado para proteger os policiais que durante o exercício da função, agiram em “legítima defesa”, e mataram um “opositor” que realizou uma “injusta agressão” contra eles. Tal identificação dificulta a diferenciação desses procedimentos dos demais homicídios, por não constar nos registros do Ministério Público e do Tribunal de Justiça. (MISSE; GRILLO; NERI, 2015, p. 46).  A Anistia Internacional corrobora, afirmando que os registros realizados como "autos de resistência" dificultam investigações imparciais e independentes, que poderiam avaliar se o uso de força foi legítimo. (ANISTIA INTERNACIONAL, 2015, p. 5)
 
 O Relatório para o Conselho de Direitos Humanos das Nações Unidas (2014) determina que os governos devem assegurar que os agentes de segurança - especialmente os policiais - respeitem o direito a vida.  O mesmo relatório articula que "a falha do Estado em investigar devidamente os casos de mortes resultantes do uso da força de seus agentes é uma violação do direito à vida de igual forma" (ONU, 2014; tradução de ANISTIA INTERNACIONAL, 2015)
 
@@ -94,36 +94,25 @@ O último caso a ser destacado é o da Designer de Interiores Kathlen Romeu. Ela
 ## 2.6 Leituras complementares
 
 Por se tratar um tema complexo, com diversas temáticas transversais, é possível traçar diversos outros desdobramentos para tratar da temática. Porém, devido às limitações de tempo e escopo do Trabalho de Conclusão de Curso, além do compromisso em relacionar essas questões ao Design, foi necessário definir um escopo para a realização da pesquisa que será aplicada ao projeto de Design. Devido as limitações essas limitações, os autores se aprofundarão em texto nas seguintes temáticas:
-
   
-
 * A crescente disponibilidade de armas de fogo no Brasil
-
 * Crime organizado
-
 * A inexistência de uma política nacional de redução de homicídios
-
 * A banalização da violência no país
-
 * A estigmatização dos moradores das favelas
-
 * Racismo histórico no Brasil
-
 * Representação midiática da criminalidade
-
 * A ação dos Grupos de Extermínio e Milícias
-
 * A questão das drogas
-
 * O debate público sobre segurança pública
-
 * As violações de direitos humanos cometidas aos policiais, dentro das organizações
-
 * O contexto histórico das políticas segurança públicas
-
 * Violência policial no contexto internacional
-
 * Homicídios promovidos por empresas contra pessoas negras
+* Sistema Único de Segurança Pública e a ausência de avanços na sua implantação durante o governo atual
+* Sistema Prisional
+
+
 
 
 Apesar desses temas não estarem completamente representados nesta monografia, reconhecemos a importância da compreensão das mesmas para o melhor entendimento da questão. Por isso, selecionamos outras publicações que tratam dessas temáticas específicas, como sugestão de leitura. A relação das obras e autores está disponível no Apêndice X.
