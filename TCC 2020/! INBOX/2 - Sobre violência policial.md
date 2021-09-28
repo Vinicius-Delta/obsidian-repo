@@ -69,7 +69,9 @@ O crime causou comoção aos moradores da cidade onde Mizael morava. Durante tr�
 
 Durante o mês de maio de 2021, ocorreu um dos maiores exemplos sintomáticos dos problemas descritos: a Operação Exceptis, relizada no Jacarezinho (Rio de janeiro - RJ). Primeiramente, ela descumpriu as determinações do STF que restringirem as operações nas favelas, não foi realizado informe previo e nem estava acompanhamento do MP-RJ, como foi determinado pelos Ministros. O objetivo da operação era cumprir 21 mandados de prisão, mas cumpriu apenas três e resultou na morte de 28 pessoas; algumas, sem qualquer envolvimento com os mandatos. (BRASIL, 2021)
 
+O último caso a ser destacado é o da Designer de Interiores Kathlen Romeu. Ela era tinha 24 anos, estava grávida de 14 semanas e caminhava com a avó, quando foi atingida com um tiro de fuzil no tórax, na comunidade Lins de Vasconcelos (Rio de Janeiro - RJ). Segundo os familiares da jovem, 
 
+Segundo a versão da PM, os agentes que estavam presentes foram atacados a tiros por criminosos na localidade, e por isso iniciaram um confronto. Porém, na versão 
 
   
   
