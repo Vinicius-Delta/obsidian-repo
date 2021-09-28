@@ -78,13 +78,15 @@ O último caso a ser destacado é o da Designer de Interiores Kathlen Romeu. Ela
 
 ## 2.5 Reidivicações dos especialistas
 
-  O cenário analisado neste capítulo demostra que existe uma necessidade urgente de melhoria no controle da força policial, principalmente da força letal utilizada pelos policiais. Esta seção irá apresentar algumas das reidivicações feitas por especialistas e organizações, voltadas para a redução de os abusos e arbitrariedades.
-  
-A Anistia Internacional (2015, p. 6), reidivinca que o Governo do estado do Rio de Janeiro, realize investigações amplas, imparciais e independentes dos casos, para que seja realizado processos criminais quando necessário.
+O cenário analisado neste capítulo demostra que existe uma necessidade urgente de melhoria no controle da força policial, principalmente da força letal utilizada pelos policiais. Esta seção irá apresentar algumas recomendações feitas por especialistas, voltadas para a redução de os abusos e arbitrariedades.
 
-Para CONECTAS (2021), a investigação da atuação dos policiais que realizam violência deve ser retirada da competência da Justiça Militar, para ser realizada por um órgão independente. Ao Ministério Público, recomendam que realize sua função constitucional de apurar as denúncias de violência policial, sem delegar às polícias. Além disso, a Defensoria Pública, recomendam que a assistência jurídica seja relizada durante todo o processo de apuração, agindo para garantir que o depoimento das vítimas sejam considerados.
+O cenário analisado neste capítulo demostra que existe uma necessidade urgente de melhoria no controle da força policial, principalmente da força letal utilizada pelos policiais. Esta seção irá apresentar algumas das reivindicações feitas por especialistas e organizações, voltadas para a redução de os abusos e arbitrariedades.
 
-O especialista em segurança pública, Luiz Eduardo Soares, em seu livro Desmilitarizar (2019), defende a refundação das instituições policiais, a legalização das drogas e uma mudança nas relações entre o poder do estado armado e as camadas mais vuneráveis. (SOARES, 2019)
+A Anistia Internacional (2015, p. 6), reivindica que o Governo do estado do Rio de Janeiro, realize investigações amplas, imparciais e independentes dos casos, para que seja realizado processos criminais quando necessário.
+
+Para CONECTAS (2021), a investigação da atuação dos policiais que realizam violência deve ser retirada da competência da Justiça Militar, para ser realizada por um órgão independente. Ao Ministério Público, recomendam que realize sua função constitucional de apurar as denúncias de violência policial, sem delegar às polícias. Além disso, a Defensoria Pública, recomendam que a assistência jurídica seja realizada durante todo o processo de apuração, agindo para garantir que o depoimento das vítimas seja considerado.
+
+O especialista em segurança pública, Luiz Eduardo Soares, em seu livro Desmilitarizar (2019), defende a refundação das instituições policiais, a legalização das drogas e uma mudança nas relações entre o poder do estado armado e as camadas mais vulneráveis (SOARES, 2019).
 
   
 
