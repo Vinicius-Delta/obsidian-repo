@@ -82,7 +82,9 @@ O último caso a ser destacado é o da Designer de Interiores Kathlen Romeu. Ela
   
 A Anistia Internacional (2015, p. 6), reidivinca que o Governo do estado do Rio de Janeiro, realize investigações amplas, imparciais e independentes dos casos, para que seja realizado processos criminais quando necessário.
 
-Para CONECTAS (2021), a investigação da atuação dos policiais que realizam violência deve ser retirada da competência da Justiça Militar, para ser realizada por um órgão independente. Além disso, recomenda ao Mi
+Para CONECTAS (2021), a investigação da atuação dos policiais que realizam violência deve ser retirada da competência da Justiça Militar, para ser realizada por um órgão independente. Ao Ministério Público, recomendam que realize sua função constitucional de apurar as denúncias de violência policial, sem delegar às polícias. Além disso, a Defensoria Pública, recomendam que a assistência jurídica seja relizada durante todo o processo de apuração, agindo para garantir que o depoimento das vítimas sejam considerados.
+
+O 
 
 [desmilitarização]
 
