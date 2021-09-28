@@ -13,16 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "6a575f9dd631971f",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "assets/Pasted image 20210926113017.png"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 283,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",

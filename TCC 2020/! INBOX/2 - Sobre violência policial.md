@@ -80,9 +80,9 @@ O último caso a ser destacado é o da Designer de Interiores Kathlen Romeu. Ela
 
   O cenário analisado neste capítulo demostra que existe uma necessidade urgente de melhoria no controle da força policial, principalmente da força letal utilizada pelos policiais. Esta seção irá apresentar algumas das reidivicações feitas por especialistas e organizações, voltadas para a redução de os abusos e arbitrariedades.
   
-A Anistia Internacional (2015), reidivinca que o Governo do estado do Rio de Janeiro, realize investigações amplas, imparciais e independentes dos casos, para que seja realizado processos criminais quando necessário.
+A Anistia Internacional (2015, p. 6), reidivinca que o Governo do estado do Rio de Janeiro, realize investigações amplas, imparciais e independentes dos casos, para que seja realizado processos criminais quando necessário.
 
-Para CONECTAS (2021)
+Para CONECTAS (2021), a investigação da atuação dos policiais que realizam violência deve ser retirada da competência da Justiça Militar, para ser realizada por um órgão independente. Além disso, recomenda ao Mi
 
 [desmilitarização]
 
