@@ -43,12 +43,12 @@ Ao verificar o andamento de 44 investigações de homicídios decorrentes de int
 
 Um outro obstáculo frequente para as investigações, é alteração das cenas dos crimes, como a remoção do corpo da vítima sem diligência apropriada ou a inserção de provas falsificadas (como armas e drogas) junto ao corpo. Ao enquadrar a vítima como suspeita de ter relação com o tráfico de drogas, a investigação geralmente passa a forcar em seu perfil criminal, ao invés de determinar as circunstâncias do homicídio (ANISTIA INTERNACIONAL, 2015).
 
-As medidas de segurança realizdas até então não foram capazes de extinguir as execuções extrajudiciais. A Polícia Militar (e Civil), continuam utilizando a força de forma arbitrária e excessiva, resultando em mortes e impunidades. A seção seguinte irá apresentar alguns dos casos que ocorreram recentemente, durante o período de 2020-2021, e que foram destaque na mídia e na repercussão pública.
+As medidas de segurança realizadas até então não foram capazes de extinguir as execuções extrajudiciais. A Polícia Militar (e Civil), continuam utilizando a força de forma arbitrária e excessiva, resultando em mortes e impunidades. A seção seguinte irá apresentar alguns dos casos que ocorreram recentemente, durante o período de 2020-2021, e que foram destaque na mídia e na repercussão pública.
   
 
 ## 2.4 Violência policial durante a pandemia (2020-2021) 
 
- O ano de 2020 foi marcante para história mundial, devido a pandemia do novo coronavírus, que alterou draticamente a rotina das pessoas e das relações sociais. Os impatos foram diversos, principalmente com o fechamento de fronteiras, restrição da circulação das pessoas, cancelamento de eventos e aumento do desemprego.
+O ano de 2020 foi marcante para história mundial, devido a pandemia do novo coronavírus, que alterou drasticamente a rotina das pessoas e das relações sociais. Os impactos foram diversos, principalmente com o fechamento de fronteiras, restrição da circulação das pessoas, cancelamento de eventos e aumento do desemprego.
 
 Nesse contexto marcado pela pandemia, mesmo com a circulação reduzida de pessoas nas ruas, o número de mores decorrente às intervenções policiais se manteve em crescimento. Foram 6.416 mortes, o maior número desde 2013, quando o indicador passou a ser monitorado pelo Fórum Brasileiro de Segurança Pública, com um total de 2.212 homicídios, representando um aumento durante esse período 190%.  (FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA, 2021)
   
