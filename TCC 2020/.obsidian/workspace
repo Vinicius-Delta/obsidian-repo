@@ -18,10 +18,9 @@
         "id": "6a575f9dd631971f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "! INBOX/2 - Sobre violência policial.md",
-            "mode": "source"
+            "file": "assets/Pasted image 20210926113017.png"
           }
         }
       }
@@ -79,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283,
-    "collapsed": true
+    "width": 283
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -108,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/2 - Sobre violência policial.md"
+                "file": "assets/Pasted image 20210926113017.png"
               }
             }
           },
@@ -142,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/2 - Sobre violência policial.md",
+                "file": "assets/Pasted image 20210926113017.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -163,15 +161,15 @@
   },
   "active": "6a575f9dd631971f",
   "lastOpenFiles": [
+    "assets/Pasted image 20210926113017.png",
     "! INBOX/2 - Sobre violência policial.md",
+    "! INBOX/Sem título.md",
     "! INBOX/Casos notáveis - rascunho.md",
     "! INBOX/Indice de casos recentes.md",
     "! INBOX/ANISTIA INTERNACIONAL, 2015.md",
     "TCC/_TCC 2+/2 - Sobre violência policial.md",
-    "! INBOX/Sem título.md",
     "! INBOX/Questões paralelas.md",
     "daily/2021-09-27.md",
-    "TCC/_TCC 1/v0.3 - versão entregue/Projeto TCC1 [05.03.20].md",
-    "! INBOX/INTRO.md"
+    "TCC/_TCC 1/v0.3 - versão entregue/Projeto TCC1 [05.03.20].md"
   ]
 }

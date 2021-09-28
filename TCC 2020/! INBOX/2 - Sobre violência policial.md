@@ -1,8 +1,8 @@
 ## 2.1 Segurança pública como direito humano
 
-Todos os seres humanos têm o direito à vida, à liberdade à liberdade e à segurança pessoal, independentemente de sua cor, raça, classe social ou gênero. Esse direito, é resultado de uma da luta realizada históricamente por pessoas que viveram ou ainda vivem sob opressão, e que atingiu patamar global a partir de 1948, pela assinatura da Declaração Universal dos Direitos Humanos em asssembléia da ONU. A partir dessa declaração, todos os governos, precisam garantir esses direiros e atuar contra a sua violação.  (ONU, 1948)
-  
-A Constituição Federal, promulgada em 1988, estabelece princípios baseados nos direitos humanos, garantindo a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o Art. 144º, a segurança pública é dever do Estado, direito e responsabilidade de todos e é exercída por diversos orgãos do governo: polícias federais, rodoviárias e ferroviárias, que respondem à União, e as polícias civis, militares e o corpo de bombeiros, que são subordinados ao governo estadual (BRASIL, 1988). Esta divisão, suas respectivas responsabilidade e os agentes responsáveis são representados pelo quadro abaixo:
+Todos os seres humanos têm o direito à vida, à liberdade à liberdade e à segurança pessoal, independentemente de sua cor, raça, classe social ou gênero. Esse direito, é resultado de uma da luta realizada historicamente por pessoas que viveram ou ainda vivem sob opressão, e que atingiu patamar global a partir de 1948, pela assinatura da Declaração Universal dos Direitos Humanos em assembleia da ONU. A partir dessa declaração, todos os governos, precisam garantir esses direitos e atuar contra a sua violação (ONU, 1948).
+
+A Constituição Federal, promulgada em 1988, estabelece princípios baseados nos direitos humanos, garantindo a proteção de todos os brasileiros, seus bens e seus direitos. Segundo o Art. 144º, a segurança pública é dever do Estado, direito e responsabilidade de todos e é exercida por diversos órgãos do governo: polícias federais, rodoviárias e ferroviárias, que respondem à União, e as polícias civis, militares e o corpo de bombeiros, que são subordinados ao governo estadual (BRASIL, 1988). Esta divisão, suas respectivas responsabilidades e os agentes responsáveis são representados pelo quadro abaixo:
 
 Quadro X - Instituições brasileiras responsáveis pela segurança
 ![[Pasted image 20210926113017.png]]
@@ -46,7 +46,7 @@ Uma outro obstáculo frequente para as investigações, é alteração das cenas
 As medidas de segurança realizdas até então não foram capazes de extinguir as execuções extrajudiciais. A Polícia Militar (e Civil), continuam utilizando a força de forma arbitrária e excessiva, resultando em mortes e impunidades. A seção seguinte irá apresentar alguns dos casos que ocorreram recentemente, durante o período de 2020-2021, e que foram destaque na mídia e na repercussão pública.
   
 
-## 2.3 Violência policial durante a pandemia (2020-2021) 
+## 2.4 Violência policial durante a pandemia (2020-2021) 
 
  O ano de 2020 foi marcante para história mundial, devido a pandemia do novo coronavírus, que alterou draticamente a rotina das pessoas e das relações sociais. Os impatos foram diversos, principalmente com o fechamento de fronteiras, restrição da circulação das pessoas, cancelamento de eventos e aumento do desemprego.
 
@@ -76,12 +76,11 @@ O último caso a ser destacado é o da Designer de Interiores Kathlen Romeu. Ela
   
   
 
-## 2.4 Recomendações dos especialistas
+## 2.5 Recomendações dos especialistas
 
   O cenário analisado neste capítulo demostra que existe uma necessidade urgente de melhoria no controle da força policial, principalmente da força letal utilizada pelos policiais. Esta seção irá apresentar algumas recomendações feitas por especialistas, voltadas para a redução de os abusos e arbitrariedades.
   
 
-[uso de câmeras nos uniformes]
 
 [desmilitarização]
 
@@ -92,7 +91,7 @@ O último caso a ser destacado é o da Designer de Interiores Kathlen Romeu. Ela
   
   
 
-## 2.5 Leituras complementares
+## 2.6 Leituras complementares
 
 Por se tratar um tema complexo, com diversas temáticas transversais, é possível traçar diversos outros desdobramentos para tratar da temática. Porém, devido as limitações de tempo e escopo do Trabalho de Conclusão de Curso, além do compromisso em relacionar essas questões ao Design, foi necessário definir um escopo para a realização da pesquisa que será aplicada ao projeto de Design. Devido as limitações essas limitações, os autores se aprofundarão em texto nas seguintes temáticas:
 
