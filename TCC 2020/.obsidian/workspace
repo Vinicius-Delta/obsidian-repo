@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 283,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Design Especulativo e Crítico.md"
+                "file": "! INBOX/Sem título.md"
               }
             }
           },
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Design Especulativo e Crítico.md",
+                "file": "! INBOX/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -182,11 +183,11 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "a224babd1bfb7b32",
+  "active": "108190d5168db383",
   "lastOpenFiles": [
+    "! INBOX/Sem título.md",
     "! INBOX/Design Especulativo e Crítico.md",
     "TCC/referências/estrutura do tcc (informal)/TCC em bloco.md",
-    "! INBOX/Sem título.md",
     "TCC/referências/design especulativo & critico/MACHADO, 2018.md",
     "TCC/referências/design especulativo & critico/JESUS, 2016.md",
     "TCC/referências/design especulativo & critico/DUNNE; RABY, 2013.md",
