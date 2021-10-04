@@ -1,1 +1,0 @@
-[Uso de câmeras nos uniformes]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Tendências.md",
+            "file": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Tendências.md"
+                "file": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Tendências.md",
+                "file": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -151,6 +151,8 @@
   },
   "active": "60479b22f07531d5",
   "lastOpenFiles": [
+    "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
+    "TCC/referências/design para telas pequenas/LOPES, 2013.md",
     "! INBOX/Tendências.md",
     "! INBOX/Questões paralelas.md",
     "! INBOX/Profissão Repórter 21.09.2021.md",
@@ -158,8 +160,6 @@
     "! INBOX/ANISTIA INTERNACIONAL, 2017.md",
     "TCC/_TCC 2+/1 - Introdução.md",
     "! INBOX/INTRO.md",
-    "! INBOX/Indice de casos recentes.md",
-    "! INBOX/Casos notáveis - rascunho.md",
-    "! INBOX/2 - Sobre violência policial.md"
+    "! INBOX/Indice de casos recentes.md"
   ]
 }

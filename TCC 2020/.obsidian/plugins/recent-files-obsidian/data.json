@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "OLIVEIRA; FRANZATO; DEL GAUDIO, 2017",
+      "path": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md"
+    },
+    {
+      "basename": "LOPES, 2013",
+      "path": "TCC/referências/ux/LOPES, 2013.md"
+    },
+    {
       "basename": "Tendências",
-      "path": "! INBOX/Tendências.md"
+      "path": "TCC/intenções/Tendências.md"
     },
     {
       "basename": "Questões paralelas",
@@ -165,10 +173,6 @@
       "path": "daily/2021-09-17.md"
     },
     {
-      "basename": "LOPES, 2013",
-      "path": "TCC/referências/design para telas pequenas/LOPES, 2013.md"
-    },
-    {
       "basename": "PEREIRA, 2018",
       "path": "TCC/referências/ux/PEREIRA, 2018.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Orientação 2021.07.11",
       "path": "TCC/orientações/Orientação 2021.07.11.pdf"
-    },
-    {
-      "basename": "Comparação entre a introdução e o TCC em bloco",
-      "path": "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Comparação entre a introdução e o TCC em bloco.md"
     }
   ],
   "omittedPaths": [],
