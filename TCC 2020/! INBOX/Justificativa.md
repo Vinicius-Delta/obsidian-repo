@@ -18,7 +18,7 @@ Mesmo sendo uma área em crescimento e importante para a reflexão sobre cenári
 
 ¹ Texto original em inglês: "The visual discourse of SCD [Speculative and Critical Design] also seems interestingly devoid of people of color, who rarely (if ever) make an appearance in the clean, perfectly squared, aseptic world imagined by these designers-researchers. Couples depicted in these near-future scenarios seem to be consistently heterosexual; there is no poverty, there are no noticeable power structures that divide the wealthy and the poor, or the colonialist and the colonised; gender seems to be an immutable, black-and-white truth, clearly defined between men and women, with virtually no space for trans* and queer identities (let alone queer and trans* voices speaking for themselves). From its visual discourse to its formulations of near-future scenarios, SCD seems to be curiously apathetic and apolitical for a discipline that strives to be a critical response to mainstream perceptions of what design is, and what it should do."" (MARTINS, 2017)
 
-Apesar dessa origem excludente, o Design Crítico e Especulativo tem algo a oferecer a sociedade e aos nossos semelhantes, por oferecer ferramentas para 
+Apesar dessa origem excludente, o Design Crítico e Especulativo tem algo a oferecer aos nossos semelhantes (negrxs, LGBTQI+, , por oferecer ferramentas para 
 
 
 ## Qual é o público alvo?
