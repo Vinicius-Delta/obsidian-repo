@@ -6,7 +6,6 @@ Como estabelecer conexões entre o contexto da violência policial no Brasil do 
 
 
 ## Porque esse trabalho existe
-
 O presente projeto se justifica com base no atual cenário político, econômico e social, onde os casos de violência policial ocorrem constantemente, e mesmo quando recebem cobertura na mídia, resultam em impunidade. Nesse sentido, a proposta é fazer uma reflexão sobre o modelo de organização das forças policiais do Brasil e os mecanismos para combater o problema. Apesar de ser um tema relevante, percebe-se que produções acadêmicas em Design carecem em tratar essa temática, portanto esse trabalho busca alternar essa constatação.
 
 
@@ -20,8 +19,6 @@ Devido ao crescente avenço tecnológico, é importante para os designers partic
 
 
 ## Qual é a relevância?
-
-
 Apesar de ser uma área em crescimento e importante para a reflexão sobre cenários futuros, o Design Especulativo e Crítico ainda é um ramo pouco trabalhado em produções acadêmicas no Brasil.
 
 Relevância de levantar questionamentos e caráter transformador

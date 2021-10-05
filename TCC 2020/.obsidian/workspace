@@ -26,6 +26,17 @@
         }
       },
       {
+        "id": "e80e7ac5127f06b0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
         "id": "9b6985be46285677",
         "type": "leaf",
         "state": {
@@ -118,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Justificativa.md"
+                "file": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md"
               }
             }
           },
@@ -152,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Justificativa.md",
+                "file": "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -171,8 +182,10 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "4904488445599b5e",
+  "active": "e80e7ac5127f06b0",
   "lastOpenFiles": [
+    "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
+    "TCC/referências/design/CARDOSO, 2012.md",
     "! INBOX/Justificativa.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md",
     "TCC/referências/estrutura do tcc (informal)/Estrutura da Justificativa - Extraido do Notion.md",
@@ -180,8 +193,6 @@
     "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
     "! INBOX/Oreientação 2021.110.05.md",
     "! INBOX/Design Especulativo e Crítico.md",
-    "! INBOX/Sem título.md",
-    "! INBOX/Sem título 1.md",
-    "TCC/referências/estrutura do tcc (formal)/CLÁUDIO LUIZ, YOUTUBE.md"
+    "! INBOX/Sem título.md"
   ]
 }
