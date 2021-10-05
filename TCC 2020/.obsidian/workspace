@@ -15,6 +15,28 @@
         }
       },
       {
+        "id": "4904488445599b5e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "! INBOX/Justificativa.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d480d4b3091d027d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "! INBOX/Sem título.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
         "id": "6a9a091dc270d74d",
         "type": "leaf",
         "state": {
@@ -79,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283,
-    "collapsed": true
+    "width": 283
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -108,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md"
+                "file": "! INBOX/Sem título.md"
               }
             }
           },
@@ -142,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
+                "file": "! INBOX/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -161,17 +182,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "6a9a091dc270d74d",
+  "active": "d480d4b3091d027d",
   "lastOpenFiles": [
-    "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
+    "! INBOX/Sem título.md",
+    "! INBOX/Sem título 1.md",
+    "TCC/referências/estrutura do tcc (informal)/Estrutura da Justificativa - Extraido do Notion.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
+    "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
     "TCC/referências/estrutura do tcc (formal)/CLÁUDIO LUIZ, YOUTUBE.md",
     "TCC/referências/estrutura do tcc (formal)/ANDRÉ FONTENELLE, YOUTUBE.md",
     "! INBOX/Design Especulativo e Crítico.md",
-    "! INBOX/Sem título.md",
-    "! INBOX/Sem título 1.md",
     "TCC/intenções/Tendências.md",
-    "TCC/referências/design especulativo & critico/MACHADO, 2018.md",
-    "TCC/referências/design especulativo & critico/DUNNE; RABY, 2013.md"
+    "TCC/referências/design especulativo & critico/MACHADO, 2018.md"
   ]
 }
