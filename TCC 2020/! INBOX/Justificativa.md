@@ -11,9 +11,12 @@ O presente projeto se justifica com base no atual cenário político, econômico
 ## O que esse trabalho faz?
 Através do Design Crítico e Especulativo, são propostas algumas relexões sobre um cenário futuro, possível de ocorrer no país, estabeleceido a partir de tendências já observáveis atualmente. Como resultado, desse pretende-se provocar discussões sociais, que podem reverberar nas decisões políticas tomadas no presente.
 
+Apesar de ser uma área em crescimento e importante para a reflexão sobre cenários futuros, o Design Especulativo e Crítico ainda é um ramo pouco trabalhado em produções acadêmicas no Brasil, sendo mais mais comum em países do norte global. Devido a 
+
 
 ## Qual é o público alvo?
-Apesar de ser uma área em crescimento e importante para a reflexão sobre cenários futuros, o Design Especulativo e Crítico ainda é um ramo pouco trabalhado em produções acadêmicas no Brasil. A relevância deste projeto é de dar mais visibilidade a essa área, convidando os participantes a interagirem com o projeto e discutirem sobre quais futuros são desejados na sociedade e quais devem ser evitados.
+
+A relevância deste projeto é de dar mais visibilidade a essa área, convidando os participantes a interagirem com o projeto e discutirem sobre quais futuros são desejados na sociedade e quais devem ser evitados.
 
 
 ## Qual é a relevância?
