@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b307a57bc342724f",
+        "id": "1509c465f155b43a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
+            "file": "TCC/referências/estrutura do tcc (informal)/Estrutura da Justificativa - Extraido do Notion.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Oreientação 2021.110.05.md",
+            "file": "! INBOX/Justificativa.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 283,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Oreientação 2021.110.05.md"
+                "file": "! INBOX/Justificativa.md"
               }
             }
           },
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Oreientação 2021.110.05.md",
+                "file": "! INBOX/Justificativa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -173,14 +174,14 @@
   },
   "active": "4904488445599b5e",
   "lastOpenFiles": [
-    "! INBOX/Oreientação 2021.110.05.md",
     "! INBOX/Justificativa.md",
-    "! INBOX/Design Especulativo e Crítico.md",
-    "! INBOX/Sem título.md",
-    "! INBOX/Sem título 1.md",
     "TCC/referências/estrutura do tcc (informal)/Estrutura da Justificativa - Extraido do Notion.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
     "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
+    "! INBOX/Oreientação 2021.110.05.md",
+    "! INBOX/Design Especulativo e Crítico.md",
+    "! INBOX/Sem título.md",
+    "! INBOX/Sem título 1.md",
     "TCC/referências/estrutura do tcc (formal)/CLÁUDIO LUIZ, YOUTUBE.md",
     "TCC/referências/estrutura do tcc (formal)/ANDRÉ FONTENELLE, YOUTUBE.md"
   ]
