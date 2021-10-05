@@ -3,6 +3,13 @@
 Como estabelecer conexões entre o contexto da violência policial no Brasil do século XXI e suas ramificações em um futuro próximo e hipotético, a através de protótipos de ficção projetual?
 
 **
+Porque esse trabalho existe
+O que esse trabalho faz?
+Qual é o público alvo?
+Qual é a relevância?
+
+A presente pesquisa se justifica com base no atual cenário político, econômico e social, onde os casos de violência policial ocorrem constantemente, e mesmo quando recebem cobertura na mídia, resultam em impunidade
+
 
 O distânciamento entre as produções acadêmicas em Design com temáticas relacionadas ao prob
 
