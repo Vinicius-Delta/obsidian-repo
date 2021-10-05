@@ -8,9 +8,9 @@ O que esse trabalho faz?
 Qual é o público alvo?
 Qual é a relevância?
 
-A presente pesquisa se justifica com base no atual cenário político, econômico e social, onde os casos de violência policial ocorrem constantemente, e mesmo quando recebem cobertura na mídia, resultam em impunidade
+A presente pesquisa se justifica com base no atual cenário político, econômico e social, onde os casos de violência policial ocorrem constantemente, e mesmo quando recebem cobertura na mídia, resultam em impunidade. Nesse sentido, a proposta é fazer uma reflexão sobre o modelo de organização das forças policiais do Brasil e os mecanismos para combater o problema.
 
-
+Apesar de ser um tema relevante, percebe-se que produções acadêmicas em Design carecem em tratar essa temática relacionadas a violência policial 
 O distânciamento entre as produções acadêmicas em Design com temáticas relacionadas ao prob
 
 
