@@ -13,11 +13,13 @@ Através do Design Crítico e Especulativo, são propostas algumas relexões sob
 
 
 ## Qual é o público alvo?
-Devido ao crescente avenço tecnológico, é importante para os designers participem das discussões sobre os rumos que são desejados na sociedade e quais devem ser evitados.
+Apesar de ser uma área em crescimento e importante para a reflexão sobre cenários futuros, o Design Especulativo e Crítico ainda é um ramo pouco trabalhado em produções acadêmicas no Brasil. A relevância deste projeto é de dar mais visibilidade a essa área, convidando os participantes a interagirem com o projeto e discutirem sobre quais futuros são desejados na sociedade e quais devem ser evitados.
 
 
 ## Qual é a relevância?
-Apesar de ser uma área em crescimento e importante para a reflexão sobre cenários futuros, o Design Especulativo e Crítico ainda é um ramo pouco trabalhado em produções acadêmicas no Brasil. A relevância desta área é de levantar questionamentos e caráter transformador
+
+área é de levantar questionamentos e caráter transformador
+Devido ao crescente avenço tecnológico, é importante para os designers participem das discussões sobre os rumos que 
 
 ----
 
