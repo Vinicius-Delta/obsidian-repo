@@ -22,5 +22,7 @@ Objetivos: OK
 
 1. Intro Como, por que meio e para quem
 2. Problema
-3. 
+
+
+![[Pasted image 20211005082329.png]]
 
