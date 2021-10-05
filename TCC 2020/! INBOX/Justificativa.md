@@ -11,7 +11,10 @@ O presente projeto se justifica com base no atual cenário político, econômico
 ## O que esse trabalho faz?
 Através do Design Crítico e Especulativo, são propostas algumas relexões sobre um cenário futuro, possível de ocorrer no país, estabeleceido a partir de tendências já observáveis atualmente. Como resultado, desse pretende-se provocar discussões sociais, que podem reverberar nas decisões políticas tomadas no presente.
 
-Apesar de se tratar de uma área em crescimento e importante para a reflexão sobre cenários futuros, o Design Especulativo e Crítico ainda é um ramo pouco trabalhado em produções acadêmicas no Brasil. Trata-se de uma disciplina realizada predontemente em país do norte global, por pessoas brancas, homens, de classe média e que infelizmente ignoram questões de classe, raça e gênero, salvo pontuais ecessões. . Devido a 
+Apesar de ser uma área em crescimento e importante para a reflexão sobre cenários futuros, o Design Especulativo e Crítico ainda é um ramo pouco trabalhado em produções acadêmicas no Brasil. Trata-se de uma disciplina realizada primáriamente em país do norte global, por homens brancos, de classe média e que, frequentemente, ignoram questões de classe, raça e gênero, salvo pontuais ecessões. Devido a esse perfil homogênio, a maior parte das produções falham em representar , como afima MARTINS (2017) :
+
+
+the vast majority of the body of work currently available in the field has concentrated its efforts on envisioning near futures that deal with issues that seem much more tangible to their own privileged crowd. Projects that clearly reflect the fear of losing first-world privileges — gastronomical, civil or cultural — in a bleak, dystopic future abound, while practitioners seem to be blissfully unaware (or unwilling to acknowledge, in some cases) of other realities.
 
 
 ## Qual é o público alvo?
