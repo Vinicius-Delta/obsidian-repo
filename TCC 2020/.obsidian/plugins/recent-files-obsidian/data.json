@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sem título 1",
+      "path": "! INBOX/Sem título 1.md"
+    },
+    {
       "basename": "Tendências",
       "path": "TCC/intenções/Tendências.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Orientação 2021.08.24",
       "path": "TCC/orientações/Orientação 2021.08.24.md"
-    },
-    {
-      "basename": "2021-09-17",
-      "path": "daily/2021-09-17.md"
     }
   ],
   "omittedPaths": [],
