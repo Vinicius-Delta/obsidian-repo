@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "camera",
+                "query": "câmera",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
