@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sem título",
+      "path": "! INBOX/Sem título.md"
+    },
+    {
       "basename": "Justificativa",
       "path": "! INBOX/Justificativa.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dissecando o tema",
       "path": "TCC/_TCC 2/rascunhos/Dissecando o tema.md"
-    },
-    {
-      "basename": "Atributos desejados",
-      "path": "TCC/_TCC 2/rascunhos/Atributos desejados.md"
     }
   ],
   "omittedPaths": [],

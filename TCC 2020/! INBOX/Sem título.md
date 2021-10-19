@@ -1,0 +1,1 @@
+Utilizar o design critico especulativo como 

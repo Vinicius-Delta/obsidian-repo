@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Justificativa.md",
+            "file": "! INBOX/Sem título.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "câmera",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Justificativa.md"
+                "file": "! INBOX/Sem título.md"
               }
             }
           },
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Justificativa.md",
+                "file": "! INBOX/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -185,6 +184,7 @@
   },
   "active": "4904488445599b5e",
   "lastOpenFiles": [
+    "! INBOX/Sem título.md",
     "! INBOX/Justificativa.md",
     "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
     "TCC/referências/design/CARDOSO, 2012.md",
@@ -193,7 +193,6 @@
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
     "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
     "! INBOX/Oreientação 2021.110.05.md",
-    "! INBOX/Design Especulativo e Crítico.md",
-    "! INBOX/Sem título.md"
+    "! INBOX/Design Especulativo e Crítico.md"
   ]
 }
