@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sem título 1",
+      "path": "! INBOX/Sem título 1.md"
+    },
+    {
       "basename": "Sem título",
       "path": "! INBOX/Sem título.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Elementos exclusivos do Projeto de Pesquisa",
       "path": "TCC/_TCC 2/Elementos exclusivos do Projeto de Pesquisa.md"
-    },
-    {
-      "basename": "Dissecando o tema",
-      "path": "TCC/_TCC 2/rascunhos/Dissecando o tema.md"
     }
   ],
   "omittedPaths": [],

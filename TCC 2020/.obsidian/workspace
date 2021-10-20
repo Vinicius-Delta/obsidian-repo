@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Sem título.md",
+            "file": "! INBOX/Sem título 1.md",
             "mode": "source"
           }
         }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Sem título.md"
+                "file": "! INBOX/Sem título 1.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Sem título.md",
+                "file": "! INBOX/Sem título 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -184,6 +184,7 @@
   },
   "active": "4904488445599b5e",
   "lastOpenFiles": [
+    "! INBOX/Sem título 1.md",
     "! INBOX/Sem título.md",
     "! INBOX/Justificativa.md",
     "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
@@ -192,7 +193,6 @@
     "TCC/referências/estrutura do tcc (informal)/Estrutura da Justificativa - Extraido do Notion.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
     "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
-    "! INBOX/Oreientação 2021.110.05.md",
-    "! INBOX/Design Especulativo e Crítico.md"
+    "! INBOX/Oreientação 2021.110.05.md"
   ]
 }
