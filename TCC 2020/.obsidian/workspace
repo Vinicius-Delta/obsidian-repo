@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Brasil 2035/(LIMA; CURADO, 2017).md",
+            "file": "! INBOX/Brasil 2035/LIMA; CURADO, 2017.md",
             "mode": "source"
           }
         }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Brasil 2035/(LIMA; CURADO, 2017).md"
+                "file": "! INBOX/Brasil 2035/LIMA; CURADO, 2017.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Brasil 2035/(LIMA; CURADO, 2017).md",
+                "file": "! INBOX/Brasil 2035/LIMA; CURADO, 2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -184,15 +184,15 @@
   },
   "active": "4904488445599b5e",
   "lastOpenFiles": [
-    "! INBOX/Brasil 2035/Sem título.md",
-    "! INBOX/Justificativa.md",
+    "! INBOX/Brasil 2035/LIMA; CURADO, 2017.md",
     "! INBOX/Sem título 1.md",
     "! INBOX/Sem título.md",
+    "! INBOX/Brasil 2035/Sem título.md",
+    "! INBOX/Justificativa.md",
     "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
     "TCC/referências/design/CARDOSO, 2012.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md",
     "TCC/referências/estrutura do tcc (informal)/Estrutura da Justificativa - Extraido do Notion.md",
-    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
-    "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md"
+    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md"
   ]
 }
