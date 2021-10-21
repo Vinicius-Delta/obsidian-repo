@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Brasil 2035/LIMA; CURADO, 2017.md",
+            "file": "! INBOX/Brasil 2035/MARCIAL et al., 2017.md",
             "mode": "source"
           }
         }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Brasil 2035/LIMA; CURADO, 2017.md"
+                "file": "! INBOX/Brasil 2035/MARCIAL et al., 2017.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Brasil 2035/LIMA; CURADO, 2017.md",
+                "file": "! INBOX/Brasil 2035/MARCIAL et al., 2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -184,6 +184,7 @@
   },
   "active": "4904488445599b5e",
   "lastOpenFiles": [
+    "! INBOX/Brasil 2035/MARCIAL et al., 2017.md",
     "! INBOX/Brasil 2035/LIMA; CURADO, 2017.md",
     "TCC/referências/design especulativo & critico/MACHADO, 2018.md",
     "TCC/referências/design especulativo & critico/JESUS, 2016.md",
@@ -192,7 +193,6 @@
     "! INBOX/Sem título.md",
     "! INBOX/Brasil 2035/Sem título.md",
     "! INBOX/Justificativa.md",
-    "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md",
-    "TCC/referências/design/CARDOSO, 2012.md"
+    "TCC/referências/design/OLIVEIRA; FRANZATO; DEL GAUDIO, 2017.md"
   ]
 }
