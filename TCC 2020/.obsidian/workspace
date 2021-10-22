@@ -18,10 +18,9 @@
         "id": "4904488445599b5e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "! INBOX/Brasil 2035/MONTEIRO; GUELLATI; FERREIRA, 2017.md",
-            "mode": "source"
+            "file": "TCC/orientações/Orientação 2021.09.14.pdf"
           }
         }
       },
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Brasil 2035/MONTEIRO; GUELLATI; FERREIRA, 2017.md"
+                "file": "TCC/orientações/Orientação 2021.09.14.pdf"
               }
             }
           },
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Brasil 2035/MONTEIRO; GUELLATI; FERREIRA, 2017.md",
+                "file": "TCC/orientações/Orientação 2021.09.14.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -184,6 +183,8 @@
   },
   "active": "4904488445599b5e",
   "lastOpenFiles": [
+    "TCC/orientações/Orientação 2021.09.14.pdf",
+    "TCC/orientações/Orientação 2021.09.06 (3 de 3).pdf",
     "! INBOX/Brasil 2035/MONTEIRO; GUELLATI; FERREIRA, 2017.md",
     "! INBOX/Brasil 2035/MARCIAL et al., 2017.md",
     "! INBOX/Brasil 2035/LIMA; CURADO, 2017.md",
@@ -191,8 +192,6 @@
     "TCC/referências/design especulativo & critico/JESUS, 2016.md",
     "TCC/referências/design especulativo & critico/DUNNE; RABY, 2013.md",
     "! INBOX/Sem título 1.md",
-    "! INBOX/Sem título.md",
-    "! INBOX/Brasil 2035/Sem título.md",
-    "! INBOX/Justificativa.md"
+    "! INBOX/Sem título.md"
   ]
 }
