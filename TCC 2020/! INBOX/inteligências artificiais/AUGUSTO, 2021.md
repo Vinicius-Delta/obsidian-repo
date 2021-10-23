@@ -17,7 +17,7 @@
 
 "compreenderem os fatores de concentração de determinadas ocorrências e qualifiquem o uso de recursos; iii) estratégia de impacto social, mitigando operações discriminatórias." ([Augusto 2021:15](zotero://open-pdf/groups/4374086/items/9ICVQIAG?page=8))
 
-"sofistifica o aparato policial voltado historicamente para a preservação da propriedade privada e estatal, reforçando a perpetuação da segregação espacial e a operacionalização seletiva do aparato penal, dirigido, sobretudo, contra negros e pobres." ([Augusto 2021:15](zotero://open-pdf/groups/4374086/items/9ICVQIAG?page=8))
+"sofistifica o aparato policial voltado historicamente para a preservação da propriedade privada e estatal, reforçando a perpetuação da segregação espacial e a operacionalização seletiva do aparato penal, dirigido, sobretudo, contra negros e pobres." ([Augusto 2021:15](zotero://open-pdf/groups/4374086/items/9ICVQIAG?page=8)) ^221e38
 
 "racismo biopolítico." ([Augusto 2021:15](zotero://open-pdf/groups/4374086/items/9ICVQIAG?page=8))
 
