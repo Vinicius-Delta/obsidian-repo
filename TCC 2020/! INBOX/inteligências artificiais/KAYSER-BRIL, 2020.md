@@ -1,0 +1,1 @@
+KAYSER-BRIL, N. **Google apologizes after its Vision AI produced racist results****AlgorithmWatch**, 7 abr. 2020. Disponível em: <[https://algorithmwatch.org/en/google-vision-racism/](https://algorithmwatch.org/en/google-vision-racism/)>. Acesso em: 23 out. 2021
