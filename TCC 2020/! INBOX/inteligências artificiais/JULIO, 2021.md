@@ -2,6 +2,13 @@ Uma câmera de segurança inteligente, capaz de identificar movimentos suspeitos
 
 Basicamente, a startup usa a tecnologia para automatizar e identificar comportamentos suspeitos. Por exemplo, o sistema é capaz de reconhecer se uma pessoa está onde não deveria ou se comportando de maneira fora do padrão - como entrar em um local não permitido ou pular um muro. A partir dessa informação, ele emite um alerta que é checado pela central da Gabriel e, caso necessário, passado às autoridades de segurança pública.
 
+O sistema da startup funciona em rede, então quanto mais condomínios adotarem as câmeras da Gabriel em uma rua, por exemplo, mais informações cruzadas e mais dados aquela base terá acesso.
+
+Uma das preocupações da Gabriel é garantir que o viés da inteligência artificial usada no seu software não cometa nenhum tipo de injustiça, como atos de racismo. Para isso, a empresa garante que o foco da tecnologia é na ação - e não na pessoa. “O alerta é emitido quando alguém entra em um espaço que não deveria, independentemente de quem ela seja”, explica. A segunda verificação é humana, que avalia o alerta. “Não é automação plena, é híbrida. Sou contra a automação absoluta, porque acredito na importância do componente humano”.
+
+![[Pasted image 20211023142931.png]]
+
+
 hoje, a China é considerada uma referência em automação e uso de tecnologia avançada para a segurança pública.
 
 ------------
