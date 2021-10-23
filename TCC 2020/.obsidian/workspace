@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/3. Algoritimo e racismo.md",
+            "file": "! INBOX/5. Por que esse problema acontece.md",
             "mode": "preview"
           }
         }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/3. Algoritimo e racismo.md"
+                "file": "! INBOX/5. Por que esse problema acontece.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/3. Algoritimo e racismo.md",
+                "file": "! INBOX/5. Por que esse problema acontece.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -162,11 +162,11 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "! INBOX/5. Por que esse problema acontece.md",
     "! INBOX/3. Algoritimo e racismo.md",
     "! INBOX/1. O que é.md",
     "! INBOX/2. Como é utilizada.md",
     "! INBOX/inteligências artificiais/HARWELL, 2019.md",
-    "! INBOX/5. Por que esse problema acontece.md",
     "! INBOX/6. Transição - regulamentação.md",
     "! INBOX/_Rascunho.md",
     "! INBOX/X. Como isso é utilizado no cenário especulativo.md",
