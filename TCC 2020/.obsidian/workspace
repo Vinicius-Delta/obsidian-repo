@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/inteligências artificiais/AUGUSTO, 2021.md",
+            "file": "! INBOX/_Rascunho.md",
             "mode": "source"
           }
         }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/inteligências artificiais/AUGUSTO, 2021.md"
+                "file": "! INBOX/_Rascunho.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/inteligências artificiais/AUGUSTO, 2021.md",
+                "file": "! INBOX/_Rascunho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -162,9 +162,9 @@
   },
   "active": "c400313f204948fd",
   "lastOpenFiles": [
+    "! INBOX/_Rascunho.md",
     "! INBOX/inteligências artificiais/AUGUSTO, 2021.md",
     "! INBOX/Uso no Brasil - Boa vista.md",
-    "! INBOX/_Rascunho.md",
     "! INBOX/Legislão Brasileira.md",
     "! INBOX/Uso no Brasil - Gabriel.md",
     "! INBOX/Augoritimo e racismo.md",

@@ -1,22 +1,22 @@
-[[O que é?]]
+[[1. O que é?]]
 
-[[Como é utilizada]]
+[[2. Como é utilizada]]
 
-[[Legislão Brasileira]]
+[[3. Legislão Brasileira]]
 
-[[Augoritimo e racismo]]
+[[4.Algoritimo e racismo]]
 
-[[Objetos detectados errados - google]]
+[[5.Objetos detectados errados - google]]
 
-[[Exemplo prático do Google]]
+[[6.Exemplo prático do Google]]
 
-[[Uso no Brasil - Gabriel]]
+[[7. Uso no Brasil - Gabriel]]
 
-[[Uso no Brasil - Boa vista]]
+[[8. Uso no Brasil - Boa vista]]
 
-[[Consequencias reais]]
+[[9. Consequencias reais]]
 
-[[Cidades dos estados unidos que proibem]]
+[[10. Cidades dos estados unidos que proibem]]
 
-[[Google, IBM que removeu do mercado seus produtos]]
+[[11. Google, IBM que removeu do mercado seus produtos]]
 
