@@ -2,15 +2,15 @@
 
 [[Como é utilizada]]
 
-[[Legislaão Brasileira]]
+[[Legislão Brasileira]]
 
 [[Augoritimo e racismo]]
-
-[[Uso no Brasil - Gabriel]]
 
 [[Objetos detectados errados - google]]
 
 [[Exemplo prático do Google]]
+
+[[Uso no Brasil - Gabriel]]
 
 [[Consequencias reais]]
 
