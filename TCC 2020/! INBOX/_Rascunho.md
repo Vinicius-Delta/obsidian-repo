@@ -2,7 +2,6 @@
 
 [[2. Como é utilizada]]
 
-[[3. Legislão Brasileira]]
 
 
 [[4. Algoritimo e racismo]]
@@ -10,6 +9,9 @@
 [[5. Exemplo prático do Google]]
 
 [[6. Por que esse problema acontece]]
+
+[[Transição]]
+[[3. Legislão Brasileira]]
 
 
 [[7. Uso no Brasil - Gabriel]]
