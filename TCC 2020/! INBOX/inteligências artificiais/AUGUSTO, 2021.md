@@ -5,7 +5,7 @@
 
 "Ao longo dos anos seguintes, evidências têm demonstrado que as práticas daquilo que se" ([Augusto 2021:10](zotero://open-pdf/groups/4374086/items/9ICVQIAG?page=3))
 
-"2 torna conhecido como intelligence-led policing (policiamento conduzido por inteligência, em tradução livre) ou smart policing são marcadas por tendências escancaradamente racistas e tem tido impactos particularmente significativos para populações imigrantes em território estadunidense." ([Augusto 2021:11](zotero://open-pdf/groups/4374086/items/9ICVQIAG?page=4))
+"2 torna conhecido como intelligence-led policing (policiamento conduzido por inteligência, em tradução livre) ou smart policing são marcadas por tendências escancaradamente racistas e tem tido impactos particularmente significativos para populações imigrantes em território estadunidense." ([Augusto 2021:11](zotero://open-pdf/groups/4374086/items/9ICVQIAG?page=4))  ^7dcac1
 
 "Em 2019, uma delegação de deputados federais e senadores do PSL fizeram viagem à China para o desenvolvimento de um projeto de lei para 12 Azure Automation available in Brazil South Region.Microsoft, 20/07/2017 11 .Hawei opens a new IoT lab in Brazil. BNAMERICAS, 06/12/2018 10 FELDSTEIN, S. The Global Expansion of AI Surveillance. 17/09/2019 obrigar a implantação de reconhecimento facial em espaços públicos, a despeito das tensões testemunhadas desde o início do mandato de Jair Bolsonaro entre sua administração e o mercado chinês." ([Augusto 2021:14](zotero://open-pdf/groups/4374086/items/9ICVQIAG?page=7))
 

@@ -12,6 +12,8 @@
 
 [[Uso no Brasil - Gabriel]]
 
+[[Uso no Brasil - Boa vista]]
+
 [[Consequencias reais]]
 
 [[Cidades dos estados unidos que proibem]]
