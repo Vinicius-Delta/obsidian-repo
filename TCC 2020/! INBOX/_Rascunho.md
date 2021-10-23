@@ -4,23 +4,27 @@
 
 
 
-[[4. Algoritimo e racismo]]
+[[3. Algoritimo e racismo]]
 
-[[5. Exemplo prático do Google]]
+[[4. Exemplo prático do Google]]
 
-[[6. Por que esse problema acontece]]
-
-[[Transição]]
-[[3. Legislão Brasileira]]
+[[5. Por que esse problema acontece]]
 
 
-[[7. Uso no Brasil - Gabriel]]
 
-[[8. Uso no Brasil - Boa vista]]
+[[6. Transição - regulamentação]]
 
-[[9. Consequencias reais]]
+[[7. Legislão Brasileira]]
 
 
+
+[[8. Uso no Brasil - Gabriel]]
+
+[[9. Uso no Brasil - Boa vista]]
+
+[[10. Consequencias reais]]
+
+[[X. Como isso é utilizado no cenário especulativo]]
 
 -----
 [[10. Cidades dos estados unidos que proibem]]
