@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/2. Como é utilizada.md",
+            "file": "! INBOX/3. Algoritimo e racismo.md",
             "mode": "preview"
           }
         }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/2. Como é utilizada.md"
+                "file": "! INBOX/3. Algoritimo e racismo.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/2. Como é utilizada.md",
+                "file": "! INBOX/3. Algoritimo e racismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -162,6 +162,7 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "! INBOX/3. Algoritimo e racismo.md",
     "! INBOX/2. Como é utilizada.md",
     "! INBOX/1. O que é.md",
     "! INBOX/5. Por que esse problema acontece.md",
@@ -169,7 +170,6 @@
     "! INBOX/_Rascunho.md",
     "! INBOX/X. Como isso é utilizado no cenário especulativo.md",
     "! INBOX/10. Consequencias reais.md",
-    "! INBOX/3. Algoritimo e racismo.md",
     "! INBOX/inteligências artificiais/HARWELL, 2019.md",
     "! INBOX/inteligências artificiais/JULIO, 2021.md"
   ]
