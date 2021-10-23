@@ -15,6 +15,28 @@
         }
       },
       {
+        "id": "7deb67b7126829ed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "! INBOX/inteligências artificiais/KAYSER-BRIL, 2020.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3564a1226c75f2de",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "! INBOX/inteligências artificiais/JULIO, 2021.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
         "id": "628e1ecbca1b6342",
         "type": "leaf",
         "state": {
@@ -22,17 +44,6 @@
           "state": {
             "file": "! INBOX/inteligências artificiais/HARWELL, 2019.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "c400313f204948fd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "! INBOX/inteligências artificiais/AUGUSTO, 2021.md",
-            "mode": "source"
           }
         }
       }
@@ -118,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/inteligências artificiais/HARWELL, 2019.md"
+                "file": "! INBOX/_Rascunho.md"
               }
             }
           },
@@ -152,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/inteligências artificiais/HARWELL, 2019.md",
+                "file": "! INBOX/_Rascunho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -171,17 +182,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "628e1ecbca1b6342",
+  "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
-    "! INBOX/inteligências artificiais/HARWELL, 2019.md",
-    "! INBOX/inteligências artificiais/CLAVERY, 2021.md",
     "! INBOX/_Rascunho.md",
-    "! INBOX/inteligências artificiais/AUGUSTO, 2021.md",
-    "! INBOX/4.Algoritimo e racismo.md",
-    "! INBOX/Augoritimo e racismo.md",
-    "! INBOX/8. Uso no Brasil - Boa vista.md",
-    "! INBOX/3. Legislão Brasileira.md",
+    "! INBOX/inteligências artificiais/KAYSER-BRIL, 2020.md",
+    "! INBOX/6.Exemplo prático do Google.md",
+    "! INBOX/2. Como é utilizada.md",
+    "! INBOX/1. O que é.md",
+    "! INBOX/inteligências artificiais/JULIO, 2021.md",
     "! INBOX/7. Uso no Brasil - Gabriel.md",
-    "! INBOX/inteligências artificiais/KAYSER-BRIL, 2020.md"
+    "! INBOX/4.Algoritimo e racismo.md",
+    "! INBOX/inteligências artificiais/HARWELL, 2019.md",
+    "! INBOX/inteligências artificiais/CLAVERY, 2021.md"
   ]
 }

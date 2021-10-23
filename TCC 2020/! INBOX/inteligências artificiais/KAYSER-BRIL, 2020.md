@@ -1,3 +1,5 @@
+# Cap 1 - caso google
+
 The device needed in such situations, a hand-held thermometer, has risen from a specialist item to a common sight.
 
 A branch of Artificial Intelligence known as “computer vision” focuses on automated image labeling. Most computer vision systems were trained on data sets that contained very few images of hand-held thermometers. As a result, they cannot label the device correctly.
@@ -13,7 +15,7 @@ Agathe Balayn, a PhD candidate at the Delft University of Technology on the topi
 Because most of these systems are similar to Google Vision Cloud, “they could easily have the same biases”, Ms Raji wrote. As a result, dark-skinned individuals are more likely to be flagged as dangerous even if they hold an object as harmless as a hand-held thermometer.
 
 ----
-
+# Cap 2
 
 Because dark-skinned individuals probably featured much more often in scenes depicting violence in the training data set, a computer making automated inferences on an image of a dark-skinned hand is much more likely to label it with a term from the lexical field of violence.
 
@@ -21,7 +23,7 @@ Other computer vision systems show similar biases. In December, Facebook [refuse
 
 --------
 
-### Real-world consequences
+# Real-world consequences
 
 Labeling errors could have consequences in the physical world. Deborah Raji, a tech fellow at New York University’s AI Now Institute and a specialist in computer vision, wrote in an email that, in the United States, weapon recognition tools are used in schools, concerts halls, apartment complexes and supermarkets. In Europe, automated surveillance deployed by some police forces probably use it as well. Because most of these systems are similar to Google Vision Cloud, “they could easily have the same biases”, Ms Raji wrote. As a result, dark-skinned individuals are more likely to be flagged as dangerous even if they hold an object as harmless as a hand-held thermometer.
 

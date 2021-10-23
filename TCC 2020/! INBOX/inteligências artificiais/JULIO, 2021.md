@@ -9,7 +9,7 @@ Uma das preocupações da Gabriel é garantir que o viés da inteligência artif
 ![[Pasted image 20211023142931.png]]
 
 
-hoje, a China é considerada uma referência em automação e uso de tecnologia avançada para a segurança pública.
+hoje, a China é considerada uma referência em automação e uso de tecnologia avançada para a segurança pública. ^6dd0c7
 
 ------------
 JULIO, R. A. **Startup usa inteligência artificial em câmeras de segurança para proteger moradores de condomínios - Pequenas Empresas Grandes Negócios | Startups**. Disponível em: <[https://revistapegn.globo.com/Startups/noticia/2021/02/startup-usa-inteligencia-artificial-em-cameras-de-seguranca-para-proteger-moradores-de-condominios.html](https://revistapegn.globo.com/Startups/noticia/2021/02/startup-usa-inteligencia-artificial-em-cameras-de-seguranca-para-proteger-moradores-de-condominios.html)>. Acesso em: 23 out. 2021.
