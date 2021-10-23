@@ -5,13 +5,11 @@
 [[3. Legislão Brasileira]]
 
 
-[[4.Algoritimo e racismo]]
+[[4. Algoritimo e racismo]]
 
+[[5. Exemplo prático do Google]]
 
-[[5.Objetos detectados errados - google]]
-
-[[6.Exemplo prático do Google]]
-
+[[6. Por que esse problema acontece]]
 
 
 [[7. Uso no Brasil - Gabriel]]
