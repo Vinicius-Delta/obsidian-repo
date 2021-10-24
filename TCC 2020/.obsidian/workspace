@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/z. Uso no Brasil - São Paulo.md",
+            "file": "! INBOX/1. O que é.md",
             "mode": "preview"
           }
         }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/z. Uso no Brasil - São Paulo.md"
+                "file": "! INBOX/1. O que é.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/z. Uso no Brasil - São Paulo.md",
+                "file": "! INBOX/1. O que é.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -195,8 +195,8 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
-    "! INBOX/z. Uso no Brasil - São Paulo.md",
     "! INBOX/1. O que é.md",
+    "! INBOX/z. Uso no Brasil - São Paulo.md",
     "! INBOX/8. Uso no Brasil - Gabriel.md",
     "! INBOX/9. Uso no Brasil - Boa vista.md",
     "! INBOX/3. Algoritimo e racismo.md",
