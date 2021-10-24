@@ -15,12 +15,34 @@
         }
       },
       {
+        "id": "66e61daf0cf4c330",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "! INBOX/7. Legislão Brasileira.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "caf808034a0e75cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "! INBOX/inteligências artificiais/BEJERANO, 2017.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2a0054567b179899",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "! INBOX/1. O que é.md",
             "mode": "source"
           }
         }
@@ -118,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/inteligências artificiais/BEJERANO, 2017.md"
+                "file": "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md"
               }
             }
           },
@@ -152,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/inteligências artificiais/BEJERANO, 2017.md",
+                "file": "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -171,17 +193,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "caf808034a0e75cb",
+  "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
-    "! INBOX/inteligências artificiais/BEJERANO, 2017.md",
-    "! INBOX/_Rascunho.md",
     "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md",
+    "! INBOX/7. Legislão Brasileira.md",
+    "! INBOX/2. Como é utilizada.md",
+    "! INBOX/3. Algoritimo e racismo.md",
+    "! INBOX/inteligências artificiais/BEJERANO, 2017.md",
+    "! INBOX/1. O que é.md",
+    "! INBOX/_Rascunho.md",
     "! INBOX/inteligências artificiais/KAYSER-BRIL, 2020.md",
     "! INBOX/inteligências artificiais/JULIO, 2021.md",
-    "! INBOX/inteligências artificiais/HARWELL, 2019.md",
-    "! INBOX/inteligências artificiais/CLAVERY, 2021.md",
-    "! INBOX/inteligências artificiais/AUGUSTO, 2021.md",
-    "! INBOX/5. Por que esse problema acontece.md",
-    "! INBOX/3. Algoritimo e racismo.md"
+    "! INBOX/inteligências artificiais/HARWELL, 2019.md"
   ]
 }
