@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md",
-            "mode": "source"
+            "file": "! INBOX/4. Exemplo prático do Google.md",
+            "mode": "preview"
           }
         }
       },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md"
+                "file": "! INBOX/4. Exemplo prático do Google.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md",
+                "file": "! INBOX/4. Exemplo prático do Google.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -195,15 +195,15 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
-    "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md",
-    "! INBOX/7. Legislão Brasileira.md",
-    "! INBOX/2. Como é utilizada.md",
+    "! INBOX/4. Exemplo prático do Google.md",
+    "! INBOX/5. Por que esse problema acontece.md",
     "! INBOX/3. Algoritimo e racismo.md",
-    "! INBOX/inteligências artificiais/BEJERANO, 2017.md",
-    "! INBOX/1. O que é.md",
+    "! INBOX/2. Como é utilizada.md",
     "! INBOX/_Rascunho.md",
+    "! INBOX/inteligências artificiais/BEJERANO, 2017.md",
+    "! INBOX/inteligências artificiais/CLAVERY, 2021.md",
+    "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md",
     "! INBOX/inteligências artificiais/KAYSER-BRIL, 2020.md",
-    "! INBOX/inteligências artificiais/JULIO, 2021.md",
-    "! INBOX/inteligências artificiais/HARWELL, 2019.md"
+    "! INBOX/inteligências artificiais/JULIO, 2021.md"
   ]
 }
