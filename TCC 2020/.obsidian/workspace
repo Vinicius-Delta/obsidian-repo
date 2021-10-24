@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/_Rascunho.md",
-            "mode": "preview"
+            "file": "! INBOX/inteligências artificiais/BEJERANO, 2017.md",
+            "mode": "source"
           }
         }
       },
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/_Rascunho.md"
+                "file": "! INBOX/inteligências artificiais/BEJERANO, 2017.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/_Rascunho.md",
+                "file": "! INBOX/inteligências artificiais/BEJERANO, 2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -173,6 +173,7 @@
   },
   "active": "caf808034a0e75cb",
   "lastOpenFiles": [
+    "! INBOX/inteligências artificiais/BEJERANO, 2017.md",
     "! INBOX/_Rascunho.md",
     "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md",
     "! INBOX/inteligências artificiais/KAYSER-BRIL, 2020.md",
@@ -181,7 +182,6 @@
     "! INBOX/inteligências artificiais/CLAVERY, 2021.md",
     "! INBOX/inteligências artificiais/AUGUSTO, 2021.md",
     "! INBOX/5. Por que esse problema acontece.md",
-    "! INBOX/3. Algoritimo e racismo.md",
-    "! INBOX/1. O que é.md"
+    "! INBOX/3. Algoritimo e racismo.md"
   ]
 }
