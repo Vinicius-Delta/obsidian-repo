@@ -1,7 +1,4 @@
 
-"entra em vigor menos de cinquenta dias depois dos episódios do 11 de Setembro, e representa, desde então, um importante pilar para a ampliação do acesso, coleta e armazenamento de dados por uma variedade de agências do Estado" ([Augusto 2021:10](zotero://open-pdf/groups/4374086/items/9ICVQIAG?page=3))
-
-"por meio do Ato Patriota que se consolidou a possibilidade de quebra de sigilos bancários, fiscais, de registros acadêmicos e médicos, de dados de provedores de internet e telefonia para investigação sob justificativa de potencial envolvimento com atividade terrorista." ([Augusto 2021:10](zotero://open-pdf/groups/4374086/items/9ICVQIAG?page=3))
 
 "Ao longo dos anos seguintes, evidências têm demonstrado que as práticas daquilo que se torna conhecido como intelligence-led policing (policiamento conduzido por inteligência, em tradução livre) ou smart policing são marcadas por tendências escancaradamente racistas e tem tido impactos particularmente significativos para populações imigrantes em território estadunidense." ([Augusto 2021:11](zotero://open-pdf/groups/4374086/items/9ICVQIAG?page=4)) (p. 3-4) ^7dcac1
 
