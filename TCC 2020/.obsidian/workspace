@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/7. Legislão Brasileira.md",
+            "file": "! INBOX/inteligências artificiais/CLAVERY, 2021.md",
             "mode": "preview"
           }
         }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/7. Legislão Brasileira.md"
+                "file": "! INBOX/inteligências artificiais/CLAVERY, 2021.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/7. Legislão Brasileira.md",
+                "file": "! INBOX/inteligências artificiais/CLAVERY, 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -195,6 +195,7 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "! INBOX/inteligências artificiais/CLAVERY, 2021.md",
     "! INBOX/7. Legislão Brasileira.md",
     "! INBOX/2. Como é utilizada.md",
     "! INBOX/1. O que é.md",
@@ -203,7 +204,6 @@
     "! INBOX/9. Uso no Brasil - Boa vista.md",
     "! INBOX/3. Algoritimo e racismo.md",
     "! INBOX/10. Consequencias reais.md",
-    "! INBOX/z. Transição - regulamentação.md",
-    "! INBOX/z. Por que esse problema acontece.md"
+    "! INBOX/z. Transição - regulamentação.md"
   ]
 }
