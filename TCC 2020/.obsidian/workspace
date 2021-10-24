@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/5. Por que esse problema acontece.md",
-            "mode": "preview"
+            "file": "! INBOX/inteligências artificiais/AUGUSTO, 2021.md",
+            "mode": "source"
           }
         }
       },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/5. Por que esse problema acontece.md"
+                "file": "! INBOX/inteligências artificiais/AUGUSTO, 2021.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/5. Por que esse problema acontece.md",
+                "file": "! INBOX/inteligências artificiais/AUGUSTO, 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -162,6 +162,7 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "! INBOX/inteligências artificiais/AUGUSTO, 2021.md",
     "! INBOX/5. Por que esse problema acontece.md",
     "! INBOX/3. Algoritimo e racismo.md",
     "! INBOX/1. O que é.md",
@@ -170,7 +171,6 @@
     "! INBOX/6. Transição - regulamentação.md",
     "! INBOX/_Rascunho.md",
     "! INBOX/X. Como isso é utilizado no cenário especulativo.md",
-    "! INBOX/10. Consequencias reais.md",
-    "! INBOX/inteligências artificiais/JULIO, 2021.md"
+    "! INBOX/10. Consequencias reais.md"
   ]
 }
