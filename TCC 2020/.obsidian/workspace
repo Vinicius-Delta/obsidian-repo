@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/4. Exemplo prático do Google.md",
+            "file": "! INBOX/1. O que é.md",
             "mode": "preview"
           }
         }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/4. Exemplo prático do Google.md"
+                "file": "! INBOX/1. O que é.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/4. Exemplo prático do Google.md",
+                "file": "! INBOX/1. O que é.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -195,15 +195,15 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
-    "! INBOX/4. Exemplo prático do Google.md",
-    "! INBOX/5. Por que esse problema acontece.md",
+    "! INBOX/1. O que é.md",
+    "! INBOX/8. Uso no Brasil - Gabriel.md",
+    "! INBOX/9. Uso no Brasil - Boa vista.md",
     "! INBOX/3. Algoritimo e racismo.md",
-    "! INBOX/2. Como é utilizada.md",
-    "! INBOX/_Rascunho.md",
-    "! INBOX/inteligências artificiais/BEJERANO, 2017.md",
-    "! INBOX/inteligências artificiais/CLAVERY, 2021.md",
-    "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md",
-    "! INBOX/inteligências artificiais/KAYSER-BRIL, 2020.md",
-    "! INBOX/inteligências artificiais/JULIO, 2021.md"
+    "! INBOX/7. Legislão Brasileira.md",
+    "! INBOX/10. Consequencias reais.md",
+    "! INBOX/z. Uso no Brasil - São Paulo.md",
+    "! INBOX/z. Transição - regulamentação.md",
+    "! INBOX/z. Por que esse problema acontece.md",
+    "! INBOX/z. Exemplo prático do Google.md"
   ]
 }

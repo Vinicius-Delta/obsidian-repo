@@ -6,13 +6,13 @@
 
 [[3. Algoritimo e racismo]]
 
-[[4. Exemplo prático do Google]]
+[[z. Exemplo prático do Google]]
 
-[[5. Por que esse problema acontece]]
+[[z. Por que esse problema acontece]]
 
 
 
-[[6. Transição - regulamentação]]
+[[z. Transição - regulamentação]]
 
 [[7. Legislão Brasileira]]
 
