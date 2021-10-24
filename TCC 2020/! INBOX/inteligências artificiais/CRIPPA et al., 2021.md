@@ -15,20 +15,12 @@
 
 "ampliação do banco de dados, cujo limite é crescentemente expandido pelo potencial emprego de big data," ([Crippa et al 2021:162](zotero://open-pdf/groups/4374086/items/397ZDW58?page=4))
 
-# Ações possíveis
-"e (a) criação de ambientes propícios às novas soluções tecnológicas, (b) o desenvolvimento tecnológico autóctone; (c) fortalecimento do arcabouço jurídico e normativo nacional; (d) adequação das instituições à legislação e normativas sobre proteção de dados; (e) pesquisas contínuas e maior atenção às fronteiras entre o uso de tecnologias de reconhecimento facial e a garantia de direitos; e (f) realização de estudo prospectivo para confrontar a realidade atual com as necessidades de adequações em âmbito nacional no uso do reconhecimento facial na segurança pública." ([Crippa et al 2021:159](zotero://open-pdf/groups/4374086/items/397ZDW58?page=1))
-
-# Implementações no brasil
-"No início deste 2020, o Governo de São Paulo inaugurou um laboratório de reconhecimento facial e digital da Polícia Civil. Nele, as imagens obtidas são analisadas à luz dos dados biométricos coletados durante a emissão do Registro Geral - RG, e então submetidos ao Sistema de Identificação Automatizada de Impressões Digitais - Automated Fingerprint Identification System, para confirmação da identidade do requerente (Governo de São Paulo 2020)." ([Crippa et al 2021:165](zotero://open-pdf/groups/4374086/items/397ZDW58?page=7))
-
 # Riscos
 "Há uma notória preocupação entre cientistas sociais e juristas considerando que o emprego do reconhecimento facial possa reforçar a seletividade do sistema penal brasileiro (Da Silva e Da Silva 2019), uma vez que há vieses quanto a etnia e gênero que podem comprometer ainda mais a confiabilidade dos resultados obtidos através do emprego da tecnologia. A forma de funcionamento do deep learning dificulta a eliminação de tais vieses, uma vez que não é explícito o funcionamento das redes neurais desenvolvidas por machine learning." ([Crippa et al 2021:167](zotero://open-pdf/groups/4374086/items/397ZDW58?page=9))
 
-"o desenvolvimento tecnológico autóctone, adequados à cultura do país, poderia mitigar falhas oriundas de vieses nos algoritmos empregados. Entretanto, no contexto nacional, as partes interessadas, como por exemplo o setor produtivo e institutos de pesquisa, estão desprovidos de arcabouço de política científica que lhes auxilie a melhorar o investimento em pesquisa e desenvolvimento nesta área;" ([Crippa et al 2021:170](zotero://open-pdf/groups/4374086/items/397ZDW58?page=12))
 
-"(c) o arcabouço jurídico e normativo nacional precisa ser fortalecido para que a adoção do reconhecimento facial no sistema de segurança pública não reforce a seletividade do sistema penal brasileiro;" ([Crippa et al 2021:170](zotero://open-pdf/groups/4374086/items/397ZDW58?page=12))
 
-"(d) as instituições públicas ou privadas que trabalham com tratamento dos cidadãos brasileiros feita em território nacional, sediadas ou não no Brasil, terão que se adequar à LGPD com maior brevidade." ([Crippa et al 2021:170](zotero://open-pdf/groups/4374086/items/397ZDW58?page=12))
+
 
 # Legislação
 "A LGPD, vigente desde 18 de setembro de 2020, tem objetivo de garantir transparência no tratamento de dados pessoais da pessoa natural em qualquer meio." ([Crippa et al 2021:168](zotero://open-pdf/groups/4374086/items/397ZDW58?page=10))
@@ -43,5 +35,24 @@
 
 
 
+
+
+# Implementações no brasil
+"No início deste 2020, o Governo de São Paulo inaugurou um laboratório de reconhecimento facial e digital da Polícia Civil. Nele, as imagens obtidas são analisadas à luz dos dados biométricos coletados durante a emissão do Registro Geral - RG, e então submetidos ao Sistema de Identificação Automatizada de Impressões Digitais - Automated Fingerprint Identification System, para confirmação da identidade do requerente (Governo de São Paulo 2020)." ([Crippa et al 2021:165](zotero://open-pdf/groups/4374086/items/397ZDW58?page=7))
+
+# Ações possíveis
+"e (a) criação de ambientes propícios às novas soluções tecnológicas, (b) o desenvolvimento tecnológico autóctone; (c) fortalecimento do arcabouço jurídico e normativo nacional; (d) adequação das instituições à legislação e normativas sobre proteção de dados; (e) pesquisas contínuas e maior atenção às fronteiras entre o uso de tecnologias de reconhecimento facial e a garantia de direitos; e (f) realização de estudo prospectivo para confrontar a realidade atual com as necessidades de adequações em âmbito nacional no uso do reconhecimento facial na segurança pública." ([Crippa et al 2021:159](zotero://open-pdf/groups/4374086/items/397ZDW58?page=1))
+
+"o desenvolvimento tecnológico autóctone, adequados à cultura do país, poderia mitigar falhas oriundas de vieses nos algoritmos empregados. Entretanto, no contexto nacional, as partes interessadas, como por exemplo o setor produtivo e institutos de pesquisa, estão desprovidos de arcabouço de política científica que lhes auxilie a melhorar o investimento em pesquisa e desenvolvimento nesta área;" ([Crippa et al 2021:170](zotero://open-pdf/groups/4374086/items/397ZDW58?page=12))
+
+"(c) o arcabouço jurídico e normativo nacional precisa ser fortalecido para que a adoção do reconhecimento facial no sistema de segurança pública não reforce a seletividade do sistema penal brasileiro;" ([Crippa et al 2021:170](zotero://open-pdf/groups/4374086/items/397ZDW58?page=12))
+
+"(d) as instituições públicas ou privadas que trabalham com tratamento dos cidadãos brasileiros feita em território nacional, sediadas ou não no Brasil, terão que se adequar à LGPD com maior brevidade." ([Crippa et al 2021:170](zotero://open-pdf/groups/4374086/items/397ZDW58?page=12))
+
+
+
+
+
+# Ref
 -----
 CRIPPA, M. E. N. et al. Uso do reconhecimento facial aplicado à segurança pública no Brasil. **Controversias y Concurrencias Latinoamericanas**, v. 12, n. 22, p. 159–173, 1 abr. 2021.
