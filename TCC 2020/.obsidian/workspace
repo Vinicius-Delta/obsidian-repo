@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/10. Consequencias reais.md",
+            "file": "! INBOX/11. Ações possíveis.md",
             "mode": "preview"
           }
         }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/10. Consequencias reais.md"
+                "file": "! INBOX/11. Ações possíveis.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/10. Consequencias reais.md",
+                "file": "! INBOX/11. Ações possíveis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -195,6 +195,7 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "! INBOX/11. Ações possíveis.md",
     "! INBOX/10. Consequencias reais.md",
     "! INBOX/X. Como isso é utilizado no cenário especulativo.md",
     "! INBOX/z. Exemplo prático do Google.md",
@@ -203,7 +204,6 @@
     "! INBOX/inteligências artificiais/JULIO, 2021.md",
     "! INBOX/inteligências artificiais/HARWELL, 2019.md",
     "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md",
-    "! INBOX/9. Uso no Brasil - Boa vista.md",
-    "! INBOX/z. Uso no Brasil - São Paulo.md"
+    "! INBOX/9. Uso no Brasil - Boa vista.md"
   ]
 }
