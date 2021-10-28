@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/z. Exemplo prático do Google.md",
+            "file": "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md",
             "mode": "preview"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "deep lea",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/z. Exemplo prático do Google.md"
+                "file": "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md"
               }
             }
           },
@@ -174,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/z. Exemplo prático do Google.md",
+                "file": "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -195,13 +196,13 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md",
     "! INBOX/z. Exemplo prático do Google.md",
     "! INBOX/9. Uso no Brasil - Boa vista.md",
     "! INBOX/X. Como isso é utilizado no cenário especulativo.md",
     "! INBOX/z. Por que esse problema acontece.md",
     "! INBOX/z. Uso no Brasil - São Paulo.md",
     "! INBOX/inteligências artificiais/HARWELL, 2019.md",
-    "! INBOX/inteligências artificiais/CRIPPA et al., 2021.md",
     "! INBOX/inteligências artificiais/JULIO, 2021.md",
     "! INBOX/inteligências artificiais/KAYSER-BRIL, 2020.md",
     "! INBOX/3. Algoritimo e racismo.md"
