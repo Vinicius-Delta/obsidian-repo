@@ -9,7 +9,7 @@ A partir dessa tendência, o engenheiro de software, Bruno Dombidau, criou uma f
 
 É importante destacar que a funcionalidade está disponível apenas em aparelhos da Apple, um produto de custo elevado, que não é acessível para a maior parte da população. Existem aplicativos para Android como o *Mobile Justice* , o "*PoliceAbuse.com Eye Witness*", que realizam a gravação e upload do arquivo, direcionando o usuário para formulários para realizarem uma denúncia. Todavia, comparados ao *software* anterior,  carecem de atalhos para serem iniciados rapidamente.
 
-A gravação de episódios de violência policial é uma tendência crescente, devido a possibilidade de ser utilizada como evidência e de comprovar os 
+A gravação de episódios de violência policial é uma tendência crescente, devido a possibilidade de ser utilizada como evidência para denuncias e pela capacidade de mpbilizar manifestações públicas e virtuais em defesa de direitos. Esperamos que novos utilitários sejam desenvolvidos para facilitar o registro desse tipo de incidente, que possibilitem ser ativados de forma discreta e que garantam a segurança dos arquivos. 
 
 > Como funciona?
 
