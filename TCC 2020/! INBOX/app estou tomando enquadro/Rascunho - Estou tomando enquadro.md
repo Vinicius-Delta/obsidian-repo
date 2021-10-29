@@ -7,7 +7,7 @@ A ação de filmar episódios de violência policial frenquentemente tem sido or
 
 A partir dessa tendência, o engenheiro de software, Bruno Dombidau, criou uma ferramenta para *Iphone* que auxilia na gravação das abordagens policiais.  Ao pronunciar a frase “Ei Siri, tô tomando um enquadro” proximo do aparelho ativado, o celular começa a filmar discretamente, com o brilho da tela reduzido ao mínimo e compartilha a localização para um contato de segurança. Além disso, as filmagens são enviadas automáticamente para a nuvem pessoal, podendo ser recuperadas em outro dispositivo, caso o aparelho seja confiscado. Esta ferramenta ganhou repercussão nas redes sociais por chamar atenção de como as novas tecnologias podem contribuir para a sociedade. (RAMOS, 2021)
 
-É importante destacar que a funcionalidade está disponível apenas em aparelhos da Apple, que custam 
+É importante destacar que a funcionalidade está disponível apenas em aparelhos da Apple, um produto de custo elevado, que não é acessível para a maior parte da população. Existem aplicativos para Android como 
 
 > Como funciona?
 
