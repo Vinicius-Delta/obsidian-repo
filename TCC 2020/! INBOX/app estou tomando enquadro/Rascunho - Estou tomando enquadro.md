@@ -2,7 +2,9 @@
 A ação de filmar episódios de violência policial frenquentemente tem sido orientada por grupos de defesa dos direitos humanos e ONGs, como forma de proteção a abusos policiais (FLECK, 2016). Graças as essas filmagens, casos de violência podem ser comprovados e divulgados pela internet, podendo assumir uma repercussão maior e alcançar aliados em defesa às vítimas. Para a jornalista Sabrina Brito (2020), o smartphone pode ser considerado uma ferramenta de justiça, que auxilia na defesa dos direitos humanos de comunidades minoritárias.
 
 > O que foi feito?
-A partir dessa tendência, o engenheiro de software, Bruno Dombidau, criou uma ferramenta para *Iphone* que auxilia na gravação das abordagens policiais e o compartilhamento da localização com contatos de segurança.  Ao pronunciar a frase “Ei Siri, tô tomando um enquadro” proximo do aparelho ativado, o celular
+A partir dessa tendência, o engenheiro de software, Bruno Dombidau, criou uma ferramenta para *Iphone* que auxilia na gravação das abordagens policiais.  Ao pronunciar a frase “Ei Siri, tô tomando um enquadro” proximo do aparelho ativado, o celular começa a filmar discretamente, com o brilho da tela reduzido ao mínimo e compartilha a localização para um contato de segurança. Além disso, as filmagens são enviadas automáticamente para a nuvem pessoal, podendo ser recuperadas em outro dispositivo, caso o aparelho seja confiscado. (RAMOS, 2021)
+
+Esta ferramenta 
 
 > Como funciona?
 
