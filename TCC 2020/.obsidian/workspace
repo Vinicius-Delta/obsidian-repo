@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/app estou tomando enquadro/Rascunho - Estou tomando enquadro.md",
+            "file": "! INBOX/Sem título.md",
             "mode": "source"
           }
         }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283,
-    "collapsed": true
+    "width": 283
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/app estou tomando enquadro/Rascunho - Estou tomando enquadro.md"
+                "file": "! INBOX/Sem título.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/app estou tomando enquadro/Rascunho - Estou tomando enquadro.md",
+                "file": "! INBOX/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -152,6 +151,7 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "! INBOX/Sem título.md",
     "! INBOX/app estou tomando enquadro/Rascunho - Estou tomando enquadro.md",
     "TCC/_TCC 2+/Lost chapters/racunho inteligência artificial/Rascunho - Inteligência artificial.md",
     "TCC/_TCC 2+/Lost chapters/racunho inteligência artificial/11. Ações possíveis.md",
@@ -160,7 +160,6 @@
     "TCC/_TCC 2+/Lost chapters/racunho inteligência artificial/z. Exemplo prático do Google.md",
     "TCC/referências/inteligências artificiais/KAYSER-BRIL, 2020.md",
     "TCC/_TCC 2+/Lost chapters/racunho inteligência artificial/z. Por que esse problema acontece.md",
-    "TCC/referências/inteligências artificiais/JULIO, 2021.md",
-    "TCC/referências/inteligências artificiais/HARWELL, 2019.md"
+    "TCC/referências/inteligências artificiais/JULIO, 2021.md"
   ]
 }
