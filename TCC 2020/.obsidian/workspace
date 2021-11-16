@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Sem título.md",
+            "file": "TCC/referências/estrutura do tcc (informal)/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deep lea",
+                "query": "problema",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Sem título.md"
+                "file": "TCC/referências/estrutura do tcc (informal)/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Sem título.md",
+                "file": "TCC/referências/estrutura do tcc (informal)/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -151,15 +152,15 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "TCC/referências/estrutura do tcc (informal)/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
+    "TCC/z_trash/Casos notáveis - rascunho.md",
+    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md",
+    "daily/2021-07-11.md",
+    "daily/2021-07-01.md",
+    "TCC/_TCC 2+/2 - Sobre violência policial.md",
+    "TCC/_TCC 2+/1 - Introdução.md",
+    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
     "! INBOX/Sem título.md",
-    "! INBOX/app estou tomando enquadro/Rascunho - Estou tomando enquadro.md",
-    "TCC/_TCC 2+/Lost chapters/racunho inteligência artificial/Rascunho - Inteligência artificial.md",
-    "TCC/_TCC 2+/Lost chapters/racunho inteligência artificial/11. Ações possíveis.md",
-    "TCC/_TCC 2+/Lost chapters/racunho inteligência artificial/10. Consequencias reais.md",
-    "TCC/_TCC 2+/Lost chapters/racunho inteligência artificial/X. Como isso é utilizado no cenário especulativo.md",
-    "TCC/_TCC 2+/Lost chapters/racunho inteligência artificial/z. Exemplo prático do Google.md",
-    "TCC/referências/inteligências artificiais/KAYSER-BRIL, 2020.md",
-    "TCC/_TCC 2+/Lost chapters/racunho inteligência artificial/z. Por que esse problema acontece.md",
-    "TCC/referências/inteligências artificiais/JULIO, 2021.md"
+    "! INBOX/app estou tomando enquadro/Rascunho - Estou tomando enquadro.md"
   ]
 }
