@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Resumo",
+      "path": "! INBOX/Resumo.md"
+    },
+    {
       "basename": "Resump",
       "path": "! INBOX/Resump.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DUNNE; RABY, 2013",
       "path": "TCC/referências/design especulativo & critico/DUNNE; RABY, 2013.md"
-    },
-    {
-      "basename": "CARDOSO, 2012",
-      "path": "TCC/referências/design/CARDOSO, 2012.md"
     }
   ],
   "omittedPaths": [],

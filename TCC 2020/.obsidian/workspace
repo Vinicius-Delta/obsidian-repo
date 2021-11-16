@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Resump.md",
+            "file": "! INBOX/Resumo.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 283,
+    "collapsed": true
   },
   "right": {
     "id": "6f0d631d66cbb8f6",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Resump.md"
+                "file": "! INBOX/Resumo.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Resump.md",
+                "file": "! INBOX/Resumo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -151,6 +152,7 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "! INBOX/Resumo.md",
     "! INBOX/Resump.md",
     "TCC/referências/estrutura do tcc (informal)/TCC em bloco.md",
     "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
@@ -159,7 +161,6 @@
     "TCC/referências/estrutura do tcc (informal)/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
     "TCC/z_trash/Casos notáveis - rascunho.md",
     "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md",
-    "daily/2021-07-11.md",
-    "daily/2021-07-01.md"
+    "daily/2021-07-11.md"
   ]
 }
