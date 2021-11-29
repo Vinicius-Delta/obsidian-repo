@@ -9,6 +9,8 @@ a Violência policial no Brasil, utilizando como metodologia de análise o Desig
 
 Para tanto, a primeira etapa foi feita para fundamentar, o problema da violência policial no Brasil; a segunda etapa serviu para coletar casos notórios de violência policial no Brasil; a terceira buscou contextualizar o design crítico e especulativo como metodologia projetual; no quarto momento, buscamos identificar tendências tecnológicas para a segurança pública e o problema da violência policial; por fim idealizamos, um cenário especulativo,  contendo produtos e narrativas que representem as tendências identificadas.
 
-Foi realizada, então, um projeto de design, utilizando como meto
+Foi realizada, então, um projeto de design, utilizando como posicionamento projetual, o Design Crítico e Especulativo, para a criação de futuros, a partir de sinais ancorados no presente. 
 
-a pesquisa básica estratégica, descritiva, exploratória, com abordagem qualitativa e método hipotético-dedutivo, por meio de procedimento de pesquisa bibliográfica, documental e estudo de caso.”
+Pela abordagem proposta, na primeira etapa foi realizada a “identificação dos sinais”, buscando tendências culturais e tecnologias emergentes.  Na segunda etapa, são delineados possíveis futuros, utilizando ferramentas do Design Crítico e Especulativo.
+- conto especulativo
+- 
