@@ -50,6 +50,7 @@ Foi concebida a ideia de uma propaganda do governo (Figura 11), veiculada para e
 ### Produto B - Pulseira para controle das mudanças de humor dos indivíduos “violentos” (1-2 min)
 
 **TENDÊNCIA**
+Uso de dados biométricos (como reconhecimento facial), para alimentar inteeligências artificiais voltadas a segurança pública.
 
 **TECNOLOGIA**
 Wearables
@@ -63,14 +64,9 @@ Raiva
 **PRODUTO**
 Conceito de wearable que permite às polícias monitorar alterações de humor bruscas dos indivíduos considerados perigosos pelo algoritmo. Tal artefato implicaria em mais uma camada de preconceito na sociedade, tendo em vista que ele exporia diante de todos aqueles que a inteligência artificial da polícia considera como potenciais criminosos.
 
-  
-
----
-
-[[1]](#_ftnref1) Dispositivo tecnológico que pode ser vestido pelo corpo humano, a exemplo dos _smartwatches_
 
 
-### Produto C - (1-2 min)
+### Produto C - Uniforme de policiais desenvolvido pela (1-2 min)
 
 **TENDÊNCIA**
 
