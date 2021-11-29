@@ -84,6 +84,8 @@ Conceito de wearable que permite às polícias monitorar alterações de humor b
 ### Produto D - Safo: dispositivo de proteção contra violência policial (2 min)
 
 **TENDÊNCIA**
+Reconheciemento facial
+Inteligência artificial
 
 **TECNOLOGIA**
 
@@ -95,4 +97,4 @@ Conceito de wearable que permite às polícias monitorar alterações de humor b
 
 ----------
 
-# PARTE 3 (4 min)
+# PARTE 3 (3-4 min)
