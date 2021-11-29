@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Sem título",
-      "path": "TCC/referências/Apresentação tcc/Sem título.md"
+      "basename": "Aplicação do exemplo",
+      "path": "TCC/referências/Apresentação tcc/Aplicação do exemplo.md"
+    },
+    {
+      "basename": "André Fontenelle",
+      "path": "TCC/referências/Apresentação tcc/André Fontenelle.md"
     },
     {
       "basename": "Exemplo de fala",
@@ -195,10 +199,6 @@
     {
       "basename": "LIMA; CURADO, 2017",
       "path": "TCC/referências/Brasil 2035/LIMA; CURADO, 2017.md"
-    },
-    {
-      "basename": "MACHADO, 2018",
-      "path": "TCC/referências/design especulativo & critico/MACHADO, 2018.md"
     }
   ],
   "omittedPaths": [],

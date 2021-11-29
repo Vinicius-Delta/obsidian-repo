@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/referências/Apresentação tcc/Sem título.md",
+            "file": "TCC/referências/Apresentação tcc/Aplicação do exemplo.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/referências/Apresentação tcc/Sem título.md"
+                "file": "TCC/referências/Apresentação tcc/Aplicação do exemplo.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/referências/Apresentação tcc/Sem título.md",
+                "file": "TCC/referências/Apresentação tcc/Aplicação do exemplo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -151,7 +151,8 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
-    "TCC/referências/Apresentação tcc/Sem título.md",
+    "TCC/referências/Apresentação tcc/Aplicação do exemplo.md",
+    "TCC/referências/Apresentação tcc/André Fontenelle.md",
     "TCC/referências/Apresentação tcc/Exemplo de fala.md",
     "! INBOX/Sem título.md",
     "! INBOX/resumo/Resump.md",
@@ -159,7 +160,6 @@
     "TCC/referências/estrutura do tcc (informal)/TCC em bloco.md",
     "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
     "TCC/referências/estrutura do tcc (informal)/Estrutura dos capítulos do TCC.md",
-    "TCC/_TCC 2+/6 - Considerações finais.md",
-    "TCC/referências/estrutura do tcc (informal)/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md"
+    "TCC/_TCC 2+/6 - Considerações finais.md"
   ]
 }

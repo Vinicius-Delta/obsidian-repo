@@ -1,3 +1,5 @@
+> ANDRÉ FONTENELLE. **Apresentação de TCC - Como fazer um TCC passo a passo - Roteiro de apresentação de TCC - YouTube**, [s.d.]. Disponível em: <[https://www.youtube.com/watch?v=L3tZAUAu23I](https://www.youtube.com/watch?v=L3tZAUAu23I)>. Acesso em: 29 nov. 2021
+
 Faça um roteiro, verifique quanto tempo tem para aparesentar o trabalho
 **20min - 2mil palavras**
 
@@ -20,7 +22,7 @@ E os resultados obitdos
 A resposta é NÃO!!!"*
 
 [[Exemplo de fala]]
-
+[[Aplicação do exemplo]]
 
 > Você não deve falar de tudo o que tem no TCC, apenas das coisas que você efetivamente descobriu com o trabalho!
 > O ideal é gastar sessenta por cento do tempo apenas falando sobre as descobertas.
@@ -31,6 +33,8 @@ Não apresente a informação bruta, como você achou. Apresente a informação 
 
 
 -----
+
+>ANDRÉ FONTENELLE. **Perguntas da Banca de Apresentação de TCC - Como fazer um TCC passo a passo**, 21 jun. 2018. Disponível em: <[https://www.youtube.com/watch?v=EduVZrMo-rQ](https://www.youtube.com/watch?v=EduVZrMo-rQ)>. Acesso em: 29 nov. 2021
 
 Quando terminar, deixe os avaliadores falarem o que eles quiserem. Escute calado e apenas anote os pontos importantes para usar na sua vez de falar.
 
