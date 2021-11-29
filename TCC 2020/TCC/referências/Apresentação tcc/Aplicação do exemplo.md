@@ -31,9 +31,17 @@ Na terceira etapa foram construidas histórias sobre o futuro construído.
 
 ### Produto A - Propaganda do governo adulterada no ambiente virtual (metaverso) (2 min)
 
-_2020PB_ é um aplicativo para o sistema operacional _Android_ que lista e contextualiza os casos de violência policial durante os antirracistas nos Estados Unidos            
+        
+**TENDÊNCIA**
+o relatório “Brasil 2035: cenários para o desenvolvimento” (2017) indica que o acesso da TICs, associado ao aumento do nível de escolaridade, contribuirá para o empoderamento dos indivíduos e da sociedade, resultando no crescimento das demandas sociais (MARCIAL et al., 2017, p. 108).
 
+**TECNOLOGIA**
+Realidade aumentada + Cyberespaço/Metaverso
+
+**WORKSHOP**
 O Coletivo
 Raiva
 Favela
 Realidade Aumentada
+
+**PRODUTO**
