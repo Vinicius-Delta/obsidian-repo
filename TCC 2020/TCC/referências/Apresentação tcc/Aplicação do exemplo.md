@@ -1,6 +1,6 @@
 
 
-Bom dia, prezados avaliadores! Bom dia, caros colegas que prestigiam a minha apresentação. Meu nome é André Fontenelle e o meu orientador é o professor Marcos José de Oliveira. O tema do meu trabalho é sobre o impacto econômico da seca para a produção pecuária, em relação à indústria do queijo, entre os pronafianos da região semi-árida do sertão central cearense, em 2016. >
+Bom dia, prezados avaliadores! Bom dia, caros colegas que prestigiam a nossa apresentação. Meu nome é Vinícius Santos, e estou aqui com Rafael Bacellar e o nosso orientador é o professor Dr. Djalma Fiuza. O tema do nosso trabalho é sobre o impacto econômico da seca para a produção pecuária, em relação à indústria do queijo, entre os pronafianos da região semi-árida do sertão central cearense, em 2016. >
 
 > A pesquisa partiu do seguinte problema: Quais foram as consequências diretas da seca no bolso desses agricultores familiares? Desse modo, o objetivo geral foi avaliar as consequências econômicas que a seca provocou para pronafianos queijeiros do semi-árido cearense.
 
