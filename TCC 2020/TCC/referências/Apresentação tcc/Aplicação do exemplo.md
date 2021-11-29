@@ -1,4 +1,4 @@
-
+# PARTE 1
 
 Bom dia, prezados avaliadores! Bom dia, caros colegas que prestigiam a nossa apresentação. Meu nome é Vinícius Santos, e estou aqui com Rafael Bacellar e o nosso orientador é o professor Dr. Djalma Fiuza. O tema do nosso trabalho é sobre 
 a Violência policial no Brasil, utilizando como metodologia de análise o Design Crítico Especulativo.
@@ -12,5 +12,16 @@ Para tanto, a primeira etapa foi feita para fundamentar, o problema da violênci
 Foi realizada, então, um projeto de design, utilizando como posicionamento projetual, o Design Crítico e Especulativo, para a criação de futuros, a partir de sinais ancorados no presente. 
 
 Pela abordagem proposta, na primeira etapa foi realizada a “identificação dos sinais”, buscando tendências culturais e tecnologias emergentes.  Na segunda etapa, são delineados possíveis futuros, utilizando ferramentas do Design Crítico e Especulativo.
-- conto especulativo
-- 
+- conto especulativo BRASIL 2036
+- _moodboard_
+- manchetes ficcionais
+- workshop criativo SALVADOR 2036
+
+Na terceira etapa foram construidas histórias sobre o futuro construído.
+
+----------
+
+# PARTE 2
+
+### Produto A - Propaganda do governo adulterada no ambiente virtual (metaverso)
+
