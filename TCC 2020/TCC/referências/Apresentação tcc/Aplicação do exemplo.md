@@ -9,7 +9,7 @@ a Violência policial no Brasil, utilizando como metodologia de análise o Desig
 
 Para tanto, a primeira etapa foi feita para fundamentar, o problema da violência policial no Brasil; a segunda etapa serviu para coletar casos notórios de violência policial no Brasil; a terceira buscou contextualizar o design crítico e especulativo como metodologia projetual; no quarto momento, buscamos identificar tendências tecnológicas para a segurança pública e o problema da violência policial; por fim idealizamos, um cenário especulativo,  contendo produtos e narrativas que representem as tendências identificadas.
 
-Foi realizada, então, um projeto de design, utilizando como posicionamento projetual, o Design Crítico e Especulativo, para a criação de futuros, a partir de sinais ancorados no presente. 
+Foi realizada, então, um projeto de design, utilizando como posicionamento projetual, o Design Crítico e Especulativo, para a criação de futuros, a partir de sinais ancorados no presente.  
 
 Pela abordagem proposta, na primeira etapa foi realizada a “identificação dos sinais”, buscando tendências culturais e tecnologias emergentes.  Na segunda etapa, são delineados possíveis futuros, utilizando ferramentas do Design Crítico e Especulativo.
 - conto especulativo BRASIL 2036
@@ -115,3 +115,10 @@ A funcionalidade _Cooker,_ na qual os dispositivos emitem uma sobrecarga de dado
 ----------
 
 # PARTE 3 (3-4 min)
+Ao realizar pesquisas a partir de referências bibliográficas, entrevistas e reportagens percebemos que a questão é mais complexa do que o esperado, não sendo possível de solucionar através de um produto de design. 
+
+Através do Design Crítico e Especulativo, foi possível experienciar uma outra face do Design, preocupada com a criação de diálogos e discussões que ainda não haviam sido vivenciadas durante o curso. Consideramos o processo de não concluir o projeto com uma solução formal, mas com reflexões e o convite para o diálogo, mais adequado para o tema apresentado.
+
+Este projeto cumpre a sua função de utilizar o Design Crítico e Especulativo para antever problemas futuros relacionados a Violência Policial, ao identificar tendências sociais e tecnológicas e utilizá-las para a construção para a construção do cenário ficcional BRASIL 2036. Através da realização do workshop criativo SALVADOR 2036, foi possível agregar diferentes visões para o trabalho realizado e compartilhar possíveis vislumbres do futuro para pessoas externas ao desenvolvimento.
+
+Para dar continuidade ao trabalho, visamos apresentar o SALVADOR 2036 para novas pessoas, como especialistas em Segurança Pública, bem como outros jovens negros, com o intuito de verdadeiramente alcançar mais pessoas e coletar novos vislumbres sobre o futuro.
