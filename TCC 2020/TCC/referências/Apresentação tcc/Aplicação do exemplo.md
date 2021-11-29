@@ -1,4 +1,4 @@
-# PARTE 1
+# PARTE 1 (3-4min)
 
 Bom dia, prezados avaliadores! Bom dia, caros colegas que prestigiam a nossa apresentação. Meu nome é Vinícius Santos, e estou aqui com Rafael Bacellar e o nosso orientador é o professor Dr. Djalma Fiuza. O tema do nosso trabalho é sobre 
 a Violência policial no Brasil, utilizando como metodologia de análise o Design Crítico Especulativo.
@@ -23,5 +23,17 @@ Na terceira etapa foram construidas histórias sobre o futuro construído.
 
 # PARTE 2
 
-### Produto A - Propaganda do governo adulterada no ambiente virtual (metaverso)
+### Apresentar o resumo do cenário (1-2 min)
 
+
+### Vídeo da timeline (1 min)
+
+
+### Produto A - Propaganda do governo adulterada no ambiente virtual (metaverso) (2 min)
+
+            
+
+O Coletivo
+Raiva
+Favela
+Realidade Aumentada
