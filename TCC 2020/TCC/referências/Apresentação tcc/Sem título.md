@@ -13,3 +13,12 @@ E os resultados obitdos
 5 - Metodologia
 6 - Resultados
 7 - Conclusão
+
+*"Aí você deve estar se perguntando: E o referencial teórico? E um eventual questionário ou entrevista aplicados no TCC? Eles não devem ser apresentados?
+A resposta é NÃO!!!"*
+
+[[Exemplo de fala]]
+
+
+> Você não deve falar de tudo o que tem no TCC, apenas das coisas que você efetivamente descobriu com o trabalho!
+> O ideal é gastar sessenta por cento do tempo apenas falando sobre as descobertas.
