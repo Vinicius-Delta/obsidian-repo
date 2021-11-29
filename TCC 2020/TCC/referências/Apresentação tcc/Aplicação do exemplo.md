@@ -31,7 +31,7 @@ Na terceira etapa foram construidas histórias sobre o futuro construído.
 
 ### Produto A - Propaganda do governo adulterada no ambiente virtual (metaverso) (2 min)
 
-            
+_2020PB_ é um aplicativo para o sistema operacional _Android_ que lista e contextualiza os casos de violência policial durante os antirracistas nos Estados Unidos            
 
 O Coletivo
 Raiva
