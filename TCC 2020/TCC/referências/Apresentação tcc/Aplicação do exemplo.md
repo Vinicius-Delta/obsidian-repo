@@ -72,8 +72,10 @@ Conceito de wearable que permite às polícias monitorar alterações de humor b
 ### Produto C - Uniforme de policiais desenvolvido pela (1-2 min)
 
 **TENDÊNCIA**
+o uso de câmeras de filmagens nas fardas policiais resultou em uma queda de até 61,2% no uso de força pelos agentes de segurança.             (CARRANÇA, 2021)
 
 **TECNOLOGIA**
+Realidade aumentada, drones, inteligência artificial
 
 **WORKSHOP**
 CORPS
@@ -89,13 +91,13 @@ por conta dos relatos de violência “justificada” pelo uso da I.A. e o senti
 ### Produto D - Safo: dispositivo de proteção contra violência policial (2 min)
 
 **TENDÊNCIA**
-Reconheciemento facial
-Inteligência artificial
-
-**TECNOLOGIA**
 Reconhecimento Facial como uma tecnologia utilizada por governos para identificar  e monitorar potenciais alvos opositores ao governo ou para perseguir minorias. (TUTANOTA, 2020)
 
 Esse problema ocorre em uma maior frequência com pessoas racializadas, minorias étnicas, mulheres e jovens, aumentando os riscos dessas pessoas serem condenadas de forma injusta.             . (HARWELL, 2019)
+
+**TECNOLOGIA**
+Reconheciemento facial
+Inteligência artificial
 
 **WORKSHOP**
 Investigação
