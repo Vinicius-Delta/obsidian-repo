@@ -5,14 +5,16 @@ Não preciso me preocupar com os detalhes
 Escreva apenas o que a pesquisa procurava fazer
 E os resultados obitdos
 
-
+20%
 1 - Cumprimentos, apresentação dos autores, orientador e titulo (2min)
 2 - Problema
 3 - Objetivo
 4 - Hipótese
 5 - Metodologia
-6 - Resultados
-7 - Conclusão
+
+6 - Resultados 60%
+
+7 - Conclusão 20%
 
 *"Aí você deve estar se perguntando: E o referencial teórico? E um eventual questionário ou entrevista aplicados no TCC? Eles não devem ser apresentados?
 A resposta é NÃO!!!"*
@@ -22,3 +24,8 @@ A resposta é NÃO!!!"*
 
 > Você não deve falar de tudo o que tem no TCC, apenas das coisas que você efetivamente descobriu com o trabalho!
 > O ideal é gastar sessenta por cento do tempo apenas falando sobre as descobertas.
+
+Observe que aqui não estão sendo apresentados os dados secos da pesquisa, mas as análises que foram feitas a partir das informações coletadas na pesquisa. É esse o tipo de abordagem que você tem que colocar no seu roteiro de apresentação.
+
+Não apresente a informação bruta, como você achou. Apresente a informação processada, depois de uma análise.
+
