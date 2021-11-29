@@ -30,7 +30,10 @@ A partir das tendências coletadas, foi elaborado o conto especulativo “BRASIL
 
 
 ### Apresentar o resumo do workshop SALVADOR 2036 (2 min)
-
+1. Criação de palavras chave, por *brainstorm*
+2. Seleção e organização das palavras chaves, utilizando o conceito de arco narrativo            (LUUPTON ,2020)
+3. Criação visual
+4. Aplicação, via 
 
 ### Produto A - Propaganda do governo adulterada no ambiente virtual (metaverso) (2 min)
 
