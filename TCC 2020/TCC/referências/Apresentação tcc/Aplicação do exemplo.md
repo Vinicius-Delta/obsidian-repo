@@ -21,15 +21,18 @@ Na terceira etapa foram construidas histórias sobre o futuro construído.
 
 ----------
 
-# PARTE 2
+# PARTE 2 (12 min)
 
-### Apresentar o resumo do cenário (1-2 min)
+### Apresentar o resumo do cenário BRASIL 2036 (1-2 min)
 
 
 ### Vídeo da timeline (1 min)
 
 
-### Produto A - Propaganda do governo adulterada no ambiente virtual (metaverso) (1-2 min)
+### Apresentar o resumo do workshop SALVADOR 2036 (2 min)
+
+
+### Produto A - Propaganda do governo adulterada no ambiente virtual (metaverso) (2 min)
 
 **TENDÊNCIA**
 o relatório “Brasil 2035: cenários para o desenvolvimento” (2017) indica que o acesso da TICs, associado ao aumento do nível de escolaridade, contribuirá para o empoderamento dos indivíduos e da sociedade, resultando no crescimento das demandas sociais (MARCIAL et al., 2017, p. 108).
@@ -47,7 +50,7 @@ Realidade Aumentada
 Foi concebida a ideia de uma propaganda do governo (Figura 11), veiculada para enaltecer as novas políticas de segurança pública e a CORPS mas que, no mundo digital, teve sua mensagem distorcida, chamando atenção para as mortes ainda provocadas pelos agentes da polícia em 2036 (Figura 12).
 
 
-### Produto B - Pulseira para controle das mudanças de humor dos indivíduos “violentos” (1-2 min)
+### Produto B - Pulseira para controle das mudanças de humor dos indivíduos “violentos” (2 min)
 
 **TENDÊNCIA**
 Uso de dados biométricos (como reconhecimento facial), para alimentar inteeligências artificiais voltadas a segurança pública.
@@ -78,7 +81,7 @@ Conceito de wearable que permite às polícias monitorar alterações de humor b
 
 
 
-### Produto D - (1-2 min)
+### Produto D - Safo: dispositivo de proteção contra violência policial (2 min)
 
 **TENDÊNCIA**
 
@@ -87,3 +90,9 @@ Conceito de wearable que permite às polícias monitorar alterações de humor b
 **WORKSHOP**
 
 **PRODUTO**
+
+
+
+----------
+
+# PARTE 3 (4 min)
