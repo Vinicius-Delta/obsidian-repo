@@ -76,9 +76,14 @@ Conceito de wearable que permite às polícias monitorar alterações de humor b
 **TECNOLOGIA**
 
 **WORKSHOP**
+CORPS
+Favela
+Violência
+Uniforme
+
 
 **PRODUTO**
-
+por conta dos relatos de violência “justificada” pelo uso da I.A. e o sentimento de vigilância constante, alguns civis desenvolveram fobias relacionadas à polícia, seus equipamentos, drones e, principalmente, seus uniformes. Buscando sanar este problema, a CORPS desenvolveu um novo modelo de vestimenta para os agentes de campo. 
 
 
 ### Produto D - Safo: dispositivo de proteção contra violência policial (2 min)
