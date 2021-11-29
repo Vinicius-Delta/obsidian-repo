@@ -87,8 +87,9 @@ Conceito de wearable que permite às polícias monitorar alterações de humor b
 Reconheciemento facial
 Inteligência artificial
 
-**TECNOLOGIA**
-
+**TECNOLOGIA**]
+            Reconhecimento Facial como uma tecnologia utilizada por governos para identificar  e monitorar potenciais alvos opositores ao governo ou para perseguir minorias.
+            Esse problema ocorre em uma maior frequência com pessoas racializadas, minorias étnicas, mulheres e jovens, aumentando os riscos dessas pessoas serem condenadas de forma injusta.
 
 **WORKSHOP**
 Investigação
