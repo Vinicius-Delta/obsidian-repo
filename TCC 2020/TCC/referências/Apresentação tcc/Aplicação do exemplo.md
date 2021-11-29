@@ -89,10 +89,18 @@ Inteligência artificial
 
 **TECNOLOGIA**
 
+
 **WORKSHOP**
+Investigação
+Insegurança
+Ferramenta  
+O Coletivo
 
 **PRODUTO**
 
+**Safo**, _software_  cuja principal finalidade é evitar agressões direcionadas a jovens injustamente visados pelo algoritmo. O _software_ realiza uma conexão entre os aparelhos móveis do usuário, como smartphones e _wearables_, e o sistema de inteligência artificial S.A.D.I.C.O., da CORPS. Desta forma os usuários podem manipular o funcionamento do sistema, ainda que de forma limitada, para se proteger.		       
+
+A funcionalidade _Cooker,_ na qual os dispositivos emitem uma sobrecarga de dados para ser processado pelas câmeras de identificação facial próximas, isto resulta provoca um "cozimento" do sistema, tornando as câmeras temporariamente inúteis.
 
 
 ----------
