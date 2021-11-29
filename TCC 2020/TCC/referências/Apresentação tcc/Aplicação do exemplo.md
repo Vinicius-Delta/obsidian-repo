@@ -29,9 +29,8 @@ Na terceira etapa foram construidas histórias sobre o futuro construído.
 ### Vídeo da timeline (1 min)
 
 
-### Produto A - Propaganda do governo adulterada no ambiente virtual (metaverso) (2 min)
+### Produto A - Propaganda do governo adulterada no ambiente virtual (metaverso) (1-2 min)
 
-        
 **TENDÊNCIA**
 o relatório “Brasil 2035: cenários para o desenvolvimento” (2017) indica que o acesso da TICs, associado ao aumento do nível de escolaridade, contribuirá para o empoderamento dos indivíduos e da sociedade, resultando no crescimento das demandas sociais (MARCIAL et al., 2017, p. 108).
 
@@ -43,5 +42,41 @@ O Coletivo
 Raiva
 Favela
 Realidade Aumentada
+
+**PRODUTO**
+Foi concebida a ideia de uma propaganda do governo (Figura 11), veiculada para enaltecer as novas políticas de segurança pública e a CORPS mas que, no mundo digital, teve sua mensagem distorcida, chamando atenção para as mortes ainda provocadas pelos agentes da polícia em 2036 (Figura 12).
+
+
+### Produto B - Pulseira para controle das mudanças de humor dos indivíduos “violentos” (1-2 min)
+
+**TENDÊNCIA**
+
+**TECNOLOGIA**
+
+**WORKSHOP**
+
+**PRODUTO**
+
+
+
+### Produto C - (1-2 min)
+
+**TENDÊNCIA**
+
+**TECNOLOGIA**
+
+**WORKSHOP**
+
+**PRODUTO**
+
+
+
+### Produto D - (1-2 min)
+
+**TENDÊNCIA**
+
+**TECNOLOGIA**
+
+**WORKSHOP**
 
 **PRODUTO**
