@@ -2,15 +2,19 @@
   "recentFiles": [
     {
       "basename": "Sem título",
+      "path": "TCC/referências/Apresentação tcc/Sem título.md"
+    },
+    {
+      "basename": "Sem título",
       "path": "! INBOX/Sem título.md"
     },
     {
       "basename": "Resump",
-      "path": "! INBOX/Resump.md"
+      "path": "! INBOX/resumo/Resump.md"
     },
     {
       "basename": "Resumo",
-      "path": "! INBOX/Resumo.md"
+      "path": "! INBOX/resumo/Resumo.md"
     },
     {
       "basename": "TCC em bloco",
@@ -195,10 +199,6 @@
     {
       "basename": "JESUS, 2016",
       "path": "TCC/referências/design especulativo & critico/JESUS, 2016.md"
-    },
-    {
-      "basename": "DUNNE; RABY, 2013",
-      "path": "TCC/referências/design especulativo & critico/DUNNE; RABY, 2013.md"
     }
   ],
   "omittedPaths": [],

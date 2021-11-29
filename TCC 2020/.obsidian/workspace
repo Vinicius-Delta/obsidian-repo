@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Sem título.md",
+            "file": "TCC/referências/Apresentação tcc/Sem título.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Sem título.md"
+                "file": "TCC/referências/Apresentação tcc/Sem título.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Sem título.md",
+                "file": "TCC/referências/Apresentação tcc/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -151,15 +151,15 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "TCC/referências/Apresentação tcc/Sem título.md",
     "! INBOX/Sem título.md",
-    "! INBOX/Resump.md",
-    "! INBOX/Resumo.md",
+    "! INBOX/resumo/Resump.md",
+    "! INBOX/resumo/Resumo.md",
     "TCC/referências/estrutura do tcc (informal)/TCC em bloco.md",
     "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
     "TCC/referências/estrutura do tcc (informal)/Estrutura dos capítulos do TCC.md",
     "TCC/_TCC 2+/6 - Considerações finais.md",
     "TCC/referências/estrutura do tcc (informal)/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
-    "TCC/z_trash/Casos notáveis - rascunho.md",
-    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md"
+    "TCC/z_trash/Casos notáveis - rascunho.md"
   ]
 }
