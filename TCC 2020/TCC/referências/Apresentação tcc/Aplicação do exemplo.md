@@ -53,7 +53,7 @@ Foi concebida a ideia de uma propaganda do governo (Figura 11), veiculada para e
 ### Produto B - Pulseira para controle das mudanças de humor dos indivíduos “violentos” (2 min)
 
 **TENDÊNCIA**
-Uso de dados biométricos (como reconhecimento facial), para alimentar inteeligências artificiais voltadas a segurança pública.
+Coleta e uso de dados biométricos (como reconhecimento facial), para alimentar inteeligências artificiais voltadas a segurança pública.             (GOVERNO DO ESTADO DE SÃO PAULO, 2020)
 
 **TECNOLOGIA**
 Wearables
@@ -87,9 +87,10 @@ Conceito de wearable que permite às polícias monitorar alterações de humor b
 Reconheciemento facial
 Inteligência artificial
 
-**TECNOLOGIA**]
-            Reconhecimento Facial como uma tecnologia utilizada por governos para identificar  e monitorar potenciais alvos opositores ao governo ou para perseguir minorias.
-            Esse problema ocorre em uma maior frequência com pessoas racializadas, minorias étnicas, mulheres e jovens, aumentando os riscos dessas pessoas serem condenadas de forma injusta.
+**TECNOLOGIA**
+Reconhecimento Facial como uma tecnologia utilizada por governos para identificar  e monitorar potenciais alvos opositores ao governo ou para perseguir minorias. (TUTANOTA, 2020)
+
+Esse problema ocorre em uma maior frequência com pessoas racializadas, minorias étnicas, mulheres e jovens, aumentando os riscos dessas pessoas serem condenadas de forma injusta.             . (HARWELL, 2019)
 
 **WORKSHOP**
 Investigação
@@ -98,7 +99,6 @@ Ferramenta
 O Coletivo
 
 **PRODUTO**
-
 **Safo**, _software_  cuja principal finalidade é evitar agressões direcionadas a jovens injustamente visados pelo algoritmo. O _software_ realiza uma conexão entre os aparelhos móveis do usuário, como smartphones e _wearables_, e o sistema de inteligência artificial S.A.D.I.C.O., da CORPS. Desta forma os usuários podem manipular o funcionamento do sistema, ainda que de forma limitada, para se proteger.		       
 
 A funcionalidade _Cooker,_ na qual os dispositivos emitem uma sobrecarga de dados para ser processado pelas câmeras de identificação facial próximas, isto resulta provoca um "cozimento" do sistema, tornando as câmeras temporariamente inúteis.
