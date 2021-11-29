@@ -29,3 +29,47 @@ Observe que aqui não estão sendo apresentados os dados secos da pesquisa, mas 
 
 Não apresente a informação bruta, como você achou. Apresente a informação processada, depois de uma análise.
 
+
+-----
+
+Quando terminar, deixe os avaliadores falarem o que eles quiserem. Escute calado e apenas anote os pontos importantes para usar na sua vez de falar.
+
+13:55
+
+Se houver perguntas, apresente a resposta que você puder embasar no que está escrito
+
+14:01
+
+no trabalho. Nunca apresente uma explicação que não esteja no trabalho.
+
+14:06
+
+E se você não souber responder exatamente à pergunta que foi feita, apresente uma resposta
+
+14:14
+
+possível, sobre algum assunto parecido ou relacionado à pergunta. Só não fiquem calado!
+
+14:21
+
+E aproveite as perguntas para falar bastante sobre a sua pesquisa e usar o máximo do tempo
+
+14:29
+
+disponível, que normalmente é curto. Assim, você pode evitar que os avaliadores
+
+14:35
+
+tenham tempo de fazer novas perguntas. E nunca, nunca mesmo, entre em discussão
+
+14:42
+
+com os avaliadores, porque você sempre vai perder!
+
+14:46
+
+Se houver críticas e você tiver uma boa explicação, apresente só uma vez e não
+
+14:54
+
+fique rebatendo o que os avaliadores disserem.
