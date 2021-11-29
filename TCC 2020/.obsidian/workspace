@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "! INBOX/Resumo.md",
+            "file": "! INBOX/Sem título.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gomes",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "! INBOX/Resumo.md"
+                "file": "! INBOX/Sem título.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! INBOX/Resumo.md",
+                "file": "! INBOX/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -152,15 +151,15 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
-    "! INBOX/Resumo.md",
+    "! INBOX/Sem título.md",
     "! INBOX/Resump.md",
+    "! INBOX/Resumo.md",
     "TCC/referências/estrutura do tcc (informal)/TCC em bloco.md",
     "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
     "TCC/referências/estrutura do tcc (informal)/Estrutura dos capítulos do TCC.md",
     "TCC/_TCC 2+/6 - Considerações finais.md",
     "TCC/referências/estrutura do tcc (informal)/COMO FAZER A DELIMITAÇÃO DO TEMA (SEM ESFORÇO).md",
     "TCC/z_trash/Casos notáveis - rascunho.md",
-    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md",
-    "daily/2021-07-11.md"
+    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/Capítulo 1. Introdução.md"
   ]
 }
