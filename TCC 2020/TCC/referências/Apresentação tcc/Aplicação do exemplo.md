@@ -52,11 +52,22 @@ Foi concebida a ideia de uma propaganda do governo (Figura 11), veiculada para e
 **TENDÊNCIA**
 
 **TECNOLOGIA**
+Wearables
 
 **WORKSHOP**
+Jovem Negro 
+Algema  
+Violência  
+Raiva
 
 **PRODUTO**
+Conceito de wearable que permite às polícias monitorar alterações de humor bruscas dos indivíduos considerados perigosos pelo algoritmo. Tal artefato implicaria em mais uma camada de preconceito na sociedade, tendo em vista que ele exporia diante de todos aqueles que a inteligência artificial da polícia considera como potenciais criminosos.
 
+  
+
+---
+
+[[1]](#_ftnref1) Dispositivo tecnológico que pode ser vestido pelo corpo humano, a exemplo dos _smartwatches_
 
 
 ### Produto C - (1-2 min)
