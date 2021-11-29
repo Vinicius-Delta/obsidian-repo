@@ -1,4 +1,4 @@
-# PARTE 1 (3-4min)
+# PARTE 1 - Bases do projeto (3-4min)
 
 Bom dia, prezados avaliadores! Bom dia, caros colegas que prestigiam a nossa apresentação. Meu nome é Vinícius Santos, e estou aqui com Rafael Bacellar e o nosso orientador é o professor Dr. Djalma Fiuza. O tema do nosso trabalho é sobre 
 a Violência policial no Brasil, utilizando como metodologia de análise o Design Crítico Especulativo.
@@ -21,10 +21,10 @@ Na terceira etapa foram construidas histórias sobre o futuro construído.
 
 ----------
 
-# PARTE 2 (12 min)
+# PARTE 2 - Produtos desenvolvidos (12 min)
 
 ### Apresentar o resumo do cenário BRASIL 2036 (1-2 min)
-
+A partir das tendências coletadas, foi elaborado o conto especulativo “BRASIL 2036”, que **descreve um futuro marcado pela incorporação de novas tecnologias pelos órgãos de segurança pública, sem as devidas regulamentações**. Neste cenário, os instrumentos que deveriam proporcionar maior sensação de segurança tiveram o efeito reverso em grupos marginalizados, ao serem utilizados por agentes que reproduzem antigos preconceitos baseados em raça, gênero e sexualidade. Apesar das perseguições, grupos de ativistas periféricos criaram aplicativos para denunciar e evitar a repressão de forças policiais. [pode falar mais]
 
 ### Vídeo da timeline (1 min)
 
@@ -98,6 +98,7 @@ Esse problema ocorre em uma maior frequência com pessoas racializadas, minorias
 **TECNOLOGIA**
 Reconheciemento facial
 Inteligência artificial
+Telas de led transparente
 
 **WORKSHOP**
 Investigação
