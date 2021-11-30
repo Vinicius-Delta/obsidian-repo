@@ -33,7 +33,9 @@ A partir das tendências coletadas, foi elaborado o conto especulativo “BRASIL
 1. Criação de palavras chave, por *brainstorm*
 2. Seleção e organização das palavras chaves, utilizando o conceito de arco narrativo            (LUUPTON ,2020)
 3. Criação visual
-4. Aplicação, via 
+4. Aplicação remotamente, via chamada e compartilhamento de tela
+
+
 
 ### Produto A - Propaganda do governo adulterada no ambiente virtual (metaverso) (2 min)
 
