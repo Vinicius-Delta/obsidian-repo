@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2+/1 - Introdução.md",
+            "file": "TCC/_TCC 2+/2 - Sobre violência policial.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matáveis",
+                "query": "direitos hum",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2+/1 - Introdução.md"
+                "file": "TCC/_TCC 2+/2 - Sobre violência policial.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2+/1 - Introdução.md",
+                "file": "TCC/_TCC 2+/2 - Sobre violência policial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -152,6 +152,7 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "TCC/_TCC 2+/2 - Sobre violência policial.md",
     "TCC/_TCC 2+/1 - Introdução.md",
     "templates/Template - Referência.md",
     "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
@@ -160,7 +161,6 @@
     "! INBOX/resumo/Resumo.md",
     "TCC/referências/Apresentação tcc/André Fontenelle.md",
     "TCC/referências/Apresentação tcc/Exemplo de fala.md",
-    "! INBOX/Sem título.md",
-    "TCC/referências/estrutura do tcc (informal)/TCC em bloco.md"
+    "! INBOX/Sem título.md"
   ]
 }
