@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
+            "file": "TCC/referências/estrutura do tcc (informal)/Estrutura dos capítulos do TCC.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "direitos hum",
+                "query": "objetivo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md"
+                "file": "TCC/referências/estrutura do tcc (informal)/Estrutura dos capítulos do TCC.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
+                "file": "TCC/referências/estrutura do tcc (informal)/Estrutura dos capítulos do TCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -152,15 +151,15 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "TCC/referências/estrutura do tcc (informal)/Estrutura dos capítulos do TCC.md",
+    "TCC/_TCC 2/Estrutura dos capítulos.md",
+    "TCC/_TCC 2/rascunhos/rascunhos do capítulo 1/_Esqueleto do TCC.md",
+    "daily/2021-06-30.md",
     "TCC/_TCC 1/TCC 1 - Versão Final.md",
     "TCC/referências/Brasil 2035/MARCIAL et al., 2017.md",
     "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
     "TCC/_TCC 2+/2 - Sobre violência policial.md",
     "TCC/_TCC 2+/1 - Introdução.md",
-    "templates/Template - Referência.md",
-    "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
-    "TCC/referências/Apresentação tcc/Aplicação do exemplo.md",
-    "! INBOX/resumo/Resump.md",
-    "! INBOX/resumo/Resumo.md"
+    "templates/Template - Referência.md"
   ]
 }
