@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Template - Referência.md",
+            "file": "TCC/_TCC 2+/1 - Introdução.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resumo",
+                "query": "matáveis",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Template - Referência.md"
+                "file": "TCC/_TCC 2+/1 - Introdução.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Template - Referência.md",
+                "file": "TCC/_TCC 2+/1 - Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -152,6 +152,7 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "TCC/_TCC 2+/1 - Introdução.md",
     "templates/Template - Referência.md",
     "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
     "TCC/referências/Apresentação tcc/Aplicação do exemplo.md",
@@ -160,7 +161,6 @@
     "TCC/referências/Apresentação tcc/André Fontenelle.md",
     "TCC/referências/Apresentação tcc/Exemplo de fala.md",
     "! INBOX/Sem título.md",
-    "TCC/referências/estrutura do tcc (informal)/TCC em bloco.md",
-    "TCC/referências/estrutura do tcc (informal)/Estrutura dos capítulos do TCC.md"
+    "TCC/referências/estrutura do tcc (informal)/TCC em bloco.md"
   ]
 }
