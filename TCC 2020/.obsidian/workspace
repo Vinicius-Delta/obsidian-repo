@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TCC/_TCC 2+/2 - Sobre violência policial.md",
+            "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
             "mode": "source"
           }
         }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC/_TCC 2+/2 - Sobre violência policial.md"
+                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC/_TCC 2+/2 - Sobre violência policial.md",
+                "file": "TCC/_TCC 1/TCC 1 - Versão Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime",
@@ -152,15 +152,15 @@
   },
   "active": "3dee2d00f44aa3f9",
   "lastOpenFiles": [
+    "TCC/_TCC 1/TCC 1 - Versão Final.md",
+    "TCC/referências/Brasil 2035/MARCIAL et al., 2017.md",
+    "TCC/referências/violência policial/KUCINSKI, Bernardo et al, 2015.md",
     "TCC/_TCC 2+/2 - Sobre violência policial.md",
     "TCC/_TCC 2+/1 - Introdução.md",
     "templates/Template - Referência.md",
     "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md",
     "TCC/referências/Apresentação tcc/Aplicação do exemplo.md",
     "! INBOX/resumo/Resump.md",
-    "! INBOX/resumo/Resumo.md",
-    "TCC/referências/Apresentação tcc/André Fontenelle.md",
-    "TCC/referências/Apresentação tcc/Exemplo de fala.md",
-    "! INBOX/Sem título.md"
+    "! INBOX/resumo/Resumo.md"
   ]
 }
