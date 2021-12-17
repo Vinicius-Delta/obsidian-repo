@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "André Fontenelle",
-      "path": "TCC/referências/Apresentação tcc/André Fontenelle.md"
+      "basename": "Template - Referência",
+      "path": "templates/Template - Referência.md"
+    },
+    {
+      "basename": "SILVA et al., 2020",
+      "path": "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md"
     },
     {
       "basename": "Aplicação do exemplo",
       "path": "TCC/referências/Apresentação tcc/Aplicação do exemplo.md"
-    },
-    {
-      "basename": "Exemplo de fala",
-      "path": "TCC/referências/Apresentação tcc/Exemplo de fala.md"
-    },
-    {
-      "basename": "Sem título",
-      "path": "! INBOX/Sem título.md"
     },
     {
       "basename": "Resump",
@@ -25,12 +21,20 @@
       "path": "! INBOX/resumo/Resumo.md"
     },
     {
-      "basename": "TCC em bloco",
-      "path": "TCC/referências/estrutura do tcc (informal)/TCC em bloco.md"
+      "basename": "André Fontenelle",
+      "path": "TCC/referências/Apresentação tcc/André Fontenelle.md"
     },
     {
-      "basename": "SILVA et al., 2020",
-      "path": "TCC/referências/estrutura do tcc (formal)/SILVA et al., 2020.md"
+      "basename": "Exemplo de fala",
+      "path": "TCC/referências/Apresentação tcc/Exemplo de fala.md"
+    },
+    {
+      "basename": "Sem título",
+      "path": "! INBOX/Sem título.md"
+    },
+    {
+      "basename": "TCC em bloco",
+      "path": "TCC/referências/estrutura do tcc (informal)/TCC em bloco.md"
     },
     {
       "basename": "Estrutura dos capítulos do TCC",
@@ -195,10 +199,6 @@
     {
       "basename": "MARCIAL et al., 2017",
       "path": "TCC/referências/Brasil 2035/MARCIAL et al., 2017.md"
-    },
-    {
-      "basename": "LIMA; CURADO, 2017",
-      "path": "TCC/referências/Brasil 2035/LIMA; CURADO, 2017.md"
     }
   ],
   "omittedPaths": [],
